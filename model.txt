@@ -1,0 +1,157 @@
+/*1. Sa se realizeze un trigger care sa monitorizeze tabela ITEM, 
+respectiv cimpul QTY (in cazul actualizarii) 
+astfel incit orice operatie DML care se efectueaza asupra unui ordin de plata (ORDID) si a 
+unei comenzi (ITEMID), sa modifice cimpul TOTAL din ORD si apoi sa modifice corespunzator 
+comisionul agentului de vinzari aferent astfel incit sa fie 5% din suma platilor clientilor afiliati.
+
+Indicatii:
+Cheia primara in ITEM este (ORDID,ITEMID) !!
+Suma platilor este SUM(ORD.TOTAL)  pentru toti clientii (CUSTID) unui agent de vinzari (REPID).
+Legaturile sunt: 
+EMP.EMPNO<-->CUSTOMER.REPID 
+CUSTOMER.CUSTID<--->ORD.CUSTID
+ORD.ORDID<--->ITEM.ORDID
+
+2. Sa se realizeze un pachet de proceduri si, eventual, functii de testare a trigger-ui anterior, astfel incit sa realizeze trei operatii:
+a). afiseaza situatia initiala 
+b). face operatia DML care activeaza trigger-ul
+c). afiseaza situatia finala 
+In final, veti da Rollback pentru revenire la starea initiala a tabelului (-lor) afectat(e).
+Obs. : la punctele a) si c) veti afisa cimpurile SEMNIFICATIVE (eventual si mesaje titlu corespunzatoare )!!!*/
+
+
+create or replace procedure modifica_qty
+  (v_ordid 	in item.ordid%type,
+  v_qty	in item.qty%type,
+  v_actualprice	in item.actualprice%type)
+is
+  v_repid customer.repid%type;
+  v_new_itemtot	item.itemtot%type;
+begin
+  v_new_itemtot:=v_qty*v_actualprice;
+  update ord
+  set total=total+v_new_itemtot
+  where ordid=v_ordid;
+  
+  select distinct repid
+  into v_repid
+  from customer c join ord o on c.custid=o.custid
+  where repid in 
+    (select repid
+    from customer
+    where custid in
+      (select custid 
+      from ord
+      where ordid=v_ordid));
+      
+    update emp
+    set comm=comm+v_new_itemtot*.05
+    where empno=v_repid;
+end;
+/
+create or replace trigger trg_ver_qty
+after insert or delete or update of qty on item
+for each row
+begin
+  if updating then
+    modifica_qty(:new.ordid,:new.qty-:old.qty,:new.actualprice);
+  elsif inserting then
+    modifica_qty(:new.ordid,:new.qty,:new.actualprice);
+  elsif deleting then
+    modifica_qty(:old.ordid,-:old.qty,:old.actualprice);
+  end if;
+end;
+/
+--pachetul
+create or replace package pack_afiseaza_qty
+is
+procedure afiseaza_item
+  (v_ordid 	in item.ordid%type,
+  v_itemid	in item.itemid%type);
+
+procedure afiseaza_ordin
+  (v_ordid in ord.ordid%type);
+
+procedure afiseaza_agent
+  (v_ordid	in ord.ordid%type);
+end;
+/
+create or replace package body pack_afiseaza_qty
+is
+
+procedure afiseaza_item
+  (v_ordid 	in item.ordid%type,
+  v_itemid	in item.itemid%type)
+is
+  v_qty item.qty%type;
+  v_actualprice	item.actualprice%type;
+  v_itemtot	item.itemtot%type;
+begin
+  select qty,actualprice,itemtot
+  into v_qty,v_actualprice,v_itemtot
+  from item
+  where ordid=v_ordid and itemid=v_itemid;
+  dbms_output.put_line('Cantitate '||  v_qty ||' Pret ' || v_actualprice || ' Total ' ||v_itemtot);
+end afiseaza_item;
+
+procedure afiseaza_ordin
+  (v_ordid in ord.ordid%type) 
+is
+  v_total	ord.total%type;
+begin
+  select total 
+  into v_total
+  from ord
+  where ordid=v_ordid;
+  dbms_output.put_line('Ordinul nr. ' || v_ordid || ' cu totalul ' || v_total);
+end afiseaza_ordin;
+
+procedure afiseaza_agent
+  (v_ordid	in ord.ordid%type)
+is
+  v_repid	emp.empno%type;
+  v_total ord.total%type;
+  v_comm emp.comm%type;
+begin
+  --selectul determina doar agentii care au realizat tranzactii !!!
+  select repid,sum(total),comm
+  into v_repid,v_total,v_comm
+  from customer c join ord o on c.custid=o.custid join emp e on e.empno=c.repid
+  where repid in 
+    (select repid 
+    from customer
+    where custid in 
+      (select custid
+      from ord
+      where ordid=v_ordid))
+  group by repid ,comm;
+  dbms_output.put_line('Agentul nr. '|| v_repid || ' total vinzari ' || v_total || ' cu comision ' || v_comm);
+end afiseaza_agent;
+
+end pack_afiseaza_qty;
+/
+--apelul
+declare
+  v_new_qty	item.qty%type := 500;
+begin
+  dbms_output.put_line('Initial pentru ordinul nr. 601, comanda 1');
+  pack_afiseaza_qty.afiseaza_item(601,1);
+  pack_afiseaza_qty.afiseaza_ordin(601);
+  pack_afiseaza_qty.afiseaza_agent(601);
+  
+  update item
+  set qty=v_new_qty,itemtot=v_new_qty*actualprice
+  where ordid=601 and itemid=1; 
+  dbms_output.put_line('Final pentru ordinul nr. 601, comanda 1');
+  pack_afiseaza_qty.afiseaza_item(601,1);
+  pack_afiseaza_qty.afiseaza_ordin(601);
+  pack_afiseaza_qty.afiseaza_agent(601);
+
+end;
+/
+--verificare rollback
+select * from item where ordid=601 order by ordid;
+/
+select * from ord where ordid=601 order by ordid;
+/
+rollback;
