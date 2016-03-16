@@ -3,11 +3,15 @@ import sys
 import mmh3
 import json
 
+"""
+	returns only html files from given directory
+"""
 def getFiles(path):
 	files = []
 	path = os.path.abspath(path)
 	if os.path.isfile(path): 
-		files.append(path)
+		if os.path.splitext(path)[1] == '.html':
+			files.append(path)
 	else:
 		content = os.listdir(path)
 		for f in content:
@@ -40,7 +44,7 @@ def main(argv):
 	"""
 	for f in files:
 		print(f)
-	# ""
+	# """
 	for i,f in indexFiles(files).items():
 		print(str(i) + ' : ' + f)
 	# """
