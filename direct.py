@@ -1,7 +1,7 @@
+import json
+import mmh3
 import os
 import sys
-import mmh3
-import json
 
 # import nltk
 # from nltk.stem.wordnet import WordNetLemmatizer
@@ -114,8 +114,8 @@ def lemmatizeFile(file):
         else:
             break
     """
-	with open(f.name + '.wordsHashMap', 'w') as outfile:
-		json.dump(wordsHashMap, outfile) # """
+    with open(f.name + '.wordsHashMap', 'w') as outfile:
+        json.dump(wordsHashMap, outfile) # """
     return wordsHashMap
 
 
@@ -142,13 +142,12 @@ def main(argv):
         for (key, value) in folderHashMap.items():
             lemmatized = lemmatizeFile(value)
             filesWordsMap[key], indexMap[key] = lemmatized, lemmatized.keys()
-            for wordKey in  lemmatized.keys():
-            	if wordKey not in indexMap2:
-            		 indexMap2[wordKey] = [[key,lemmatized[wordKey][1]]]
-            	else:
-            		indexMap2[wordKey] += [[key,lemmatized[wordKey][1]]]
-
-         		# TO DO : sort indexMap2[wordKey] by number of occurances in files !  	
+            for wordKey in lemmatized.keys():
+                if wordKey not in indexMap2:
+                    indexMap2[wordKey] = [[key, lemmatized[wordKey][1]]]
+                else:
+                    indexMap2[wordKey] += [[key, lemmatized[wordKey][1]]]
+            # TODO : sort indexMap2[wordKey] by number of word occurrences per file!
 
         print(os.path.basename(thing) + '.filesWordsMap')
         with open('.\\output\\' + os.path.basename(thing) + '.filesWordsMap', 'w') as outfile:
@@ -161,7 +160,7 @@ def main(argv):
         print(os.path.basename(thing) + '.indexMap2')
         with open('.\\output\\' + os.path.basename(thing) + '.indexMap2', 'w') as outfile:
             json.dump(indexMap2, outfile)
-		"""
+        """
         for (key, value) in folderHashMap.items():
             print(os.path.basename(value) + '.wordsMap')
             with open('.\\output\\' + os.path.basename(value) + '.wordsMap', 'w') as outfile:
@@ -170,9 +169,9 @@ def main(argv):
         for f in files:
             print(f)
         # ""
-		for (i, f) in hashFiles(files).items():
-			print(str(i) + ' : ' + f)
-		# """
+        for (i, f) in hashFiles(files).items():
+            print(str(i) + ' : ' + f)
+        # """
 
 
 if __name__ == "__main__":
