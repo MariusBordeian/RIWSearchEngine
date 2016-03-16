@@ -2,8 +2,8 @@ import os
 import sys
 import mmh3
 import json
-import nltk
-from nltk.stem.wordnet import WordNetLemmatizer
+# import nltk
+# from nltk.stem.wordnet import WordNetLemmatizer
 
 processedWords = {}
 
@@ -50,7 +50,7 @@ def getFiles(path):
 	files = []
 	path = os.path.abspath(path)
 	if os.path.isfile(path): 
-		if os.path.splitext(path)[1] == '.html':
+		if os.path.splitext(path)[1] == '.txt':
 			files.append(path)
 	else:
 		content = os.listdir(path)
@@ -70,7 +70,7 @@ def hashFiles(files):
 
 def lemmatizeFile(file):
 	f = open(file, 'r')
-	wnl = WordNetLemmatizer()
+	# wnl = WordNetLemmatizer()
 	wordsHashMap = {}
 	words = {}
 	word = ""
@@ -93,10 +93,10 @@ def lemmatizeFile(file):
 							wordsHashMap[mmh3.hash128(word)] = [word, words[word]]
 						else:
 							if word not in stopWords:
-								tag = nltk.pos_tag([word])
-								if tag[0][1] in tags:
-									t = tags[tag[0][1]]
-									canonical = wnl.lemmatize(word, t)
+								# tag = nltk.pos_tag([word])
+								if 1: # tag[0][1] in tags:
+									# t = tags[tag[0][1]]
+									canonical = word # wnl.lemmatize(word, t)
 									if canonical in words:
 										words[canonical] += 1
 									else:
@@ -120,39 +120,46 @@ def lemmatizeFile(file):
 
 def main(argv):
 	input = [os.path.abspath(os.curdir)]
+	files = []
 	folderHashMap = {}
 	filesWordsMap = {}
-	indexMap = {}
+	indexMap = {} # direct index ???
 	if len(argv) > 0:
 		input = argv
 
 	for thing in input:
-		folderHashMap = hashFiles(getFiles(thing))
+		if not os.path.exists(thing + '\\output'):
+			os.mkdir(thing + '\\output')
 
-		for (key, value) in folderHashMap.items():
-			filesWordsMap[key] = lemmatizeFile(value)
-
+		files = getFiles(thing)
+		folderHashMap = hashFiles(files)
 		print(os.path.basename(thing) + '.folderHashMap')
-		with open(os.path.basename(thing)+'.folderHashMap', 'w') as outfile:
+		with open('.\\output\\' + os.path.basename(thing)+'.folderHashMap', 'w') as outfile:
 			json.dump(folderHashMap, outfile)
-
+		# """
+		for (key, value) in folderHashMap.items():
+			lemmatized = lemmatizeFile(value)
+			filesWordsMap[key], indexMap[key] = lemmatized, lemmatized.keys()
+		
 		print(os.path.basename(thing) + '.filesWordsMap')
-		with open(os.path.basename(thing)+'.filesWordsMap', 'w') as outfile:
+		with open('.\\output\\' + os.path.basename(thing)+'.filesWordsMap', 'w') as outfile:
 			json.dump(filesWordsMap, outfile)
+
+		print(os.path.basename(thing) + '.indexMap')
+		with open('.\\output\\' + os.path.basename(thing)+'.indexMap', 'w') as outfile:
+			json.dump(indexMap, outfile)
 
 		for (key, value) in folderHashMap.items():
 			print(os.path.basename(value) + '.wordsMap')
-			with open(os.path.basename(value)+'.wordsMap', 'w') as outfile:
+			with open('.\\output\\' + os.path.basename(value)+'.wordsMap', 'w') as outfile:
 				json.dump(filesWordsMap[key], outfile)
-
-
-	"""
-	for f in files:
-		print(f)
-	# ""
-	for i,f in hashFiles(files).items():
-		print(str(i) + ' : ' + f)
-	# """
+		# """
+		for f in files:
+			print(f)
+		"""
+		for (i, f) in hashFiles(files).items():
+			print(str(i) + ' : ' + f)
+		# """
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
