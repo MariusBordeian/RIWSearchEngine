@@ -141,22 +141,23 @@ def main(argv):
         # """
         for (key, value) in folderHashMap.items():
             lemmatized = lemmatizeFile(value)
-            filesWordsMap[key], indexMap[key] = lemmatized, lemmatized.keys()
+            filesWordsMap[key] = lemmatized
+            # indexMap[key] = list(lemmatized.keys())
             for wordKey in lemmatized.keys():
                 if wordKey not in indexMap2:
                     indexMap2[wordKey] = [[key, lemmatized[wordKey][1]]]
                 else:
                     indexMap2[wordKey] += [[key, lemmatized[wordKey][1]]]
-            # TODO : sort indexMap2[wordKey] by number of word occurrences per file!
+                    indexMap2[wordKey].sort(key=lambda x: x[1], reverse=True)
 
         print(os.path.basename(thing) + '.filesWordsMap')
         with open('.\\output\\' + os.path.basename(thing) + '.filesWordsMap', 'w') as outfile:
             json.dump(filesWordsMap, outfile)
-
+        """
         print(os.path.basename(thing) + '.indexMap')
         with open('.\\output\\' + os.path.basename(thing) + '.indexMap', 'w') as outfile:
             json.dump(indexMap, outfile)
-
+        # """
         print(os.path.basename(thing) + '.indexMap2')
         with open('.\\output\\' + os.path.basename(thing) + '.indexMap2', 'w') as outfile:
             json.dump(indexMap2, outfile)
@@ -171,7 +172,7 @@ def main(argv):
         # ""
         for (i, f) in hashFiles(files).items():
             print(str(i) + ' : ' + f)
-        # """
+            # """
 
 
 if __name__ == "__main__":
