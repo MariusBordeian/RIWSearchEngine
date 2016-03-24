@@ -119,9 +119,8 @@ def lemmatizeFile(file):
 def main(argv):
     input = [os.curdir]
     files = []
-    wordsHashMap = {}
     folderHashMap = {}
-    indexMap = {} 
+    wordsHashMap = {}
     indexDirect = {}
     indexReversed = {}
     if len(argv) > 0:
