@@ -49,8 +49,20 @@ def main(argv):
 						i+=2
 				action = input[1]
 				# array of arrays like [[f1, nrOfOccurancies1], [f2, nrOfOccurancies2], ...]
-				files_1 = [item[0] for item in indexReversed[str(mmh3.hash128(input[0]))]]  # str??? WTF???
-				files_2 = [item[0] for item in indexReversed[str(mmh3.hash128(input[2]))]]
+				wordKey1=str(mmh3.hash128(input[0]))
+				wordKey2=str(mmh3.hash128(input[2]))
+				if wordKey1 in indexReversed:
+					files_1 = [item[0] for item in indexReversed[wordKey1]]  
+				else:
+					files_1=[]
+					action="or"
+
+				if wordKey2 in indexReversed:	
+					files_2 = [item[0] for item in indexReversed[wordKey2]]
+				else:
+					files_2=[]
+					action="or"
+
 				if action == "and":
 					result = [item for item in files_1 if item in files_2]
 				elif action == "or":
@@ -67,12 +79,18 @@ def main(argv):
 
 				size = len(input)
 				if size > 3:
-					for i in range(3, size-1):
+					for i in range(3, size-1): 
 						if input[i].lower() in actions and input[i+1] not in actions:
 							action = input[i]
 							# array of arrays like [[f1, nrOfOccurancies1], [f2, nrOfOccurancies2], ...]
 							files_1 = result
-							files_2 = [item[0] for item in indexReversed[str(mmh3.hash128(input[i+1]))]]
+							wordKey2=str(mmh3.hash128(input[i+1]))
+							if wordKey2 in indexReversed:
+								files_2 = [item[0] for item in indexReversed[wordKey2]]
+							else:
+								files_2=[]
+								action="or"
+
 							if action == "and":
 								result = [item for item in files_1 if item in files_2]
 							elif action == "or":
