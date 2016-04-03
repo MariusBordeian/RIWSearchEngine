@@ -22,11 +22,11 @@ def main(argv):
 	if len(argv) < 1:
 		argv = ['www.google.com']
 
-	for a in argv:
-		print('\n\n\tDNS Lookup for : ' + a + '\n')
+	for hostName in argv:
+		print('\n\n\tDNS Lookup for : ' + hostName + '\n')
 
-		question = DNSRecord.question(a, "A")
-		request = question.send(dns_server)
+		question = DNSRecord.question(hostName, "A")
+		request = question.send(dest=dns_server, port=53, tcp=False)
 		response = DNSRecord.parse(request)
 
 		print('\tquestion header : ')
