@@ -14,22 +14,29 @@ def main(argv):
 	indexReversed = {}
 	if len(argv) > 0:
 		# print("give something to search for!")
+		argv = [x.lower() for x in argv]
 		input = argv
 
 	for i in range(1, len(input)):
 		if input[i] in actions and input[i-1] in actions:
 			return 1										# jet!
 
-	with open('.\\output\\' + os.path.basename(os.path.abspath(os.curdir)) + '.folderHashMap', 'r') as infile:
+	currentDirName = os.path.basename(os.path.abspath(os.curdir))
+	
+	print('file : ' + '.\\output\\' + currentDirName + '.folderHashMap')
+	with open('.\\output\\' + currentDirName + '.folderHashMap', 'r') as infile:
 		folderHashMap = json.load(infile)
 
-	with open('.\\output\\' + os.path.basename(os.path.abspath(os.curdir)) + '.wordsHashMap', 'r') as infile:
+	print('file : ' + '.\\output\\' + currentDirName + '.wordsHashMap')
+	with open('.\\output\\' + currentDirName + '.wordsHashMap', 'r') as infile:
 		wordsHashMap = json.load(infile)
-	
-	with open('.\\output\\' + os.path.basename(os.path.abspath(os.curdir)) + '.indexDirect', 'r') as infile:
+
+	print('file : ' + '.\\output\\' + currentDirName + '.indexDirect')
+	with open('.\\output\\' + currentDirName + '.indexDirect', 'r') as infile:
 		indexDirect = json.load(infile)
-	
-	with open('.\\output\\' + os.path.basename(os.path.abspath(os.curdir)) + '.indexReversed', 'r') as infile:
+
+	print('file : ' + '.\\output\\' + currentDirName + '.indexReversed\n')
+	with open('.\\output\\' + currentDirName + '.indexReversed', 'r') as infile:
 		indexReversed = json.load(infile)
 
 	if len(folderHashMap) > 0 and len(wordsHashMap) > 0 and len(indexDirect) > 0 and len(indexReversed) > 0 :
@@ -38,7 +45,7 @@ def main(argv):
 			for i in range(0, len(input)):
 				if i == 0 and input[i] in actions:
 					input.pop(0)
-					i=0
+					i = 0
 				else:
 					break
 			if len(input) > 1:
@@ -46,11 +53,11 @@ def main(argv):
 				for i in range(1, len(input)):
 					if input[i] not in actions and input[i-1] not in actions:
 						input.insert(i, "and")
-						i+=2
+						i += 2
 				action = input[1]
 				# array of arrays like [[f1, nrOfOccurancies1], [f2, nrOfOccurancies2], ...]
-				wordKey1=str(mmh3.hash128(input[0]))
-				wordKey2=str(mmh3.hash128(input[2]))
+				wordKey1=str(mmh3.hash64(input[0])[0])
+				wordKey2=str(mmh3.hash64(input[2])[0])
 				if wordKey1 in indexReversed:
 					files_1 = [item[0] for item in indexReversed[wordKey1]]  
 				else:
@@ -84,7 +91,7 @@ def main(argv):
 							action = input[i]
 							# array of arrays like [[f1, nrOfOccurancies1], [f2, nrOfOccurancies2], ...]
 							files_1 = result
-							wordKey2=str(mmh3.hash128(input[i+1]))
+							wordKey2=str(mmh3.hash64(input[i+1])[0])
 							if wordKey2 in indexReversed:
 								files_2 = [item[0] for item in indexReversed[wordKey2]]
 							else:
@@ -106,10 +113,14 @@ def main(argv):
 							print("\n")
 			else:
 				if input[0] not in actions:
-					result = [item[0] for item in indexReversed[str(mmh3.hash128(input[0]))]]
+					key = str(mmh3.hash64(input[0])[0])
+					if key in indexReversed:
+						result = [item[0] for item in indexReversed[key]]
 		else:
 			if input[0] not in actions:
-				result = [item[0] for item in indexReversed[str(mmh3.hash128(input[0]))]]
+				key = str(mmh3.hash64(input[0])[0])
+				if key in indexReversed:
+					result = [item[0] for item in indexReversed[key]]
 	else:
 		print("sorry, have no data to search in.")
 
