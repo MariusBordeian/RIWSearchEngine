@@ -71,6 +71,7 @@ def GET(HOST, path='/', PORT=80):
 	# print('Received', repr(data))
 	r = requests.get('http://' + HOST + path, headers={'user-agent':'CLIENT RIW'})
 	print(r.headers)
+	print(r.content)
 
 
 def main(argv):
@@ -103,11 +104,13 @@ def main(argv):
 		if not response: break
 	s.close()
 	"""
-	print(OPTIONS('www.steuerhaus.com'))
+	# print(GET('www.steuerhaus.com'))
 	# print(OPTIONS('www.rdf.ro'))
 	# print(OPTIONS('www.ace.tuiasi.ro'))
 	# GET('172.217.16.163')
 	# GET('176.223.194.68')
+	# GET('188.178.194.24')
+	GET('en.wikipedia.org','/wiki/Main_Page')
 	# GET('www.rdf.ro')
 
 

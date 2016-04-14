@@ -5,7 +5,7 @@ import mmh3
 
 
 def main(argv):
-	input = ["book", "surprise", "and", "nightmare", "or", "caravans", "not", "pray"]
+	input = ["python", "IT"]
 	actions = ["and", "or", "not"]
 	result = []
 	folderHashMap = {}
