@@ -5,7 +5,7 @@ import mmh3
 
 
 def main(argv):
-	input = ["python", "IT"]
+	input = ["function", "AP_MPMQ_NOT_SUPPORTED"]
 	actions = ["and", "or", "not"]
 	result = []
 	folderHashMap = {}
@@ -13,9 +13,10 @@ def main(argv):
 	indexDirect = {}
 	indexReversed = {}
 	if len(argv) > 0:
-		# print("give something to search for!")
 		argv = [x.lower() for x in argv]
 		input = argv
+	else:
+		print("will run on sample, as no args were passed! : " + str(input) + "\n")
 
 	for i in range(1, len(input)):
 		if input[i] in actions and input[i-1] in actions:
@@ -23,6 +24,10 @@ def main(argv):
 
 	currentDirName = os.path.basename(os.path.abspath(os.curdir))
 	
+	if not os.path.exists('.\\output\\' + currentDirName + '.folderHashMap') or not os.path.exists('.\\output\\' + currentDirName + '.wordsHashMap') or not os.path.exists('.\\output\\' + currentDirName + '.indexReversed'):
+		print('sorry, could not find any database to search into!\ncheck : ' + '>.\\output\\' + currentDirName + '< .folderHashMap, .wordsHashMap and .indexReversed')
+		return 1
+
 	print('file : ' + '.\\output\\' + currentDirName + '.folderHashMap')
 	with open('.\\output\\' + currentDirName + '.folderHashMap', 'r') as infile:
 		folderHashMap = json.load(infile)
@@ -31,15 +36,11 @@ def main(argv):
 	with open('.\\output\\' + currentDirName + '.wordsHashMap', 'r') as infile:
 		wordsHashMap = json.load(infile)
 
-	print('file : ' + '.\\output\\' + currentDirName + '.indexDirect')
-	with open('.\\output\\' + currentDirName + '.indexDirect', 'r') as infile:
-		indexDirect = json.load(infile)
-
 	print('file : ' + '.\\output\\' + currentDirName + '.indexReversed\n')
 	with open('.\\output\\' + currentDirName + '.indexReversed', 'r') as infile:
 		indexReversed = json.load(infile)
 
-	if len(folderHashMap) > 0 and len(wordsHashMap) > 0 and len(indexDirect) > 0 and len(indexReversed) > 0 :
+	if len(folderHashMap) > 0 and len(wordsHashMap) > 0 and len(indexReversed) > 0 :
 		if len(input) > 1:
 			# remove and operations on 0 position
 			for i in range(0, len(input)):
@@ -48,12 +49,14 @@ def main(argv):
 					i = 0
 				else:
 					break
+			
 			if len(input) > 1:
 				# add missing operations
 				for i in range(1, len(input)):
 					if input[i] not in actions and input[i-1] not in actions:
 						input.insert(i, "and")
 						i += 2
+
 				action = input[1]
 				# array of arrays like [[f1, nrOfOccurancies1], [f2, nrOfOccurancies2], ...]
 				wordKey1=str(mmh3.hash64(input[0])[0])
@@ -92,8 +95,13 @@ def main(argv):
 				else:
 					print("what the ???\nsomthing is definitely wrong here!")
 
-				print(input[0] + " " + input[1] + " " + input[2])
-				for r in result:
+				print("files for : " + input[0])
+				for r in files_1:
+					print(folderHashMap[str(r)])
+				print("\n")
+
+				print("files for : " + input[2])
+				for r in files_2:
 					print(folderHashMap[str(r)])
 				print("\n")
 
@@ -133,7 +141,7 @@ def main(argv):
 							else:
 								print("what the ???\nsomthing is definitely wrong here!")
 							
-							print("previous " + input[i] + " " + input[i+1])
+							print("previous result " + input[i] + " " + input[i+1])
 							for r in result:
 								print(folderHashMap[str(r)])
 							print("\n")
