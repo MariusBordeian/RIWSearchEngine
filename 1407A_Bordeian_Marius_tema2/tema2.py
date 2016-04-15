@@ -10,13 +10,14 @@ def main(argv):
 	result = []
 	folderHashMap = {}
 	wordsHashMap = {}
-	indexDirect = {}
 	indexReversed = {}
+
 	if len(argv) > 0:
-		argv = [x.lower() for x in argv]
 		input = argv
 	else:
 		print("will run on sample, as no args were passed! : " + str(input) + "\n")
+
+	input = [x.lower() for x in input]
 
 	for i in range(1, len(input)):
 		if input[i] in actions and input[i-1] in actions:
