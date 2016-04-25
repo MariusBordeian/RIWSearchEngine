@@ -1,0 +1,1142 @@
+Andrew Strominger - Wikipedia, the free encyclopedia
+
+
+
+
+Andrew Strominger
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Andrew E. Strominger
+
+
+
+Andy Strominger at Harvard
+
+
+
+Born
+1955 (age 60–61)
+
+
+Nationality
+American
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+
+
+Alma mater
+Harvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)
+
+
+Known for
+Contributions to:
+String theory
+Quantum gravity
+
+
+Notable awards
+Physics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)
+
+
+Andrew Eben Strominger (born 1955) is an American theoretical physicist who has made groundbreaking contributions to quantum gravity and string theory. These include his seminal work on Calabi-Yau compactification and topology change in string theory, and on the stringy origin of black hole entropy. He is a senior fellow at the Society of Fellows, and is the Gwill E. York Professor of Physics and the Director of the Center for the Fundamental Laws of Nature at Harvard University, where his father Jack L. Strominger is also a professor.
+Strominger completed his undergraduate studies at Harvard in 1977 before attending the University of California, Berkeley for his Masters. He received his PhD from MIT in 1982 under the supervision of Roman Jackiw. Prior to joining Harvard as a professor in 1997, he held a faculty position at the University of California, Santa Barbara. He is the author of over 200 publications.
+
+
+
+Contents
+
+
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+
+2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+
+3 External links
+
+
+
+Research[edit]
+Notable contributions[edit]
+
+a paper with Cumrun Vafa that explains the microscopic origin of the black hole entropy, originally calculated thermodynamically by Stephen Hawking and Jacob Bekenstein, from string theory
+a paper with Philip Candelas, Gary Horowitz, and Edward Witten in the 1980s about the relevance of Calabi-Yau manifolds for obtaining the Standard Model from string theory
+other articles discussing the dS/CFT correspondence and the Kerr/CFT correspondence (variations of the AdS/CFT correspondence)
+S-branes (a variation of D-branes)
+OM-theory (with Shiraz Minwalla and Nathan Seiberg)
+noncommutative solitons (with Shiraz Minwalla and Rajesh Gopakumar)
+massless black holes in the form of wrapped D3-branes that regulate the physics of a conifold and allow topology change
+the SYZ conjecture, an interpretation of mirror symmetry as a special case of T-duality (with Eric Zaslow and Shing-Tung Yau)
+purely cubic action for string field theory
+superstrings with torsion
+a study of the relationship between asymptotic symmetries in asymptotically flat space-times, soft theorems and memory effects
+an analytic calculation of the exact spectrum of gravitational wave emission from extreme mass ratio inspirals (EMRIs) into rapidly rotating black holes (these gravitational waves are expected to be detected with future space-based gravitational wave detectors such as eLISA
+
+Awards[edit]
+In recognition of his accomplishments, Strominger has been awarded numerous prizes, fellowships, and honorary professorships. These include the Klein Medal from the Royal Swedish Academy of Sciences and the 2014 Dirac Medal from the Abdus Salam International Centre for Theoretical Physics, which he received for his contributions to the origin, development, and further understanding of string theory. Furthermore, he received the prestigious Physics Frontiers Breakthrough Prize from the Milner Foundation along with colleague Cumrun Vafa in 2014. This award was bestowed upon the pair in honor of their "numerous deep and groundbreaking contributions to quantum field theory, quantum gravity, string theory and geometry." The Foundation also recognized their "joint statistical derivation of the Bekenstein-Hawking area-entropy relation unified the laws of thermodynamics with the laws of black hole dynamics and revealed the holographic nature of quantum spacetime."
+Teaching[edit]
+Past PhD advisees[edit]
+
+Daniel Shevitz (1990) Two-Dimensions Field Theories in the Context of String Theory
+Young-Chul Park (1993) Aspects of Super Symmetry
+Thomas Fiola (1994) Black Hole Entanglement
+David Kaplan (1997) Some New Developments in the Study of Black Holes and Solitons in String Theory
+Jeremy Michelson (1999) Diverse Roles for Black Holes in String Theory
+Marcus Spradlin (2001) AdS2 Black Holes and Soliton Moduli Spaces
+Ruth Britto (2002) Bound States of Supersymmetric Black Holes
+Anastasia Volovich (2002) Holography for Coset Spaces and Noncommutative Solitons
+Alexander Maloney (2003) Time-Dependent Backgrounds of String Theory
+Liat Maoz (2003) Supersymmetric Configurations in the Rotating D1-D5 System and PP-Waves
+David Thompson (2005) Holography and Related Topics in String Theory
+Michelle Cyrier (2006) Physics from Geometry: Non-Kahler Compactifications, Black Rings and dS/CFT
+Gregory Jones (2006) Time-Dependent Solutions of Gravity
+Xi Yin (2006) Black Holes, Anti de Sitter space, and Topological Strings
+Morten Ernebjerg (2007) Field Theory Methods in Two-Dimensional and Herotic String Theories
+Lisa Huang (2007) Black Hole Attractors and Gauge Theories
+Aaron Simons (2007) Black Hole Superconformal Quantum Mechanics
+Monica Guica (2008) Supersymmetric Attractors, Topological Strings, and the M5-Brane CFT
+Joshua Lapan (2008) Topics in Two-Dimensional Field Theory and Heterotic String Theory
+Wei Li (2008) Gauge/Gravity Correspondence and Black Hole Attractors in Various Dimensions
+Megha Padi (2009) A Black Hole Quartet: New Solutions and Applications to String Theory
+Thomas Hartman (2010) Extreme Black Hole Holography
+Dionysios Anninos (2011) Classical and Quantum Symmetries of de Sitter Space
+Irene Bredberg (2012) The Einstein and the Navier-Stokes Equations: Connecting the Two
+Tarek Anous (2013) Explorations in de Sitter Space and Amorphous Black Hole Bound States in String Theory
+Vyacheslav Lysov (2014) From Petrov-Einstein to Navier-Stokes
+Gim Seng Ng (2014) Aspects of Symmetry in de Sitter Space
+
+Current doctoral students[edit]
+
+Achilleas Porfyriadis
+Alexandru Lupsasca
+Abhishek Pathak
+Prahar Mitra
+Temple He
+Daniel Kapec
+Sabrina Gonzalez Pasterski
+Monica Pate
+
+External links[edit]
+
+Home page of Strominger at Harvard
+Harvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)
+Strominger's articles in the INSPIRE-HEP database
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Andrew_Strominger&oldid=709030499"					
+Categories: 1955 birthsAmerican physicistsAmerican academicsLiving peopleHarvard University facultyHarvard University alumniMassachusetts Institute of Technology alumniString theoristsTheoretical physicists 
+
+
+Andrew Strominger
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Andrew E. Strominger
+
+
+
+Andy Strominger at Harvard
+
+
+
+Born
+1955 (age 60–61)
+
+
+Nationality
+American
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+
+
+Alma mater
+Harvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)
+
+
+Known for
+Contributions to:
+String theory
+Quantum gravity
+
+
+Notable awards
+Physics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)
+
+
+Andrew Eben Strominger (born 1955) is an American theoretical physicist who has made groundbreaking contributions to quantum gravity and string theory. These include his seminal work on Calabi-Yau compactification and topology change in string theory, and on the stringy origin of black hole entropy. He is a senior fellow at the Society of Fellows, and is the Gwill E. York Professor of Physics and the Director of the Center for the Fundamental Laws of Nature at Harvard University, where his father Jack L. Strominger is also a professor.
+Strominger completed his undergraduate studies at Harvard in 1977 before attending the University of California, Berkeley for his Masters. He received his PhD from MIT in 1982 under the supervision of Roman Jackiw. Prior to joining Harvard as a professor in 1997, he held a faculty position at the University of California, Santa Barbara. He is the author of over 200 publications.
+
+
+
+Contents
+
+
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+
+2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+
+3 External links
+
+
+
+Research[edit]
+Notable contributions[edit]
+
+a paper with Cumrun Vafa that explains the microscopic origin of the black hole entropy, originally calculated thermodynamically by Stephen Hawking and Jacob Bekenstein, from string theory
+a paper with Philip Candelas, Gary Horowitz, and Edward Witten in the 1980s about the relevance of Calabi-Yau manifolds for obtaining the Standard Model from string theory
+other articles discussing the dS/CFT correspondence and the Kerr/CFT correspondence (variations of the AdS/CFT correspondence)
+S-branes (a variation of D-branes)
+OM-theory (with Shiraz Minwalla and Nathan Seiberg)
+noncommutative solitons (with Shiraz Minwalla and Rajesh Gopakumar)
+massless black holes in the form of wrapped D3-branes that regulate the physics of a conifold and allow topology change
+the SYZ conjecture, an interpretation of mirror symmetry as a special case of T-duality (with Eric Zaslow and Shing-Tung Yau)
+purely cubic action for string field theory
+superstrings with torsion
+a study of the relationship between asymptotic symmetries in asymptotically flat space-times, soft theorems and memory effects
+an analytic calculation of the exact spectrum of gravitational wave emission from extreme mass ratio inspirals (EMRIs) into rapidly rotating black holes (these gravitational waves are expected to be detected with future space-based gravitational wave detectors such as eLISA
+
+Awards[edit]
+In recognition of his accomplishments, Strominger has been awarded numerous prizes, fellowships, and honorary professorships. These include the Klein Medal from the Royal Swedish Academy of Sciences and the 2014 Dirac Medal from the Abdus Salam International Centre for Theoretical Physics, which he received for his contributions to the origin, development, and further understanding of string theory. Furthermore, he received the prestigious Physics Frontiers Breakthrough Prize from the Milner Foundation along with colleague Cumrun Vafa in 2014. This award was bestowed upon the pair in honor of their "numerous deep and groundbreaking contributions to quantum field theory, quantum gravity, string theory and geometry." The Foundation also recognized their "joint statistical derivation of the Bekenstein-Hawking area-entropy relation unified the laws of thermodynamics with the laws of black hole dynamics and revealed the holographic nature of quantum spacetime."
+Teaching[edit]
+Past PhD advisees[edit]
+
+Daniel Shevitz (1990) Two-Dimensions Field Theories in the Context of String Theory
+Young-Chul Park (1993) Aspects of Super Symmetry
+Thomas Fiola (1994) Black Hole Entanglement
+David Kaplan (1997) Some New Developments in the Study of Black Holes and Solitons in String Theory
+Jeremy Michelson (1999) Diverse Roles for Black Holes in String Theory
+Marcus Spradlin (2001) AdS2 Black Holes and Soliton Moduli Spaces
+Ruth Britto (2002) Bound States of Supersymmetric Black Holes
+Anastasia Volovich (2002) Holography for Coset Spaces and Noncommutative Solitons
+Alexander Maloney (2003) Time-Dependent Backgrounds of String Theory
+Liat Maoz (2003) Supersymmetric Configurations in the Rotating D1-D5 System and PP-Waves
+David Thompson (2005) Holography and Related Topics in String Theory
+Michelle Cyrier (2006) Physics from Geometry: Non-Kahler Compactifications, Black Rings and dS/CFT
+Gregory Jones (2006) Time-Dependent Solutions of Gravity
+Xi Yin (2006) Black Holes, Anti de Sitter space, and Topological Strings
+Morten Ernebjerg (2007) Field Theory Methods in Two-Dimensional and Herotic String Theories
+Lisa Huang (2007) Black Hole Attractors and Gauge Theories
+Aaron Simons (2007) Black Hole Superconformal Quantum Mechanics
+Monica Guica (2008) Supersymmetric Attractors, Topological Strings, and the M5-Brane CFT
+Joshua Lapan (2008) Topics in Two-Dimensional Field Theory and Heterotic String Theory
+Wei Li (2008) Gauge/Gravity Correspondence and Black Hole Attractors in Various Dimensions
+Megha Padi (2009) A Black Hole Quartet: New Solutions and Applications to String Theory
+Thomas Hartman (2010) Extreme Black Hole Holography
+Dionysios Anninos (2011) Classical and Quantum Symmetries of de Sitter Space
+Irene Bredberg (2012) The Einstein and the Navier-Stokes Equations: Connecting the Two
+Tarek Anous (2013) Explorations in de Sitter Space and Amorphous Black Hole Bound States in String Theory
+Vyacheslav Lysov (2014) From Petrov-Einstein to Navier-Stokes
+Gim Seng Ng (2014) Aspects of Symmetry in de Sitter Space
+
+Current doctoral students[edit]
+
+Achilleas Porfyriadis
+Alexandru Lupsasca
+Abhishek Pathak
+Prahar Mitra
+Temple He
+Daniel Kapec
+Sabrina Gonzalez Pasterski
+Monica Pate
+
+External links[edit]
+
+Home page of Strominger at Harvard
+Harvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)
+Strominger's articles in the INSPIRE-HEP database
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Andrew_Strominger&oldid=709030499"					
+Categories: 1955 birthsAmerican physicistsAmerican academicsLiving peopleHarvard University facultyHarvard University alumniMassachusetts Institute of Technology alumniString theoristsTheoretical physicists 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Andrew E. Strominger
+
+
+
+Andy Strominger at Harvard
+
+
+
+Born
+1955 (age 60–61)
+
+
+Nationality
+American
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+
+
+Alma mater
+Harvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)
+
+
+Known for
+Contributions to:
+String theory
+Quantum gravity
+
+
+Notable awards
+Physics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)
+
+
+Andrew Eben Strominger (born 1955) is an American theoretical physicist who has made groundbreaking contributions to quantum gravity and string theory. These include his seminal work on Calabi-Yau compactification and topology change in string theory, and on the stringy origin of black hole entropy. He is a senior fellow at the Society of Fellows, and is the Gwill E. York Professor of Physics and the Director of the Center for the Fundamental Laws of Nature at Harvard University, where his father Jack L. Strominger is also a professor.
+Strominger completed his undergraduate studies at Harvard in 1977 before attending the University of California, Berkeley for his Masters. He received his PhD from MIT in 1982 under the supervision of Roman Jackiw. Prior to joining Harvard as a professor in 1997, he held a faculty position at the University of California, Santa Barbara. He is the author of over 200 publications.
+
+
+
+Contents
+
+
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+
+2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+
+3 External links
+
+
+
+Research[edit]
+Notable contributions[edit]
+
+a paper with Cumrun Vafa that explains the microscopic origin of the black hole entropy, originally calculated thermodynamically by Stephen Hawking and Jacob Bekenstein, from string theory
+a paper with Philip Candelas, Gary Horowitz, and Edward Witten in the 1980s about the relevance of Calabi-Yau manifolds for obtaining the Standard Model from string theory
+other articles discussing the dS/CFT correspondence and the Kerr/CFT correspondence (variations of the AdS/CFT correspondence)
+S-branes (a variation of D-branes)
+OM-theory (with Shiraz Minwalla and Nathan Seiberg)
+noncommutative solitons (with Shiraz Minwalla and Rajesh Gopakumar)
+massless black holes in the form of wrapped D3-branes that regulate the physics of a conifold and allow topology change
+the SYZ conjecture, an interpretation of mirror symmetry as a special case of T-duality (with Eric Zaslow and Shing-Tung Yau)
+purely cubic action for string field theory
+superstrings with torsion
+a study of the relationship between asymptotic symmetries in asymptotically flat space-times, soft theorems and memory effects
+an analytic calculation of the exact spectrum of gravitational wave emission from extreme mass ratio inspirals (EMRIs) into rapidly rotating black holes (these gravitational waves are expected to be detected with future space-based gravitational wave detectors such as eLISA
+
+Awards[edit]
+In recognition of his accomplishments, Strominger has been awarded numerous prizes, fellowships, and honorary professorships. These include the Klein Medal from the Royal Swedish Academy of Sciences and the 2014 Dirac Medal from the Abdus Salam International Centre for Theoretical Physics, which he received for his contributions to the origin, development, and further understanding of string theory. Furthermore, he received the prestigious Physics Frontiers Breakthrough Prize from the Milner Foundation along with colleague Cumrun Vafa in 2014. This award was bestowed upon the pair in honor of their "numerous deep and groundbreaking contributions to quantum field theory, quantum gravity, string theory and geometry." The Foundation also recognized their "joint statistical derivation of the Bekenstein-Hawking area-entropy relation unified the laws of thermodynamics with the laws of black hole dynamics and revealed the holographic nature of quantum spacetime."
+Teaching[edit]
+Past PhD advisees[edit]
+
+Daniel Shevitz (1990) Two-Dimensions Field Theories in the Context of String Theory
+Young-Chul Park (1993) Aspects of Super Symmetry
+Thomas Fiola (1994) Black Hole Entanglement
+David Kaplan (1997) Some New Developments in the Study of Black Holes and Solitons in String Theory
+Jeremy Michelson (1999) Diverse Roles for Black Holes in String Theory
+Marcus Spradlin (2001) AdS2 Black Holes and Soliton Moduli Spaces
+Ruth Britto (2002) Bound States of Supersymmetric Black Holes
+Anastasia Volovich (2002) Holography for Coset Spaces and Noncommutative Solitons
+Alexander Maloney (2003) Time-Dependent Backgrounds of String Theory
+Liat Maoz (2003) Supersymmetric Configurations in the Rotating D1-D5 System and PP-Waves
+David Thompson (2005) Holography and Related Topics in String Theory
+Michelle Cyrier (2006) Physics from Geometry: Non-Kahler Compactifications, Black Rings and dS/CFT
+Gregory Jones (2006) Time-Dependent Solutions of Gravity
+Xi Yin (2006) Black Holes, Anti de Sitter space, and Topological Strings
+Morten Ernebjerg (2007) Field Theory Methods in Two-Dimensional and Herotic String Theories
+Lisa Huang (2007) Black Hole Attractors and Gauge Theories
+Aaron Simons (2007) Black Hole Superconformal Quantum Mechanics
+Monica Guica (2008) Supersymmetric Attractors, Topological Strings, and the M5-Brane CFT
+Joshua Lapan (2008) Topics in Two-Dimensional Field Theory and Heterotic String Theory
+Wei Li (2008) Gauge/Gravity Correspondence and Black Hole Attractors in Various Dimensions
+Megha Padi (2009) A Black Hole Quartet: New Solutions and Applications to String Theory
+Thomas Hartman (2010) Extreme Black Hole Holography
+Dionysios Anninos (2011) Classical and Quantum Symmetries of de Sitter Space
+Irene Bredberg (2012) The Einstein and the Navier-Stokes Equations: Connecting the Two
+Tarek Anous (2013) Explorations in de Sitter Space and Amorphous Black Hole Bound States in String Theory
+Vyacheslav Lysov (2014) From Petrov-Einstein to Navier-Stokes
+Gim Seng Ng (2014) Aspects of Symmetry in de Sitter Space
+
+Current doctoral students[edit]
+
+Achilleas Porfyriadis
+Alexandru Lupsasca
+Abhishek Pathak
+Prahar Mitra
+Temple He
+Daniel Kapec
+Sabrina Gonzalez Pasterski
+Monica Pate
+
+External links[edit]
+
+Home page of Strominger at Harvard
+Harvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)
+Strominger's articles in the INSPIRE-HEP database
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andrew E. Strominger
+
+
+
+Andy Strominger at Harvard
+
+
+
+Born
+1955 (age 60–61)
+
+
+Nationality
+American
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+
+
+Alma mater
+Harvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)
+
+
+Known for
+Contributions to:
+String theory
+Quantum gravity
+
+
+Notable awards
+Physics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)
+
+
+Andrew E. Strominger
+Andrew E. StromingerAndrew E. Strominger
+
+Andy Strominger at Harvard
+
+
+Andy Strominger at Harvard
+Andy Strominger at Harvard
+Born
+1955 (age 60–61)
+Born1955 (age 60–61)
+Nationality
+American
+NationalityAmericanAmerican
+Fields
+Physics
+FieldsPhysicsPhysics
+Institutions
+Harvard University
+InstitutionsHarvard UniversityHarvard University
+Alma mater
+Harvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)
+Alma materAlma materAlma materHarvard University (B.A., 1977)
+University of California, Berkeley (M.A., 1979)
+Massachusetts Institute of Technology (Ph.D., 1982)Harvard UniversityB.A.University of California, BerkeleyM.A.Massachusetts Institute of TechnologyPh.D.
+Known for
+Contributions to:
+String theory
+Quantum gravity
+Known forContributions to:
+String theory
+Quantum gravityString theoryQuantum gravity
+Notable awards
+Physics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)
+Notable awardsPhysics Frontiers Breakthrough Prize (2012)
+Klein Medal (2014)
+Dirac Medal (2014)
+Dannie Heineman Prize (2016)Physics Frontiers Breakthrough PrizeKlein MedalDirac MedalDannie Heineman PrizeAndrew Eben Strominger (born 1955) is an American theoretical physicist who has made groundbreaking contributions to quantum gravity and string theory. These include his seminal work on Calabi-Yau compactification and topology change in string theory, and on the stringy origin of black hole entropy. He is a senior fellow at the Society of Fellows, and is the Gwill E. York Professor of Physics and the Director of the Center for the Fundamental Laws of Nature at Harvard University, where his father Jack L. Strominger is also a professor.Andrew Eben StromingerAmericantheoretical physicistquantum gravitystring theoryCalabi-Yau compactificationblack hole entropySociety of FellowsHarvard UniversityJack L. StromingerStrominger completed his undergraduate studies at Harvard in 1977 before attending the University of California, Berkeley for his Masters. He received his PhD from MIT in 1982 under the supervision of Roman Jackiw. Prior to joining Harvard as a professor in 1997, he held a faculty position at the University of California, Santa Barbara. He is the author of over 200 publications.Roman Jackiw
+
+Contents
+
+
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+
+2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+
+3 External links
+
+
+Contents
+Contents
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+
+2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+
+3 External links
+1 Research
+
+1.1 Notable contributions
+1.2 Awards
+
+1 Research1Research
+1.1 Notable contributions
+1.2 Awards
+1.1 Notable contributions1.1 Notable contributions1.1Notable contributions1.2 Awards1.2 Awards1.2Awards2 Teaching
+
+2.1 Past PhD advisees
+2.2 Current doctoral students
+
+2 Teaching2Teaching
+2.1 Past PhD advisees
+2.2 Current doctoral students
+2.1 Past PhD advisees2.1 Past PhD advisees2.1Past PhD advisees2.2 Current doctoral students2.2 Current doctoral students2.2Current doctoral students3 External links3 External links3External linksResearch[edit]Research[edit][edit]Notable contributions[edit]Notable contributions[edit][edit]
+a paper with Cumrun Vafa that explains the microscopic origin of the black hole entropy, originally calculated thermodynamically by Stephen Hawking and Jacob Bekenstein, from string theory
+a paper with Philip Candelas, Gary Horowitz, and Edward Witten in the 1980s about the relevance of Calabi-Yau manifolds for obtaining the Standard Model from string theory
+other articles discussing the dS/CFT correspondence and the Kerr/CFT correspondence (variations of the AdS/CFT correspondence)
+S-branes (a variation of D-branes)
+OM-theory (with Shiraz Minwalla and Nathan Seiberg)
+noncommutative solitons (with Shiraz Minwalla and Rajesh Gopakumar)
+massless black holes in the form of wrapped D3-branes that regulate the physics of a conifold and allow topology change
+the SYZ conjecture, an interpretation of mirror symmetry as a special case of T-duality (with Eric Zaslow and Shing-Tung Yau)
+purely cubic action for string field theory
+superstrings with torsion
+a study of the relationship between asymptotic symmetries in asymptotically flat space-times, soft theorems and memory effects
+an analytic calculation of the exact spectrum of gravitational wave emission from extreme mass ratio inspirals (EMRIs) into rapidly rotating black holes (these gravitational waves are expected to be detected with future space-based gravitational wave detectors such as eLISA
+a paper with Cumrun Vafa that explains the microscopic origin of the black hole entropy, originally calculated thermodynamically by Stephen Hawking and Jacob Bekenstein, from string theoryCumrun Vafablack hole entropyStephen HawkingJacob Bekensteina paper with Philip Candelas, Gary Horowitz, and Edward Witten in the 1980s about the relevance of Calabi-Yau manifolds for obtaining the Standard Model from string theoryEdward WittenCalabi-YauStandard Modelstring theoryother articles discussing the dS/CFT correspondence and the Kerr/CFT correspondence (variations of the AdS/CFT correspondence)dS/CFT correspondenceKerr/CFT correspondenceAdS/CFTS-branes (a variation of D-branes)S-branesD-branesOM-theory (with Shiraz Minwalla and Nathan Seiberg)Shiraz MinwallaNathan Seibergnoncommutative solitons (with Shiraz Minwalla and Rajesh Gopakumar)Shiraz MinwallaRajesh Gopakumarmassless black holes in the form of wrapped D3-branes that regulate the physics of a conifold and allow topology changeD3-branesconifoldtopologythe SYZ conjecture, an interpretation of mirror symmetry as a special case of T-duality (with Eric Zaslow and Shing-Tung Yau)SYZ conjecturemirror symmetryT-dualityEric ZaslowShing-Tung Yaupurely cubic action for string field theorystring field theorysuperstrings with torsiontorsiona study of the relationship between asymptotic symmetries in asymptotically flat space-times, soft theorems and memory effectsan analytic calculation of the exact spectrum of gravitational wave emission from extreme mass ratio inspirals (EMRIs) into rapidly rotating black holes (these gravitational waves are expected to be detected with future space-based gravitational wave detectors such as eLISAextreme mass ratio inspirals (EMRIs)gravitational wave detectorseLISAAwards[edit]Awards[edit][edit]In recognition of his accomplishments, Strominger has been awarded numerous prizes, fellowships, and honorary professorships. These include the Klein Medal from the Royal Swedish Academy of Sciences and the 2014 Dirac Medal from the Abdus Salam International Centre for Theoretical Physics, which he received for his contributions to the origin, development, and further understanding of string theory. Furthermore, he received the prestigious Physics Frontiers Breakthrough Prize from the Milner Foundation along with colleague Cumrun Vafa in 2014. This award was bestowed upon the pair in honor of their "numerous deep and groundbreaking contributions to quantum field theory, quantum gravity, string theory and geometry." The Foundation also recognized their "joint statistical derivation of the Bekenstein-Hawking area-entropy relation unified the laws of thermodynamics with the laws of black hole dynamics and revealed the holographic nature of quantum spacetime."Klein MedalRoyal Swedish Academy of SciencesDirac MedalAbdus Salam International Centre for Theoretical PhysicsPhysics Frontiers Breakthrough PrizeCumrun VafaBekenstein-Hawking area-entropy relationTeaching[edit]Teaching[edit][edit]Past PhD advisees[edit]Past PhD advisees[edit][edit]
+Daniel Shevitz (1990) Two-Dimensions Field Theories in the Context of String Theory
+Young-Chul Park (1993) Aspects of Super Symmetry
+Thomas Fiola (1994) Black Hole Entanglement
+David Kaplan (1997) Some New Developments in the Study of Black Holes and Solitons in String Theory
+Jeremy Michelson (1999) Diverse Roles for Black Holes in String Theory
+Marcus Spradlin (2001) AdS2 Black Holes and Soliton Moduli Spaces
+Ruth Britto (2002) Bound States of Supersymmetric Black Holes
+Anastasia Volovich (2002) Holography for Coset Spaces and Noncommutative Solitons
+Alexander Maloney (2003) Time-Dependent Backgrounds of String Theory
+Liat Maoz (2003) Supersymmetric Configurations in the Rotating D1-D5 System and PP-Waves
+David Thompson (2005) Holography and Related Topics in String Theory
+Michelle Cyrier (2006) Physics from Geometry: Non-Kahler Compactifications, Black Rings and dS/CFT
+Gregory Jones (2006) Time-Dependent Solutions of Gravity
+Xi Yin (2006) Black Holes, Anti de Sitter space, and Topological Strings
+Morten Ernebjerg (2007) Field Theory Methods in Two-Dimensional and Herotic String Theories
+Lisa Huang (2007) Black Hole Attractors and Gauge Theories
+Aaron Simons (2007) Black Hole Superconformal Quantum Mechanics
+Monica Guica (2008) Supersymmetric Attractors, Topological Strings, and the M5-Brane CFT
+Joshua Lapan (2008) Topics in Two-Dimensional Field Theory and Heterotic String Theory
+Wei Li (2008) Gauge/Gravity Correspondence and Black Hole Attractors in Various Dimensions
+Megha Padi (2009) A Black Hole Quartet: New Solutions and Applications to String Theory
+Thomas Hartman (2010) Extreme Black Hole Holography
+Dionysios Anninos (2011) Classical and Quantum Symmetries of de Sitter Space
+Irene Bredberg (2012) The Einstein and the Navier-Stokes Equations: Connecting the Two
+Tarek Anous (2013) Explorations in de Sitter Space and Amorphous Black Hole Bound States in String Theory
+Vyacheslav Lysov (2014) From Petrov-Einstein to Navier-Stokes
+Gim Seng Ng (2014) Aspects of Symmetry in de Sitter Space
+Daniel Shevitz (1990) Two-Dimensions Field Theories in the Context of String TheoryYoung-Chul Park (1993) Aspects of Super SymmetryThomas Fiola (1994) Black Hole EntanglementDavid Kaplan (1997) Some New Developments in the Study of Black Holes and Solitons in String TheoryJeremy Michelson (1999) Diverse Roles for Black Holes in String TheoryMarcus Spradlin (2001) AdS2 Black Holes and Soliton Moduli SpacesRuth Britto (2002) Bound States of Supersymmetric Black HolesAnastasia Volovich (2002) Holography for Coset Spaces and Noncommutative SolitonsAlexander Maloney (2003) Time-Dependent Backgrounds of String TheoryLiat Maoz (2003) Supersymmetric Configurations in the Rotating D1-D5 System and PP-WavesDavid Thompson (2005) Holography and Related Topics in String TheoryMichelle Cyrier (2006) Physics from Geometry: Non-Kahler Compactifications, Black Rings and dS/CFTGregory Jones (2006) Time-Dependent Solutions of GravityXi Yin (2006) Black Holes, Anti de Sitter space, and Topological StringsMorten Ernebjerg (2007) Field Theory Methods in Two-Dimensional and Herotic String TheoriesLisa Huang (2007) Black Hole Attractors and Gauge TheoriesAaron Simons (2007) Black Hole Superconformal Quantum MechanicsMonica Guica (2008) Supersymmetric Attractors, Topological Strings, and the M5-Brane CFTJoshua Lapan (2008) Topics in Two-Dimensional Field Theory and Heterotic String TheoryWei Li (2008) Gauge/Gravity Correspondence and Black Hole Attractors in Various DimensionsMegha Padi (2009) A Black Hole Quartet: New Solutions and Applications to String TheoryThomas Hartman (2010) Extreme Black Hole HolographyDionysios Anninos (2011) Classical and Quantum Symmetries of de Sitter SpaceIrene Bredberg (2012) The Einstein and the Navier-Stokes Equations: Connecting the TwoTarek Anous (2013) Explorations in de Sitter Space and Amorphous Black Hole Bound States in String TheoryVyacheslav Lysov (2014) From Petrov-Einstein to Navier-StokesGim Seng Ng (2014) Aspects of Symmetry in de Sitter SpaceCurrent doctoral students[edit]Current doctoral students[edit][edit]
+Achilleas Porfyriadis
+Alexandru Lupsasca
+Abhishek Pathak
+Prahar Mitra
+Temple He
+Daniel Kapec
+Sabrina Gonzalez Pasterski
+Monica Pate
+Achilleas PorfyriadisAlexandru LupsascaAbhishek PathakPrahar MitraTemple HeDaniel KapecSabrina Gonzalez PasterskiSabrina Gonzalez PasterskiMonica PateExternal links[edit]External links[edit][edit]
+Home page of Strominger at Harvard
+Harvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)
+Strominger's articles in the INSPIRE-HEP database
+Home page of Strominger at HarvardHome page of Strominger at HarvardHarvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)Harvard Physics Department Newsletter describing the Strominger group's research (pp. 21-25)Strominger's articles in the INSPIRE-HEP databaseStrominger's articles in the INSPIRE-HEP database
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+
+
+Authority control
+
+
+
+MGP: 99423
+
+
+
+Authority controlAuthority control
+
+
+MGP: 99423
+
+
+
+
+MGP: 99423
+
+
+MGP: 99423
+MGP: 99423MGP9942399423
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Andrew_Strominger&oldid=709030499"					https://en.wikipedia.org/w/index.php?title=Andrew_Strominger&oldid=709030499Categories: 1955 birthsAmerican physicistsAmerican academicsLiving peopleHarvard University facultyHarvard University alumniMassachusetts Institute of Technology alumniString theoristsTheoretical physicistsCategories: 1955 birthsAmerican physicistsAmerican academicsLiving peopleHarvard University facultyHarvard University alumniMassachusetts Institute of Technology alumniString theoristsTheoretical physicistsCategories1955 birthsAmerican physicistsAmerican academicsLiving peopleHarvard University facultyHarvard University alumniMassachusetts Institute of Technology alumniString theoristsTheoretical physicists1955 births1955 birthsAmerican physicistsAmerican physicistsAmerican academicsAmerican academicsLiving peopleLiving peopleHarvard University facultyHarvard University facultyHarvard University alumniHarvard University alumniMassachusetts Institute of Technology alumniMassachusetts Institute of Technology alumniString theoristsString theoristsTheoretical physicistsTheoretical physicists
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolفارسی한국어Italiano日本語Русский 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolفارسی한국어Italiano日本語Русский 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschEspañolفارسی한국어Italiano日本語Русский 
+Edit links 
+Languages
+
+DeutschEspañolفارسی한국어Italiano日本語Русский 
+Edit links 
+DeutschEspañolفارسی한국어Italiano日本語Русский DeutschDeutschEspañolEspañolفارسیفارسی한국어한국어ItalianoItaliano日本語日本語РусскийРусскийEdit linksEdit linksEdit links
+
+ This page was last modified on 8 March 2016, at 20:11.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 8 March 2016, at 20:11.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 8 March 2016, at 20:11.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

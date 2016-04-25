@@ -1,0 +1,981 @@
+Juan Martín Maldacena - Wikipedia, the free encyclopedia
+
+
+
+
+Juan Martín Maldacena
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Juan Maldacena
+
+
+
+
+
+Born
+(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina
+
+
+Nationality
+Argentine, American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Universidad Nacional de Cuyo, Princeton University
+
+
+Doctoral advisor
+Curtis Callan
+
+
+Known for
+AdS/CFT correspondence
+
+
+Juan Martín Maldacena (born September 10, 1968) is a theoretical physicist born in Buenos Aires, Argentina. Among his many discoveries, the most famous one is the most reliable realization of the holographic principle – namely the AdS/CFT correspondence,[1] the conjecture about the equivalence of string theory on Anti-de Sitter (AdS) space, and a conformal field theory defined on the boundary of the AdS space.[citation needed] In 2013, Maldacena co-authored an analysis of the 2012 black hole firewall paradox with Leonard Susskind, arguing that the paradox can be resolved if entangled particles are connected by minor wormholes."[2][3][4]
+
+
+
+Contents
+
+
+1 Biography
+2 Awards
+3 References
+4 External links
+
+
+
+Biography[edit]
+Maldacena obtained his licenciatura (a 6-year degree) in 1991 at the Instituto Balseiro, Bariloche, Argentina, under the supervision of Gerardo Aldazábal. He then obtained his Ph.D. at Princeton University under the supervision of Curtis Callan in 1996, and went on to a post-doctoral position at Princeton University. In 1997, he joined Harvard University as associate professor, being quickly promoted to Professor of Physics in 1999. Since 2001 he has been a professor at the Institute for Advanced Study in Princeton, New Jersey and in 2016 became the first Carl P. Feinberg Professor of Theoretical Physics in the Institute's School of Natural Sciences.
+Awards[edit]
+Maldacena has received these awards:
+
+Alfred P. Sloan Foundation Fellowship, 1998
+Packard Fellowship in Science and Engineering, 1998
+MacArthur Fellowship, 1999[5]
+UNESCO Husein Prize for Young Scientists, 1999
+Sackler Prize in Physics, 2000
+Xanthopoulos International Award for Research in Gravitational Physics,[6] 2001
+Pius XI Medal, 2002
+Edward A. Bouchet Award[7] of the American Physical Society, 2004
+Dannie Heineman Prize, 2007
+Dirac Medal, 2008
+Pomeranchuk Prize, 2012
+Fundamental Physics Prize, 2012.[8]
+Diamond Konex Award as the most important scientist in the last decade in Argentina, 2013
+
+References[edit]
+
+
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. 
+^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. 
+^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. 
+^ Cool horizons for entangled black holes
+^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. 
+^ "Xanthopoulos International Award for research on Gravitational Physics". 
+^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Maldacena's web page at the Institute
+Maldacena Theme tree
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Juan_Martín_Maldacena&oldid=717071313"					
+Categories: 1968 birthsLiving peopleArgentine physicistsHarvard University facultyInstitute for Advanced Study facultyMacArthur FellowsNational University of Cuyo alumniPeople from Buenos AiresPrinceton University alumniString theoristsTheoretical physicistsMembers of the Pontifical Academy of SciencesMathematical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiers 
+
+
+Juan Martín Maldacena
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Juan Maldacena
+
+
+
+
+
+Born
+(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina
+
+
+Nationality
+Argentine, American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Universidad Nacional de Cuyo, Princeton University
+
+
+Doctoral advisor
+Curtis Callan
+
+
+Known for
+AdS/CFT correspondence
+
+
+Juan Martín Maldacena (born September 10, 1968) is a theoretical physicist born in Buenos Aires, Argentina. Among his many discoveries, the most famous one is the most reliable realization of the holographic principle – namely the AdS/CFT correspondence,[1] the conjecture about the equivalence of string theory on Anti-de Sitter (AdS) space, and a conformal field theory defined on the boundary of the AdS space.[citation needed] In 2013, Maldacena co-authored an analysis of the 2012 black hole firewall paradox with Leonard Susskind, arguing that the paradox can be resolved if entangled particles are connected by minor wormholes."[2][3][4]
+
+
+
+Contents
+
+
+1 Biography
+2 Awards
+3 References
+4 External links
+
+
+
+Biography[edit]
+Maldacena obtained his licenciatura (a 6-year degree) in 1991 at the Instituto Balseiro, Bariloche, Argentina, under the supervision of Gerardo Aldazábal. He then obtained his Ph.D. at Princeton University under the supervision of Curtis Callan in 1996, and went on to a post-doctoral position at Princeton University. In 1997, he joined Harvard University as associate professor, being quickly promoted to Professor of Physics in 1999. Since 2001 he has been a professor at the Institute for Advanced Study in Princeton, New Jersey and in 2016 became the first Carl P. Feinberg Professor of Theoretical Physics in the Institute's School of Natural Sciences.
+Awards[edit]
+Maldacena has received these awards:
+
+Alfred P. Sloan Foundation Fellowship, 1998
+Packard Fellowship in Science and Engineering, 1998
+MacArthur Fellowship, 1999[5]
+UNESCO Husein Prize for Young Scientists, 1999
+Sackler Prize in Physics, 2000
+Xanthopoulos International Award for Research in Gravitational Physics,[6] 2001
+Pius XI Medal, 2002
+Edward A. Bouchet Award[7] of the American Physical Society, 2004
+Dannie Heineman Prize, 2007
+Dirac Medal, 2008
+Pomeranchuk Prize, 2012
+Fundamental Physics Prize, 2012.[8]
+Diamond Konex Award as the most important scientist in the last decade in Argentina, 2013
+
+References[edit]
+
+
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. 
+^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. 
+^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. 
+^ Cool horizons for entangled black holes
+^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. 
+^ "Xanthopoulos International Award for research on Gravitational Physics". 
+^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Maldacena's web page at the Institute
+Maldacena Theme tree
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Juan_Martín_Maldacena&oldid=717071313"					
+Categories: 1968 birthsLiving peopleArgentine physicistsHarvard University facultyInstitute for Advanced Study facultyMacArthur FellowsNational University of Cuyo alumniPeople from Buenos AiresPrinceton University alumniString theoristsTheoretical physicistsMembers of the Pontifical Academy of SciencesMathematical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Juan Maldacena
+
+
+
+
+
+Born
+(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina
+
+
+Nationality
+Argentine, American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Universidad Nacional de Cuyo, Princeton University
+
+
+Doctoral advisor
+Curtis Callan
+
+
+Known for
+AdS/CFT correspondence
+
+
+Juan Martín Maldacena (born September 10, 1968) is a theoretical physicist born in Buenos Aires, Argentina. Among his many discoveries, the most famous one is the most reliable realization of the holographic principle – namely the AdS/CFT correspondence,[1] the conjecture about the equivalence of string theory on Anti-de Sitter (AdS) space, and a conformal field theory defined on the boundary of the AdS space.[citation needed] In 2013, Maldacena co-authored an analysis of the 2012 black hole firewall paradox with Leonard Susskind, arguing that the paradox can be resolved if entangled particles are connected by minor wormholes."[2][3][4]
+
+
+
+Contents
+
+
+1 Biography
+2 Awards
+3 References
+4 External links
+
+
+
+Biography[edit]
+Maldacena obtained his licenciatura (a 6-year degree) in 1991 at the Instituto Balseiro, Bariloche, Argentina, under the supervision of Gerardo Aldazábal. He then obtained his Ph.D. at Princeton University under the supervision of Curtis Callan in 1996, and went on to a post-doctoral position at Princeton University. In 1997, he joined Harvard University as associate professor, being quickly promoted to Professor of Physics in 1999. Since 2001 he has been a professor at the Institute for Advanced Study in Princeton, New Jersey and in 2016 became the first Carl P. Feinberg Professor of Theoretical Physics in the Institute's School of Natural Sciences.
+Awards[edit]
+Maldacena has received these awards:
+
+Alfred P. Sloan Foundation Fellowship, 1998
+Packard Fellowship in Science and Engineering, 1998
+MacArthur Fellowship, 1999[5]
+UNESCO Husein Prize for Young Scientists, 1999
+Sackler Prize in Physics, 2000
+Xanthopoulos International Award for Research in Gravitational Physics,[6] 2001
+Pius XI Medal, 2002
+Edward A. Bouchet Award[7] of the American Physical Society, 2004
+Dannie Heineman Prize, 2007
+Dirac Medal, 2008
+Pomeranchuk Prize, 2012
+Fundamental Physics Prize, 2012.[8]
+Diamond Konex Award as the most important scientist in the last decade in Argentina, 2013
+
+References[edit]
+
+
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. 
+^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. 
+^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. 
+^ Cool horizons for entangled black holes
+^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. 
+^ "Xanthopoulos International Award for research on Gravitational Physics". 
+^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Maldacena's web page at the Institute
+Maldacena Theme tree
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+
+
+
+
+
+
+Juan Maldacena
+
+
+
+
+
+Born
+(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina
+
+
+Nationality
+Argentine, American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Universidad Nacional de Cuyo, Princeton University
+
+
+Doctoral advisor
+Curtis Callan
+
+
+Known for
+AdS/CFT correspondence
+
+
+Juan Maldacena
+Juan MaldacenaJuan Maldacena
+
+
+Born
+(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina
+Born(1968-09-10) September 10, 1968 (age 47)
+Buenos Aires, Argentina(1968-09-10)1968-09-10(age 47)Buenos AiresArgentina
+Nationality
+Argentine, American
+NationalityArgentine, AmericanArgentineAmerican
+Fields
+Theoretical physics
+FieldsTheoretical physicsTheoretical physics
+Institutions
+Institute for Advanced Study
+InstitutionsInstitute for Advanced StudyInstitute for Advanced Study
+Alma mater
+Universidad Nacional de Cuyo, Princeton University
+Alma materAlma materAlma materUniversidad Nacional de Cuyo, Princeton UniversityUniversidad Nacional de CuyoPrinceton University
+Doctoral advisor
+Curtis Callan
+Doctoral advisorDoctoral advisorCurtis CallanCurtis Callan
+Known for
+AdS/CFT correspondence
+Known forAdS/CFT correspondenceAdS/CFT correspondenceJuan Martín Maldacena (born September 10, 1968) is a theoretical physicist born in Buenos Aires, Argentina. Among his many discoveries, the most famous one is the most reliable realization of the holographic principle – namely the AdS/CFT correspondence,[1] the conjecture about the equivalence of string theory on Anti-de Sitter (AdS) space, and a conformal field theory defined on the boundary of the AdS space.[citation needed] In 2013, Maldacena co-authored an analysis of the 2012 black hole firewall paradox with Leonard Susskind, arguing that the paradox can be resolved if entangled particles are connected by minor wormholes."[2][3][4]Juan Martín MaldacenaphysicistBuenos AiresArgentinaholographic principleAdS/CFT[1][1]string theoryAnti-de Sitter (AdS) spaceconformal field theory[citation needed]citation neededcitation neededcitation neededblack hole firewall paradoxLeonard Susskindentangledwormholes[2][2][3][3][4][4]
+
+Contents
+
+
+1 Biography
+2 Awards
+3 References
+4 External links
+
+
+Contents
+Contents
+1 Biography
+2 Awards
+3 References
+4 External links
+1 Biography1 Biography1Biography2 Awards2 Awards2Awards3 References3 References3References4 External links4 External links4External linksBiography[edit]Biography[edit][edit]Maldacena obtained his licenciatura (a 6-year degree) in 1991 at the Instituto Balseiro, Bariloche, Argentina, under the supervision of Gerardo Aldazábal. He then obtained his Ph.D. at Princeton University under the supervision of Curtis Callan in 1996, and went on to a post-doctoral position at Princeton University. In 1997, he joined Harvard University as associate professor, being quickly promoted to Professor of Physics in 1999. Since 2001 he has been a professor at the Institute for Advanced Study in Princeton, New Jersey and in 2016 became the first Carl P. Feinberg Professor of Theoretical Physics in the Institute's School of Natural Sciences.licenciaturaInstituto BalseiroBarilochePrinceton UniversityCurtis CallanPrinceton UniversityHarvard UniversityInstitute for Advanced StudyPrinceton, New JerseyAwards[edit]Awards[edit][edit]Maldacena has received these awards:
+Alfred P. Sloan Foundation Fellowship, 1998
+Packard Fellowship in Science and Engineering, 1998
+MacArthur Fellowship, 1999[5]
+UNESCO Husein Prize for Young Scientists, 1999
+Sackler Prize in Physics, 2000
+Xanthopoulos International Award for Research in Gravitational Physics,[6] 2001
+Pius XI Medal, 2002
+Edward A. Bouchet Award[7] of the American Physical Society, 2004
+Dannie Heineman Prize, 2007
+Dirac Medal, 2008
+Pomeranchuk Prize, 2012
+Fundamental Physics Prize, 2012.[8]
+Diamond Konex Award as the most important scientist in the last decade in Argentina, 2013
+Alfred P. Sloan Foundation Fellowship, 1998Alfred P. Sloan FoundationPackard Fellowship in Science and Engineering, 1998MacArthur Fellowship, 1999[5]MacArthur Fellowship[5][5]UNESCO Husein Prize for Young Scientists, 1999Sackler Prize in Physics, 2000Sackler PrizeXanthopoulos International Award for Research in Gravitational Physics,[6] 2001Xanthopoulos[6][6]Pius XI Medal, 2002Pius XI MedalEdward A. Bouchet Award[7] of the American Physical Society, 2004[7][7]American Physical SocietyDannie Heineman Prize, 2007Dannie Heineman PrizeDirac Medal, 2008Dirac MedalPomeranchuk Prize, 2012Pomeranchuk PrizeFundamental Physics Prize, 2012.[8]Fundamental Physics Prize[8][8]Diamond Konex Award as the most important scientist in the last decade in Argentina, 2013Konex AwardReferences[edit]References[edit][edit]
+
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. 
+^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. 
+^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. 
+^ Cool horizons for entangled black holes
+^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. 
+^ "Xanthopoulos International Award for research on Gravitational Physics". 
+^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. 
+^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. 
+^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. 
+^ Cool horizons for entangled black holes
+^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. 
+^ "Xanthopoulos International Award for research on Gravitational Physics". 
+^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. ^^^Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M. Juan Martin Maldacena (1998). "The Large N Limit of Superconformal Field Theories and Supergravity". Adv. Theor. Math. Phys. 2: 231–252. arXiv:hep-th/9711200. Bibcode:1998AdTMP...2..231M.Adv. Theor. Math. Phys.2arXivhep-th/9711200Bibcode1998AdTMP...2..231M  ^ Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. ^^^Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013. Overbye, Dennis (12 August 2013). "A Black Hole Mystery Wrapped in a Firewall Paradox". New York Times. Retrieved 29 October 2013.Overbye, Dennis"A Black Hole Mystery Wrapped in a Firewall Paradox"New York Times. Retrieved 29 October 201329 October  ^ "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. ^^^"The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013. "The Firewall Paradox". New York Times. 12 August 2013. Retrieved 29 October 2013."The Firewall Paradox"New York Times. Retrieved 29 October 201329 October  ^ Cool horizons for entangled black holes^^^Cool horizons for entangled black holesCool horizons for entangled black holes^ "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. ^^^"Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25. "Meet the 1999 MacArthur Fellows". Retrieved 2013-11-25."Meet the 1999 MacArthur Fellows". Retrieved 2013-11-252013-11-25  ^ "Xanthopoulos International Award for research on Gravitational Physics". ^^^"Xanthopoulos International Award for research on Gravitational Physics". "Xanthopoulos International Award for research on Gravitational Physics"."Xanthopoulos International Award for research on Gravitational Physics"  ^ "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. ^^^"2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24. "2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-24."2004 Edward A. Bouchet Award Recipient: Juan M. Maldacena". Retrieved 2011-08-242011-08-24  ^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012^^^New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the fieldExternal links[edit]External links[edit][edit]
+Maldacena's web page at the Institute
+Maldacena Theme tree
+Maldacena's web page at the InstituteMaldacena's web page at the InstituteMaldacena Theme treeMaldacena Theme tree
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+
+
+WorldCat Identities
+VIAF: 32314462
+LCCN: nr96033785
+SUDOC: 096322942
+BNF: cb155763860 (data)
+MGP: 125116
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 32314462VIAF3231446232314462LCCN: nr96033785LCCNnr96033785nr96033785SUDOC: 096322942SUDOC096322942096322942BNF: cb155763860 (data)BNFcb155763860 (data)cb155763860(data)MGP: 125116MGP125116125116
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Juan_Martín_Maldacena&oldid=717071313"					https://en.wikipedia.org/w/index.php?title=Juan_Martín_Maldacena&oldid=717071313Categories: 1968 birthsLiving peopleArgentine physicistsHarvard University facultyInstitute for Advanced Study facultyMacArthur FellowsNational University of Cuyo alumniPeople from Buenos AiresPrinceton University alumniString theoristsTheoretical physicistsMembers of the Pontifical Academy of SciencesMathematical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersCategories: 1968 birthsLiving peopleArgentine physicistsHarvard University facultyInstitute for Advanced Study facultyMacArthur FellowsNational University of Cuyo alumniPeople from Buenos AiresPrinceton University alumniString theoristsTheoretical physicistsMembers of the Pontifical Academy of SciencesMathematical physicistsCategories1968 birthsLiving peopleArgentine physicistsHarvard University facultyInstitute for Advanced Study facultyMacArthur FellowsNational University of Cuyo alumniPeople from Buenos AiresPrinceton University alumniString theoristsTheoretical physicistsMembers of the Pontifical Academy of SciencesMathematical physicists1968 births1968 birthsLiving peopleLiving peopleArgentine physicistsArgentine physicistsHarvard University facultyHarvard University facultyInstitute for Advanced Study facultyInstitute for Advanced Study facultyMacArthur FellowsMacArthur FellowsNational University of Cuyo alumniNational University of Cuyo alumniPeople from Buenos AiresPeople from Buenos AiresPrinceton University alumniPrinceton University alumniString theoristsString theoristsTheoretical physicistsTheoretical physicistsMembers of the Pontifical Academy of SciencesMembers of the Pontifical Academy of SciencesMathematical physicistsMathematical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersAll articles with unsourced statementsArticles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersAll articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from October 2013Articles with unsourced statements from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+CatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Kreyòl ayisyenNederlands日本語PolskiPortuguêsРусскийSlovenščinaTiếng Việt中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+CatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Kreyòl ayisyenNederlands日本語PolskiPortuguêsРусскийSlovenščinaTiếng Việt中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+CatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Kreyòl ayisyenNederlands日本語PolskiPortuguêsРусскийSlovenščinaTiếng Việt中文 
+Edit links 
+Languages
+
+CatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Kreyòl ayisyenNederlands日本語PolskiPortuguêsРусскийSlovenščinaTiếng Việt中文 
+Edit links 
+CatalàČeštinaDeutschEspañolEuskaraفارسیFrançais한국어Kreyòl ayisyenNederlands日本語PolskiPortuguêsРусскийSlovenščinaTiếng Việt中文 CatalàCatalàČeštinaČeštinaDeutschDeutschEspañolEspañolEuskaraEuskaraفارسیفارسیFrançaisFrançais한국어한국어Kreyòl ayisyenKreyòl ayisyenNederlandsNederlands日本語日本語PolskiPolskiPortuguêsPortuguêsРусскийРусскийSlovenščinaSlovenščinaTiếng ViệtTiếng Việt中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 25 April 2016, at 15:31.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 25 April 2016, at 15:31.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 25 April 2016, at 15:31.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

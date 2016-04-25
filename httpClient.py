@@ -49,7 +49,8 @@ def OPTIONS(HOST, path='/', PORT=80):
 
 
 def GET(HOST, path='/', PORT=80):
-	request_str = 'GET ' + path + ' HTTP/1.0\r\nuser-agent: MyAwesomeCrawler\r\nconnection: close\r\n\r\n'
+	"""
+	request_str = 'GET ' + path + ' HTTP/1.1\r\nuser-agent: MyAwesomeCrawler\r\nconnection: close\r\n\r\n'
 	# url = urlparse.urlparse(HOST)
 	# path = url.path
 	# if path == "":
@@ -69,9 +70,12 @@ def GET(HOST, path='/', PORT=80):
 	s.shutdown(1)
 	s.close()
 	# print('Received', repr(data))
+	"""
 	r = requests.get('http://' + HOST + path, headers={'user-agent':'CLIENT RIW'})
-	print(r.headers)
-	print(r.content)
+	# print(r.headers)
+	# print(r.content)
+
+	return r.content
 
 
 def main(argv):

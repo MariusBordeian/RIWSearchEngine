@@ -1,0 +1,1102 @@
+Nima Arkani-Hamed - Wikipedia, the free encyclopedia
+
+
+
+
+Nima Arkani-Hamed
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Nima Arkani-Hamed
+
+
+
+
+
+Born
+(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+Institute for Advanced Study
+Cornell University
+
+
+Alma mater
+University of Toronto
+University of California, Berkeley
+
+
+Known for
+Large extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudes
+
+
+Notable awards
+Gribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)
+
+
+Website
+Official website
+
+
+Nima Arkani-Hamed (born April 5, 1972) is an American-Canadian[1] theoretical physicist with interests in high-energy physics, string theory and cosmology. Arkani-Hamed is now on the faculty at the Institute for Advanced Study in Princeton, New Jersey,[2] and director of The Center for Future High Energy Physics (CFHEP) in China, Beijing.[3]He was formerly a professor at Harvard University and the University of California, Berkeley.
+
+
+
+Contents
+
+
+1 Early life
+2 Academic career
+3 Honors and awards
+4 Selected works
+5 Lectures
+6 See also
+7 References
+8 External links
+
+
+
+Early life[edit]
+Arkani-Hamed's parents, Jafargholi "Jafar" Arkani-Hamed and Hamideh Alasti are both physicists from Iran.[4] His father, a native of Tabriz,[4] was chairman of the physics department at Sharif University of Technology in Tehran, and later taught earth and planetary sciences at McGill University in Montreal.[5] Arkani-Hamed moved to Iran as a child with his family and they eventually immigrated to Canada.[6]
+Academic career[edit]
+Arkani-Hamed graduated at the University of Toronto with a joint honours degree in mathematics and physics in 1993, and went to the University of California, Berkeley, for his graduate studies, where he worked under the supervision of Lawrence Hall. The majority of his graduate work was on studies of supersymmetry and flavor physics. His Ph.D dissertation was titled "Supersymmetry and Hierarchies". He completed his Ph.D in 1997 and went to SLAC at Stanford University for post-doctoral studies. During this time he worked with Savas Dimopoulos and developed the paradigm of large extra dimensions.[citation needed]
+In 1999 he joined the faculty of the University of California, Berkeley physics department. He took a leave of absence from Berkeley to visit Harvard University beginning January 2001. Shortly after arriving at Harvard he worked with Howard Georgi and Andrew Cohen on the idea of emergent extra dimensions, dubbed dimensional deconstruction. These ideas eventually led to the development of little Higgs theories.[citation needed]
+He officially joined Harvard's faculty in the fall of 2002. Arkani-Hamed has appeared on various television programs and newspapers talking about space, time and dimensions and the current state of theoretical physics. In 2003 he won the Gribov Medal of the European Physical Society, and in the summer of 2005 while at Harvard he won the Phi Beta Kappa award for teaching excellence. He appeared in the 2013 documentary film Particle Fever. He participated in the Stock Exchange of Visions project in 2007. In 2008, he won the Raymond and Beverly Sackler Prize given at Tel Aviv University to young scientists who have made outstanding and fundamental contributions in Physical Science.[citation needed]
+Arkani-Hamed was elected a Fellow of the American Academy of Arts and Sciences in 2009.[7] In 2010, he gave the Messenger lectures at Cornell University.
+Nima Arkani-Hamed was a professor at Harvard University from 2002–2008, and is now at the Institute for Advanced Study.[8] Arkani-Hamed was selected for being a member of The Selection Committee for the 2015 Breakthrough Prize in Fundamental Physics.[9]
+Honors and awards[edit]
+In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[10] He has previously won the Sackler Prize from Tel Aviv University in 2008, the Gribov Medal from the European Physical Society in 2003, and the INFN-Pisa Gamberini prize in 1997. He was awarded the Packard and Sloan Fellowship in 2000.[1]
+Selected works[edit]
+
+The paradigm of "large extra dimensions" (with Gia Dvali and Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3. 
+I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0. 
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004. 
+Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.  |access-date= requires |url= (help)
+
+
+Deconstruction (with Howard Georgi and Andrew Cohen):
+
+
+N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341. 
+
+
+Little Higgs theories:
+
+
+N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021. 
+N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034. 
+
+
+Ghost condensation:
+
+
+N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074. 
+
+
+Split supersymmetry (with Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073. 
+N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026. 
+
+
+Dark Matter:
+
+
+N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104. 
+N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014. 
+
+
+Scattering Amplitudes:
+
+
+N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020. 
+N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041. 
+
+Lectures[edit]
+
+"The Future of Fundamental Physics" five lectures given at Cornell October 4-8, 2010 in the Messenger Lecture series.[11]
+"Introduction to Scattering Amplitudes" five lectures given at Cornell October 4-8, 2010, focus on n=4 supersymmetric Yang-Mills Theory.[12]
+
+See also[edit]
+
+Amplituhedron
+List of theoretical physicists
+
+References[edit]
+
+
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.
+^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.
+^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. 
+^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.
+^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. 
+^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. 
+^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. 
+^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.
+^ Profile, breakthroughprize.org; accessed May 12, 2015.
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.
+^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. 
+
+
+External links[edit]
+
+Elizabeth Landau, "Colliding with nature's best-kept secrets", CNN, 9 May 2008 (accessed 10 May 008).
+Arkani-Hamed's papers in SPIRES database
+Arkani-Hamed's papers in the INSPIRE Database
+Stock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)
+"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed", Ideas Roadshow, 2013
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nima_Arkani-Hamed&oldid=711772365"					
+Categories: 1972 birthsLiving peopleAmerican people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaNaturalized citizens of CanadaAmerican physicistsCanadian physicistsString theoristsParticle physicistsEthnic Azerbaijani scientistsHarvard University facultyStanford University postdoctoral scholarsUniversity of California, Berkeley facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesTheoretical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2015Pages using citations with accessdate and no URL 
+
+
+Nima Arkani-Hamed
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Nima Arkani-Hamed
+
+
+
+
+
+Born
+(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+Institute for Advanced Study
+Cornell University
+
+
+Alma mater
+University of Toronto
+University of California, Berkeley
+
+
+Known for
+Large extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudes
+
+
+Notable awards
+Gribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)
+
+
+Website
+Official website
+
+
+Nima Arkani-Hamed (born April 5, 1972) is an American-Canadian[1] theoretical physicist with interests in high-energy physics, string theory and cosmology. Arkani-Hamed is now on the faculty at the Institute for Advanced Study in Princeton, New Jersey,[2] and director of The Center for Future High Energy Physics (CFHEP) in China, Beijing.[3]He was formerly a professor at Harvard University and the University of California, Berkeley.
+
+
+
+Contents
+
+
+1 Early life
+2 Academic career
+3 Honors and awards
+4 Selected works
+5 Lectures
+6 See also
+7 References
+8 External links
+
+
+
+Early life[edit]
+Arkani-Hamed's parents, Jafargholi "Jafar" Arkani-Hamed and Hamideh Alasti are both physicists from Iran.[4] His father, a native of Tabriz,[4] was chairman of the physics department at Sharif University of Technology in Tehran, and later taught earth and planetary sciences at McGill University in Montreal.[5] Arkani-Hamed moved to Iran as a child with his family and they eventually immigrated to Canada.[6]
+Academic career[edit]
+Arkani-Hamed graduated at the University of Toronto with a joint honours degree in mathematics and physics in 1993, and went to the University of California, Berkeley, for his graduate studies, where he worked under the supervision of Lawrence Hall. The majority of his graduate work was on studies of supersymmetry and flavor physics. His Ph.D dissertation was titled "Supersymmetry and Hierarchies". He completed his Ph.D in 1997 and went to SLAC at Stanford University for post-doctoral studies. During this time he worked with Savas Dimopoulos and developed the paradigm of large extra dimensions.[citation needed]
+In 1999 he joined the faculty of the University of California, Berkeley physics department. He took a leave of absence from Berkeley to visit Harvard University beginning January 2001. Shortly after arriving at Harvard he worked with Howard Georgi and Andrew Cohen on the idea of emergent extra dimensions, dubbed dimensional deconstruction. These ideas eventually led to the development of little Higgs theories.[citation needed]
+He officially joined Harvard's faculty in the fall of 2002. Arkani-Hamed has appeared on various television programs and newspapers talking about space, time and dimensions and the current state of theoretical physics. In 2003 he won the Gribov Medal of the European Physical Society, and in the summer of 2005 while at Harvard he won the Phi Beta Kappa award for teaching excellence. He appeared in the 2013 documentary film Particle Fever. He participated in the Stock Exchange of Visions project in 2007. In 2008, he won the Raymond and Beverly Sackler Prize given at Tel Aviv University to young scientists who have made outstanding and fundamental contributions in Physical Science.[citation needed]
+Arkani-Hamed was elected a Fellow of the American Academy of Arts and Sciences in 2009.[7] In 2010, he gave the Messenger lectures at Cornell University.
+Nima Arkani-Hamed was a professor at Harvard University from 2002–2008, and is now at the Institute for Advanced Study.[8] Arkani-Hamed was selected for being a member of The Selection Committee for the 2015 Breakthrough Prize in Fundamental Physics.[9]
+Honors and awards[edit]
+In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[10] He has previously won the Sackler Prize from Tel Aviv University in 2008, the Gribov Medal from the European Physical Society in 2003, and the INFN-Pisa Gamberini prize in 1997. He was awarded the Packard and Sloan Fellowship in 2000.[1]
+Selected works[edit]
+
+The paradigm of "large extra dimensions" (with Gia Dvali and Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3. 
+I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0. 
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004. 
+Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.  |access-date= requires |url= (help)
+
+
+Deconstruction (with Howard Georgi and Andrew Cohen):
+
+
+N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341. 
+
+
+Little Higgs theories:
+
+
+N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021. 
+N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034. 
+
+
+Ghost condensation:
+
+
+N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074. 
+
+
+Split supersymmetry (with Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073. 
+N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026. 
+
+
+Dark Matter:
+
+
+N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104. 
+N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014. 
+
+
+Scattering Amplitudes:
+
+
+N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020. 
+N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041. 
+
+Lectures[edit]
+
+"The Future of Fundamental Physics" five lectures given at Cornell October 4-8, 2010 in the Messenger Lecture series.[11]
+"Introduction to Scattering Amplitudes" five lectures given at Cornell October 4-8, 2010, focus on n=4 supersymmetric Yang-Mills Theory.[12]
+
+See also[edit]
+
+Amplituhedron
+List of theoretical physicists
+
+References[edit]
+
+
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.
+^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.
+^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. 
+^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.
+^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. 
+^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. 
+^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. 
+^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.
+^ Profile, breakthroughprize.org; accessed May 12, 2015.
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.
+^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. 
+
+
+External links[edit]
+
+Elizabeth Landau, "Colliding with nature's best-kept secrets", CNN, 9 May 2008 (accessed 10 May 008).
+Arkani-Hamed's papers in SPIRES database
+Arkani-Hamed's papers in the INSPIRE Database
+Stock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)
+"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed", Ideas Roadshow, 2013
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nima_Arkani-Hamed&oldid=711772365"					
+Categories: 1972 birthsLiving peopleAmerican people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaNaturalized citizens of CanadaAmerican physicistsCanadian physicistsString theoristsParticle physicistsEthnic Azerbaijani scientistsHarvard University facultyStanford University postdoctoral scholarsUniversity of California, Berkeley facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesTheoretical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2015Pages using citations with accessdate and no URL 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Nima Arkani-Hamed
+
+
+
+
+
+Born
+(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+Institute for Advanced Study
+Cornell University
+
+
+Alma mater
+University of Toronto
+University of California, Berkeley
+
+
+Known for
+Large extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudes
+
+
+Notable awards
+Gribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)
+
+
+Website
+Official website
+
+
+Nima Arkani-Hamed (born April 5, 1972) is an American-Canadian[1] theoretical physicist with interests in high-energy physics, string theory and cosmology. Arkani-Hamed is now on the faculty at the Institute for Advanced Study in Princeton, New Jersey,[2] and director of The Center for Future High Energy Physics (CFHEP) in China, Beijing.[3]He was formerly a professor at Harvard University and the University of California, Berkeley.
+
+
+
+Contents
+
+
+1 Early life
+2 Academic career
+3 Honors and awards
+4 Selected works
+5 Lectures
+6 See also
+7 References
+8 External links
+
+
+
+Early life[edit]
+Arkani-Hamed's parents, Jafargholi "Jafar" Arkani-Hamed and Hamideh Alasti are both physicists from Iran.[4] His father, a native of Tabriz,[4] was chairman of the physics department at Sharif University of Technology in Tehran, and later taught earth and planetary sciences at McGill University in Montreal.[5] Arkani-Hamed moved to Iran as a child with his family and they eventually immigrated to Canada.[6]
+Academic career[edit]
+Arkani-Hamed graduated at the University of Toronto with a joint honours degree in mathematics and physics in 1993, and went to the University of California, Berkeley, for his graduate studies, where he worked under the supervision of Lawrence Hall. The majority of his graduate work was on studies of supersymmetry and flavor physics. His Ph.D dissertation was titled "Supersymmetry and Hierarchies". He completed his Ph.D in 1997 and went to SLAC at Stanford University for post-doctoral studies. During this time he worked with Savas Dimopoulos and developed the paradigm of large extra dimensions.[citation needed]
+In 1999 he joined the faculty of the University of California, Berkeley physics department. He took a leave of absence from Berkeley to visit Harvard University beginning January 2001. Shortly after arriving at Harvard he worked with Howard Georgi and Andrew Cohen on the idea of emergent extra dimensions, dubbed dimensional deconstruction. These ideas eventually led to the development of little Higgs theories.[citation needed]
+He officially joined Harvard's faculty in the fall of 2002. Arkani-Hamed has appeared on various television programs and newspapers talking about space, time and dimensions and the current state of theoretical physics. In 2003 he won the Gribov Medal of the European Physical Society, and in the summer of 2005 while at Harvard he won the Phi Beta Kappa award for teaching excellence. He appeared in the 2013 documentary film Particle Fever. He participated in the Stock Exchange of Visions project in 2007. In 2008, he won the Raymond and Beverly Sackler Prize given at Tel Aviv University to young scientists who have made outstanding and fundamental contributions in Physical Science.[citation needed]
+Arkani-Hamed was elected a Fellow of the American Academy of Arts and Sciences in 2009.[7] In 2010, he gave the Messenger lectures at Cornell University.
+Nima Arkani-Hamed was a professor at Harvard University from 2002–2008, and is now at the Institute for Advanced Study.[8] Arkani-Hamed was selected for being a member of The Selection Committee for the 2015 Breakthrough Prize in Fundamental Physics.[9]
+Honors and awards[edit]
+In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[10] He has previously won the Sackler Prize from Tel Aviv University in 2008, the Gribov Medal from the European Physical Society in 2003, and the INFN-Pisa Gamberini prize in 1997. He was awarded the Packard and Sloan Fellowship in 2000.[1]
+Selected works[edit]
+
+The paradigm of "large extra dimensions" (with Gia Dvali and Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3. 
+I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0. 
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004. 
+Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.  |access-date= requires |url= (help)
+
+
+Deconstruction (with Howard Georgi and Andrew Cohen):
+
+
+N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341. 
+
+
+Little Higgs theories:
+
+
+N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021. 
+N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034. 
+
+
+Ghost condensation:
+
+
+N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074. 
+
+
+Split supersymmetry (with Savas Dimopoulos):
+
+
+N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073. 
+N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026. 
+
+
+Dark Matter:
+
+
+N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104. 
+N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014. 
+
+
+Scattering Amplitudes:
+
+
+N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020. 
+N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041. 
+
+Lectures[edit]
+
+"The Future of Fundamental Physics" five lectures given at Cornell October 4-8, 2010 in the Messenger Lecture series.[11]
+"Introduction to Scattering Amplitudes" five lectures given at Cornell October 4-8, 2010, focus on n=4 supersymmetric Yang-Mills Theory.[12]
+
+See also[edit]
+
+Amplituhedron
+List of theoretical physicists
+
+References[edit]
+
+
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.
+^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.
+^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. 
+^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.
+^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. 
+^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. 
+^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. 
+^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.
+^ Profile, breakthroughprize.org; accessed May 12, 2015.
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.
+^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. 
+
+
+External links[edit]
+
+Elizabeth Landau, "Colliding with nature's best-kept secrets", CNN, 9 May 2008 (accessed 10 May 008).
+Arkani-Hamed's papers in SPIRES database
+Arkani-Hamed's papers in the INSPIRE Database
+Stock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)
+"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed", Ideas Roadshow, 2013
+
+
+
+
+
+
+Nima Arkani-Hamed
+
+
+
+
+
+Born
+(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.
+
+
+Fields
+Physics
+
+
+Institutions
+Harvard University
+Institute for Advanced Study
+Cornell University
+
+
+Alma mater
+University of Toronto
+University of California, Berkeley
+
+
+Known for
+Large extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudes
+
+
+Notable awards
+Gribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)
+
+
+Website
+Official website
+
+
+Nima Arkani-Hamed
+Nima Arkani-HamedNima Arkani-Hamed
+
+
+Born
+(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.
+Born(1972-04-05) April 5, 1972 (age 44)
+Houston, Texas, U.S.(1972-04-05)1972-04-05(age 44)Houston, Texas
+Fields
+Physics
+FieldsPhysicsPhysics
+Institutions
+Harvard University
+Institute for Advanced Study
+Cornell University
+InstitutionsHarvard University
+Institute for Advanced Study
+Cornell UniversityHarvard UniversityInstitute for Advanced StudyCornell University
+Alma mater
+University of Toronto
+University of California, Berkeley
+Alma materAlma materAlma materUniversity of Toronto
+University of California, BerkeleyUniversity of TorontoUniversity of California, Berkeley
+Known for
+Large extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudes
+Known forLarge extra dimensions
+Dimensional deconstruction
+Little Higgs
+Split supersymmetry
+Dark Matter
+Scattering amplitudesLarge extra dimensionsDimensional deconstructionLittle HiggsSplit supersymmetryDark MatterScattering amplitudes
+Notable awards
+Gribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)
+Notable awardsGribov Medal of the European Physical Society (2003)
+Sackler Prize of Tel Aviv University (2008)
+Phi Beta Kappa Teaching Award (2005)
+Fundamental Physics Prize (2012)European Physical SocietyTel Aviv UniversityPhi Beta KappaFundamental Physics Prize
+Website
+Official website
+Website
+Official websiteWebsiteOfficial websiteNima Arkani-Hamed (born April 5, 1972) is an American-Canadian[1] theoretical physicist with interests in high-energy physics, string theory and cosmology. Arkani-Hamed is now on the faculty at the Institute for Advanced Study in Princeton, New Jersey,[2] and director of The Center for Future High Energy Physics (CFHEP) in China, Beijing.[3]He was formerly a professor at Harvard University and the University of California, Berkeley.Nima Arkani-Hamed[1][1]theoreticalphysicisthigh-energy physicsstring theorycosmologyInstitute for Advanced StudyPrinceton, New Jersey[2][2][3][3]Harvard UniversityUniversity of California, Berkeley
+
+Contents
+
+
+1 Early life
+2 Academic career
+3 Honors and awards
+4 Selected works
+5 Lectures
+6 See also
+7 References
+8 External links
+
+
+Contents
+Contents
+1 Early life
+2 Academic career
+3 Honors and awards
+4 Selected works
+5 Lectures
+6 See also
+7 References
+8 External links
+1 Early life1 Early life1Early life2 Academic career2 Academic career2Academic career3 Honors and awards3 Honors and awards3Honors and awards4 Selected works4 Selected works4Selected works5 Lectures5 Lectures5Lectures6 See also6 See also6See also7 References7 References7References8 External links8 External links8External linksEarly life[edit]Early life[edit][edit]Arkani-Hamed's parents, Jafargholi "Jafar" Arkani-Hamed and Hamideh Alasti are both physicists from Iran.[4] His father, a native of Tabriz,[4] was chairman of the physics department at Sharif University of Technology in Tehran, and later taught earth and planetary sciences at McGill University in Montreal.[5] Arkani-Hamed moved to Iran as a child with his family and they eventually immigrated to Canada.[6]physicistsIran[4][4]fatherTabriz[4][4]Sharif University of TechnologyTehranearthplanetary sciencesMcGill UniversityMontreal[5][5][6][6]Academic career[edit]Academic career[edit][edit]Arkani-Hamed graduated at the University of Toronto with a joint honours degree in mathematics and physics in 1993, and went to the University of California, Berkeley, for his graduate studies, where he worked under the supervision of Lawrence Hall. The majority of his graduate work was on studies of supersymmetry and flavor physics. His Ph.D dissertation was titled "Supersymmetry and Hierarchies". He completed his Ph.D in 1997 and went to SLAC at Stanford University for post-doctoral studies. During this time he worked with Savas Dimopoulos and developed the paradigm of large extra dimensions.[citation needed]University of Torontojoint honoursmathematicsphysicsUniversity of California, Berkeleysupersymmetryflavor physicsSLACStanford UniversitySavas Dimopouloslarge extra dimensions[citation needed]citation neededcitation neededcitation neededIn 1999 he joined the faculty of the University of California, Berkeley physics department. He took a leave of absence from Berkeley to visit Harvard University beginning January 2001. Shortly after arriving at Harvard he worked with Howard Georgi and Andrew Cohen on the idea of emergent extra dimensions, dubbed dimensional deconstruction. These ideas eventually led to the development of little Higgs theories.[citation needed]University of California, BerkeleyHarvard UniversityHoward Georgidimensional deconstructionlittle Higgs[citation needed]citation neededcitation neededcitation neededHe officially joined Harvard's faculty in the fall of 2002. Arkani-Hamed has appeared on various television programs and newspapers talking about space, time and dimensions and the current state of theoretical physics. In 2003 he won the Gribov Medal of the European Physical Society, and in the summer of 2005 while at Harvard he won the Phi Beta Kappa award for teaching excellence. He appeared in the 2013 documentary film Particle Fever. He participated in the Stock Exchange of Visions project in 2007. In 2008, he won the Raymond and Beverly Sackler Prize given at Tel Aviv University to young scientists who have made outstanding and fundamental contributions in Physical Science.[citation needed]European Physical SocietyPhi Beta KappaParticle FeverParticle FeverStock Exchange of VisionsTel Aviv University[citation needed]citation neededcitation neededcitation neededArkani-Hamed was elected a Fellow of the American Academy of Arts and Sciences in 2009.[7] In 2010, he gave the Messenger lectures at Cornell University.American Academy of Arts and Sciences[7][7]Messenger lecturesNima Arkani-Hamed was a professor at Harvard University from 2002–2008, and is now at the Institute for Advanced Study.[8] Arkani-Hamed was selected for being a member of The Selection Committee for the 2015 Breakthrough Prize in Fundamental Physics.[9]Institute for Advanced Study[8][8]Breakthrough PrizeFundamental Physics[9][9]Honors and awards[edit]Honors and awards[edit][edit]In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[10] He has previously won the Sackler Prize from Tel Aviv University in 2008, the Gribov Medal from the European Physical Society in 2003, and the INFN-Pisa Gamberini prize in 1997. He was awarded the Packard and Sloan Fellowship in 2000.[1]Fundamental Physics PrizeYuri Milner[10][10][1][1]Selected works[edit]Selected works[edit][edit]
+The paradigm of "large extra dimensions" (with Gia Dvali and Savas Dimopoulos):
+The paradigm of "large extra dimensions" (with Gia Dvali and Savas Dimopoulos):Gia DvaliSavas Dimopoulos
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3. 
+I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0. 
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004. 
+Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.  |access-date= requires |url= (help)
+N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3. N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "The Hierarchy Problem and New Dimensions at a Millimeter". Phys. Lett. B 429 (3-4): 263–272. arXiv:hep-ph/9803315. Bibcode:1998PhLB..429..263A. doi:10.1016/S0370-2693(98)00466-3.Phys. Lett. B429arXivhep-ph/9803315Bibcode1998PhLB..429..263Adoi10.1016/S0370-2693(98)00466-3  I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0. I Antoniadis; N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1998). "New Dimensions at a Millimeter to a Fermi and Superstrings at a TeV". Phys. Lett. B 436 (3-4): 257–263. arXiv:hep-ph/9804398. Bibcode:1998PhLB..436..257A. doi:10.1016/S0370-2693(98)00860-0.Phys. Lett. B436arXivhep-ph/9804398Bibcode1998PhLB..436..257Adoi10.1016/S0370-2693(98)00860-0  N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004. N. Arkani-Hamed; S. Dimopoulos; G. Dvali (1999). "Phenomenology, Astrophysics and Cosmology of Theories with Sub-Millimeter Dimensions and TeV Scale Quantum Gravity". Phys. Rev. D 59 (8): 086004. arXiv:hep-ph/9807344. Bibcode:1999PhRvD..59h6004A. doi:10.1103/PhysRevD.59.086004.Phys. Rev. D59arXivhep-ph/9807344Bibcode1999PhRvD..59h6004Adoi10.1103/PhysRevD.59.086004  Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.  |access-date= requires |url= (help)Arkani-Hamed, Nima; Savas Dimopoulos; Georgi Dvali (August 2000). "The Universe's Unseen Dimensions". Scientific American 283 (2): 62–69. doi:10.1038/scientificamerican0800-62. PMID 10914401.Scientific American283doi10.1038/scientificamerican0800-62PMID10914401  |access-date= requires |url= (help)|access-date=|url=help
+Deconstruction (with Howard Georgi and Andrew Cohen):
+Deconstruction (with Howard Georgi and Andrew Cohen):DeconstructionHoward Georgi
+N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341. 
+N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341. N. Arkani-Hamed; A.G. Cohen; H. Georgi (2001). "(De)Constructing Dimensions". Phys. Rev. Lett. 86 (21): 4757–4761. arXiv:hep-th/0104005. Bibcode:2001PhRvL..86.4757A. doi:10.1103/PhysRevLett.86.4757. PMID 11384341.Phys. Rev. Lett.86arXivhep-th/0104005Bibcode2001PhRvL..86.4757Adoi10.1103/PhysRevLett.86.4757PMID11384341  
+Little Higgs theories:
+Little Higgs theories:Little Higgs
+N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020. 
+N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021. 
+N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034. 
+N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9. N. Arkani-Hamed; A. G. Cohen; H. Georgi (2001). "Electroweak symmetry breaking from dimensional deconstruction". Phys. Lett. B. 513: 232–240. arXiv:hep-ph/0105239. Bibcode:2001PhLB..513..232A. doi:10.1016/S0370-2693(01)00741-9.Phys. Lett. B.513arXivhep-ph/0105239Bibcode2001PhLB..513..232Adoi10.1016/S0370-2693(01)00741-9  N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020. N. Arkani-Hamed; A.G. Cohen; T. Gregoire; J.G. Wacker (2002). "Phenomenology of Electroweak Symmetry Breaking from Theory Space". JHEP 0208 (08): 020. arXiv:hep-ph/0202089. Bibcode:2002JHEP...08..020A. doi:10.1088/1126-6708/2002/08/020.JHEP0208arXivhep-ph/0202089Bibcode2002JHEP...08..020Adoi10.1088/1126-6708/2002/08/020  N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021. N. Arkani-Hamed; A.G. Cohen; T. Gregoire; E. Katz; A.E. Nelson & J.G. Wacker (2002). "The Minimal Moose for a Little Higgs". JHEP 0208 (08): 021. arXiv:hep-ph/0206020. Bibcode:2002JHEP...08..021A. doi:10.1088/1126-6708/2002/08/021.JHEP0208arXivhep-ph/0206020Bibcode2002JHEP...08..021Adoi10.1088/1126-6708/2002/08/021  N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034. N. Arkani-Hamed; A.G. Cohen; E. Katz; A.E. Nelson (2002). "The Littlest Higgs". JHEP 0207 (07): 034. arXiv:hep-ph/0206021. Bibcode:2002JHEP...07..034A. doi:10.1088/1126-6708/2002/07/034.JHEP0207arXivhep-ph/0206021Bibcode2002JHEP...07..034Adoi10.1088/1126-6708/2002/07/034  
+Ghost condensation:
+Ghost condensation:Ghost condensation
+N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074. 
+N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074. N. Arkani-Hamed; H.C. Cheng; M. A. Luty; S. Mukohyama (2004). "Ghost condensation and a consistent infrared modification of gravity". JHEP 0405 (05): 074. arXiv:hep-th/0312099. Bibcode:2004JHEP...05..074H. doi:10.1088/1126-6708/2004/05/074.JHEP0405arXivhep-th/0312099Bibcode2004JHEP...05..074Hdoi10.1088/1126-6708/2004/05/074  
+Split supersymmetry (with Savas Dimopoulos):
+Split supersymmetry (with Savas Dimopoulos):Split supersymmetrySavas Dimopoulos
+N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073. 
+N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026. 
+N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073. N. Arkani-Hamed; S. Dimopoulos (2005). "Supersymmetric unification without low energy supersymmetry and signatures for fine-tuning at the LHC". JHEP 0506 (06): 073. arXiv:hep-th/0405159. Bibcode:2005JHEP...06..073A. doi:10.1088/1126-6708/2005/06/073.JHEP0506arXivhep-th/0405159Bibcode2005JHEP...06..073Adoi10.1088/1126-6708/2005/06/073  N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026. N. Arkani-Hamed; S. Dimopoulos; G.F. Giudice; A. Romanino (2005). "Aspects of split supersymmetry". Nucl. Phys. B 0709: 3–46. arXiv:hep-ph/0409232. Bibcode:2005NuPhB.709....3A. doi:10.1016/j.nuclphysb.2004.12.026.Nucl. Phys. B0709arXivhep-ph/0409232Bibcode2005NuPhB.709....3Adoi10.1016/j.nuclphysb.2004.12.026  
+Dark Matter:
+Dark Matter:
+N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104. 
+N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014. 
+N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104. N. Arkani-Hamed; N. Weiner (2008). "LHC Signals for a SuperUnified Theory of Dark Matter". JHEP 0812 (12): 104. arXiv:0810.0714. Bibcode:2008JHEP...12..104A. doi:10.1088/1126-6708/2008/12/104.JHEP0812arXiv0810.0714Bibcode2008JHEP...12..104Adoi10.1088/1126-6708/2008/12/104  N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014. N. Arkani-Hamed; D.P. Finkbeiner; T.R. Slatyer; N. Weiner (2009). "A Theory of Dark Matter". Phys. Rev. D 79: 015014. arXiv:0810.0713. Bibcode:2009PhRvD..79a5014A. doi:10.1103/PhysRevD.79.015014.Phys. Rev. D79arXiv0810.0713Bibcode2009PhRvD..79a5014Adoi10.1103/PhysRevD.79.015014  
+Scattering Amplitudes:
+Scattering Amplitudes:
+N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020. 
+N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041. 
+N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020. N. Arkani-Hamed; F. Cachazo; C. Cheung & J. Kaplan (2010). "A Duality for the S Matrix". JHEP 1003 (3): 020. arXiv:0907.5418. Bibcode:2010JHEP...03..020A. doi:10.1007/JHEP03(2010)020.JHEP1003arXiv0907.5418Bibcode2010JHEP...03..020Adoi10.1007/JHEP03(2010)020  N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041. N. Arkani-Hamed; J. Bourjaily; F. Cachazo; S. Caron-Huot; et al. (2011). "The All-Loop Integrand For Scattering Amplitudes in Planar N=4 SYM". JHEP 1101: 041. arXiv:1008.2958. Bibcode:2011JHEP...01..041A. doi:10.1007/JHEP01(2011)041.JHEP1101arXiv1008.2958Bibcode2011JHEP...01..041Adoi10.1007/JHEP01(2011)041  Lectures[edit]Lectures[edit][edit]
+"The Future of Fundamental Physics" five lectures given at Cornell October 4-8, 2010 in the Messenger Lecture series.[11]
+"Introduction to Scattering Amplitudes" five lectures given at Cornell October 4-8, 2010, focus on n=4 supersymmetric Yang-Mills Theory.[12]
+"The Future of Fundamental Physics" five lectures given at Cornell October 4-8, 2010 in the Messenger Lecture series.[11]The Future of Fundamental PhysicsCornellMessenger Lecture[11][11]"Introduction to Scattering Amplitudes" five lectures given at Cornell October 4-8, 2010, focus on n=4 supersymmetric Yang-Mills Theory.[12]Introduction to Scattering Amplitudessupersymmetric Yang-Mills Theory[12][12]See also[edit]See also[edit][edit]
+Amplituhedron
+List of theoretical physicists
+AmplituhedronAmplituhedronList of theoretical physicistsList of theoretical physicistsReferences[edit]References[edit][edit]
+
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.
+^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.
+^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. 
+^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.
+^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. 
+^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. 
+^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. 
+^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.
+^ Profile, breakthroughprize.org; accessed May 12, 2015.
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.
+^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. 
+
+
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.
+^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.
+^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. 
+^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.
+^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. 
+^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. 
+^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. 
+^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.
+^ Profile, breakthroughprize.org; accessed May 12, 2015.
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.
+^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015.^ a baaaabbbb"Curriculum Vita, updated 4-17-15", sns.ias.edu; accessed December 4, 2015."Curriculum Vita, updated 4-17-15"^ Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.^^^Cornellcast: Nima Arkani-Hamed: Quantum mechanics and space-time.Nima Arkani-Hamed: Quantum mechanics and space-time^ "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. ^^^"CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09. "CFHEP". cfhep.ihep.ac.cn. Retrieved 2016-02-09."CFHEP"cfhep.ihep.ac.cn. Retrieved 2016-02-092016-02-09  ^ a b Jafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.^ a baaaabbbbJafargholi "Jafar" Arkani-Hamed. Lateral Variations of Density in the Earth's Mantle. Archived September 26, 2013, at the Wayback Machine.Lateral Variations of Density in the Earth's MantleArchivedWayback Machine^ "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. ^^^"Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012. "Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Public Broadcasting Service. Retrieved August 30, 2012."Professor Nima Arkani-Hamed Wins Prestigious Physics Prize". Retrieved August 30, 2012August 30,  ^ Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. ^^^Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015. Wolchover, Natalie (4 October 2015). "Visions of Future Physics". Wired (website). Retrieved 5 October 2015."Visions of Future Physics"Wired (website)Wired (website). Retrieved 5 October 20155 October  ^ "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. ^^^"Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011. "Book of Members, 1780-2010: Chapter A" (PDF). American Academy of Arts and Sciences. Retrieved April 25, 2011."Book of Members, 1780-2010: Chapter A"(PDF). Retrieved April 25, 2011April 25,  ^ Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.^^^Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study, ias.edu; accessed May 12, 2015.Theoretical Physicist Nima Arkani-Hamed Appointed to the Faculty of the Institute for Advanced Study^ Profile, breakthroughprize.org; accessed May 12, 2015.^^^Profile, breakthroughprize.org; accessed May 12, 2015.Profile^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.^^^New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, fundamentalphysicsprize.org; accessed August 1, 2012.New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field^ "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. ^^^"The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26. "The Future of Fundamental Physics - CornellCast". CornellCast. Retrieved 2015-12-26."The Future of Fundamental Physics - CornellCast"CornellCast. Retrieved 2015-12-262015-12-26  ^ "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. ^^^"Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26. "Introduction to Scattering Amplitudes - CornellCast". CornellCast. Retrieved 2015-12-26."Introduction to Scattering Amplitudes - CornellCast"CornellCast. Retrieved 2015-12-262015-12-26  External links[edit]External links[edit][edit]
+Elizabeth Landau, "Colliding with nature's best-kept secrets", CNN, 9 May 2008 (accessed 10 May 008).
+Arkani-Hamed's papers in SPIRES database
+Arkani-Hamed's papers in the INSPIRE Database
+Stock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)
+"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed", Ideas Roadshow, 2013
+Elizabeth Landau, "Colliding with nature's best-kept secrets", CNN, 9 May 2008 (accessed 10 May 008).Colliding with nature's best-kept secretsCNNArkani-Hamed's papers in SPIRES databaseArkani-Hamed's papers in SPIRES databaseArkani-Hamed's papers in the INSPIRE DatabaseArkani-Hamed's papers in the INSPIRE DatabaseStock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)Stock Exchange Of Visions: Visions of Nima Arkani-Hamed (Video Interviews)"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed", Ideas Roadshow, 2013"The Power of Principles: Physics Revealed - A conversation with Nima Arkani-Hamed"Ideas Roadshow
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nima_Arkani-Hamed&oldid=711772365"					https://en.wikipedia.org/w/index.php?title=Nima_Arkani-Hamed&oldid=711772365Categories: 1972 birthsLiving peopleAmerican people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaNaturalized citizens of CanadaAmerican physicistsCanadian physicistsString theoristsParticle physicistsEthnic Azerbaijani scientistsHarvard University facultyStanford University postdoctoral scholarsUniversity of California, Berkeley facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesTheoretical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2015Pages using citations with accessdate and no URLCategories: 1972 birthsLiving peopleAmerican people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaNaturalized citizens of CanadaAmerican physicistsCanadian physicistsString theoristsParticle physicistsEthnic Azerbaijani scientistsHarvard University facultyStanford University postdoctoral scholarsUniversity of California, Berkeley facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesTheoretical physicistsCategories1972 birthsLiving peopleAmerican people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaNaturalized citizens of CanadaAmerican physicistsCanadian physicistsString theoristsParticle physicistsEthnic Azerbaijani scientistsHarvard University facultyStanford University postdoctoral scholarsUniversity of California, Berkeley facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesTheoretical physicists1972 births1972 birthsLiving peopleLiving peopleAmerican people of Iranian descentAmerican people of Iranian descentCanadian people of Iranian descentCanadian people of Iranian descentAmerican people of Azerbaijani descentAmerican people of Azerbaijani descentCanadian people of Azerbaijani descentCanadian people of Azerbaijani descentAmerican emigrants to CanadaAmerican emigrants to CanadaNaturalized citizens of CanadaNaturalized citizens of CanadaAmerican physicistsAmerican physicistsCanadian physicistsCanadian physicistsString theoristsString theoristsParticle physicistsParticle physicistsEthnic Azerbaijani scientistsEthnic Azerbaijani scientistsHarvard University facultyHarvard University facultyStanford University postdoctoral scholarsStanford University postdoctoral scholarsUniversity of California, Berkeley facultyUniversity of California, Berkeley facultyInstitute for Advanced Study facultyInstitute for Advanced Study facultyUniversity of Toronto alumniUniversity of Toronto alumniUniversity of California, Berkeley alumniUniversity of California, Berkeley alumniFellows of the American Academy of Arts and SciencesFellows of the American Academy of Arts and SciencesTheoretical physicistsTheoretical physicistsHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2015Pages using citations with accessdate and no URLAll articles with unsourced statementsArticles with unsourced statements from May 2015Pages using citations with accessdate and no URLAll articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from May 2015Articles with unsourced statements from May 2015Pages using citations with accessdate and no URLPages using citations with accessdate and no URL
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةAzərbaycancaCatalàDeutschEspañolفارسیFrançais한국어ItalianoKreyòl ayisyenPolskiPortuguêsРусскийTürkçe中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةAzərbaycancaCatalàDeutschEspañolفارسیFrançais한국어ItalianoKreyòl ayisyenPolskiPortuguêsРусскийTürkçe中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةAzərbaycancaCatalàDeutschEspañolفارسیFrançais한국어ItalianoKreyòl ayisyenPolskiPortuguêsРусскийTürkçe中文 
+Edit links 
+Languages
+
+العربيةAzərbaycancaCatalàDeutschEspañolفارسیFrançais한국어ItalianoKreyòl ayisyenPolskiPortuguêsРусскийTürkçe中文 
+Edit links 
+العربيةAzərbaycancaCatalàDeutschEspañolفارسیFrançais한국어ItalianoKreyòl ayisyenPolskiPortuguêsРусскийTürkçe中文 العربيةالعربيةAzərbaycancaAzərbaycancaCatalàCatalàDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançais한국어한국어ItalianoItalianoKreyòl ayisyenKreyòl ayisyenPolskiPolskiPortuguêsPortuguêsРусскийРусскийTürkçeTürkçe中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 24 March 2016, at 20:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 24 March 2016, at 20:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 24 March 2016, at 20:02.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

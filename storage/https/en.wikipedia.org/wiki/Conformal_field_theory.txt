@@ -1,0 +1,2832 @@
+Conformal field theory - Wikipedia, the free encyclopedia
+
+
+
+
+Conformal field theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+A conformal field theory (CFT) is a quantum field theory that is invariant under conformal transformations. In two dimensions, there is an infinite-dimensional algebra of local conformal transformations, and conformal field theories can sometimes be exactly solved or classified.
+Conformal field theory has important applications[1] to string theory, statistical mechanics, and condensed matter physics. Statistical and condensed matter systems are indeed often conformally invariant at their thermodynamic or quantum critical points.
+
+
+
+Contents
+
+
+1 Scale invariance vs. conformal invariance
+2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+
+3 Conformal symmetry
+4 See also
+5 References
+6 Further reading
+
+
+
+Scale invariance vs. conformal invariance[edit]
+While it is possible for a quantum field theory to be scale invariant but not conformally-invariant, examples are rare.[2] For this reason, the terms are often used interchangeably in the context of quantum field theory, even though the scale symmetry group is smaller.
+In some particular cases it is possible to prove that scale invariance implies conformal invariance in a quantum field theory, for example in unitary compact conformal field theories in two dimensions.
+Dimensional considerations[edit]
+Two dimensions[edit]
+There are two versions of 2D CFT: 1) Euclidean, and 2) Lorentzian. The former applies to statistical mechanics, and the latter to quantum field theory. The two versions are related by a Wick rotation.
+Two-dimensional CFTs are (in some way) invariant under an infinite-dimensional symmetry group. For example, consider a CFT on the Riemann sphere. It has the Möbius transformations as the conformal group, which is isomorphic to (the finite-dimensional) PSL(2,C).
+However, the infinitesimal conformal transformations[3] form an infinite-dimensional algebra, called the Witt algebra, but this infinity of conformal transformations do not have global inverses on ℂ. Only the primary fields (or chiral fields) are invariant with respect to this full infinitesimal conformal group. Its generators are indexed by integers n,
+
+
+
+where Tzz is the holomorphic part of the non-trace piece of the energy momentum tensor of the theory. E.g., for a free scalar field,
+
+
+
+
+In most conformal field theories, a conformal anomaly, also known as a Weyl anomaly, arises in the quantum theory. This results in the appearance of a nontrivial central charge, and the Witt algebra is extended to the Virasoro algebra.
+In Euclidean CFT, one has both a holomorphic and an antiholomorphic copy of the Virasoro algebra. In Lorentzian CFT, one has a left-moving and a right moving copy of the Virasoro algebra (spacetime is a cylinder, with space being a circle, and time a line).
+This symmetry makes it possible to classify two-dimensional CFTs much more precisely than in higher dimensions. In particular, it is possible to relate the spectrum of primary operators in a theory to the value of the central charge, c.
+The Hilbert space of physical states is a unitary module of the Virasoro algebra corresponding to a fixed value of c. Stability requires that the energy spectrum of the Hamiltonian be nonnegative. The modules of interest are the highest weight modules of the Virasoro algebra.
+A chiral field is a holomorphic field W(z) which transforms as
+
+
+
+and
+
+
+
+Analogously, mutatis mutandis, for an antichiral field. Δ is called the conformal weight of the chiral field W.
+Furthermore, it was shown by Alexander Zamolodchikov that there exists a function, C, which decreases monotonically under the renormalization group flow of a two-dimensional quantum field theory, and is equal to the central charge for a two-dimensional conformal field theory. This is known as the Zamolodchikov C-theorem, and tells us that renormalization group flow in two dimensions is irreversible.
+Frequently, we are not just interested in the operators, but we are also interested in the vacuum state, or in statistical mechanics, the thermal state. Unless c=0, there can't possibly be any state which leaves the entire infinite dimensional conformal symmetry unbroken. The best we can come up with is a state which is invariant under L-1, L0, L1, Li, . This contains the Möbius subgroup. The rest of the conformal group is spontaneously broken.
+Two-dimensional conformal field theories play an important role in statistical mechanics, where they describe critical points of many lattice models.
+More than two dimensions[edit]
+In d > 2 dimensions, the conformal group is isomorphic to SO(d+1, 1 ) in Euclidean signature, or SO(d, 2 ) in Minkowski space.
+Higher-dimensional conformal field theories are prominent in the AdS/CFT correspondence, in which a gravitational theory in anti-de Sitter space (AdS) is equivalent to a conformal field theory on the AdS boundary. Notable examples are d=4 N = 4 supersymmetric Yang–Mills theory, which is dual to Type IIB string theory on AdS5 x S5, and d=3 N=6 super-Chern–Simons theory, which is dual to M-theory on AdS4 x S7. (The prefix "super" denotes supersymmetry, N denotes the degree of extended supersymmetry possessed by the theory, and d the number of space-time dimensions on the boundary.)
+Conformal symmetry[edit]
+Conformal symmetry is a symmetry under scale invariance and under the special conformal transformations having the following relations.
+
+
+
+
+
+
+
+where  generates translations,  generates scaling transformations as a scalar and  generates the special conformal transformations as a covariant vector under Lorentz transformation.
+Main articles: Conformal symmetry and Conformal Killing equation
+See also[edit]
+
+Logarithmic conformal field theory
+AdS/CFT correspondence
+Operator product expansion
+Vertex operator algebra
+WZW model
+Critical point
+Boundary conformal field theory
+Primary field
+Superconformal algebra
+Conformal algebra
+Conformal bootstrap
+
+References[edit]
+
+
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.
+^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. 
+^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .
+
+
+Further reading[edit]
+
+Martin Schottenloher, A Mathematical Introduction to Conformal Field Theory, Springer-Verlag, Berlin, Heidelberg, 1997. ISBN 3-540-61753-1, 2nd edition 2008, ISBN 978-3-540-68625-5.
+P. Di Francesco, P. Mathieu, and D. Sénéchal, Conformal Field Theory, Springer-Verlag, New York, 1997. ISBN 0-387-94785-X.
+Conformal Field Theory page in String Theory Wiki lists books and reviews.
+Slava Rychkov, Lectures on Conformal Field Theory in D≥ 3 Dimensions, 2012
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Conformal_field_theory&oldid=711581303"					
+Categories: SymmetryScaling symmetriesConformal field theory 
+
+
+Conformal field theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+A conformal field theory (CFT) is a quantum field theory that is invariant under conformal transformations. In two dimensions, there is an infinite-dimensional algebra of local conformal transformations, and conformal field theories can sometimes be exactly solved or classified.
+Conformal field theory has important applications[1] to string theory, statistical mechanics, and condensed matter physics. Statistical and condensed matter systems are indeed often conformally invariant at their thermodynamic or quantum critical points.
+
+
+
+Contents
+
+
+1 Scale invariance vs. conformal invariance
+2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+
+3 Conformal symmetry
+4 See also
+5 References
+6 Further reading
+
+
+
+Scale invariance vs. conformal invariance[edit]
+While it is possible for a quantum field theory to be scale invariant but not conformally-invariant, examples are rare.[2] For this reason, the terms are often used interchangeably in the context of quantum field theory, even though the scale symmetry group is smaller.
+In some particular cases it is possible to prove that scale invariance implies conformal invariance in a quantum field theory, for example in unitary compact conformal field theories in two dimensions.
+Dimensional considerations[edit]
+Two dimensions[edit]
+There are two versions of 2D CFT: 1) Euclidean, and 2) Lorentzian. The former applies to statistical mechanics, and the latter to quantum field theory. The two versions are related by a Wick rotation.
+Two-dimensional CFTs are (in some way) invariant under an infinite-dimensional symmetry group. For example, consider a CFT on the Riemann sphere. It has the Möbius transformations as the conformal group, which is isomorphic to (the finite-dimensional) PSL(2,C).
+However, the infinitesimal conformal transformations[3] form an infinite-dimensional algebra, called the Witt algebra, but this infinity of conformal transformations do not have global inverses on ℂ. Only the primary fields (or chiral fields) are invariant with respect to this full infinitesimal conformal group. Its generators are indexed by integers n,
+
+
+
+where Tzz is the holomorphic part of the non-trace piece of the energy momentum tensor of the theory. E.g., for a free scalar field,
+
+
+
+
+In most conformal field theories, a conformal anomaly, also known as a Weyl anomaly, arises in the quantum theory. This results in the appearance of a nontrivial central charge, and the Witt algebra is extended to the Virasoro algebra.
+In Euclidean CFT, one has both a holomorphic and an antiholomorphic copy of the Virasoro algebra. In Lorentzian CFT, one has a left-moving and a right moving copy of the Virasoro algebra (spacetime is a cylinder, with space being a circle, and time a line).
+This symmetry makes it possible to classify two-dimensional CFTs much more precisely than in higher dimensions. In particular, it is possible to relate the spectrum of primary operators in a theory to the value of the central charge, c.
+The Hilbert space of physical states is a unitary module of the Virasoro algebra corresponding to a fixed value of c. Stability requires that the energy spectrum of the Hamiltonian be nonnegative. The modules of interest are the highest weight modules of the Virasoro algebra.
+A chiral field is a holomorphic field W(z) which transforms as
+
+
+
+and
+
+
+
+Analogously, mutatis mutandis, for an antichiral field. Δ is called the conformal weight of the chiral field W.
+Furthermore, it was shown by Alexander Zamolodchikov that there exists a function, C, which decreases monotonically under the renormalization group flow of a two-dimensional quantum field theory, and is equal to the central charge for a two-dimensional conformal field theory. This is known as the Zamolodchikov C-theorem, and tells us that renormalization group flow in two dimensions is irreversible.
+Frequently, we are not just interested in the operators, but we are also interested in the vacuum state, or in statistical mechanics, the thermal state. Unless c=0, there can't possibly be any state which leaves the entire infinite dimensional conformal symmetry unbroken. The best we can come up with is a state which is invariant under L-1, L0, L1, Li, . This contains the Möbius subgroup. The rest of the conformal group is spontaneously broken.
+Two-dimensional conformal field theories play an important role in statistical mechanics, where they describe critical points of many lattice models.
+More than two dimensions[edit]
+In d > 2 dimensions, the conformal group is isomorphic to SO(d+1, 1 ) in Euclidean signature, or SO(d, 2 ) in Minkowski space.
+Higher-dimensional conformal field theories are prominent in the AdS/CFT correspondence, in which a gravitational theory in anti-de Sitter space (AdS) is equivalent to a conformal field theory on the AdS boundary. Notable examples are d=4 N = 4 supersymmetric Yang–Mills theory, which is dual to Type IIB string theory on AdS5 x S5, and d=3 N=6 super-Chern–Simons theory, which is dual to M-theory on AdS4 x S7. (The prefix "super" denotes supersymmetry, N denotes the degree of extended supersymmetry possessed by the theory, and d the number of space-time dimensions on the boundary.)
+Conformal symmetry[edit]
+Conformal symmetry is a symmetry under scale invariance and under the special conformal transformations having the following relations.
+
+
+
+
+
+
+
+where  generates translations,  generates scaling transformations as a scalar and  generates the special conformal transformations as a covariant vector under Lorentz transformation.
+Main articles: Conformal symmetry and Conformal Killing equation
+See also[edit]
+
+Logarithmic conformal field theory
+AdS/CFT correspondence
+Operator product expansion
+Vertex operator algebra
+WZW model
+Critical point
+Boundary conformal field theory
+Primary field
+Superconformal algebra
+Conformal algebra
+Conformal bootstrap
+
+References[edit]
+
+
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.
+^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. 
+^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .
+
+
+Further reading[edit]
+
+Martin Schottenloher, A Mathematical Introduction to Conformal Field Theory, Springer-Verlag, Berlin, Heidelberg, 1997. ISBN 3-540-61753-1, 2nd edition 2008, ISBN 978-3-540-68625-5.
+P. Di Francesco, P. Mathieu, and D. Sénéchal, Conformal Field Theory, Springer-Verlag, New York, 1997. ISBN 0-387-94785-X.
+Conformal Field Theory page in String Theory Wiki lists books and reviews.
+Slava Rychkov, Lectures on Conformal Field Theory in D≥ 3 Dimensions, 2012
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Conformal_field_theory&oldid=711581303"					
+Categories: SymmetryScaling symmetriesConformal field theory 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchA conformal field theory (CFT) is a quantum field theory that is invariant under conformal transformations. In two dimensions, there is an infinite-dimensional algebra of local conformal transformations, and conformal field theories can sometimes be exactly solved or classified.
+Conformal field theory has important applications[1] to string theory, statistical mechanics, and condensed matter physics. Statistical and condensed matter systems are indeed often conformally invariant at their thermodynamic or quantum critical points.
+
+
+
+Contents
+
+
+1 Scale invariance vs. conformal invariance
+2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+
+3 Conformal symmetry
+4 See also
+5 References
+6 Further reading
+
+
+
+Scale invariance vs. conformal invariance[edit]
+While it is possible for a quantum field theory to be scale invariant but not conformally-invariant, examples are rare.[2] For this reason, the terms are often used interchangeably in the context of quantum field theory, even though the scale symmetry group is smaller.
+In some particular cases it is possible to prove that scale invariance implies conformal invariance in a quantum field theory, for example in unitary compact conformal field theories in two dimensions.
+Dimensional considerations[edit]
+Two dimensions[edit]
+There are two versions of 2D CFT: 1) Euclidean, and 2) Lorentzian. The former applies to statistical mechanics, and the latter to quantum field theory. The two versions are related by a Wick rotation.
+Two-dimensional CFTs are (in some way) invariant under an infinite-dimensional symmetry group. For example, consider a CFT on the Riemann sphere. It has the Möbius transformations as the conformal group, which is isomorphic to (the finite-dimensional) PSL(2,C).
+However, the infinitesimal conformal transformations[3] form an infinite-dimensional algebra, called the Witt algebra, but this infinity of conformal transformations do not have global inverses on ℂ. Only the primary fields (or chiral fields) are invariant with respect to this full infinitesimal conformal group. Its generators are indexed by integers n,
+
+
+
+where Tzz is the holomorphic part of the non-trace piece of the energy momentum tensor of the theory. E.g., for a free scalar field,
+
+
+
+
+In most conformal field theories, a conformal anomaly, also known as a Weyl anomaly, arises in the quantum theory. This results in the appearance of a nontrivial central charge, and the Witt algebra is extended to the Virasoro algebra.
+In Euclidean CFT, one has both a holomorphic and an antiholomorphic copy of the Virasoro algebra. In Lorentzian CFT, one has a left-moving and a right moving copy of the Virasoro algebra (spacetime is a cylinder, with space being a circle, and time a line).
+This symmetry makes it possible to classify two-dimensional CFTs much more precisely than in higher dimensions. In particular, it is possible to relate the spectrum of primary operators in a theory to the value of the central charge, c.
+The Hilbert space of physical states is a unitary module of the Virasoro algebra corresponding to a fixed value of c. Stability requires that the energy spectrum of the Hamiltonian be nonnegative. The modules of interest are the highest weight modules of the Virasoro algebra.
+A chiral field is a holomorphic field W(z) which transforms as
+
+
+
+and
+
+
+
+Analogously, mutatis mutandis, for an antichiral field. Δ is called the conformal weight of the chiral field W.
+Furthermore, it was shown by Alexander Zamolodchikov that there exists a function, C, which decreases monotonically under the renormalization group flow of a two-dimensional quantum field theory, and is equal to the central charge for a two-dimensional conformal field theory. This is known as the Zamolodchikov C-theorem, and tells us that renormalization group flow in two dimensions is irreversible.
+Frequently, we are not just interested in the operators, but we are also interested in the vacuum state, or in statistical mechanics, the thermal state. Unless c=0, there can't possibly be any state which leaves the entire infinite dimensional conformal symmetry unbroken. The best we can come up with is a state which is invariant under L-1, L0, L1, Li, . This contains the Möbius subgroup. The rest of the conformal group is spontaneously broken.
+Two-dimensional conformal field theories play an important role in statistical mechanics, where they describe critical points of many lattice models.
+More than two dimensions[edit]
+In d > 2 dimensions, the conformal group is isomorphic to SO(d+1, 1 ) in Euclidean signature, or SO(d, 2 ) in Minkowski space.
+Higher-dimensional conformal field theories are prominent in the AdS/CFT correspondence, in which a gravitational theory in anti-de Sitter space (AdS) is equivalent to a conformal field theory on the AdS boundary. Notable examples are d=4 N = 4 supersymmetric Yang–Mills theory, which is dual to Type IIB string theory on AdS5 x S5, and d=3 N=6 super-Chern–Simons theory, which is dual to M-theory on AdS4 x S7. (The prefix "super" denotes supersymmetry, N denotes the degree of extended supersymmetry possessed by the theory, and d the number of space-time dimensions on the boundary.)
+Conformal symmetry[edit]
+Conformal symmetry is a symmetry under scale invariance and under the special conformal transformations having the following relations.
+
+
+
+
+
+
+
+where  generates translations,  generates scaling transformations as a scalar and  generates the special conformal transformations as a covariant vector under Lorentz transformation.
+Main articles: Conformal symmetry and Conformal Killing equation
+See also[edit]
+
+Logarithmic conformal field theory
+AdS/CFT correspondence
+Operator product expansion
+Vertex operator algebra
+WZW model
+Critical point
+Boundary conformal field theory
+Primary field
+Superconformal algebra
+Conformal algebra
+Conformal bootstrap
+
+References[edit]
+
+
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.
+^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. 
+^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .
+
+
+Further reading[edit]
+
+Martin Schottenloher, A Mathematical Introduction to Conformal Field Theory, Springer-Verlag, Berlin, Heidelberg, 1997. ISBN 3-540-61753-1, 2nd edition 2008, ISBN 978-3-540-68625-5.
+P. Di Francesco, P. Mathieu, and D. Sénéchal, Conformal Field Theory, Springer-Verlag, New York, 1997. ISBN 0-387-94785-X.
+Conformal Field Theory page in String Theory Wiki lists books and reviews.
+Slava Rychkov, Lectures on Conformal Field Theory in D≥ 3 Dimensions, 2012
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+
+A conformal field theory (CFT) is a quantum field theory that is invariant under conformal transformations. In two dimensions, there is an infinite-dimensional algebra of local conformal transformations, and conformal field theories can sometimes be exactly solved or classified.conformal field theoryCFTquantum field theoryinvariantconformal transformationstwodimensionsConformal field theory has important applications[1] to string theory, statistical mechanics, and condensed matter physics. Statistical and condensed matter systems are indeed often conformally invariant at their thermodynamic or quantum critical points.[1][1]string theorystatistical mechanicscondensed matter physicsthermodynamicquantum critical points
+
+Contents
+
+
+1 Scale invariance vs. conformal invariance
+2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+
+3 Conformal symmetry
+4 See also
+5 References
+6 Further reading
+
+
+Contents
+Contents
+1 Scale invariance vs. conformal invariance
+2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+
+3 Conformal symmetry
+4 See also
+5 References
+6 Further reading
+1 Scale invariance vs. conformal invariance1 Scale invariance vs. conformal invariance1Scale invariance vs. conformal invariance2 Dimensional considerations
+
+2.1 Two dimensions
+2.2 More than two dimensions
+
+2 Dimensional considerations2Dimensional considerations
+2.1 Two dimensions
+2.2 More than two dimensions
+2.1 Two dimensions2.1 Two dimensions2.1Two dimensions2.2 More than two dimensions2.2 More than two dimensions2.2More than two dimensions3 Conformal symmetry3 Conformal symmetry3Conformal symmetry4 See also4 See also4See also5 References5 References5References6 Further reading6 Further reading6Further readingScale invariance vs. conformal invariance[edit]Scale invariance vs. conformal invariance[edit][edit]While it is possible for a quantum field theory to be scale invariant but not conformally-invariant, examples are rare.[2] For this reason, the terms are often used interchangeably in the context of quantum field theory, even though the scale symmetry group is smaller.quantum field theoryscale invariant[2][2]In some particular cases it is possible to prove that scale invariance implies conformal invariance in a quantum field theory, for example in unitary compact conformal field theories in two dimensions.unitarycompactDimensional considerations[edit]Dimensional considerations[edit][edit]Two dimensions[edit]Two dimensions[edit][edit]There are two versions of 2D CFT: 1) Euclidean, and 2) Lorentzian. The former applies to statistical mechanics, and the latter to quantum field theory. The two versions are related by a Wick rotation.statistical mechanicsquantum field theoryWick rotationTwo-dimensional CFTs are (in some way) invariant under an infinite-dimensional symmetry group. For example, consider a CFT on the Riemann sphere. It has the Möbius transformations as the conformal group, which is isomorphic to (the finite-dimensional) PSL(2,C).infinite-dimensional symmetry groupRiemann sphereMöbius transformationsPSL(2,C)CHowever, the infinitesimal conformal transformations[3] form an infinite-dimensional algebra, called the Witt algebra, but this infinity of conformal transformations do not have global inverses on ℂ. Only the primary fields (or chiral fields) are invariant with respect to this full infinitesimal conformal group. Its generators are indexed by integers n,[3][3]infinite-dimensional algebraWitt algebran
+
+where Tzz is the holomorphic part of the non-trace piece of the energy momentum tensor of the theory. E.g., for a free scalar field,TzzTzzzzholomorphicenergy momentum tensor
+
+
+In most conformal field theories, a conformal anomaly, also known as a Weyl anomaly, arises in the quantum theory. This results in the appearance of a nontrivial central charge, and the Witt algebra is extended to the Virasoro algebra.Weyl anomalyWitt algebraextendedVirasoro algebraIn Euclidean CFT, one has both a holomorphic and an antiholomorphic copy of the Virasoro algebra. In Lorentzian CFT, one has a left-moving and a right moving copy of the Virasoro algebra (spacetime is a cylinder, with space being a circle, and time a line).This symmetry makes it possible to classify two-dimensional CFTs much more precisely than in higher dimensions. In particular, it is possible to relate the spectrum of primary operators in a theory to the value of the central charge, c.central chargecThe Hilbert space of physical states is a unitary module of the Virasoro algebra corresponding to a fixed value of c. Stability requires that the energy spectrum of the Hamiltonian be nonnegative. The modules of interest are the highest weight modules of the Virasoro algebra.Hilbert spacemodulecHamiltonianA chiral field is a holomorphic field W(z) which transforms asWz
+
+and
+
+Analogously, mutatis mutandis, for an antichiral field. Δ is called the conformal weight of the chiral field W.Δconformal weightWFurthermore, it was shown by Alexander Zamolodchikov that there exists a function, C, which decreases monotonically under the renormalization group flow of a two-dimensional quantum field theory, and is equal to the central charge for a two-dimensional conformal field theory. This is known as the Zamolodchikov C-theorem, and tells us that renormalization group flow in two dimensions is irreversible.Alexander Zamolodchikovrenormalization groupC-theoremrenormalization group flowFrequently, we are not just interested in the operators, but we are also interested in the vacuum state, or in statistical mechanics, the thermal state. Unless c=0, there can't possibly be any state which leaves the entire infinite dimensional conformal symmetry unbroken. The best we can come up with is a state which is invariant under L-1, L0, L1, Li, . This contains the Möbius subgroup. The rest of the conformal group is spontaneously broken.c=0-101iTwo-dimensional conformal field theories play an important role in statistical mechanics, where they describe critical points of many lattice models.More than two dimensions[edit]More than two dimensions[edit][edit]In d > 2 dimensions, the conformal group is isomorphic to SO(d+1, 1 ) in Euclidean signature, or SO(d, 2 ) in Minkowski space.d > 2SO(d+1, 1 )d+11SO(d, 2 )d2Higher-dimensional conformal field theories are prominent in the AdS/CFT correspondence, in which a gravitational theory in anti-de Sitter space (AdS) is equivalent to a conformal field theory on the AdS boundary. Notable examples are d=4 N = 4 supersymmetric Yang–Mills theory, which is dual to Type IIB string theory on AdS5 x S5, and d=3 N=6 super-Chern–Simons theory, which is dual to M-theory on AdS4 x S7. (The prefix "super" denotes supersymmetry, N denotes the degree of extended supersymmetry possessed by the theory, and d the number of space-time dimensions on the boundary.)AdS/CFT correspondenceanti-de Sitter spaceN = 4 supersymmetric Yang–Mills theoryType IIB string theory55Chern–Simons theoryM-theory47supersymmetryextended supersymmetryConformal symmetry[edit]Conformal symmetry[edit][edit]Conformal symmetry is a symmetry under scale invariance and under the special conformal transformations having the following relations.Conformal symmetryscale invarianceconformal transformations
+
+
+
+
+
+where  generates translations,  generates scaling transformations as a scalar and  generates the special conformal transformations as a covariant vector under Lorentz transformation.translationscovariant vectorMain articles: Conformal symmetry and Conformal Killing equationConformal symmetryConformal Killing equationSee also[edit]See also[edit][edit]
+Logarithmic conformal field theory
+AdS/CFT correspondence
+Operator product expansion
+Vertex operator algebra
+WZW model
+Critical point
+Boundary conformal field theory
+Primary field
+Superconformal algebra
+Conformal algebra
+Conformal bootstrap
+Logarithmic conformal field theoryLogarithmic conformal field theoryAdS/CFT correspondenceAdS/CFT correspondenceOperator product expansionOperator product expansionVertex operator algebraVertex operator algebraWZW modelWZW modelCritical pointCritical pointBoundary conformal field theoryBoundary conformal field theoryPrimary fieldPrimary fieldSuperconformal algebraSuperconformal algebraConformal algebraConformal algebraConformal bootstrapConformal bootstrapReferences[edit]References[edit][edit]
+
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.
+^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. 
+^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .
+
+
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.
+^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. 
+^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .
+^ Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.^^^Paul Ginsparg (1989), Applied Conformal Field Theory. arXiv:hep-th/9108028. Published in Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena (Les Houches), ed. by E. Brézin and J. Zinn-Justin, Elsevier Science Publishers B.V.Paul GinspargApplied Conformal Field TheoryarXivhep-th/9108028Ecole d'Eté de Physique Théorique: Champs, cordes et phénomènes critiques/Fields, strings and critical phenomena^ One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. ^^^One physical example is the theory of elasticity in two and three dimensions (also known as the theory of a vector field without gauge invariance). See Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010. Riva V, Cardy J (2005). "Scale and conformal invariance in field theory: a physical counterexample". Phys. Lett. B 622: 339–342. arXiv:hep-th/0504197. Bibcode:2005PhLB..622..339R. doi:10.1016/j.physletb.2005.07.010.Phys. Lett. B622arXivhep-th/0504197Bibcode2005PhLB..622..339Rdoi10.1016/j.physletb.2005.07.010  ^ Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .^^^Since the conformal Killing equations in two dimensions,  reduce to just the Cauchy-Riemann equations, , the infinity of modes of arbitrary analytic coordinate transformations ξ(z) yield the infinity of Killing vector fields zn ∂z .conformal Killing equationsξ(z)Killing vector fieldszn ∂zzn ∂znzFurther reading[edit]Further reading[edit][edit]
+Martin Schottenloher, A Mathematical Introduction to Conformal Field Theory, Springer-Verlag, Berlin, Heidelberg, 1997. ISBN 3-540-61753-1, 2nd edition 2008, ISBN 978-3-540-68625-5.
+P. Di Francesco, P. Mathieu, and D. Sénéchal, Conformal Field Theory, Springer-Verlag, New York, 1997. ISBN 0-387-94785-X.
+Conformal Field Theory page in String Theory Wiki lists books and reviews.
+Slava Rychkov, Lectures on Conformal Field Theory in D≥ 3 Dimensions, 2012
+Martin Schottenloher, A Mathematical Introduction to Conformal Field Theory, Springer-Verlag, Berlin, Heidelberg, 1997. ISBN 3-540-61753-1, 2nd edition 2008, ISBN 978-3-540-68625-5.A Mathematical Introduction to Conformal Field TheoryISBN 3-540-61753-1ISBN 978-3-540-68625-5P. Di Francesco, P. Mathieu, and D. Sénéchal, Conformal Field Theory, Springer-Verlag, New York, 1997. ISBN 0-387-94785-X.Conformal Field TheoryISBN 0-387-94785-XConformal Field Theory page in String Theory Wiki lists books and reviews.Conformal Field TheoryString Theory WikiSlava Rychkov, Lectures on Conformal Field Theory in D≥ 3 Dimensions, 2012Lectures on Conformal Field Theory in D≥ 3 Dimensions
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+
+
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+
+
+
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+
+
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+
+
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+
+
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+
+
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+
+
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+
+
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+
+
+v
+t
+e
+
+
+Statistical mechanics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeStatistical mechanicsStatistical mechanics
+
+
+Statistical ensembles
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+Statistical ensemblesStatistical ensembles
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+
+
+Microcanonical
+Canonical
+Grand canonical
+Isothermal–isobaric
+Isoenthalpic–isobaric ensemble
+Open
+MicrocanonicalMicrocanonicalCanonicalCanonicalGrand canonicalGrand canonicalIsothermal–isobaricIsothermal–isobaricIsoenthalpic–isobaric ensembleIsoenthalpic–isobaric ensembleOpenOpen
+
+
+Statistical thermodynamics
+
+
+
+Characteristic state functions
+
+
+
+Statistical thermodynamicsStatistical thermodynamics
+
+
+Characteristic state functions
+
+
+
+
+Characteristic state functions
+
+
+Characteristic state functions
+Characteristic state functionsCharacteristic state functions
+
+
+Partition functions
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+Partition functionsPartition functions
+
+
+Translational
+Vibrational
+Rotational
+
+
+
+
+Translational
+Vibrational
+Rotational
+
+
+Translational
+Vibrational
+Rotational
+TranslationalTranslationalVibrationalVibrationalRotationalRotational
+
+
+Equations of state
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+Equations of stateEquations of state
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+
+
+Dieterici
+Van der Waals
+Ideal gas law
+Birch–Murnaghan
+DietericiDietericiVan der WaalsVan der WaalsIdeal gas lawIdeal gas lawBirch–MurnaghanBirch–Murnaghan
+
+
+Entropy
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+EntropyEntropy
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+
+
+Sackur–Tetrode equation
+Tsallis entropy
+Von Neumann entropy
+Sackur–Tetrode equationSackur–Tetrode equationTsallis entropyTsallis entropyVon Neumann entropyVon Neumann entropy
+
+
+Particle statistics
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+Particle statisticsParticle statistics
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+
+
+Maxwell–Boltzmann statistics
+Fermi–Dirac statistics
+Bose–Einstein statistics
+Maxwell–Boltzmann statisticsMaxwell–Boltzmann statisticsFermi–Dirac statisticsFermi–Dirac statisticsBose–Einstein statisticsBose–Einstein statistics
+
+
+Statistical field theory
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+Statistical field theoryStatistical field theory
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+
+
+Conformal field theory
+Osterwalder–Schrader axioms
+Conformal field theoryConformal field theoryOsterwalder–Schrader axiomsOsterwalder–Schrader axioms
+
+
+Quantum statistical mechanics
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+Quantum statistical mechanicsQuantum statistical mechanics
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+
+
+Density matrix
+Gibbs measure
+Partition function
+Phase space formulation of quantum mechanics
+Slater determinant
+Density matrixDensity matrixGibbs measureGibbs measurePartition functionPartition functionPhase space formulation of quantum mechanicsPhase space formulationSlater determinantSlater determinant
+
+
+See also
+
+
+
+Probability distribution
+Elementary particles
+
+
+
+See also
+
+
+Probability distribution
+Elementary particles
+
+
+
+
+Probability distribution
+Elementary particles
+
+
+Probability distribution
+Elementary particles
+Probability distributionProbability distributionElementary particlesElementary particles
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeQuantum field theoriesQuantum field theories
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+Standard
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+Topological Dipole Field Theory
+Chern–Simons modelChern–Simons modelChiral modelChiral modelKondo modelKondo modelConformal field theoryConformal field theoryNoncommutative quantum field theoryNoncommutative quantum field theoryNon-linear sigma modelNon-linear sigma modelQuartic interactionQuartic interactionQuantum chromodynamicsQuantum chromodynamicsQuantum electrodynamicsQuantum electrodynamicsQuantum Yang–Mills theoryQuantum Yang–Mills theorySchwinger modelSchwinger modelsine-Gordonsine-GordonStandard ModelStandard ModelString theoryString theoryToda field theoryToda field theoryTopological quantum field theoryTopological quantum field theoryWess–Zumino modelWess–Zumino modelWess–Zumino–Witten modelWess–Zumino–Witten modelYang–Mills theoryYang–Mills theoryYang–Mills–Higgs modelYang–Mills–Higgs modelYukawa modelYukawa modelThirring–Wess modelThirring–Wess modelTopological Dipole Field TheoryTopological Dipole Field Theory
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+Four-fermion interactionsFour-fermion interactions
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+Thirring modelThirring modelGross–Neveu modelGross–Neveu modelNambu–Jona-Lasinio modelNambu–Jona-Lasinio model
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Conformal_field_theory&oldid=711581303"					https://en.wikipedia.org/w/index.php?title=Conformal_field_theory&oldid=711581303Categories: SymmetryScaling symmetriesConformal field theoryCategories: SymmetryScaling symmetriesConformal field theoryCategoriesSymmetryScaling symmetriesConformal field theorySymmetrySymmetryScaling symmetriesScaling symmetriesConformal field theoryConformal field theory
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةDeutschEspañolFrançais한국어ItalianoNederlands日本語ਪੰਜਾਬੀPolskiSvenskaУкраїнська文言中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةDeutschEspañolFrançais한국어ItalianoNederlands日本語ਪੰਜਾਬੀPolskiSvenskaУкраїнська文言中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةDeutschEspañolFrançais한국어ItalianoNederlands日本語ਪੰਜਾਬੀPolskiSvenskaУкраїнська文言中文 
+Edit links 
+Languages
+
+العربيةDeutschEspañolFrançais한국어ItalianoNederlands日本語ਪੰਜਾਬੀPolskiSvenskaУкраїнська文言中文 
+Edit links 
+العربيةDeutschEspañolFrançais한국어ItalianoNederlands日本語ਪੰਜਾਬੀPolskiSvenskaУкраїнська文言中文 العربيةالعربيةDeutschDeutschEspañolEspañolFrançaisFrançais한국어한국어ItalianoItalianoNederlandsNederlands日本語日本語ਪੰਜਾਬੀਪੰਜਾਬੀPolskiPolskiSvenskaSvenskaУкраїнськаУкраїнська文言文言中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 23 March 2016, at 19:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 23 March 2016, at 19:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 23 March 2016, at 19:01.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

@@ -1,0 +1,1634 @@
+Heterotic string theory - Wikipedia, the free encyclopedia
+
+
+
+
+Heterotic string theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about string theory.  For heterosis in biology, see Heterosis.
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory, a heterotic string is a closed string (or loop) which is a hybrid ('heterotic') of a superstring and a bosonic string. There are two kinds of heterotic string, the heterotic SO(32) and the heterotic E8 × E8, abbreviated to HO and HE. Heterotic string theory was first developed in 1985 by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm (the so-called "Princeton String Quartet"[1]), in one of the key papers that fueled the first superstring revolution.
+In string theory, the left-moving and the right-moving excitations are completely decoupled,[2] and it is possible to construct a string theory whose left-moving (counter-clockwise) excitations are treated as a bosonic string propagating in D = 26 dimensions, while the right-moving (clock-wise) excitations are treated as a superstring in D = 10 dimensions.
+The mismatched 16 dimensions must be compactified on an even, self-dual lattice (a discrete subgroup of a linear space). There are two possible even self-dual lattices in 16 dimensions, and it leads to two types of the heterotic string. They differ by the gauge group in 10 dimensions. One gauge group is SO(32) (the HO string) while the other is E8 × E8 (the HE string).[3]
+These two gauge groups also turned out to be the only two anomaly-free gauge groups that can be coupled to the N = 1 supergravity in 10 dimensions other than U(1)496 and E8 × U(1)248, which is suspected to lie in the swampland.
+Every heterotic string must be a closed string, not an open string; it is not possible to define any boundary conditions that would relate the left-moving and the right-moving excitations because they have a different character.
+A heterotic string is embedded in the membrane that creates harmonics on the string which translate into mass and energy through mechanisms discussed above.[clarification needed]
+String duality[edit]
+String duality is a class of symmetries in physics that link different string theories. In the 1990s, it was realized that the strong coupling limit of the HO theory is type I string theory — a theory that also contains open strings; this relation is called S-duality. The HO and HE theories are also related by T-duality.
+Because the various superstring theories were shown to be related by dualities, it was proposed that that each type of string was a different aspect of a single underlying theory called M-theory.
+References[edit]
+
+
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07
+^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253
+^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Heterotic_string_theory&oldid=640076972"					
+Categories: String theoryHidden categories: Wikipedia articles needing clarification from June 2013 
+
+
+Heterotic string theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about string theory.  For heterosis in biology, see Heterosis.
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory, a heterotic string is a closed string (or loop) which is a hybrid ('heterotic') of a superstring and a bosonic string. There are two kinds of heterotic string, the heterotic SO(32) and the heterotic E8 × E8, abbreviated to HO and HE. Heterotic string theory was first developed in 1985 by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm (the so-called "Princeton String Quartet"[1]), in one of the key papers that fueled the first superstring revolution.
+In string theory, the left-moving and the right-moving excitations are completely decoupled,[2] and it is possible to construct a string theory whose left-moving (counter-clockwise) excitations are treated as a bosonic string propagating in D = 26 dimensions, while the right-moving (clock-wise) excitations are treated as a superstring in D = 10 dimensions.
+The mismatched 16 dimensions must be compactified on an even, self-dual lattice (a discrete subgroup of a linear space). There are two possible even self-dual lattices in 16 dimensions, and it leads to two types of the heterotic string. They differ by the gauge group in 10 dimensions. One gauge group is SO(32) (the HO string) while the other is E8 × E8 (the HE string).[3]
+These two gauge groups also turned out to be the only two anomaly-free gauge groups that can be coupled to the N = 1 supergravity in 10 dimensions other than U(1)496 and E8 × U(1)248, which is suspected to lie in the swampland.
+Every heterotic string must be a closed string, not an open string; it is not possible to define any boundary conditions that would relate the left-moving and the right-moving excitations because they have a different character.
+A heterotic string is embedded in the membrane that creates harmonics on the string which translate into mass and energy through mechanisms discussed above.[clarification needed]
+String duality[edit]
+String duality is a class of symmetries in physics that link different string theories. In the 1990s, it was realized that the strong coupling limit of the HO theory is type I string theory — a theory that also contains open strings; this relation is called S-duality. The HO and HE theories are also related by T-duality.
+Because the various superstring theories were shown to be related by dualities, it was proposed that that each type of string was a different aspect of a single underlying theory called M-theory.
+References[edit]
+
+
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07
+^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253
+^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Heterotic_string_theory&oldid=640076972"					
+Categories: String theoryHidden categories: Wikipedia articles needing clarification from June 2013 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is about string theory.  For heterosis in biology, see Heterosis.
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory, a heterotic string is a closed string (or loop) which is a hybrid ('heterotic') of a superstring and a bosonic string. There are two kinds of heterotic string, the heterotic SO(32) and the heterotic E8 × E8, abbreviated to HO and HE. Heterotic string theory was first developed in 1985 by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm (the so-called "Princeton String Quartet"[1]), in one of the key papers that fueled the first superstring revolution.
+In string theory, the left-moving and the right-moving excitations are completely decoupled,[2] and it is possible to construct a string theory whose left-moving (counter-clockwise) excitations are treated as a bosonic string propagating in D = 26 dimensions, while the right-moving (clock-wise) excitations are treated as a superstring in D = 10 dimensions.
+The mismatched 16 dimensions must be compactified on an even, self-dual lattice (a discrete subgroup of a linear space). There are two possible even self-dual lattices in 16 dimensions, and it leads to two types of the heterotic string. They differ by the gauge group in 10 dimensions. One gauge group is SO(32) (the HO string) while the other is E8 × E8 (the HE string).[3]
+These two gauge groups also turned out to be the only two anomaly-free gauge groups that can be coupled to the N = 1 supergravity in 10 dimensions other than U(1)496 and E8 × U(1)248, which is suspected to lie in the swampland.
+Every heterotic string must be a closed string, not an open string; it is not possible to define any boundary conditions that would relate the left-moving and the right-moving excitations because they have a different character.
+A heterotic string is embedded in the membrane that creates harmonics on the string which translate into mass and energy through mechanisms discussed above.[clarification needed]
+String duality[edit]
+String duality is a class of symmetries in physics that link different string theories. In the 1990s, it was realized that the strong coupling limit of the HO theory is type I string theory — a theory that also contains open strings; this relation is called S-duality. The HO and HE theories are also related by T-duality.
+Because the various superstring theories were shown to be related by dualities, it was proposed that that each type of string was a different aspect of a single underlying theory called M-theory.
+References[edit]
+
+
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07
+^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253
+^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.
+
+
+
+
+
+This article is about string theory.  For heterosis in biology, see Heterosis.Heterosis
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn string theory, a heterotic string is a closed string (or loop) which is a hybrid ('heterotic') of a superstring and a bosonic string. There are two kinds of heterotic string, the heterotic SO(32) and the heterotic E8 × E8, abbreviated to HO and HE. Heterotic string theory was first developed in 1985 by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm (the so-called "Princeton String Quartet"[1]), in one of the key papers that fueled the first superstring revolution.string theoryheterotic stringsuperstringbosonic stringE8E8HOHEDavid GrossJeffrey HarveyEmil MartinecRyan Rohm[1][1]first superstring revolutionIn string theory, the left-moving and the right-moving excitations are completely decoupled,[2] and it is possible to construct a string theory whose left-moving (counter-clockwise) excitations are treated as a bosonic string propagating in D = 26 dimensions, while the right-moving (clock-wise) excitations are treated as a superstring in D = 10 dimensions.string theory[2][2]DDThe mismatched 16 dimensions must be compactified on an even, self-dual lattice (a discrete subgroup of a linear space). There are two possible even self-dual lattices in 16 dimensions, and it leads to two types of the heterotic string. They differ by the gauge group in 10 dimensions. One gauge group is SO(32) (the HO string) while the other is E8 × E8 (the HE string).[3]self-dual latticediscrete subgroupgauge groupSO(32)E8 × E8E8E8[3][3]These two gauge groups also turned out to be the only two anomaly-free gauge groups that can be coupled to the N = 1 supergravity in 10 dimensions other than U(1)496 and E8 × U(1)248, which is suspected to lie in the swampland.anomalyNsupergravity4968248swamplandEvery heterotic string must be a closed string, not an open string; it is not possible to define any boundary conditions that would relate the left-moving and the right-moving excitations because they have a different character.closed stringopen stringboundary conditionsA heterotic string is embedded in the membrane that creates harmonics on the string which translate into mass and energy through mechanisms discussed above.[clarification needed][clarification needed]clarification neededclarification neededclarification neededString duality[edit]String duality[edit][edit]String duality is a class of symmetries in physics that link different string theories. In the 1990s, it was realized that the strong coupling limit of the HO theory is type I string theory — a theory that also contains open strings; this relation is called S-duality. The HO and HE theories are also related by T-duality.String dualitytype I string theoryopen stringsS-dualityT-dualityBecause the various superstring theories were shown to be related by dualities, it was proposed that that each type of string was a different aspect of a single underlying theory called M-theory.M-theoryReferences[edit]References[edit][edit]
+
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07
+^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253
+^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.
+
+
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07
+^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253
+^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.
+^ Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07^^^Dennis Overbye, "String theory, at 20, explains it all (or not)". NY Times, 2004-12-07Dennis OverbyeString theory, at 20, explains it all (or not)NY Times^ String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253^^^String Theory and M-Theory by Becker, Becker and Schwarz (2006), p. 253String Theory and M-Theory^ Joseph Polchinski (1998). String Theory: Volume 2, p. 45.^^^Joseph Polchinski (1998). String Theory: Volume 2, p. 45.Joseph PolchinskiString Theory: Volume 2
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Heterotic_string_theory&oldid=640076972"					https://en.wikipedia.org/w/index.php?title=Heterotic_string_theory&oldid=640076972Categories: String theoryHidden categories: Wikipedia articles needing clarification from June 2013Categories: String theoryCategoriesString theoryString theoryString theoryHidden categories: Wikipedia articles needing clarification from June 2013Wikipedia articles needing clarification from June 2013Wikipedia articles needing clarification from June 2013Wikipedia articles needing clarification from June 2013
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяEspañolFrançais한국어Italiano日本語PortuguêsРусский中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяEspañolFrançais한국어Italiano日本語PortuguêsРусский中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+БеларускаяEspañolFrançais한국어Italiano日本語PortuguêsРусский中文 
+Edit links 
+Languages
+
+БеларускаяEspañolFrançais한국어Italiano日本語PortuguêsРусский中文 
+Edit links 
+БеларускаяEspañolFrançais한국어Italiano日本語PortuguêsРусский中文 БеларускаяБеларускаяEspañolEspañolFrançaisFrançais한국어한국어ItalianoItaliano日本語日本語PortuguêsPortuguêsРусскийРусский中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 29 December 2014, at 11:12.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 29 December 2014, at 11:12.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 29 December 2014, at 11:12.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

@@ -1,0 +1,6415 @@
+Holographic principle - Wikipedia, the free encyclopedia
+
+
+
+
+Holographic principle
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The holographic principle is a property of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a boundary to the region—preferably a light-like boundary like a gravitational horizon. First proposed by Gerard 't Hooft, it was given a precise string-theory interpretation by Leonard Susskind[1] who combined his ideas with previous ones of 't Hooft and Charles Thorn.[1][2] As pointed out by Raphael Bousso,[3] Thorn observed in 1978 that string theory admits a lower-dimensional description in which gravity emerges from it in what would now be called a holographic way.
+In a larger sense, the theory suggests that the entire universe can be seen as two-dimensional information on the cosmological horizon, the event horizon from which information may still be gathered and not lost due to the natural limitations of spacetime supporting a black hole, an observer and a given setting of these specific elements,[clarification needed] such that the three dimensions we observe are an effective description only at macroscopic scales and at low energies. Cosmological holography has not been made mathematically precise, partly because the particle horizon has a non-zero area and grows with time.[4][5]
+The holographic principle was inspired by black hole thermodynamics, which conjectures that the maximal entropy in any region scales with the radius squared, and not cubed as might be expected. In the case of a black hole, the insight was that the informational content of all the objects that have fallen into the hole might be entirely contained in surface fluctuations of the event horizon. The holographic principle resolves the black hole information paradox within the framework of string theory.[6] However, there exist classical solutions to the Einstein equations that allow values of the entropy larger than those allowed by an area law, hence in principle larger than those of a black hole. These are the so-called "Wheeler's bags of gold". The existence of such solutions conflicts with the holographic interpretation, and their effects in a quantum theory of gravity including the holographic principle are not yet fully understood.[7]
+
+
+
+Contents
+
+
+1 Black hole entropy
+2 Black hole information paradox
+3 Limit on information density
+4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+
+5 Experimental tests
+6 Tests of Maldacena's conjecture
+7 See also
+8 Notes
+9 References
+10 External links
+
+
+
+Black hole entropy[edit]
+Main article: Black hole thermodynamics
+An object with relatively high entropy is microscopically random, like a hot gas. A known configuration of classical fields has zero entropy: there is nothing random about electric and magnetic fields, or gravitational waves. Since black holes are exact solutions of Einstein's equations, they were thought not to have any entropy either.
+But Jacob Bekenstein noted that this leads to a violation of the second law of thermodynamics. If one throws a hot gas with entropy into a black hole, once it crosses the event horizon, the entropy would disappear. The random properties of the gas would no longer be seen once the black hole had absorbed the gas and settled down. One way of salvaging the second law is if black holes are in fact random objects, with an enormous entropy whose increase is greater than the entropy carried by the gas.
+Bekenstein assumed that black holes are maximum entropy objects—that they have more entropy than anything else in the same volume. In a sphere of radius R, the entropy in a relativistic gas increases as the energy increases. The only known limit is gravitational; when there is too much energy the gas collapses into a black hole. Bekenstein used this to put an upper bound on the entropy in a region of space, and the bound was proportional to the area of the region. He concluded that the black hole entropy is directly proportional to the area of the event horizon.[8]
+Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.
+Hawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:
+
+
+
+
+
+
+
+If black holes have a finite entropy, they should also have a finite temperature. In particular, they would come to equilibrium with a thermal gas of photons. This means that black holes would not only absorb photons, but they would also have to emit them in the right amount to maintain detailed balance.
+Time independent solutions to field equations do not emit radiation, because a time independent background conserves energy. Based on this principle, Hawking set out to show that black holes do not radiate. But, to his surprise, a careful analysis convinced him that they do, and in just the right way to come to equilibrium with a gas at a finite temperature. Hawking's calculation fixed the constant of proportionality at 1/4; the entropy of a black hole is one quarter its horizon area in Planck units.[9]
+The entropy is proportional to the logarithm of the number of microstates, the ways a system can be configured microscopically while leaving the macroscopic description unchanged. Black hole entropy is deeply puzzling — it says that the logarithm of the number of states of a black hole is proportional to the area of the horizon, not the volume in the interior.[10]
+Later, Raphael Bousso came up with a covariant version of the bound based upon null sheets.
+Black hole information paradox[edit]
+Main article: Black hole information paradox
+Hawking's calculation suggested that the radiation which black holes emit is not related in any way to the matter that they absorb. The outgoing light rays start exactly at the edge of the black hole and spend a long time near the horizon, while the infalling matter only reaches the horizon much later. The infalling and outgoing mass/energy only interact when they cross. It is implausible that the outgoing state would be completely determined by some tiny residual scattering.[citation needed]
+Hawking interpreted this to mean that when black holes absorb some photons in a pure state described by a wave function, they re-emit new photons in a thermal mixed state described by a density matrix. This would mean that quantum mechanics would have to be modified, because in quantum mechanics, states which are superpositions with probability amplitudes never become states which are probabilistic mixtures of different possibilities.[note 1]
+Troubled by this paradox, Gerard 't Hooft analyzed the emission of Hawking radiation in more detail. He noted that when Hawking radiation escapes, there is a way in which incoming particles can modify the outgoing particles. Their gravitational field would deform the horizon of the black hole, and the deformed horizon could produce different outgoing particles than the undeformed horizon. When a particle falls into a black hole, it is boosted relative to an outside observer, and its gravitational field assumes a universal form. 't Hooft showed that this field makes a logarithmic tent-pole shaped bump on the horizon of a black hole, and like a shadow, the bump is an alternate description of the particle's location and mass. For a four-dimensional spherical uncharged black hole, the deformation of the horizon is similar to the type of deformation which describes the emission and absorption of particles on a string-theory world sheet. Since the deformations on the surface are the only imprint of the incoming particle, and since these deformations would have to completely determine the outgoing particles, 't Hooft believed that the correct description of the black hole would be by some form of string theory.
+This idea was made more precise by Leonard Susskind, who had also been developing holography, largely independently. Susskind argued that the oscillation of the horizon of a black hole is a complete description[note 2] of both the infalling and outgoing matter, because the world-sheet theory of string theory was just such a holographic description. While short strings have zero entropy, he could identify long highly excited string states with ordinary black holes. This was a deep advance because it revealed that strings have a classical interpretation in terms of black holes.
+This work showed that the black hole information paradox is resolved when quantum gravity is described in an unusual string-theoretic way assuming the string-theoretical description is complete, unambiguous and non-redundant.[12] The space-time in quantum gravity would emerge as an effective description of the theory of oscillations of a lower-dimensional black-hole horizon, and suggest that any black hole with appropriate properties, not just strings, would serve as a basis for a description of string theory.
+In 1995, Susskind, along with collaborators Tom Banks, Willy Fischler, and Stephen Shenker, presented a formulation of the new M-theory using a holographic description in terms of charged point black holes, the D0 branes of type IIA string theory. The Matrix theory they proposed was first suggested as a description of two branes in 11-dimensional supergravity by Bernard de Wit, Jens Hoppe, and Hermann Nicolai. The later authors reinterpreted the same matrix models as a description of the dynamics of point black holes in particular limits. Holography allowed them to conclude that the dynamics of these black holes give a complete non-perturbative formulation of M-theory. In 1997, Juan Maldacena gave the first holographic descriptions of a higher-dimensional object, the 3+1-dimensional type IIB membrane, which resolved a long-standing problem of finding a string description which describes a gauge theory. These developments simultaneously explained how string theory is related to some forms of supersymmetric quantum field theories.
+Limit on information density[edit]
+Entropy, if considered as information (see information entropy), is measured in bits. The total quantity of bits is related to the total degrees of freedom of matter/energy.
+For a given energy in a given volume, there is an upper limit to the density of information (the Bekenstein bound) about the whereabouts of all the particles which compose matter in that volume, suggesting that matter itself cannot be subdivided infinitely many times and there must be an ultimate level of fundamental particles. As the degrees of freedom of a particle are the product of all the degrees of freedom of its sub-particles, were a particle to have infinite subdivisions into lower-level particles, the degrees of freedom of the original particle would be infinite, violating the maximal limit of entropy density. The holographic principle thus implies that the subdivisions must stop at some level, and that the fundamental particle is a bit (1 or 0) of information.
+The most rigorous realization of the holographic principle is the AdS/CFT correspondence by Juan Maldacena. However, J.D. Brown and Marc Henneaux had rigorously proved already in 1986, that the asymptotic symmetry of 2+1 dimensional gravity gives rise to a Virasoro algebra, whose corresponding quantum theory is a 2-dimensional conformal field theory.[13]
+High-level summary[edit]
+The physical universe is widely seen to be composed of "matter" and "energy". In his 2003 article published in Scientific American magazine, Jacob Bekenstein summarized a current trend started by John Archibald Wheeler, which suggests scientists may "regard the physical world as made of information, with energy and matter as incidentals." Bekenstein asks "Could we, as William Blake memorably penned, 'see a world in a grain of sand,' or is that idea no more than 'poetic license,'"[14] referring to the holographic principle.
+Unexpected connection[edit]
+Bekenstein's topical overview "A Tale of Two Entropies"[15] describes potentially profound implications of Wheeler's trend, in part by noting a previously unexpected connection between the world of information theory and classical physics. This connection was first described shortly after the seminal 1948 papers of American applied mathematician Claude E. Shannon introduced today's most widely used measure of information content, now known as Shannon entropy. As an objective measure of the quantity of information, Shannon entropy has been enormously useful, as the design of all modern communications and data storage devices, from cellular phones to modems to hard disk drives and DVDs, rely on Shannon entropy.
+In thermodynamics (the branch of physics dealing with heat), entropy is popularly described as a measure of the "disorder" in a physical system of matter and energy. In 1877 Austrian physicist Ludwig Boltzmann described it more precisely in terms of the number of distinct microscopic states that the particles composing a macroscopic "chunk" of matter could be in while still looking like the same macroscopic "chunk". As an example, for the air in a room, its thermodynamic entropy would equal the logarithm of the count of all the ways that the individual gas molecules could be distributed in the room, and all the ways they could be moving.
+Energy, matter, and information equivalence[edit]
+Shannon's efforts to find a way to quantify the information contained in, for example, an e-mail message, led him unexpectedly to a formula with the same form as Boltzmann's. In an article in the August 2003 issue of Scientific American titled "Information in the Holographic Universe", Bekenstein summarizes that "Thermodynamic entropy and Shannon entropy are conceptually equivalent: the number of arrangements that are counted by Boltzmann entropy reflects the amount of Shannon information one would need to implement any particular arrangement..." of matter and energy. The only salient difference between the thermodynamic entropy of physics and Shannon's entropy of information is in the units of measure; the former is expressed in units of energy divided by temperature, the latter in essentially dimensionless "bits" of information.
+The holographic principle states that the entropy of ordinary mass (not just black holes) is also proportional to surface area and not volume; that volume itself is illusory and the universe is really a hologram which is isomorphic to the information "inscribed" on the surface of its boundary.[10]
+Experimental tests[edit]
+The Fermilab physicist Craig Hogan claims that the holographic principle would imply quantum fluctuations in spatial position[16] that would lead to apparent background noise or "holographic noise" measurable at gravitational wave detectors, in particular GEO 600.[17] However these claims have not been widely accepted, or cited, among quantum gravity researchers and appear to be in direct conflict with string theory calculations.[18]
+Analyses in 2011 of measurements of gamma ray burst GRB 041219A in 2004 by the INTEGRAL space observatory launched in 2002 by the European Space Agency shows that Craig Hogan's noise is absent down to a scale of 10−48 meters, as opposed to scale of 10−35 meters predicted by Hogan, and the scale of 10−16 meters found in measurements of the GEO 600 instrument.[19] Research continues at Fermilab under Hogan as of 2013.[20]
+Jacob Bekenstein also claims to have found a way to test the holographic principle with a tabletop photon experiment.[21]
+Tests of Maldacena's conjecture[edit]
+
+
+
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)
+
+
+Main article: Maldacena conjecture
+Hyakutake et al. in 2013/4 published two papers[22] that bring computational evidence that Maldacena’s conjecture is true. One paper computes the internal energy of a black hole, the position of its event horizon, its entropy and other properties based on the predictions of string theory and the effects of virtual particles. The other paper calculates the internal energy of the corresponding lower-dimensional cosmos with no gravity. The two simulations match. The papers are not an actual proof of Maldacena's conjecture for all cases but a demonstration that the conjecture works for a particular theoretical case and a verification of the AdS/CFT correspondence for a particular situation.[23]
+See also[edit]
+
+Bekenstein bound
+Beyond black holes
+Bousso's holographic bound
+Brane cosmology
+Entropic gravity
+Implicate and explicate order according to David Bohm
+Margolus–Levitin theorem
+Physical cosmology
+Quantum foam
+Simulated reality
+
+Notes[edit]
+
+
+^ except in the case of measurements, which the black hole should not be performing
+^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")
+
+
+References[edit]
+
+General
+
+
+Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+'t Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026. . 't Hooft's original paper.
+
+
+Citations
+
+
+
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. 
+^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. 
+^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]
+^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]
+^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. 
+^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. 
+^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. 
+^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. 
+^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. 
+^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. 
+^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .
+^ Information in the Holographic Universe
+^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1
+^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .
+^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. 
+^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012
+^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. 
+^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. 
+^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. 
+^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. 
+^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. 
+
+
+External links[edit]
+
+UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.
+Scientific American article on holographic principle by Jacob Bekenstein
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Holographic_principle&oldid=705100314"					
+Categories: Black holesTheoretical physicsQuantum information scienceHolographyHidden categories: All articles with dead external linksArticles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsUse dmy dates from July 2011 
+
+
+Holographic principle
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The holographic principle is a property of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a boundary to the region—preferably a light-like boundary like a gravitational horizon. First proposed by Gerard 't Hooft, it was given a precise string-theory interpretation by Leonard Susskind[1] who combined his ideas with previous ones of 't Hooft and Charles Thorn.[1][2] As pointed out by Raphael Bousso,[3] Thorn observed in 1978 that string theory admits a lower-dimensional description in which gravity emerges from it in what would now be called a holographic way.
+In a larger sense, the theory suggests that the entire universe can be seen as two-dimensional information on the cosmological horizon, the event horizon from which information may still be gathered and not lost due to the natural limitations of spacetime supporting a black hole, an observer and a given setting of these specific elements,[clarification needed] such that the three dimensions we observe are an effective description only at macroscopic scales and at low energies. Cosmological holography has not been made mathematically precise, partly because the particle horizon has a non-zero area and grows with time.[4][5]
+The holographic principle was inspired by black hole thermodynamics, which conjectures that the maximal entropy in any region scales with the radius squared, and not cubed as might be expected. In the case of a black hole, the insight was that the informational content of all the objects that have fallen into the hole might be entirely contained in surface fluctuations of the event horizon. The holographic principle resolves the black hole information paradox within the framework of string theory.[6] However, there exist classical solutions to the Einstein equations that allow values of the entropy larger than those allowed by an area law, hence in principle larger than those of a black hole. These are the so-called "Wheeler's bags of gold". The existence of such solutions conflicts with the holographic interpretation, and their effects in a quantum theory of gravity including the holographic principle are not yet fully understood.[7]
+
+
+
+Contents
+
+
+1 Black hole entropy
+2 Black hole information paradox
+3 Limit on information density
+4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+
+5 Experimental tests
+6 Tests of Maldacena's conjecture
+7 See also
+8 Notes
+9 References
+10 External links
+
+
+
+Black hole entropy[edit]
+Main article: Black hole thermodynamics
+An object with relatively high entropy is microscopically random, like a hot gas. A known configuration of classical fields has zero entropy: there is nothing random about electric and magnetic fields, or gravitational waves. Since black holes are exact solutions of Einstein's equations, they were thought not to have any entropy either.
+But Jacob Bekenstein noted that this leads to a violation of the second law of thermodynamics. If one throws a hot gas with entropy into a black hole, once it crosses the event horizon, the entropy would disappear. The random properties of the gas would no longer be seen once the black hole had absorbed the gas and settled down. One way of salvaging the second law is if black holes are in fact random objects, with an enormous entropy whose increase is greater than the entropy carried by the gas.
+Bekenstein assumed that black holes are maximum entropy objects—that they have more entropy than anything else in the same volume. In a sphere of radius R, the entropy in a relativistic gas increases as the energy increases. The only known limit is gravitational; when there is too much energy the gas collapses into a black hole. Bekenstein used this to put an upper bound on the entropy in a region of space, and the bound was proportional to the area of the region. He concluded that the black hole entropy is directly proportional to the area of the event horizon.[8]
+Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.
+Hawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:
+
+
+
+
+
+
+
+If black holes have a finite entropy, they should also have a finite temperature. In particular, they would come to equilibrium with a thermal gas of photons. This means that black holes would not only absorb photons, but they would also have to emit them in the right amount to maintain detailed balance.
+Time independent solutions to field equations do not emit radiation, because a time independent background conserves energy. Based on this principle, Hawking set out to show that black holes do not radiate. But, to his surprise, a careful analysis convinced him that they do, and in just the right way to come to equilibrium with a gas at a finite temperature. Hawking's calculation fixed the constant of proportionality at 1/4; the entropy of a black hole is one quarter its horizon area in Planck units.[9]
+The entropy is proportional to the logarithm of the number of microstates, the ways a system can be configured microscopically while leaving the macroscopic description unchanged. Black hole entropy is deeply puzzling — it says that the logarithm of the number of states of a black hole is proportional to the area of the horizon, not the volume in the interior.[10]
+Later, Raphael Bousso came up with a covariant version of the bound based upon null sheets.
+Black hole information paradox[edit]
+Main article: Black hole information paradox
+Hawking's calculation suggested that the radiation which black holes emit is not related in any way to the matter that they absorb. The outgoing light rays start exactly at the edge of the black hole and spend a long time near the horizon, while the infalling matter only reaches the horizon much later. The infalling and outgoing mass/energy only interact when they cross. It is implausible that the outgoing state would be completely determined by some tiny residual scattering.[citation needed]
+Hawking interpreted this to mean that when black holes absorb some photons in a pure state described by a wave function, they re-emit new photons in a thermal mixed state described by a density matrix. This would mean that quantum mechanics would have to be modified, because in quantum mechanics, states which are superpositions with probability amplitudes never become states which are probabilistic mixtures of different possibilities.[note 1]
+Troubled by this paradox, Gerard 't Hooft analyzed the emission of Hawking radiation in more detail. He noted that when Hawking radiation escapes, there is a way in which incoming particles can modify the outgoing particles. Their gravitational field would deform the horizon of the black hole, and the deformed horizon could produce different outgoing particles than the undeformed horizon. When a particle falls into a black hole, it is boosted relative to an outside observer, and its gravitational field assumes a universal form. 't Hooft showed that this field makes a logarithmic tent-pole shaped bump on the horizon of a black hole, and like a shadow, the bump is an alternate description of the particle's location and mass. For a four-dimensional spherical uncharged black hole, the deformation of the horizon is similar to the type of deformation which describes the emission and absorption of particles on a string-theory world sheet. Since the deformations on the surface are the only imprint of the incoming particle, and since these deformations would have to completely determine the outgoing particles, 't Hooft believed that the correct description of the black hole would be by some form of string theory.
+This idea was made more precise by Leonard Susskind, who had also been developing holography, largely independently. Susskind argued that the oscillation of the horizon of a black hole is a complete description[note 2] of both the infalling and outgoing matter, because the world-sheet theory of string theory was just such a holographic description. While short strings have zero entropy, he could identify long highly excited string states with ordinary black holes. This was a deep advance because it revealed that strings have a classical interpretation in terms of black holes.
+This work showed that the black hole information paradox is resolved when quantum gravity is described in an unusual string-theoretic way assuming the string-theoretical description is complete, unambiguous and non-redundant.[12] The space-time in quantum gravity would emerge as an effective description of the theory of oscillations of a lower-dimensional black-hole horizon, and suggest that any black hole with appropriate properties, not just strings, would serve as a basis for a description of string theory.
+In 1995, Susskind, along with collaborators Tom Banks, Willy Fischler, and Stephen Shenker, presented a formulation of the new M-theory using a holographic description in terms of charged point black holes, the D0 branes of type IIA string theory. The Matrix theory they proposed was first suggested as a description of two branes in 11-dimensional supergravity by Bernard de Wit, Jens Hoppe, and Hermann Nicolai. The later authors reinterpreted the same matrix models as a description of the dynamics of point black holes in particular limits. Holography allowed them to conclude that the dynamics of these black holes give a complete non-perturbative formulation of M-theory. In 1997, Juan Maldacena gave the first holographic descriptions of a higher-dimensional object, the 3+1-dimensional type IIB membrane, which resolved a long-standing problem of finding a string description which describes a gauge theory. These developments simultaneously explained how string theory is related to some forms of supersymmetric quantum field theories.
+Limit on information density[edit]
+Entropy, if considered as information (see information entropy), is measured in bits. The total quantity of bits is related to the total degrees of freedom of matter/energy.
+For a given energy in a given volume, there is an upper limit to the density of information (the Bekenstein bound) about the whereabouts of all the particles which compose matter in that volume, suggesting that matter itself cannot be subdivided infinitely many times and there must be an ultimate level of fundamental particles. As the degrees of freedom of a particle are the product of all the degrees of freedom of its sub-particles, were a particle to have infinite subdivisions into lower-level particles, the degrees of freedom of the original particle would be infinite, violating the maximal limit of entropy density. The holographic principle thus implies that the subdivisions must stop at some level, and that the fundamental particle is a bit (1 or 0) of information.
+The most rigorous realization of the holographic principle is the AdS/CFT correspondence by Juan Maldacena. However, J.D. Brown and Marc Henneaux had rigorously proved already in 1986, that the asymptotic symmetry of 2+1 dimensional gravity gives rise to a Virasoro algebra, whose corresponding quantum theory is a 2-dimensional conformal field theory.[13]
+High-level summary[edit]
+The physical universe is widely seen to be composed of "matter" and "energy". In his 2003 article published in Scientific American magazine, Jacob Bekenstein summarized a current trend started by John Archibald Wheeler, which suggests scientists may "regard the physical world as made of information, with energy and matter as incidentals." Bekenstein asks "Could we, as William Blake memorably penned, 'see a world in a grain of sand,' or is that idea no more than 'poetic license,'"[14] referring to the holographic principle.
+Unexpected connection[edit]
+Bekenstein's topical overview "A Tale of Two Entropies"[15] describes potentially profound implications of Wheeler's trend, in part by noting a previously unexpected connection between the world of information theory and classical physics. This connection was first described shortly after the seminal 1948 papers of American applied mathematician Claude E. Shannon introduced today's most widely used measure of information content, now known as Shannon entropy. As an objective measure of the quantity of information, Shannon entropy has been enormously useful, as the design of all modern communications and data storage devices, from cellular phones to modems to hard disk drives and DVDs, rely on Shannon entropy.
+In thermodynamics (the branch of physics dealing with heat), entropy is popularly described as a measure of the "disorder" in a physical system of matter and energy. In 1877 Austrian physicist Ludwig Boltzmann described it more precisely in terms of the number of distinct microscopic states that the particles composing a macroscopic "chunk" of matter could be in while still looking like the same macroscopic "chunk". As an example, for the air in a room, its thermodynamic entropy would equal the logarithm of the count of all the ways that the individual gas molecules could be distributed in the room, and all the ways they could be moving.
+Energy, matter, and information equivalence[edit]
+Shannon's efforts to find a way to quantify the information contained in, for example, an e-mail message, led him unexpectedly to a formula with the same form as Boltzmann's. In an article in the August 2003 issue of Scientific American titled "Information in the Holographic Universe", Bekenstein summarizes that "Thermodynamic entropy and Shannon entropy are conceptually equivalent: the number of arrangements that are counted by Boltzmann entropy reflects the amount of Shannon information one would need to implement any particular arrangement..." of matter and energy. The only salient difference between the thermodynamic entropy of physics and Shannon's entropy of information is in the units of measure; the former is expressed in units of energy divided by temperature, the latter in essentially dimensionless "bits" of information.
+The holographic principle states that the entropy of ordinary mass (not just black holes) is also proportional to surface area and not volume; that volume itself is illusory and the universe is really a hologram which is isomorphic to the information "inscribed" on the surface of its boundary.[10]
+Experimental tests[edit]
+The Fermilab physicist Craig Hogan claims that the holographic principle would imply quantum fluctuations in spatial position[16] that would lead to apparent background noise or "holographic noise" measurable at gravitational wave detectors, in particular GEO 600.[17] However these claims have not been widely accepted, or cited, among quantum gravity researchers and appear to be in direct conflict with string theory calculations.[18]
+Analyses in 2011 of measurements of gamma ray burst GRB 041219A in 2004 by the INTEGRAL space observatory launched in 2002 by the European Space Agency shows that Craig Hogan's noise is absent down to a scale of 10−48 meters, as opposed to scale of 10−35 meters predicted by Hogan, and the scale of 10−16 meters found in measurements of the GEO 600 instrument.[19] Research continues at Fermilab under Hogan as of 2013.[20]
+Jacob Bekenstein also claims to have found a way to test the holographic principle with a tabletop photon experiment.[21]
+Tests of Maldacena's conjecture[edit]
+
+
+
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)
+
+
+Main article: Maldacena conjecture
+Hyakutake et al. in 2013/4 published two papers[22] that bring computational evidence that Maldacena’s conjecture is true. One paper computes the internal energy of a black hole, the position of its event horizon, its entropy and other properties based on the predictions of string theory and the effects of virtual particles. The other paper calculates the internal energy of the corresponding lower-dimensional cosmos with no gravity. The two simulations match. The papers are not an actual proof of Maldacena's conjecture for all cases but a demonstration that the conjecture works for a particular theoretical case and a verification of the AdS/CFT correspondence for a particular situation.[23]
+See also[edit]
+
+Bekenstein bound
+Beyond black holes
+Bousso's holographic bound
+Brane cosmology
+Entropic gravity
+Implicate and explicate order according to David Bohm
+Margolus–Levitin theorem
+Physical cosmology
+Quantum foam
+Simulated reality
+
+Notes[edit]
+
+
+^ except in the case of measurements, which the black hole should not be performing
+^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")
+
+
+References[edit]
+
+General
+
+
+Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+'t Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026. . 't Hooft's original paper.
+
+
+Citations
+
+
+
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. 
+^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. 
+^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]
+^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]
+^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. 
+^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. 
+^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. 
+^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. 
+^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. 
+^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. 
+^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .
+^ Information in the Holographic Universe
+^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1
+^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .
+^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. 
+^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012
+^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. 
+^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. 
+^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. 
+^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. 
+^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. 
+
+
+External links[edit]
+
+UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.
+Scientific American article on holographic principle by Jacob Bekenstein
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Holographic_principle&oldid=705100314"					
+Categories: Black holesTheoretical physicsQuantum information scienceHolographyHidden categories: All articles with dead external linksArticles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsUse dmy dates from July 2011 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The holographic principle is a property of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a boundary to the region—preferably a light-like boundary like a gravitational horizon. First proposed by Gerard 't Hooft, it was given a precise string-theory interpretation by Leonard Susskind[1] who combined his ideas with previous ones of 't Hooft and Charles Thorn.[1][2] As pointed out by Raphael Bousso,[3] Thorn observed in 1978 that string theory admits a lower-dimensional description in which gravity emerges from it in what would now be called a holographic way.
+In a larger sense, the theory suggests that the entire universe can be seen as two-dimensional information on the cosmological horizon, the event horizon from which information may still be gathered and not lost due to the natural limitations of spacetime supporting a black hole, an observer and a given setting of these specific elements,[clarification needed] such that the three dimensions we observe are an effective description only at macroscopic scales and at low energies. Cosmological holography has not been made mathematically precise, partly because the particle horizon has a non-zero area and grows with time.[4][5]
+The holographic principle was inspired by black hole thermodynamics, which conjectures that the maximal entropy in any region scales with the radius squared, and not cubed as might be expected. In the case of a black hole, the insight was that the informational content of all the objects that have fallen into the hole might be entirely contained in surface fluctuations of the event horizon. The holographic principle resolves the black hole information paradox within the framework of string theory.[6] However, there exist classical solutions to the Einstein equations that allow values of the entropy larger than those allowed by an area law, hence in principle larger than those of a black hole. These are the so-called "Wheeler's bags of gold". The existence of such solutions conflicts with the holographic interpretation, and their effects in a quantum theory of gravity including the holographic principle are not yet fully understood.[7]
+
+
+
+Contents
+
+
+1 Black hole entropy
+2 Black hole information paradox
+3 Limit on information density
+4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+
+5 Experimental tests
+6 Tests of Maldacena's conjecture
+7 See also
+8 Notes
+9 References
+10 External links
+
+
+
+Black hole entropy[edit]
+Main article: Black hole thermodynamics
+An object with relatively high entropy is microscopically random, like a hot gas. A known configuration of classical fields has zero entropy: there is nothing random about electric and magnetic fields, or gravitational waves. Since black holes are exact solutions of Einstein's equations, they were thought not to have any entropy either.
+But Jacob Bekenstein noted that this leads to a violation of the second law of thermodynamics. If one throws a hot gas with entropy into a black hole, once it crosses the event horizon, the entropy would disappear. The random properties of the gas would no longer be seen once the black hole had absorbed the gas and settled down. One way of salvaging the second law is if black holes are in fact random objects, with an enormous entropy whose increase is greater than the entropy carried by the gas.
+Bekenstein assumed that black holes are maximum entropy objects—that they have more entropy than anything else in the same volume. In a sphere of radius R, the entropy in a relativistic gas increases as the energy increases. The only known limit is gravitational; when there is too much energy the gas collapses into a black hole. Bekenstein used this to put an upper bound on the entropy in a region of space, and the bound was proportional to the area of the region. He concluded that the black hole entropy is directly proportional to the area of the event horizon.[8]
+Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.
+Hawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:
+
+
+
+
+
+
+
+If black holes have a finite entropy, they should also have a finite temperature. In particular, they would come to equilibrium with a thermal gas of photons. This means that black holes would not only absorb photons, but they would also have to emit them in the right amount to maintain detailed balance.
+Time independent solutions to field equations do not emit radiation, because a time independent background conserves energy. Based on this principle, Hawking set out to show that black holes do not radiate. But, to his surprise, a careful analysis convinced him that they do, and in just the right way to come to equilibrium with a gas at a finite temperature. Hawking's calculation fixed the constant of proportionality at 1/4; the entropy of a black hole is one quarter its horizon area in Planck units.[9]
+The entropy is proportional to the logarithm of the number of microstates, the ways a system can be configured microscopically while leaving the macroscopic description unchanged. Black hole entropy is deeply puzzling — it says that the logarithm of the number of states of a black hole is proportional to the area of the horizon, not the volume in the interior.[10]
+Later, Raphael Bousso came up with a covariant version of the bound based upon null sheets.
+Black hole information paradox[edit]
+Main article: Black hole information paradox
+Hawking's calculation suggested that the radiation which black holes emit is not related in any way to the matter that they absorb. The outgoing light rays start exactly at the edge of the black hole and spend a long time near the horizon, while the infalling matter only reaches the horizon much later. The infalling and outgoing mass/energy only interact when they cross. It is implausible that the outgoing state would be completely determined by some tiny residual scattering.[citation needed]
+Hawking interpreted this to mean that when black holes absorb some photons in a pure state described by a wave function, they re-emit new photons in a thermal mixed state described by a density matrix. This would mean that quantum mechanics would have to be modified, because in quantum mechanics, states which are superpositions with probability amplitudes never become states which are probabilistic mixtures of different possibilities.[note 1]
+Troubled by this paradox, Gerard 't Hooft analyzed the emission of Hawking radiation in more detail. He noted that when Hawking radiation escapes, there is a way in which incoming particles can modify the outgoing particles. Their gravitational field would deform the horizon of the black hole, and the deformed horizon could produce different outgoing particles than the undeformed horizon. When a particle falls into a black hole, it is boosted relative to an outside observer, and its gravitational field assumes a universal form. 't Hooft showed that this field makes a logarithmic tent-pole shaped bump on the horizon of a black hole, and like a shadow, the bump is an alternate description of the particle's location and mass. For a four-dimensional spherical uncharged black hole, the deformation of the horizon is similar to the type of deformation which describes the emission and absorption of particles on a string-theory world sheet. Since the deformations on the surface are the only imprint of the incoming particle, and since these deformations would have to completely determine the outgoing particles, 't Hooft believed that the correct description of the black hole would be by some form of string theory.
+This idea was made more precise by Leonard Susskind, who had also been developing holography, largely independently. Susskind argued that the oscillation of the horizon of a black hole is a complete description[note 2] of both the infalling and outgoing matter, because the world-sheet theory of string theory was just such a holographic description. While short strings have zero entropy, he could identify long highly excited string states with ordinary black holes. This was a deep advance because it revealed that strings have a classical interpretation in terms of black holes.
+This work showed that the black hole information paradox is resolved when quantum gravity is described in an unusual string-theoretic way assuming the string-theoretical description is complete, unambiguous and non-redundant.[12] The space-time in quantum gravity would emerge as an effective description of the theory of oscillations of a lower-dimensional black-hole horizon, and suggest that any black hole with appropriate properties, not just strings, would serve as a basis for a description of string theory.
+In 1995, Susskind, along with collaborators Tom Banks, Willy Fischler, and Stephen Shenker, presented a formulation of the new M-theory using a holographic description in terms of charged point black holes, the D0 branes of type IIA string theory. The Matrix theory they proposed was first suggested as a description of two branes in 11-dimensional supergravity by Bernard de Wit, Jens Hoppe, and Hermann Nicolai. The later authors reinterpreted the same matrix models as a description of the dynamics of point black holes in particular limits. Holography allowed them to conclude that the dynamics of these black holes give a complete non-perturbative formulation of M-theory. In 1997, Juan Maldacena gave the first holographic descriptions of a higher-dimensional object, the 3+1-dimensional type IIB membrane, which resolved a long-standing problem of finding a string description which describes a gauge theory. These developments simultaneously explained how string theory is related to some forms of supersymmetric quantum field theories.
+Limit on information density[edit]
+Entropy, if considered as information (see information entropy), is measured in bits. The total quantity of bits is related to the total degrees of freedom of matter/energy.
+For a given energy in a given volume, there is an upper limit to the density of information (the Bekenstein bound) about the whereabouts of all the particles which compose matter in that volume, suggesting that matter itself cannot be subdivided infinitely many times and there must be an ultimate level of fundamental particles. As the degrees of freedom of a particle are the product of all the degrees of freedom of its sub-particles, were a particle to have infinite subdivisions into lower-level particles, the degrees of freedom of the original particle would be infinite, violating the maximal limit of entropy density. The holographic principle thus implies that the subdivisions must stop at some level, and that the fundamental particle is a bit (1 or 0) of information.
+The most rigorous realization of the holographic principle is the AdS/CFT correspondence by Juan Maldacena. However, J.D. Brown and Marc Henneaux had rigorously proved already in 1986, that the asymptotic symmetry of 2+1 dimensional gravity gives rise to a Virasoro algebra, whose corresponding quantum theory is a 2-dimensional conformal field theory.[13]
+High-level summary[edit]
+The physical universe is widely seen to be composed of "matter" and "energy". In his 2003 article published in Scientific American magazine, Jacob Bekenstein summarized a current trend started by John Archibald Wheeler, which suggests scientists may "regard the physical world as made of information, with energy and matter as incidentals." Bekenstein asks "Could we, as William Blake memorably penned, 'see a world in a grain of sand,' or is that idea no more than 'poetic license,'"[14] referring to the holographic principle.
+Unexpected connection[edit]
+Bekenstein's topical overview "A Tale of Two Entropies"[15] describes potentially profound implications of Wheeler's trend, in part by noting a previously unexpected connection between the world of information theory and classical physics. This connection was first described shortly after the seminal 1948 papers of American applied mathematician Claude E. Shannon introduced today's most widely used measure of information content, now known as Shannon entropy. As an objective measure of the quantity of information, Shannon entropy has been enormously useful, as the design of all modern communications and data storage devices, from cellular phones to modems to hard disk drives and DVDs, rely on Shannon entropy.
+In thermodynamics (the branch of physics dealing with heat), entropy is popularly described as a measure of the "disorder" in a physical system of matter and energy. In 1877 Austrian physicist Ludwig Boltzmann described it more precisely in terms of the number of distinct microscopic states that the particles composing a macroscopic "chunk" of matter could be in while still looking like the same macroscopic "chunk". As an example, for the air in a room, its thermodynamic entropy would equal the logarithm of the count of all the ways that the individual gas molecules could be distributed in the room, and all the ways they could be moving.
+Energy, matter, and information equivalence[edit]
+Shannon's efforts to find a way to quantify the information contained in, for example, an e-mail message, led him unexpectedly to a formula with the same form as Boltzmann's. In an article in the August 2003 issue of Scientific American titled "Information in the Holographic Universe", Bekenstein summarizes that "Thermodynamic entropy and Shannon entropy are conceptually equivalent: the number of arrangements that are counted by Boltzmann entropy reflects the amount of Shannon information one would need to implement any particular arrangement..." of matter and energy. The only salient difference between the thermodynamic entropy of physics and Shannon's entropy of information is in the units of measure; the former is expressed in units of energy divided by temperature, the latter in essentially dimensionless "bits" of information.
+The holographic principle states that the entropy of ordinary mass (not just black holes) is also proportional to surface area and not volume; that volume itself is illusory and the universe is really a hologram which is isomorphic to the information "inscribed" on the surface of its boundary.[10]
+Experimental tests[edit]
+The Fermilab physicist Craig Hogan claims that the holographic principle would imply quantum fluctuations in spatial position[16] that would lead to apparent background noise or "holographic noise" measurable at gravitational wave detectors, in particular GEO 600.[17] However these claims have not been widely accepted, or cited, among quantum gravity researchers and appear to be in direct conflict with string theory calculations.[18]
+Analyses in 2011 of measurements of gamma ray burst GRB 041219A in 2004 by the INTEGRAL space observatory launched in 2002 by the European Space Agency shows that Craig Hogan's noise is absent down to a scale of 10−48 meters, as opposed to scale of 10−35 meters predicted by Hogan, and the scale of 10−16 meters found in measurements of the GEO 600 instrument.[19] Research continues at Fermilab under Hogan as of 2013.[20]
+Jacob Bekenstein also claims to have found a way to test the holographic principle with a tabletop photon experiment.[21]
+Tests of Maldacena's conjecture[edit]
+
+
+
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)
+
+
+Main article: Maldacena conjecture
+Hyakutake et al. in 2013/4 published two papers[22] that bring computational evidence that Maldacena’s conjecture is true. One paper computes the internal energy of a black hole, the position of its event horizon, its entropy and other properties based on the predictions of string theory and the effects of virtual particles. The other paper calculates the internal energy of the corresponding lower-dimensional cosmos with no gravity. The two simulations match. The papers are not an actual proof of Maldacena's conjecture for all cases but a demonstration that the conjecture works for a particular theoretical case and a verification of the AdS/CFT correspondence for a particular situation.[23]
+See also[edit]
+
+Bekenstein bound
+Beyond black holes
+Bousso's holographic bound
+Brane cosmology
+Entropic gravity
+Implicate and explicate order according to David Bohm
+Margolus–Levitin theorem
+Physical cosmology
+Quantum foam
+Simulated reality
+
+Notes[edit]
+
+
+^ except in the case of measurements, which the black hole should not be performing
+^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")
+
+
+References[edit]
+
+General
+
+
+Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+'t Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026. . 't Hooft's original paper.
+
+
+Citations
+
+
+
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. 
+^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. 
+^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]
+^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]
+^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. 
+^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. 
+^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. 
+^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. 
+^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. 
+^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. 
+^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .
+^ Information in the Holographic Universe
+^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1
+^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .
+^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. 
+^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012
+^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. 
+^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. 
+^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. 
+^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. 
+^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. 
+
+
+External links[edit]
+
+UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.
+Scientific American article on holographic principle by Jacob Bekenstein
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeThe holographic principle is a property of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a boundary to the region—preferably a light-like boundary like a gravitational horizon. First proposed by Gerard 't Hooft, it was given a precise string-theory interpretation by Leonard Susskind[1] who combined his ideas with previous ones of 't Hooft and Charles Thorn.[1][2] As pointed out by Raphael Bousso,[3] Thorn observed in 1978 that string theory admits a lower-dimensional description in which gravity emerges from it in what would now be called a holographic way.holographic principlestring theoriesquantum gravityspaceboundarylight-likegravitational horizonGerard 't HooftLeonard Susskind[1][1]Charles Thorn[1][1][2][2]Raphael Bousso[3][3]In a larger sense, the theory suggests that the entire universe can be seen as two-dimensional information on the cosmological horizon, the event horizon from which information may still be gathered and not lost due to the natural limitations of spacetime supporting a black hole, an observer and a given setting of these specific elements,[clarification needed] such that the three dimensions we observe are an effective description only at macroscopic scales and at low energies. Cosmological holography has not been made mathematically precise, partly because the particle horizon has a non-zero area and grows with time.[4][5]universetwo-dimensionalcosmological horizon[clarification needed]clarification neededclarification neededclarification neededthree dimensionsmacroscopic scaleslow energiesparticle horizon[4][4][5][5]The holographic principle was inspired by black hole thermodynamics, which conjectures that the maximal entropy in any region scales with the radius squared, and not cubed as might be expected. In the case of a black hole, the insight was that the informational content of all the objects that have fallen into the hole might be entirely contained in surface fluctuations of the event horizon. The holographic principle resolves the black hole information paradox within the framework of string theory.[6] However, there exist classical solutions to the Einstein equations that allow values of the entropy larger than those allowed by an area law, hence in principle larger than those of a black hole. These are the so-called "Wheeler's bags of gold". The existence of such solutions conflicts with the holographic interpretation, and their effects in a quantum theory of gravity including the holographic principle are not yet fully understood.[7]black hole thermodynamicsentropysquaredblack holeblack hole information paradox[6][6][7][7]
+
+Contents
+
+
+1 Black hole entropy
+2 Black hole information paradox
+3 Limit on information density
+4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+
+5 Experimental tests
+6 Tests of Maldacena's conjecture
+7 See also
+8 Notes
+9 References
+10 External links
+
+
+Contents
+Contents
+1 Black hole entropy
+2 Black hole information paradox
+3 Limit on information density
+4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+
+5 Experimental tests
+6 Tests of Maldacena's conjecture
+7 See also
+8 Notes
+9 References
+10 External links
+1 Black hole entropy1 Black hole entropy1Black hole entropy2 Black hole information paradox2 Black hole information paradox2Black hole information paradox3 Limit on information density3 Limit on information density3Limit on information density4 High-level summary
+
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+
+4 High-level summary4High-level summary
+4.1 Unexpected connection
+4.2 Energy, matter, and information equivalence
+4.1 Unexpected connection4.1 Unexpected connection4.1Unexpected connection4.2 Energy, matter, and information equivalence4.2 Energy, matter, and information equivalence4.2Energy, matter, and information equivalence5 Experimental tests5 Experimental tests5Experimental tests6 Tests of Maldacena's conjecture6 Tests of Maldacena's conjecture6Tests of Maldacena's conjecture7 See also7 See also7See also8 Notes8 Notes8Notes9 References9 References9References10 External links10 External links10External linksBlack hole entropy[edit]Black hole entropy[edit][edit]Main article: Black hole thermodynamicsBlack hole thermodynamicsAn object with relatively high entropy is microscopically random, like a hot gas. A known configuration of classical fields has zero entropy: there is nothing random about electric and magnetic fields, or gravitational waves. Since black holes are exact solutions of Einstein's equations, they were thought not to have any entropy either.entropyelectricmagnetic fieldsgravitational wavesEinstein's equationsBut Jacob Bekenstein noted that this leads to a violation of the second law of thermodynamics. If one throws a hot gas with entropy into a black hole, once it crosses the event horizon, the entropy would disappear. The random properties of the gas would no longer be seen once the black hole had absorbed the gas and settled down. One way of salvaging the second law is if black holes are in fact random objects, with an enormous entropy whose increase is greater than the entropy carried by the gas.Jacob Bekensteinsecond law of thermodynamicsevent horizonentropyBekenstein assumed that black holes are maximum entropy objects—that they have more entropy than anything else in the same volume. In a sphere of radius R, the entropy in a relativistic gas increases as the energy increases. The only known limit is gravitational; when there is too much energy the gas collapses into a black hole. Bekenstein used this to put an upper bound on the entropy in a region of space, and the bound was proportional to the area of the region. He concluded that the black hole entropy is directly proportional to the area of the event horizon.[8]Rgravitationalupper boundevent horizon[8][8]Stephen Hawking had shown earlier that the total horizon area of a collection of black holes always increases with time. The horizon is a boundary defined by light-like geodesics; it is those light rays that are just barely unable to escape. If neighboring geodesics start moving toward each other they eventually collide, at which point their extension is inside the black hole. So the geodesics are always moving apart, and the number of geodesics which generate the boundary, the area of the horizon, always increases. Hawking's result was called the second law of black hole thermodynamics, by analogy with the law of entropy increase, but at first, he did not take the analogy too seriously.Stephen Hawkinggeodesicsblack hole thermodynamicslaw of entropy increaseHawking knew that if the horizon area were an actual entropy, black holes would have to radiate. When heat is added to a thermal system, the change in entropy is the increase in mass-energy divided by temperature:mass-energy
+
+
+
+
+
+
+
+
+
+
+
+If black holes have a finite entropy, they should also have a finite temperature. In particular, they would come to equilibrium with a thermal gas of photons. This means that black holes would not only absorb photons, but they would also have to emit them in the right amount to maintain detailed balance.detailed balanceTime independent solutions to field equations do not emit radiation, because a time independent background conserves energy. Based on this principle, Hawking set out to show that black holes do not radiate. But, to his surprise, a careful analysis convinced him that they do, and in just the right way to come to equilibrium with a gas at a finite temperature. Hawking's calculation fixed the constant of proportionality at 1/4; the entropy of a black hole is one quarter its horizon area in Planck units.[9]they doPlanck units[9][9]The entropy is proportional to the logarithm of the number of microstates, the ways a system can be configured microscopically while leaving the macroscopic description unchanged. Black hole entropy is deeply puzzling — it says that the logarithm of the number of states of a black hole is proportional to the area of the horizon, not the volume in the interior.[10]logarithmmicrostates[10][10]Later, Raphael Bousso came up with a covariant version of the bound based upon null sheets.Raphael Boussocovariant version of the boundBlack hole information paradox[edit]Black hole information paradox[edit][edit]Main article: Black hole information paradoxBlack hole information paradoxHawking's calculation suggested that the radiation which black holes emit is not related in any way to the matter that they absorb. The outgoing light rays start exactly at the edge of the black hole and spend a long time near the horizon, while the infalling matter only reaches the horizon much later. The infalling and outgoing mass/energy only interact when they cross. It is implausible that the outgoing state would be completely determined by some tiny residual scattering.[citation needed][citation needed]citation neededcitation neededcitation neededHawking interpreted this to mean that when black holes absorb some photons in a pure state described by a wave function, they re-emit new photons in a thermal mixed state described by a density matrix. This would mean that quantum mechanics would have to be modified, because in quantum mechanics, states which are superpositions with probability amplitudes never become states which are probabilistic mixtures of different possibilities.[note 1]wave functionphotonsdensity matrix[note 1][note 1]Troubled by this paradox, Gerard 't Hooft analyzed the emission of Hawking radiation in more detail. He noted that when Hawking radiation escapes, there is a way in which incoming particles can modify the outgoing particles. Their gravitational field would deform the horizon of the black hole, and the deformed horizon could produce different outgoing particles than the undeformed horizon. When a particle falls into a black hole, it is boosted relative to an outside observer, and its gravitational field assumes a universal form. 't Hooft showed that this field makes a logarithmic tent-pole shaped bump on the horizon of a black hole, and like a shadow, the bump is an alternate description of the particle's location and mass. For a four-dimensional spherical uncharged black hole, the deformation of the horizon is similar to the type of deformation which describes the emission and absorption of particles on a string-theory world sheet. Since the deformations on the surface are the only imprint of the incoming particle, and since these deformations would have to completely determine the outgoing particles, 't Hooft believed that the correct description of the black hole would be by some form of string theory.Gerard 't HooftHawking radiationgravitational fieldworld sheetThis idea was made more precise by Leonard Susskind, who had also been developing holography, largely independently. Susskind argued that the oscillation of the horizon of a black hole is a complete description[note 2] of both the infalling and outgoing matter, because the world-sheet theory of string theory was just such a holographic description. While short strings have zero entropy, he could identify long highly excited string states with ordinary black holes. This was a deep advance because it revealed that strings have a classical interpretation in terms of black holes.[note 2][note 2]This work showed that the black hole information paradox is resolved when quantum gravity is described in an unusual string-theoretic way assuming the string-theoretical description is complete, unambiguous and non-redundant.[12] The space-time in quantum gravity would emerge as an effective description of the theory of oscillations of a lower-dimensional black-hole horizon, and suggest that any black hole with appropriate properties, not just strings, would serve as a basis for a description of string theory.[12][12]In 1995, Susskind, along with collaborators Tom Banks, Willy Fischler, and Stephen Shenker, presented a formulation of the new M-theory using a holographic description in terms of charged point black holes, the D0 branes of type IIA string theory. The Matrix theory they proposed was first suggested as a description of two branes in 11-dimensional supergravity by Bernard de Wit, Jens Hoppe, and Hermann Nicolai. The later authors reinterpreted the same matrix models as a description of the dynamics of point black holes in particular limits. Holography allowed them to conclude that the dynamics of these black holes give a complete non-perturbative formulation of M-theory. In 1997, Juan Maldacena gave the first holographic descriptions of a higher-dimensional object, the 3+1-dimensional type IIB membrane, which resolved a long-standing problem of finding a string description which describes a gauge theory. These developments simultaneously explained how string theory is related to some forms of supersymmetric quantum field theories.Tom BanksWilly FischlerStephen ShenkerM-theorybranestype IIA string theorysupergravityBernard de WitJens HoppeHermann Nicolainon-perturbativeJuan Maldacenatype IIBmembranegauge theoryLimit on information density[edit]Limit on information density[edit][edit]Entropy, if considered as information (see information entropy), is measured in bits. The total quantity of bits is related to the total degrees of freedom of matter/energy.information entropybitsdegrees of freedomFor a given energy in a given volume, there is an upper limit to the density of information (the Bekenstein bound) about the whereabouts of all the particles which compose matter in that volume, suggesting that matter itself cannot be subdivided infinitely many times and there must be an ultimate level of fundamental particles. As the degrees of freedom of a particle are the product of all the degrees of freedom of its sub-particles, were a particle to have infinite subdivisions into lower-level particles, the degrees of freedom of the original particle would be infinite, violating the maximal limit of entropy density. The holographic principle thus implies that the subdivisions must stop at some level, and that the fundamental particle is a bit (1 or 0) of information.Bekenstein boundfundamental particlesdegrees of freedomThe most rigorous realization of the holographic principle is the AdS/CFT correspondence by Juan Maldacena. However, J.D. Brown and Marc Henneaux had rigorously proved already in 1986, that the asymptotic symmetry of 2+1 dimensional gravity gives rise to a Virasoro algebra, whose corresponding quantum theory is a 2-dimensional conformal field theory.[13]AdS/CFTJuan MaldacenaMarc HenneauxVirasoro algebra[13][13]High-level summary[edit]High-level summary[edit][edit]The physical universe is widely seen to be composed of "matter" and "energy". In his 2003 article published in Scientific American magazine, Jacob Bekenstein summarized a current trend started by John Archibald Wheeler, which suggests scientists may "regard the physical world as made of information, with energy and matter as incidentals." Bekenstein asks "Could we, as William Blake memorably penned, 'see a world in a grain of sand,' or is that idea no more than 'poetic license,'"[14] referring to the holographic principle.Scientific AmericanJacob BekensteinJohn Archibald Wheeler"regard the physical world as made of information, with energy and matter as incidentals."informationWilliam Blakepoetic license[14][14]Unexpected connection[edit]Unexpected connection[edit][edit]Bekenstein's topical overview "A Tale of Two Entropies"[15] describes potentially profound implications of Wheeler's trend, in part by noting a previously unexpected connection between the world of information theory and classical physics. This connection was first described shortly after the seminal 1948 papers of American applied mathematician Claude E. Shannon introduced today's most widely used measure of information content, now known as Shannon entropy. As an objective measure of the quantity of information, Shannon entropy has been enormously useful, as the design of all modern communications and data storage devices, from cellular phones to modems to hard disk drives and DVDs, rely on Shannon entropy.[15][15]information theoryClaude E. ShannonShannon entropymodemsDVDsIn thermodynamics (the branch of physics dealing with heat), entropy is popularly described as a measure of the "disorder" in a physical system of matter and energy. In 1877 Austrian physicist Ludwig Boltzmann described it more precisely in terms of the number of distinct microscopic states that the particles composing a macroscopic "chunk" of matter could be in while still looking like the same macroscopic "chunk". As an example, for the air in a room, its thermodynamic entropy would equal the logarithm of the count of all the ways that the individual gas molecules could be distributed in the room, and all the ways they could be moving.thermodynamicsdisorderLudwig Boltzmannnumber of distinct microscopic stateslookingEnergy, matter, and information equivalence[edit]Energy, matter, and information equivalence[edit][edit]Shannon's efforts to find a way to quantify the information contained in, for example, an e-mail message, led him unexpectedly to a formula with the same form as Boltzmann's. In an article in the August 2003 issue of Scientific American titled "Information in the Holographic Universe", Bekenstein summarizes that "Thermodynamic entropy and Shannon entropy are conceptually equivalent: the number of arrangements that are counted by Boltzmann entropy reflects the amount of Shannon information one would need to implement any particular arrangement..." of matter and energy. The only salient difference between the thermodynamic entropy of physics and Shannon's entropy of information is in the units of measure; the former is expressed in units of energy divided by temperature, the latter in essentially dimensionless "bits" of information.Boltzmann's"Thermodynamic entropy and Shannon entropy are conceptually equivalent: the number of arrangements that are counted by Boltzmann entropy reflects the amount of Shannon information one would need to implement any particular arrangement..."essentially dimensionlessThe holographic principle states that the entropy of ordinary mass (not just black holes) is also proportional to surface area and not volume; that volume itself is illusory and the universe is really a hologram which is isomorphic to the information "inscribed" on the surface of its boundary.[10]ordinary masshologramisomorphic[10][10]Experimental tests[edit]Experimental tests[edit][edit]The Fermilab physicist Craig Hogan claims that the holographic principle would imply quantum fluctuations in spatial position[16] that would lead to apparent background noise or "holographic noise" measurable at gravitational wave detectors, in particular GEO 600.[17] However these claims have not been widely accepted, or cited, among quantum gravity researchers and appear to be in direct conflict with string theory calculations.[18]FermilabCraig Hogan[16][16]GEO 600[17][17][18][18]Analyses in 2011 of measurements of gamma ray burst GRB 041219A in 2004 by the INTEGRAL space observatory launched in 2002 by the European Space Agency shows that Craig Hogan's noise is absent down to a scale of 10−48 meters, as opposed to scale of 10−35 meters predicted by Hogan, and the scale of 10−16 meters found in measurements of the GEO 600 instrument.[19] Research continues at Fermilab under Hogan as of 2013.[20]GRB 041219AINTEGRALEuropean Space Agency−48−35−16GEO 600[19][19][20][20]Jacob Bekenstein also claims to have found a way to test the holographic principle with a tabletop photon experiment.[21]Jacob Bekenstein[21][21]Tests of Maldacena's conjecture[edit]Tests of Maldacena's conjecture[edit][edit]
+
+
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)
+
+
+
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)
+
+
+This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)This section may stray from the topic of the article. Please help improve this section or discuss this issue on the talk page. (July 2015)may stray from the topic of the articlestray from the topicPlease help improve this section or discuss this issue on the talk page.improve this sectiontalk page(July 2015)(July 2015)Main article: Maldacena conjectureMaldacena conjectureHyakutake et al. in 2013/4 published two papers[22] that bring computational evidence that Maldacena’s conjecture is true. One paper computes the internal energy of a black hole, the position of its event horizon, its entropy and other properties based on the predictions of string theory and the effects of virtual particles. The other paper calculates the internal energy of the corresponding lower-dimensional cosmos with no gravity. The two simulations match. The papers are not an actual proof of Maldacena's conjecture for all cases but a demonstration that the conjecture works for a particular theoretical case and a verification of the AdS/CFT correspondence for a particular situation.[23][22][22]string theoryvirtual particles[23][23]See also[edit]See also[edit][edit]
+Bekenstein bound
+Beyond black holes
+Bousso's holographic bound
+Brane cosmology
+Entropic gravity
+Implicate and explicate order according to David Bohm
+Margolus–Levitin theorem
+Physical cosmology
+Quantum foam
+Simulated reality
+Bekenstein boundBekenstein boundBeyond black holesBeyond black holesBousso's holographic boundBousso's holographic boundBrane cosmologyBrane cosmologyEntropic gravityEntropic gravityImplicate and explicate order according to David BohmImplicate and explicate order according to David BohmMargolus–Levitin theoremMargolus–Levitin theoremPhysical cosmologyPhysical cosmologyQuantum foamQuantum foamSimulated realitySimulated realityNotes[edit]Notes[edit][edit]
+
+^ except in the case of measurements, which the black hole should not be performing
+^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")
+
+
+^ except in the case of measurements, which the black hole should not be performing
+^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")
+^ except in the case of measurements, which the black hole should not be performing^^^except in the case of measurements, which the black hole should not be performing^ "Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")^^^"Complete description" means all the primary qualities. For example, John Locke (and before him Robert Boyle) determined these to be size, shape, motion, number, and solidity. Such secondary quality information as color, aroma, taste and sound,[11] or internal quantum state is not information that is implied to be preserved in the surface fluctuations of the event horizon. (See however "path integral quantization")primaryJohn LockeRobert Boylesize, shape, motion, number,soliditysecondary qualitycolor, aroma, tastesound[11][11]References[edit]References[edit][edit]
+General
+General
+Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+'t Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026. . 't Hooft's original paper.
+Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. Bousso, Raphael (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825.Reviews of Modern Physics74arXivhep-th/0203101Bibcode2002RvMP...74..825Bdoi10.1103/RevModPhys.74.825  't Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026. . 't Hooft's original paper.'t Hooft, Gerard (1993). "Dimensional Reduction in Quantum Gravity". arXiv:gr-qc/9310026.arXivgr-qc/9310026  
+Citations
+Citations
+
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. 
+^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. 
+^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]
+^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]
+^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. 
+^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. 
+^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. 
+^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. 
+^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. 
+^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. 
+^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .
+^ Information in the Holographic Universe
+^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1
+^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .
+^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. 
+^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012
+^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. 
+^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. 
+^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. 
+^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. 
+^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. 
+
+
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. 
+^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. 
+^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]
+^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]
+^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. 
+^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. 
+^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. 
+^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. 
+^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. 
+^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. 
+^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .
+^ Information in the Holographic Universe
+^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1
+^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .
+^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. 
+^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012
+^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. 
+^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. 
+^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. 
+^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. 
+^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. 
+^ a b Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. ^ a baaaabbbbSusskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249.Journal of Mathematical Physics36arXivhep-th/9409089Bibcode1995JMP....36.6377Sdoi10.1063/1.531249  ^ Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. ^^^Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7. Thorn, Charles B. (27–31 May 1991). Reformulating string theory with the 1/N expansion. International A.D. Sakharov Conference on Physics. Moscow. pp. 447–54. arXiv:hep-th/9405069. ISBN 978-1-56072-073-7.Reformulating string theory with the 1/N expansionarXivhep-th/9405069ISBN978-1-56072-073-7  ^ Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. ^^^Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. Bousso, Raphael (2002). "The Holographic Principle". Reviews of Modern Physics 74 (3): 825–874. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825.Reviews of Modern PhysicsReviews of Modern Physics74arXivhep-th/0203101Bibcode2002RvMP...74..825Bdoi10.1103/RevModPhys.74.825  ^ Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. ^^^Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399. Lloyd, Seth (2002-05-24). "Computational Capacity of the Universe". Physical Review Letters 88 (23): 237901. arXiv:quant-ph/0110141. Bibcode:2002PhRvL..88w7901L. doi:10.1103/PhysRevLett.88.237901. PMID 12059399.Physical Review LettersPhysical Review Letters88arXivquant-ph/0110141Bibcode2002PhRvL..88w7901Ldoi10.1103/PhysRevLett.88.237901PMID12059399  ^ Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]^^^Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14. [dead link]Davies, Paul. "Multiverse Cosmological Models and the Anthropic Principle". CTNS. Retrieved 2008-03-14."Multiverse Cosmological Models and the Anthropic Principle"CTNS. Retrieved 2008-03-142008-03-14  [dead link][dead link]dead linkdead linkdead link^ Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]^^^Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company. [page needed]Susskind, L. (2008). The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics. Little, Brown and Company.The Black Hole War – My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics  [page needed]page neededpage neededpage needed^ Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. ^^^Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7. Marolf, Donald (April 2009). "Black Holes, AdS, and CFTs". General Relativity and Gravitation 41 (4): 903–17. arXiv:0810.4886. Bibcode:2009GReGr..41..903M. doi:10.1007/s10714-008-0749-7.Marolf, DonaldGeneral Relativity and Gravitation41arXiv0810.4886Bibcode2009GReGr..41..903Mdoi10.1007/s10714-008-0749-7  ^ Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. ^^^Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287. Bekenstein, Jacob D. (January 1981). "Universal upper bound on the entropy-to-energy ratio for bounded systems". Physical Review D 23 (215): 287–298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287.Physical Review D23Bibcode1981PhRvD..23..287Bdoi10.1103/PhysRevD.23.287  ^ Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. ^^^Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M. Majumdar, Parthasarathi (1998). "Black Hole Entropy and Quantum Gravity" 73: 147. arXiv:gr-qc/9807045. Bibcode:1999InJPB..73..147M.73arXivgr-qc/9807045Bibcode1999InJPB..73..147M  ^ a b Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. ^ a baaaabbbbBekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59. Bekenstein, Jacob D. (August 2003). "Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram". Scientific American. p. 59.Bekenstein, Jacob D."Information in the Holographic Universe — Theoretical results about black holes suggest that the universe could be like a gigantic hologram"Scientific AmericanScientific American  ^ Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. ^^^Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1. Dennett, Daniel (1991). Consciousness Explained. New York: Back Bay Books. p. 371. ISBN 0-316-18066-1.Consciousness ExplainedConsciousness ExplainedISBN0-316-18066-1  ^ Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. ^^^Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219. Susskind, L. (February 2003). "The Anthropic landscape of string theory". arXiv:hep-th/0302219.arXivhep-th/0302219  ^ Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .^^^Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590. .Brown, J. D. & Henneaux, M. (1986). "Central charges in the canonical realization of asymptotic symmetries: an example from three-dimensional gravity". Communications in Mathematical Physics 104 (2): 207–226. Bibcode:1986CMaPh.104..207B. doi:10.1007/BF01211590.Communications in Mathematical Physics104Bibcode1986CMaPh.104..207Bdoi10.1007/BF01211590  ^ Information in the Holographic Universe^^^Information in the Holographic UniverseInformation in the Holographic Universe^ http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1^^^http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1http://webcache.googleusercontent.com/search?q=cache:E360V697cvgJ:ref-sciam.livejournal.com/1190.html&hl=en&gl=us&strip=1^ Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .^^^Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031. .Hogan, Craig J. (2008). "Measurement of quantum fluctuations in geometry". Physical Review D 77 (10): 104031. arXiv:0712.3419. Bibcode:2008PhRvD..77j4031H. doi:10.1103/PhysRevD.77.104031.Physical Review DPhysical Review D77arXiv0712.3419Bibcode2008PhRvD..77j4031Hdoi10.1103/PhysRevD.77.104031  ^ Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. ^^^Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19. Chown, Marcus (15 January 2009). "Our world may be a giant hologram". NewScientist. Retrieved 2010-04-19."Our world may be a giant hologram"NewScientist. Retrieved 2010-04-192010-04-19  ^ "Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012^^^"Consequently, he ends up with inequalities of the type... Except that one may look at the actual equations of Matrix theory and see that none of these commutators is nonzero... The last displayed inequality above obviously can't be a consequence of quantum gravity because it doesn't depend on G at all! However, in the G→0 limit, one must reproduce non-gravitational physics in the flat Euclidean background spacetime. Hogan's rules don't have the right limit so they can't be right." – Lubos Motl, Hogan's holographic noise doesn't exist, Feb 7, 2012Lubos MotlHogan's holographic noise doesn't exist^ "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. ^^^"Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013. "Integral challenges physics beyond Einstein". European Space Agency. 30 June 2011. Retrieved 3 February 2013."Integral challenges physics beyond Einstein"European Space Agency. Retrieved 3 February 20133 February  ^ "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. ^^^"Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014. "Frequently Asked Questions for the Holometer at Fermilab". 6 July 2013. Retrieved 14 February 2014."Frequently Asked Questions for the Holometer at Fermilab". Retrieved 14 February 201414 February  ^ Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. ^^^Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013. Cowen, Ron (22 November 2012). "Single photon could detect quantum-scale black holes". Nature. Retrieved 3 February 2013."Single photon could detect quantum-scale black holes"NatureNature. Retrieved 3 February 20133 February  ^ Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. ^^^Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122. Cowen, Ron (10 December 2013). "Simulations back up theory that Universe is a hologram". Nature News. doi:10.1038/nature.2013.14328.Nature Newsdoi10.1038/nature.2013.14328  Hyakutake, Yoshifumi (March 2014). "Quantum near-horizon geometry of a black 0-brane". Progress of Theoretical and Experimental Physics 2014 (3): 033B04. arXiv:1311.7526. Bibcode:2014PTEP.2014c3B04H. doi:10.1093/ptep/ptu028.Progress of Theoretical and Experimental Physics2014arXiv1311.7526Bibcode2014PTEP.2014c3B04Hdoi10.1093/ptep/ptu028  Hanada, Masanori; Hyakutake, Yoshifumi; Ishiki, Goro; Nishimura, Jun (23 May 2014). "Holographic description of a quantum black hole on a computer". Science 344 (6186): 882–5. arXiv:1311.5607. Bibcode:2014Sci...344..882H. doi:10.1126/science.1250122.Science344arXiv1311.5607Bibcode2014Sci...344..882Hdoi10.1126/science.1250122  ^ Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. ^^^Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org. Yirka, Bob (December 13, 2013). "New work gives credence to theory of universe as a hologram". Phys.org."New work gives credence to theory of universe as a hologram"  External links[edit]External links[edit][edit]
+UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.
+Scientific American article on holographic principle by Jacob Bekenstein
+UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.UC Berkeley's Raphael Bousso gives an introductory lecture on the holographic principle - Video.Scientific American article on holographic principle by Jacob BekensteinScientific American article on holographic principle by Jacob BekensteinScientific American
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+
+
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+
+
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+
+
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+
+
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+
+
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+
+
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+
+
+v
+t
+e
+
+
+Black holes
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeBlack holesBlack holes
+
+
+Types
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+
+
+Types
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+
+
+Schwarzschild
+Rotating
+Charged
+Virtual
+Binary
+SchwarzschildSchwarzschildRotatingRotatingChargedChargedVirtualVirtualBinaryBinary
+
+
+
+
+Size
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+Size
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+
+
+Micro
+Extremal
+
+Electron
+
+
+Stellar
+Intermediate-mass
+Supermassive
+Quasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+
+MicroMicroExtremal
+
+Electron
+
+Extremal
+Electron
+ElectronElectronStellarStellarIntermediate-massIntermediate-massSupermassiveSupermassiveQuasar
+
+Active galactic nucleus
+Blazar
+Large quasar group
+
+Quasar
+Active galactic nucleus
+Blazar
+Large quasar group
+Active galactic nucleusActive galactic nucleusBlazarBlazarLarge quasar groupLarge quasar group
+
+
+Formation
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+Formation
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+
+
+Stellar evolution
+Gravitational collapse
+Neutron star
+
+Related links
+
+
+Compact star
+
+Quark
+Exotic
+
+
+Tolman–Oppenheimer–Volkoff limit
+White dwarf
+
+Related links
+
+
+Supernova
+
+Related links
+
+
+Hypernova
+Gamma-ray burst
+Stellar evolutionStellar evolutionGravitational collapseGravitational collapseNeutron star
+
+Related links
+
+Neutron star
+Related links
+Related linksRelated linksCompact star
+
+Quark
+Exotic
+
+Compact star
+Quark
+Exotic
+QuarkQuarkExoticExoticTolman–Oppenheimer–Volkoff limitTolman–Oppenheimer–Volkoff limitWhite dwarf
+
+Related links
+
+White dwarf
+Related links
+Related linksRelated linksSupernova
+
+Related links
+
+Supernova
+Related links
+Related linksRelated linksHypernovaHypernovaGamma-ray burstGamma-ray burst
+
+
+Properties
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+Properties
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+
+
+Thermodynamics
+Schwarzschild radius
+M–sigma relation
+Event horizon
+Quasi-periodic oscillation
+Photon sphere
+Ergosphere
+Hawking radiation
+Penrose process
+Blandford–Znajek process
+Bondi accretion
+Spaghettification
+Gravitational lens
+ThermodynamicsThermodynamicsSchwarzschild radiusSchwarzschild radiusM–sigma relationM–sigma relationEvent horizonEvent horizonQuasi-periodic oscillationQuasi-periodic oscillationPhoton spherePhoton sphereErgosphereErgosphereHawking radiationHawking radiationPenrose processPenrose processBlandford–Znajek processBlandford–Znajek processBondi accretionBondi accretionSpaghettificationSpaghettificationGravitational lensGravitational lens
+
+
+Models
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+Models
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+
+
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+
+Primordial black hole
+Gravastar
+Dark star
+Dark-energy star
+Black star
+Eternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+
+Fuzzball
+White hole
+Naked singularity
+Ring singularity
+Immirzi parameter
+Membrane paradigm
+Kugelblitz
+Wormhole
+Quasi-star
+Gravitational singularity
+
+Penrose–Hawking singularity theorems
+
+Gravitational singularity
+Penrose–Hawking singularity theorems
+Penrose–Hawking singularity theoremsPenrose–Hawking singularity theoremsPrimordial black holePrimordial black holeGravastarGravastarDark starDark starDark-energy starDark-energy starBlack starBlack starEternally collapsing object
+
+Magnetospheric eternally collapsing object
+
+Eternally collapsing object
+Magnetospheric eternally collapsing object
+Magnetospheric eternally collapsing objectMagnetospheric eternally collapsing objectFuzzballFuzzballWhite holeWhite holeNaked singularityNaked singularityRing singularityRing singularityImmirzi parameterImmirzi parameterMembrane paradigmMembrane paradigmKugelblitzKugelblitzWormholeWormholeQuasi-starQuasi-star
+
+
+Issues
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+Issues
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+
+
+No-hair theorem
+Information paradox
+Cosmic censorship
+Alternative models
+Holographic principle
+Black hole complementarity
+firewall (physics)
+ER=EPR
+No-hair theoremNo-hair theoremInformation paradoxInformation paradoxCosmic censorshipCosmic censorshipAlternative modelsAlternative modelsHolographic principleHolographic principleBlack hole complementarityBlack hole complementarityfirewall (physics)firewall (physics)ER=EPRER=EPR
+
+
+Metrics
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+Metrics
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+
+
+Schwarzschild
+Kerr
+Reissner–Nordström
+Kerr–Newman
+SchwarzschildSchwarzschildKerrKerrReissner–NordströmReissner–NordströmKerr–NewmanKerr–Newman
+
+
+Lists
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+Lists
+
+
+Black holes
+Most massive
+Quasars
+
+
+
+
+Black holes
+Most massive
+Quasars
+
+
+Black holes
+Most massive
+Quasars
+Black holesBlack holesMost massiveMost massiveQuasarsQuasars
+
+
+Related
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+Related
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+
+
+Timeline of black hole physics
+Rossi X-ray Timing Explorer
+Hypercompact stellar system
+Black hole starship
+Timeline of black hole physicsTimeline of black hole physicsRossi X-ray Timing ExplorerRossi X-ray Timing ExplorerHypercompact stellar systemHypercompact stellar systemBlack hole starshipBlack hole starship
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeQuantum gravityQuantum gravity
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+Central concepts
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+AdS/CFT correspondenceAdS/CFT correspondenceCausal patchCausal patchGravitational anomalyGravitational anomalyGravitonGravitonHolographic principleHolographic principleIR/UV mixingIR/UV mixingPlanck scalePlanck scaleQuantum foamQuantum foamTrans-Planckian problemTrans-Planckian problemWeinberg–Witten theoremWeinberg–Witten theorem
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+Toy models
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+2+1D topological gravity2+1D topological gravityCGHS modelCGHS modelJackiw–Teitelboim gravityJackiw–Teitelboim gravityLiouville gravityLiouville gravityRST modelRST modelTopological quantum field theoryTopological quantum field theory
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+Quantum field theory
+in curved spacetimeQuantum field theory
+in curved spacetime
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+Bunch–Davies vacuumBunch–Davies vacuumHawking radiationHawking radiationSemiclassical gravitySemiclassical gravityUnruh effectUnruh effect
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+Black holesBlack holes
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+Black hole complementarityBlack hole complementarityBlack hole information paradoxBlack hole information paradoxBlack hole thermodynamicsBlack hole thermodynamicsBousso's holographic boundBousso's holographic boundER=EPRER=EPRFirewall (physics)Firewall (physics)Gravitational singularityGravitational singularity
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+Approaches
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+String theory
+String theoryString theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+Bosonic string theoryBosonic string theoryM-theoryM-theorySupergravitySupergravitySuperstring theorySuperstring theory
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Canonical quantum gravity
+Canonical quantum gravityCanonical quantum gravity
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+Loop quantum gravityLoop quantum gravityWheeler–DeWitt equationWheeler–DeWitt equation
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+Euclidean quantum gravity
+Euclidean quantum gravityEuclidean quantum gravity
+
+
+Hartle–Hawking state
+
+
+
+
+Hartle–Hawking state
+
+
+Hartle–Hawking state
+Hartle–Hawking stateHartle–Hawking state
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Others
+Others
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+Causal dynamical triangulationCausal dynamical triangulationCausal setsCausal setsNoncommutative geometryNoncommutative geometrySpin foamSpin foamGroup field theoryGroup field theorySuperfluid vacuum theorySuperfluid vacuum theoryTwistor theoryTwistor theory
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+Applications
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+Quantum cosmology
+Eternal inflation
+Multiverse
+FRW/CFT duality
+Eternal inflationEternal inflationMultiverseMultiverseFRW/CFT dualityFRW/CFT duality
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Holographic_principle&oldid=705100314"					https://en.wikipedia.org/w/index.php?title=Holographic_principle&oldid=705100314Categories: Black holesTheoretical physicsQuantum information scienceHolographyHidden categories: All articles with dead external linksArticles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsUse dmy dates from July 2011Categories: Black holesTheoretical physicsQuantum information scienceHolographyCategoriesBlack holesTheoretical physicsQuantum information scienceHolographyBlack holesBlack holesTheoretical physicsTheoretical physicsQuantum information scienceQuantum information scienceHolographyHolographyHidden categories: All articles with dead external linksArticles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsUse dmy dates from July 2011All articles with dead external linksArticles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsArticles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsUse dmy dates from July 2011All articles with dead external linksAll articles with dead external linksArticles with dead external links from August 2014Articles with dead external links from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing page number citations from August 2014Wikipedia articles needing clarification from November 2014Wikipedia articles needing clarification from November 2014All articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from July 2015Articles with unsourced statements from July 2015Wikipedia articles that may have off-topic sectionsWikipedia articles that may have off-topic sectionsUse dmy dates from July 2011Use dmy dates from July 2011
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어ItalianoLietuvių日本語PolskiPortuguêsRomânăРусскийSlovenčinaSuomiSvenskaTürkçe中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어ItalianoLietuvių日本語PolskiPortuguêsRomânăРусскийSlovenčinaSuomiSvenskaTürkçe中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어ItalianoLietuvių日本語PolskiPortuguêsRomânăРусскийSlovenčinaSuomiSvenskaTürkçe中文 
+Edit links 
+Languages
+
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어ItalianoLietuvių日本語PolskiPortuguêsRomânăРусскийSlovenčinaSuomiSvenskaTürkçe中文 
+Edit links 
+العربيةБеларускаяCatalàČeštinaDeutschEspañolفارسیFrançais한국어ItalianoLietuvių日本語PolskiPortuguêsRomânăРусскийSlovenčinaSuomiSvenskaTürkçe中文 العربيةالعربيةБеларускаяБеларускаяCatalàCatalàČeštinaČeštinaDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançais한국어한국어ItalianoItalianoLietuviųLietuvių日本語日本語PolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийSlovenčinaSlovenčinaSuomiSuomiSvenskaSvenskaTürkçeTürkçe中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 15 February 2016, at 14:20.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 15 February 2016, at 14:20.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 15 February 2016, at 14:20.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

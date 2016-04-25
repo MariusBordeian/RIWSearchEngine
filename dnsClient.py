@@ -1,6 +1,7 @@
 from dnslib import *
 import dns.resolver
 import binascii
+import socket
 import sys
 
 
@@ -17,35 +18,49 @@ def hexPretty(hexBytes):
 
 
 def main(argv):
-	dns_server = dns.resolver.Resolver().nameservers[0]
+	try:
+		dns_server = dns.resolver.Resolver().nameservers[0]
 
-	if len(argv) < 1:
-		argv = ['www.google.com']
+		print(argv)
 
-	for hostName in argv:
-		print('\n\n\tDNS Lookup for : ' + hostName + '\n')
+		if len(argv) < 1:
+			argv = ['www.google.com']
 
-		question = DNSRecord.question(hostName, "A")
-		request = question.send(dest=dns_server, port=53, tcp=False)
-		response = DNSRecord.parse(request)
+		v_return = []
 
-		print('\tquestion header : ')
-		print(str(question.header) + '\n')
-		print('\tresponse header : ')
-		print(str(response.header) + '\n')
-		print('\n\t:questions')
-		print(str(response.questions) + '\n')
-		print('\n\t:answers')
-		print(str(response.rr) + '\n')
+		for hostName in argv:
+			print('\n\n\tDNS Lookup for : ' + hostName + '\n')
 
-		cnt = 0
-		for r in response.rr:
-			cnt += 1
-			print('answer[' + str(cnt) + ']' + '\t: ' + str(r))
+			question = DNSRecord.question(hostName, "A")
+			request = question.send(dest=dns_server, port=53, tcp=False)
+			response = DNSRecord.parse(request)
 
-		if len(argv) == 1:
-			print('\n\t\t:question bytes\n' + hexPretty(question.pack()) + '\n')
-			print('\t\t:answer bytes\n' + hexPretty(request) + '\n')
+			print('\tquestion header : ')
+			print(str(question.header) + '\n')
+			print('\tresponse header : ')
+			print(str(response.header) + '\n')
+			print('\n\t:questions')
+			print(str(response.questions) + '\n')
+			print('\n\t:answers')
+			print(str(response.rr) + '\n')
+
+			cnt = 0
+			for r in response.rr:
+				cnt += 1
+				print('answer[' + str(cnt) + ']' + '\t: ' + str(r))
+
+			if len(argv) == 1:
+				print('\n\t\t:question bytes\n' + hexPretty(question.pack()) + '\n')
+				print('\t\t:answer bytes\n' + hexPretty(request) + '\n')
+
+			v_return.append(str(response.rr[0].rdata) if response and response.rr and response.rr[0] and response.rr[0].rdata else '')
+			# v_return.append(socket.gethostbyname(hostName))
+	
+	except:
+		v_return = ['']
+
+	finally:
+		return v_return
 
 
 if __name__ == "__main__":

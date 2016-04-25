@@ -1,0 +1,8771 @@
+Graviton - Wikipedia, the free encyclopedia
+
+
+
+
+Graviton
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about the hypothetical particle.  For other uses, see Graviton (disambiguation).
+
+Graviton
+
+Composition
+Elementary particle
+
+
+Statistics
+Bose–Einstein statistics
+
+
+Interactions
+Gravitation
+
+
+Status
+Theoretical
+
+
+Symbol
+G[1]
+
+
+Antiparticle
+Self
+
+
+Theorized
+1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3]
+
+
+Discovered
+Hypothetical
+
+
+Mass
+0
+
+
+Mean lifetime
+Stable
+
+
+Electric charge
+0 e
+
+
+Spin
+2
+
+
+In physics, the graviton is a hypothetical elementary particle that mediates the force of gravitation in the framework of quantum field theory. If it exists, the graviton is expected to be massless (because the gravitational force appears to have unlimited range) and must be a spin-2 boson. The spin follows from the fact that the source of gravitation is the stress–energy tensor, a second-rank tensor (compared to electromagnetism's spin-1 photon, the source of which is the four-current, a first-rank tensor). Additionally, it can be shown that any massless spin-2 field would give rise to a force indistinguishable from gravitation, because a massless spin-2 field would couple to the stress–energy tensor in the same way that gravitational interactions do. Seeing as the graviton is hypothetical, its discovery would unite quantum theory with gravity.[4] This result suggests that, if a massless spin-2 particle is discovered, it must be the graviton, so that the only experimental verification needed for the graviton may simply be the discovery of a massless spin-2 particle.[5]
+
+
+
+Contents
+
+
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+
+2 Experimental observation
+3 Difficulties and outstanding issues
+4 See also
+5 References
+6 External links
+
+
+
+Theory[edit]
+The three other known forces of nature are mediated by elementary particles: electromagnetism by the photon, the strong interaction by the gluons, and the weak interaction by the W and Z bosons. The hypothesis is that the gravitational interaction is likewise mediated by an – as yet undiscovered – elementary particle, dubbed as the graviton. In the classical limit, the theory would reduce to general relativity and conform to Newton's law of gravitation in the weak-field limit.[6][7][8]
+Gravitons and renormalisation[edit]
+When describing graviton interactions, the classical theory of Feynman diagrams, and semiclassical corrections such as one-loop diagrams behave normally. But, Feynman diagrams with at least two loops lead to ultraviolet divergences. These infinite results cannot be removed because quantized general relativity is not perturbatively renormalizable, unlike quantum electrodynamics models such as Yang-Mills. Therefore, incalculable answers are found from the perturbation method by which physicists calculate the probability of a particle to emit or absorb gravitons; and the theory loses predictive veracity. Those problems and the complementary approximation framework are grounds to show that a theory more unified than quantized general relativity suffices to describe the behavior near the Planck scale.
+Comparison with other forces[edit]
+Unlike the force carriers of the other forces, gravitation plays a special role in general relativity in defining the spacetime in which events take place. In some descriptions, matter modifies the 'shape' of spacetime itself, and gravity is a result of this shape, an idea which at first glance may appear hard to match with the idea of a force acting between particles.[9] Because the diffeomorphism invariance of the theory does not allow any particular space-time background to be singled out as the "true" space-time background, general relativity is said to be background independent. In contrast, the Standard Model is not background independent, with Minkowski space enjoying a special status as the fixed background space-time.[10] A theory of quantum gravity is needed in order to reconcile these differences.[11] Whether this theory should be background independent is an open question. The answer to this question will determine our understanding of what specific role gravitation plays in the fate of the universe.[12]
+Gravitons in speculative theories[edit]
+String theory predicts the existence of gravitons and their well-defined interactions. A graviton in perturbative string theory is a closed string in a very particular low-energy vibrational state. The scattering of gravitons in string theory can also be computed from the correlation functions in conformal field theory, as dictated by the AdS/CFT correspondence, or from matrix theory.[citation needed]
+A feature of gravitons in string theory is that, as closed strings without endpoints, they would not be bound to branes and could move freely between them. If we live on a brane (as hypothesized by brane theories) this "leakage" of gravitons from the brane into higher-dimensional space could explain why gravitation is such a weak force, and gravitons from other branes adjacent to our own could provide a potential explanation for dark matter. However, if gravitons were to move completely freely between branes this would dilute gravity too much, causing a violation of Newton's inverse square law. To combat this, Lisa Randall found that a three-brane (such as ours) would have a gravitational pull of its own, preventing gravitons from drifting freely, possibly resulting in the diluted gravity we observe while roughly maintaining Newton's inverse square law.[13] See brane cosmology.
+A theory by Ahmed Farag Ali and Saurya Das adds quantum mechanical corrections (using Bohm trajectories) to general relativistic geodesics. If gravitons are given a small but non-zero mass, it could explain the cosmological constant without need for dark energy and solve the smallness[clarification needed] problem.[14] The theory received an Honorable Mention in the 2014 Essay Competition of the Gravity Research Foundation for explaining the smallness of cosmological constant.[15] Also the theory received an Honorable Mention in the 2015 Essay Competition of the Gravity Research Foundation for naturally explaining the observed large scale homogeneity and isotropy of the universe due to the proposed quantum corrections.[16]
+Experimental observation[edit]
+Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, is impossible with any physically reasonable detector.[17] The reason is the extremely low cross section for the interaction of gravitons with matter. For example, a detector with the mass of Jupiter and 100% efficiency, placed in close orbit around a neutron star, would only be expected to observe one graviton every 10 years, even under the most favorable conditions. It would be impossible to discriminate these events from the background of neutrinos, since the dimensions of the required neutrino shield would ensure collapse into a black hole.[17]
+LIGO and Virgo collaborations' observations have directly detected of gravitational waves.[18][19][20] Others have postulated that graviton scattering yields gravitational waves as particle interactions yield coherent states.[21] Although these experiments cannot detect individual gravitons, they might provide information about certain properties of the graviton.[22] For example, if gravitational waves were observed to propagate slower than c (the speed of light in a vacuum), that would imply that the graviton has mass (however, gravitational waves must propagate slower than c in a region with non-zero mass density if they are to be detectable).[23] Recent observations of gravitational waves have put an upper bound of 1.2 × 10-22 eV/c2 on the graviton's mass.[19] Astronomical observations of the kinematics of galaxies, especially the galaxy rotation problem and modified Newtonian dynamics, might point toward gravitons having non-zero mass.[24]
+Difficulties and outstanding issues[edit]
+Most theories containing gravitons suffer from severe problems. Attempts to extend the Standard Model or other quantum field theories by adding gravitons run into serious theoretical difficulties at energies close to or above the Planck scale. This is because of infinities arising due to quantum effects; technically, gravitation is not renormalizable. Since classical general relativity and quantum mechanics seem to be incompatible at such energies, from a theoretical point of view, this situation is not tenable. One possible solution is to replace particles with strings. String theories are quantum theories of gravity in the sense that they reduce to classical general relativity plus field theory at low energies, but are fully quantum mechanical, contain a graviton, and are thought to be mathematically consistent.[25]
+See also[edit]
+
+Gravitation
+Gravitational wave
+Gravitino
+Gravitomagnetism
+Multiverse
+Planck mass
+Static forces and virtual-particle exchange
+
+References[edit]
+
+
+^ G is used to avoid confusion with gluons (symbol g)
+^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. 
+^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. 
+^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. 
+^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. 
+^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. 
+^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc
+^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. 
+^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. 
+^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. 
+^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. 
+^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. 
+^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. 
+^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. 
+^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. 
+^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. 
+^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. 
+^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. 
+^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.
+^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. 
+^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. 
+^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692
+^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. 
+
+
+External links[edit]
+
+
+Graviton on In Our Time at the BBC. (listen now)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Graviton&oldid=716855926"					
+Categories: BosonsGauge bosonsQuantum gravityString theoryHypothetical elementary particlesHidden categories: CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015 
+
+
+Graviton
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about the hypothetical particle.  For other uses, see Graviton (disambiguation).
+
+Graviton
+
+Composition
+Elementary particle
+
+
+Statistics
+Bose–Einstein statistics
+
+
+Interactions
+Gravitation
+
+
+Status
+Theoretical
+
+
+Symbol
+G[1]
+
+
+Antiparticle
+Self
+
+
+Theorized
+1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3]
+
+
+Discovered
+Hypothetical
+
+
+Mass
+0
+
+
+Mean lifetime
+Stable
+
+
+Electric charge
+0 e
+
+
+Spin
+2
+
+
+In physics, the graviton is a hypothetical elementary particle that mediates the force of gravitation in the framework of quantum field theory. If it exists, the graviton is expected to be massless (because the gravitational force appears to have unlimited range) and must be a spin-2 boson. The spin follows from the fact that the source of gravitation is the stress–energy tensor, a second-rank tensor (compared to electromagnetism's spin-1 photon, the source of which is the four-current, a first-rank tensor). Additionally, it can be shown that any massless spin-2 field would give rise to a force indistinguishable from gravitation, because a massless spin-2 field would couple to the stress–energy tensor in the same way that gravitational interactions do. Seeing as the graviton is hypothetical, its discovery would unite quantum theory with gravity.[4] This result suggests that, if a massless spin-2 particle is discovered, it must be the graviton, so that the only experimental verification needed for the graviton may simply be the discovery of a massless spin-2 particle.[5]
+
+
+
+Contents
+
+
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+
+2 Experimental observation
+3 Difficulties and outstanding issues
+4 See also
+5 References
+6 External links
+
+
+
+Theory[edit]
+The three other known forces of nature are mediated by elementary particles: electromagnetism by the photon, the strong interaction by the gluons, and the weak interaction by the W and Z bosons. The hypothesis is that the gravitational interaction is likewise mediated by an – as yet undiscovered – elementary particle, dubbed as the graviton. In the classical limit, the theory would reduce to general relativity and conform to Newton's law of gravitation in the weak-field limit.[6][7][8]
+Gravitons and renormalisation[edit]
+When describing graviton interactions, the classical theory of Feynman diagrams, and semiclassical corrections such as one-loop diagrams behave normally. But, Feynman diagrams with at least two loops lead to ultraviolet divergences. These infinite results cannot be removed because quantized general relativity is not perturbatively renormalizable, unlike quantum electrodynamics models such as Yang-Mills. Therefore, incalculable answers are found from the perturbation method by which physicists calculate the probability of a particle to emit or absorb gravitons; and the theory loses predictive veracity. Those problems and the complementary approximation framework are grounds to show that a theory more unified than quantized general relativity suffices to describe the behavior near the Planck scale.
+Comparison with other forces[edit]
+Unlike the force carriers of the other forces, gravitation plays a special role in general relativity in defining the spacetime in which events take place. In some descriptions, matter modifies the 'shape' of spacetime itself, and gravity is a result of this shape, an idea which at first glance may appear hard to match with the idea of a force acting between particles.[9] Because the diffeomorphism invariance of the theory does not allow any particular space-time background to be singled out as the "true" space-time background, general relativity is said to be background independent. In contrast, the Standard Model is not background independent, with Minkowski space enjoying a special status as the fixed background space-time.[10] A theory of quantum gravity is needed in order to reconcile these differences.[11] Whether this theory should be background independent is an open question. The answer to this question will determine our understanding of what specific role gravitation plays in the fate of the universe.[12]
+Gravitons in speculative theories[edit]
+String theory predicts the existence of gravitons and their well-defined interactions. A graviton in perturbative string theory is a closed string in a very particular low-energy vibrational state. The scattering of gravitons in string theory can also be computed from the correlation functions in conformal field theory, as dictated by the AdS/CFT correspondence, or from matrix theory.[citation needed]
+A feature of gravitons in string theory is that, as closed strings without endpoints, they would not be bound to branes and could move freely between them. If we live on a brane (as hypothesized by brane theories) this "leakage" of gravitons from the brane into higher-dimensional space could explain why gravitation is such a weak force, and gravitons from other branes adjacent to our own could provide a potential explanation for dark matter. However, if gravitons were to move completely freely between branes this would dilute gravity too much, causing a violation of Newton's inverse square law. To combat this, Lisa Randall found that a three-brane (such as ours) would have a gravitational pull of its own, preventing gravitons from drifting freely, possibly resulting in the diluted gravity we observe while roughly maintaining Newton's inverse square law.[13] See brane cosmology.
+A theory by Ahmed Farag Ali and Saurya Das adds quantum mechanical corrections (using Bohm trajectories) to general relativistic geodesics. If gravitons are given a small but non-zero mass, it could explain the cosmological constant without need for dark energy and solve the smallness[clarification needed] problem.[14] The theory received an Honorable Mention in the 2014 Essay Competition of the Gravity Research Foundation for explaining the smallness of cosmological constant.[15] Also the theory received an Honorable Mention in the 2015 Essay Competition of the Gravity Research Foundation for naturally explaining the observed large scale homogeneity and isotropy of the universe due to the proposed quantum corrections.[16]
+Experimental observation[edit]
+Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, is impossible with any physically reasonable detector.[17] The reason is the extremely low cross section for the interaction of gravitons with matter. For example, a detector with the mass of Jupiter and 100% efficiency, placed in close orbit around a neutron star, would only be expected to observe one graviton every 10 years, even under the most favorable conditions. It would be impossible to discriminate these events from the background of neutrinos, since the dimensions of the required neutrino shield would ensure collapse into a black hole.[17]
+LIGO and Virgo collaborations' observations have directly detected of gravitational waves.[18][19][20] Others have postulated that graviton scattering yields gravitational waves as particle interactions yield coherent states.[21] Although these experiments cannot detect individual gravitons, they might provide information about certain properties of the graviton.[22] For example, if gravitational waves were observed to propagate slower than c (the speed of light in a vacuum), that would imply that the graviton has mass (however, gravitational waves must propagate slower than c in a region with non-zero mass density if they are to be detectable).[23] Recent observations of gravitational waves have put an upper bound of 1.2 × 10-22 eV/c2 on the graviton's mass.[19] Astronomical observations of the kinematics of galaxies, especially the galaxy rotation problem and modified Newtonian dynamics, might point toward gravitons having non-zero mass.[24]
+Difficulties and outstanding issues[edit]
+Most theories containing gravitons suffer from severe problems. Attempts to extend the Standard Model or other quantum field theories by adding gravitons run into serious theoretical difficulties at energies close to or above the Planck scale. This is because of infinities arising due to quantum effects; technically, gravitation is not renormalizable. Since classical general relativity and quantum mechanics seem to be incompatible at such energies, from a theoretical point of view, this situation is not tenable. One possible solution is to replace particles with strings. String theories are quantum theories of gravity in the sense that they reduce to classical general relativity plus field theory at low energies, but are fully quantum mechanical, contain a graviton, and are thought to be mathematically consistent.[25]
+See also[edit]
+
+Gravitation
+Gravitational wave
+Gravitino
+Gravitomagnetism
+Multiverse
+Planck mass
+Static forces and virtual-particle exchange
+
+References[edit]
+
+
+^ G is used to avoid confusion with gluons (symbol g)
+^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. 
+^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. 
+^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. 
+^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. 
+^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. 
+^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc
+^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. 
+^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. 
+^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. 
+^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. 
+^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. 
+^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. 
+^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. 
+^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. 
+^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. 
+^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. 
+^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. 
+^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.
+^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. 
+^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. 
+^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692
+^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. 
+
+
+External links[edit]
+
+
+Graviton on In Our Time at the BBC. (listen now)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Graviton&oldid=716855926"					
+Categories: BosonsGauge bosonsQuantum gravityString theoryHypothetical elementary particlesHidden categories: CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is about the hypothetical particle.  For other uses, see Graviton (disambiguation).
+
+Graviton
+
+Composition
+Elementary particle
+
+
+Statistics
+Bose–Einstein statistics
+
+
+Interactions
+Gravitation
+
+
+Status
+Theoretical
+
+
+Symbol
+G[1]
+
+
+Antiparticle
+Self
+
+
+Theorized
+1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3]
+
+
+Discovered
+Hypothetical
+
+
+Mass
+0
+
+
+Mean lifetime
+Stable
+
+
+Electric charge
+0 e
+
+
+Spin
+2
+
+
+In physics, the graviton is a hypothetical elementary particle that mediates the force of gravitation in the framework of quantum field theory. If it exists, the graviton is expected to be massless (because the gravitational force appears to have unlimited range) and must be a spin-2 boson. The spin follows from the fact that the source of gravitation is the stress–energy tensor, a second-rank tensor (compared to electromagnetism's spin-1 photon, the source of which is the four-current, a first-rank tensor). Additionally, it can be shown that any massless spin-2 field would give rise to a force indistinguishable from gravitation, because a massless spin-2 field would couple to the stress–energy tensor in the same way that gravitational interactions do. Seeing as the graviton is hypothetical, its discovery would unite quantum theory with gravity.[4] This result suggests that, if a massless spin-2 particle is discovered, it must be the graviton, so that the only experimental verification needed for the graviton may simply be the discovery of a massless spin-2 particle.[5]
+
+
+
+Contents
+
+
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+
+2 Experimental observation
+3 Difficulties and outstanding issues
+4 See also
+5 References
+6 External links
+
+
+
+Theory[edit]
+The three other known forces of nature are mediated by elementary particles: electromagnetism by the photon, the strong interaction by the gluons, and the weak interaction by the W and Z bosons. The hypothesis is that the gravitational interaction is likewise mediated by an – as yet undiscovered – elementary particle, dubbed as the graviton. In the classical limit, the theory would reduce to general relativity and conform to Newton's law of gravitation in the weak-field limit.[6][7][8]
+Gravitons and renormalisation[edit]
+When describing graviton interactions, the classical theory of Feynman diagrams, and semiclassical corrections such as one-loop diagrams behave normally. But, Feynman diagrams with at least two loops lead to ultraviolet divergences. These infinite results cannot be removed because quantized general relativity is not perturbatively renormalizable, unlike quantum electrodynamics models such as Yang-Mills. Therefore, incalculable answers are found from the perturbation method by which physicists calculate the probability of a particle to emit or absorb gravitons; and the theory loses predictive veracity. Those problems and the complementary approximation framework are grounds to show that a theory more unified than quantized general relativity suffices to describe the behavior near the Planck scale.
+Comparison with other forces[edit]
+Unlike the force carriers of the other forces, gravitation plays a special role in general relativity in defining the spacetime in which events take place. In some descriptions, matter modifies the 'shape' of spacetime itself, and gravity is a result of this shape, an idea which at first glance may appear hard to match with the idea of a force acting between particles.[9] Because the diffeomorphism invariance of the theory does not allow any particular space-time background to be singled out as the "true" space-time background, general relativity is said to be background independent. In contrast, the Standard Model is not background independent, with Minkowski space enjoying a special status as the fixed background space-time.[10] A theory of quantum gravity is needed in order to reconcile these differences.[11] Whether this theory should be background independent is an open question. The answer to this question will determine our understanding of what specific role gravitation plays in the fate of the universe.[12]
+Gravitons in speculative theories[edit]
+String theory predicts the existence of gravitons and their well-defined interactions. A graviton in perturbative string theory is a closed string in a very particular low-energy vibrational state. The scattering of gravitons in string theory can also be computed from the correlation functions in conformal field theory, as dictated by the AdS/CFT correspondence, or from matrix theory.[citation needed]
+A feature of gravitons in string theory is that, as closed strings without endpoints, they would not be bound to branes and could move freely between them. If we live on a brane (as hypothesized by brane theories) this "leakage" of gravitons from the brane into higher-dimensional space could explain why gravitation is such a weak force, and gravitons from other branes adjacent to our own could provide a potential explanation for dark matter. However, if gravitons were to move completely freely between branes this would dilute gravity too much, causing a violation of Newton's inverse square law. To combat this, Lisa Randall found that a three-brane (such as ours) would have a gravitational pull of its own, preventing gravitons from drifting freely, possibly resulting in the diluted gravity we observe while roughly maintaining Newton's inverse square law.[13] See brane cosmology.
+A theory by Ahmed Farag Ali and Saurya Das adds quantum mechanical corrections (using Bohm trajectories) to general relativistic geodesics. If gravitons are given a small but non-zero mass, it could explain the cosmological constant without need for dark energy and solve the smallness[clarification needed] problem.[14] The theory received an Honorable Mention in the 2014 Essay Competition of the Gravity Research Foundation for explaining the smallness of cosmological constant.[15] Also the theory received an Honorable Mention in the 2015 Essay Competition of the Gravity Research Foundation for naturally explaining the observed large scale homogeneity and isotropy of the universe due to the proposed quantum corrections.[16]
+Experimental observation[edit]
+Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, is impossible with any physically reasonable detector.[17] The reason is the extremely low cross section for the interaction of gravitons with matter. For example, a detector with the mass of Jupiter and 100% efficiency, placed in close orbit around a neutron star, would only be expected to observe one graviton every 10 years, even under the most favorable conditions. It would be impossible to discriminate these events from the background of neutrinos, since the dimensions of the required neutrino shield would ensure collapse into a black hole.[17]
+LIGO and Virgo collaborations' observations have directly detected of gravitational waves.[18][19][20] Others have postulated that graviton scattering yields gravitational waves as particle interactions yield coherent states.[21] Although these experiments cannot detect individual gravitons, they might provide information about certain properties of the graviton.[22] For example, if gravitational waves were observed to propagate slower than c (the speed of light in a vacuum), that would imply that the graviton has mass (however, gravitational waves must propagate slower than c in a region with non-zero mass density if they are to be detectable).[23] Recent observations of gravitational waves have put an upper bound of 1.2 × 10-22 eV/c2 on the graviton's mass.[19] Astronomical observations of the kinematics of galaxies, especially the galaxy rotation problem and modified Newtonian dynamics, might point toward gravitons having non-zero mass.[24]
+Difficulties and outstanding issues[edit]
+Most theories containing gravitons suffer from severe problems. Attempts to extend the Standard Model or other quantum field theories by adding gravitons run into serious theoretical difficulties at energies close to or above the Planck scale. This is because of infinities arising due to quantum effects; technically, gravitation is not renormalizable. Since classical general relativity and quantum mechanics seem to be incompatible at such energies, from a theoretical point of view, this situation is not tenable. One possible solution is to replace particles with strings. String theories are quantum theories of gravity in the sense that they reduce to classical general relativity plus field theory at low energies, but are fully quantum mechanical, contain a graviton, and are thought to be mathematically consistent.[25]
+See also[edit]
+
+Gravitation
+Gravitational wave
+Gravitino
+Gravitomagnetism
+Multiverse
+Planck mass
+Static forces and virtual-particle exchange
+
+References[edit]
+
+
+^ G is used to avoid confusion with gluons (symbol g)
+^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. 
+^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. 
+^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. 
+^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. 
+^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. 
+^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc
+^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. 
+^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. 
+^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. 
+^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. 
+^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. 
+^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. 
+^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. 
+^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. 
+^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. 
+^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. 
+^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. 
+^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.
+^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. 
+^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. 
+^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692
+^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. 
+
+
+External links[edit]
+
+
+Graviton on In Our Time at the BBC. (listen now)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article is about the hypothetical particle.  For other uses, see Graviton (disambiguation).Graviton (disambiguation)
+Graviton
+
+Composition
+Elementary particle
+
+
+Statistics
+Bose–Einstein statistics
+
+
+Interactions
+Gravitation
+
+
+Status
+Theoretical
+
+
+Symbol
+G[1]
+
+
+Antiparticle
+Self
+
+
+Theorized
+1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3]
+
+
+Discovered
+Hypothetical
+
+
+Mass
+0
+
+
+Mean lifetime
+Stable
+
+
+Electric charge
+0 e
+
+
+Spin
+2
+
+Graviton
+Composition
+Elementary particle
+CompositionCompositionElementary particleElementary particle
+Statistics
+Bose–Einstein statistics
+StatisticsStatisticsBose–Einstein statisticsBose–Einstein statistics
+Interactions
+Gravitation
+InteractionsInteractionsGravitationGravitation
+Status
+Theoretical
+StatusTheoretical
+Symbol
+G[1]
+SymbolG[1][1][1]
+Antiparticle
+Self
+AntiparticleAntiparticleSelf
+Theorized
+1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3]
+Theorized1930s[2]
+The name is attributed to Dmitrii Blokhintsev and F. M. Gal'perin in 1934[3][2][2][3][3]
+Discovered
+Hypothetical
+DiscoveredHypothetical
+Mass
+0
+MassMass0
+Mean lifetime
+Stable
+Mean lifetimeMean lifetimeStable
+Electric charge
+0 e
+Electric chargeElectric charge0 ee
+Spin
+2
+SpinSpin2In physics, the graviton is a hypothetical elementary particle that mediates the force of gravitation in the framework of quantum field theory. If it exists, the graviton is expected to be massless (because the gravitational force appears to have unlimited range) and must be a spin-2 boson. The spin follows from the fact that the source of gravitation is the stress–energy tensor, a second-rank tensor (compared to electromagnetism's spin-1 photon, the source of which is the four-current, a first-rank tensor). Additionally, it can be shown that any massless spin-2 field would give rise to a force indistinguishable from gravitation, because a massless spin-2 field would couple to the stress–energy tensor in the same way that gravitational interactions do. Seeing as the graviton is hypothetical, its discovery would unite quantum theory with gravity.[4] This result suggests that, if a massless spin-2 particle is discovered, it must be the graviton, so that the only experimental verification needed for the graviton may simply be the discovery of a massless spin-2 particle.[5]gravitonelementary particlegravitationquantum field theorymasslessspinbosonstress–energy tensortensorelectromagnetismfour-current[4][4][5][5]
+
+Contents
+
+
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+
+2 Experimental observation
+3 Difficulties and outstanding issues
+4 See also
+5 References
+6 External links
+
+
+Contents
+Contents
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+
+2 Experimental observation
+3 Difficulties and outstanding issues
+4 See also
+5 References
+6 External links
+1 Theory
+
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+
+1 Theory1Theory
+1.1 Gravitons and renormalisation
+1.2 Comparison with other forces
+1.3 Gravitons in speculative theories
+1.1 Gravitons and renormalisation1.1 Gravitons and renormalisation1.1Gravitons and renormalisation1.2 Comparison with other forces1.2 Comparison with other forces1.2Comparison with other forces1.3 Gravitons in speculative theories1.3 Gravitons in speculative theories1.3Gravitons in speculative theories2 Experimental observation2 Experimental observation2Experimental observation3 Difficulties and outstanding issues3 Difficulties and outstanding issues3Difficulties and outstanding issues4 See also4 See also4See also5 References5 References5References6 External links6 External links6External linksTheory[edit]Theory[edit][edit]The three other known forces of nature are mediated by elementary particles: electromagnetism by the photon, the strong interaction by the gluons, and the weak interaction by the W and Z bosons. The hypothesis is that the gravitational interaction is likewise mediated by an – as yet undiscovered – elementary particle, dubbed as the graviton. In the classical limit, the theory would reduce to general relativity and conform to Newton's law of gravitation in the weak-field limit.[6][7][8]forceselectromagnetismphotonstrong interactiongluonsweak interactionW and Z bosonsthe gravitonclassical limitgeneral relativityNewton's law of gravitation[6][6][7][7][8][8]Gravitons and renormalisation[edit]Gravitons and renormalisation[edit][edit]When describing graviton interactions, the classical theory of Feynman diagrams, and semiclassical corrections such as one-loop diagrams behave normally. But, Feynman diagrams with at least two loops lead to ultraviolet divergences. These infinite results cannot be removed because quantized general relativity is not perturbatively renormalizable, unlike quantum electrodynamics models such as Yang-Mills. Therefore, incalculable answers are found from the perturbation method by which physicists calculate the probability of a particle to emit or absorb gravitons; and the theory loses predictive veracity. Those problems and the complementary approximation framework are grounds to show that a theory more unified than quantized general relativity suffices to describe the behavior near the Planck scale.classical theoryFeynman diagramsone-loop diagramsFeynman diagramsultraviolet divergencesgeneral relativityrenormalizablequantum electrodynamicsYang-MillsPlanck scaleComparison with other forces[edit]Comparison with other forces[edit][edit]Unlike the force carriers of the other forces, gravitation plays a special role in general relativity in defining the spacetime in which events take place. In some descriptions, matter modifies the 'shape' of spacetime itself, and gravity is a result of this shape, an idea which at first glance may appear hard to match with the idea of a force acting between particles.[9] Because the diffeomorphism invariance of the theory does not allow any particular space-time background to be singled out as the "true" space-time background, general relativity is said to be background independent. In contrast, the Standard Model is not background independent, with Minkowski space enjoying a special status as the fixed background space-time.[10] A theory of quantum gravity is needed in order to reconcile these differences.[11] Whether this theory should be background independent is an open question. The answer to this question will determine our understanding of what specific role gravitation plays in the fate of the universe.[12]force carriersother forcesgeneral relativityspacetimeIn some descriptionsspacetime[9][9]diffeomorphismbackground independentStandard ModelnotMinkowski space[10][10]quantum gravity[11][11][12][12]Gravitons in speculative theories[edit]Gravitons in speculative theories[edit][edit]String theory predicts the existence of gravitons and their well-defined interactions. A graviton in perturbative string theory is a closed string in a very particular low-energy vibrational state. The scattering of gravitons in string theory can also be computed from the correlation functions in conformal field theory, as dictated by the AdS/CFT correspondence, or from matrix theory.[citation needed]String theoryinteractionsperturbative string theoryclosed stringcorrelation functionsconformal field theoryAdS/CFTmatrix theory[citation needed]citation neededcitation neededcitation neededA feature of gravitons in string theory is that, as closed strings without endpoints, they would not be bound to branes and could move freely between them. If we live on a brane (as hypothesized by brane theories) this "leakage" of gravitons from the brane into higher-dimensional space could explain why gravitation is such a weak force, and gravitons from other branes adjacent to our own could provide a potential explanation for dark matter. However, if gravitons were to move completely freely between branes this would dilute gravity too much, causing a violation of Newton's inverse square law. To combat this, Lisa Randall found that a three-brane (such as ours) would have a gravitational pull of its own, preventing gravitons from drifting freely, possibly resulting in the diluted gravity we observe while roughly maintaining Newton's inverse square law.[13] See brane cosmology.branesbrane theoriesdark matterLisa Randall[13][13]brane cosmologyA theory by Ahmed Farag Ali and Saurya Das adds quantum mechanical corrections (using Bohm trajectories) to general relativistic geodesics. If gravitons are given a small but non-zero mass, it could explain the cosmological constant without need for dark energy and solve the smallness[clarification needed] problem.[14] The theory received an Honorable Mention in the 2014 Essay Competition of the Gravity Research Foundation for explaining the smallness of cosmological constant.[15] Also the theory received an Honorable Mention in the 2015 Essay Competition of the Gravity Research Foundation for naturally explaining the observed large scale homogeneity and isotropy of the universe due to the proposed quantum corrections.[16]cosmological constantdark energy[clarification needed]clarification neededclarification neededclarification needed[14][14]Gravity Research Foundation[15][15]Gravity Research Foundation[16][16]Experimental observation[edit]Experimental observation[edit][edit]Unambiguous detection of individual gravitons, though not prohibited by any fundamental law, is impossible with any physically reasonable detector.[17] The reason is the extremely low cross section for the interaction of gravitons with matter. For example, a detector with the mass of Jupiter and 100% efficiency, placed in close orbit around a neutron star, would only be expected to observe one graviton every 10 years, even under the most favorable conditions. It would be impossible to discriminate these events from the background of neutrinos, since the dimensions of the required neutrino shield would ensure collapse into a black hole.[17][17][17]cross sectionJupiterneutron starneutrinosblack hole[17][17]LIGO and Virgo collaborations' observations have directly detected of gravitational waves.[18][19][20] Others have postulated that graviton scattering yields gravitational waves as particle interactions yield coherent states.[21] Although these experiments cannot detect individual gravitons, they might provide information about certain properties of the graviton.[22] For example, if gravitational waves were observed to propagate slower than c (the speed of light in a vacuum), that would imply that the graviton has mass (however, gravitational waves must propagate slower than c in a region with non-zero mass density if they are to be detectable).[23] Recent observations of gravitational waves have put an upper bound of 1.2 × 10-22 eV/c2 on the graviton's mass.[19] Astronomical observations of the kinematics of galaxies, especially the galaxy rotation problem and modified Newtonian dynamics, might point toward gravitons having non-zero mass.[24]LIGOVirgodirectly detectedgravitational waves[18][18][19][19][20][20]coherent states[21][21][22][22]cspeed of lightc[23][23]1.2 × 10-22 eV/c2-222[19][19]galaxy rotation problemmodified Newtonian dynamics[24][24]Difficulties and outstanding issues[edit]Difficulties and outstanding issues[edit][edit]Most theories containing gravitons suffer from severe problems. Attempts to extend the Standard Model or other quantum field theories by adding gravitons run into serious theoretical difficulties at energies close to or above the Planck scale. This is because of infinities arising due to quantum effects; technically, gravitation is not renormalizable. Since classical general relativity and quantum mechanics seem to be incompatible at such energies, from a theoretical point of view, this situation is not tenable. One possible solution is to replace particles with strings. String theories are quantum theories of gravity in the sense that they reduce to classical general relativity plus field theory at low energies, but are fully quantum mechanical, contain a graviton, and are thought to be mathematically consistent.[25]Planck scalerenormalizablequantum mechanicsstrings[25][25]See also[edit]See also[edit][edit]
+Gravitation
+Gravitational wave
+Gravitino
+Gravitomagnetism
+Multiverse
+Planck mass
+Static forces and virtual-particle exchange
+GravitationGravitationGravitational waveGravitational waveGravitinoGravitinoGravitomagnetismGravitomagnetismMultiverseMultiversePlanck massPlanck massStatic forces and virtual-particle exchangeStatic forces and virtual-particle exchangeReferences[edit]References[edit][edit]
+
+^ G is used to avoid confusion with gluons (symbol g)
+^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. 
+^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. 
+^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. 
+^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. 
+^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. 
+^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc
+^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. 
+^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. 
+^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. 
+^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. 
+^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. 
+^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. 
+^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. 
+^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. 
+^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. 
+^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. 
+^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. 
+^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.
+^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. 
+^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. 
+^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692
+^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. 
+
+
+^ G is used to avoid confusion with gluons (symbol g)
+^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. 
+^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. 
+^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. 
+^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. 
+^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. 
+^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. 
+^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. 
+^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc
+^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. 
+^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. 
+^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. 
+^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. 
+^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. 
+^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. 
+^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. 
+^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. 
+^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. 
+^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. 
+^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. 
+^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.
+^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. 
+^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. 
+^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692
+^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. 
+^ G is used to avoid confusion with gluons (symbol g)^^^G is used to avoid confusion with gluons (symbol g)gluons^ Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. ^^^Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc]. Rovelli, C. (2001). "Notes for a brief history of quantum gravity". arXiv:gr-qc/0006061 [gr-qc].arXivgr-qc/0006061gr-qc  ^ Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. ^^^Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157. Blokhintsev, D. I.; Gal'perin, F. M. (1934). "Gipoteza neitrino i zakon sokhraneniya energii" [Neutrino hypothesis and conservation of energy]. Pod Znamenem Marxisma (in Russian) 6: 147–157.Pod Znamenem MarxismaPod Znamenem Marxisma6  ^ Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. ^^^Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X. Lightman, A. P.; Press, W. H.; Price, R. H.; Teukolsky, S. A. (1975). "Problem 12.16". Problem book in Relativity and Gravitation. Princeton University Press. ISBN 0-691-08162-X.Problem book in Relativity and GravitationProblem bookPrinceton University PressISBN0-691-08162-X  ^ For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. ^^^For a comparison of the geometric derivation and the (non-geometric) spin-2 field derivation of general relativity, refer to box 18.1 (and also 17.2.5) of Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0. Misner, C. W.; Thorne, K. S.; Wheeler, J. A. (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0.Misner, C. W.Thorne, K. S.Wheeler, J. A.GravitationW. H. FreemanISBN0-7167-0344-0  ^ Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. ^^^Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5. Feynman, R. P.; Morinigo, F. B.; Wagner, W. G.; Hatfield, B. (1995). Feynman Lectures on Gravitation. Addison-Wesley. ISBN 0-201-62734-5.Feynman Lectures on GravitationAddison-WesleyISBN0-201-62734-5  ^ Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. ^^^Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6. Zee, A. (2003). Quantum Field Theory in a Nutshell. Princeton University Press. ISBN 0-691-01019-6.Quantum Field Theory in a NutshellPrinceton University PressISBN0-691-01019-6  ^ Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. ^^^Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8. Randall, L. (2005). Warped Passages: Unraveling the Universe's Hidden Dimensions. Ecco Press. ISBN 0-06-053108-8.Warped Passages: Unraveling the Universe's Hidden DimensionsEcco PressISBN0-06-053108-8  ^ See the other articles on General relativity, Gravitational field, Gravitational wave, etc^^^See the other articles on General relativity, Gravitational field, Gravitational wave, etcGeneral relativityGravitational fieldGravitational wave^ Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. ^^^Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008. Colosi, D.; et al. (2005). "Background independence in a nutshell: The dynamics of a tetrahedron". Classical and Quantum Gravity 22 (14): 2971. arXiv:gr-qc/0408079. Bibcode:2005CQGra..22.2971C. doi:10.1088/0264-9381/22/14/008.Classical and Quantum GravityClassical and Quantum Gravity22arXivgr-qc/0408079Bibcode2005CQGra..22.2971Cdoi10.1088/0264-9381/22/14/008  ^ Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. ^^^Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th]. Witten, E. (1993). "Quantum Background Independence In String Theory". arXiv:hep-th/9306122 [hep-th].arXivhep-th/9306122hep-th  ^ Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. ^^^Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th]. Smolin, L. (2005). "The case for background independence". arXiv:hep-th/0507235 [hep-th].arXivhep-th/0507235hep-th  ^ Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. ^^^Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221. Kaku, Michio (2006). Parallel Worlds - The science of alternative universes and our future in the Cosmos. pp. 218–221.Parallel Worlds - The science of alternative universes and our future in the Cosmos  ^ Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. ^^^Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057. Ali, Ahmed Farag (2014). "Cosmology from quantum potential". Physical Letters B 741: 276–279. arXiv:1404.3093v3. doi:10.1016/j.physletb.2014.12.057.Physical Letters BPhysical Letters B741arXiv1404.3093v3doi10.1016/j.physletb.2014.12.057  ^ Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. ^^^Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176. Das, Saurya (2014). "Cosmic coincidence or graviton mass?". International Journal of Modern Physics D 23: 1442017. arXiv:1405.4011. doi:10.1142/S0218271814420176.International Journal of Modern Physics DInternational Journal of Modern Physics D23arXiv1405.4011doi10.1142/S0218271814420176  ^ Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. ^^^Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010. Das, Saurya (2015). "Bose–Einstein condensation as an alternative to inflation". International Journal of Modern Physics D 24: 1544001. arXiv:1509.02658. doi:10.1142/S0218271815440010.International Journal of Modern Physics DInternational Journal of Modern Physics D24arXiv1509.02658doi10.1142/S0218271815440010  ^ a b Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. ^ a baaaabbbbRothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9. Rothman, T.; Boughn, S. (2006). "Can Gravitons be Detected?". Foundations of Physics 36 (12): 1801–1825. arXiv:gr-qc/0601043. Bibcode:2006FoPh...36.1801R. doi:10.1007/s10701-006-9081-9.Foundations of PhysicsFoundations of Physics36arXivgr-qc/0601043Bibcode2006FoPh...36.1801Rdoi10.1007/s10701-006-9081-9  ^ Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. ^^^Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11. Castelvecchi, Davide; Witze, Witze (February 11, 2016). "Einstein's gravitational waves found at last". Nature News. doi:10.1038/nature.2016.19361. Retrieved 2016-02-11."Einstein's gravitational waves found at last"Nature Newsdoi10.1038/nature.2016.19361. Retrieved 2016-02-112016-02-11  ^ a b B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. ^ a baaaabbbbB. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102. B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger". Physical Review Letters 116 (6). doi:10.1103/PhysRevLett.116.061102."Observation of Gravitational Waves from a Binary Black Hole Merger"Physical Review Letters116doi10.1103/PhysRevLett.116.061102  ^ "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. ^^^"Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11. "Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation". www.nsf.gov. Retrieved 2016-02-11."Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation"www.nsf.gov. Retrieved 2016-02-112016-02-11  ^ Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.^^^Senatore, L., Silverstein, E., & Zaldarriaga, M. (2014). New sources of gravitational waves during inflation. Journal of Cosmology and Astroparticle Physics, 2014(08), 016.^ Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. ^^^Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X. Dyson, Freeman (8 October 2013). "Is a graviton detectable?". International Journal of Modern Physics A 28 (25): 1330041–1–1330035–14. Bibcode:2013IJMPA..2830041D. doi:10.1142/S0217751X1330041X."Is a graviton detectable?"International Journal of Modern Physics AInternational Journal of Modern Physics A28Bibcode2013IJMPA..2830041Ddoi10.1142/S0217751X1330041X  ^ Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. ^^^Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061. Will, C. M. (1998). "Bounding the mass of the graviton using gravitational-wave observations of inspiralling compact binaries". Physical Review D 57 (4): 2061–2068. arXiv:gr-qc/9709011. Bibcode:1998PhRvD..57.2061W. doi:10.1103/PhysRevD.57.2061.Physical Review DPhysical Review D57arXivgr-qc/9709011Bibcode1998PhRvD..57.2061Wdoi10.1103/PhysRevD.57.2061  ^ Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.4692^^^Trippe, S. (2013), "A Simplified Treatment of Gravitational Interaction on Galactic Scales", J. Kor. Astron. Soc. 46, 41. arXiv:1211.469246arXiv1211.4692^ Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. ^^^Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010. Sokal, A. (July 22, 1996). "Don't Pull the String Yet on Superstring Theory". The New York Times. Retrieved March 26, 2010.Sokal, A."Don't Pull the String Yet on Superstring Theory"The New York TimesThe New York Times. Retrieved March 26, 2010March 26,  External links[edit]External links[edit][edit]
+
+Graviton on In Our Time at the BBC. (listen now)
+Graviton on In Our Time at the BBC. (listen now)GravitonIn Our TimeIn Our TimeBBClisten now
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeParticles in physicsParticles in physics
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+ElementaryElementary
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+FermionsFermions
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+QuarksQuarks
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+Up (quarkUp (quarkantiquark)antiquark)Down (quarkDown (quarkantiquark)antiquark)Charm (quarkCharm (quarkantiquark)antiquark)Strange (quarkStrange (quarkantiquark)antiquark)Top (quarkTop (quarkantiquark)antiquark)Bottom (quarkBottom (quarkantiquark)antiquark)
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+LeptonsLeptons
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+ElectronElectronPositronPositronMuonMuonAntimuonAntimuonTauTauAntitauAntitauElectron neutrinoElectron neutrinoElectron antineutrinoElectron antineutrinoMuon neutrinoMuon neutrinoMuon antineutrinoMuon antineutrinoTau neutrinoTau neutrinoTau antineutrinoTau antineutrino
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+BosonsBosons
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+GaugeGauge
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+Photon
+Gluon
+W and Z bosons
+PhotonPhotonGluonGluonW and Z bosonsW and Z bosons
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+ScalarScalar
+
+
+Higgs boson
+
+
+
+
+Higgs boson
+
+
+Higgs boson
+Higgs bosonHiggs boson
+
+
+Others
+
+
+
+Ghosts
+
+
+
+Others
+
+
+Ghosts
+
+
+
+
+Ghosts
+
+
+Ghosts
+GhostsGhosts
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+HypotheticalHypothetical
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+SuperpartnersSuperpartners
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+GauginosGauginos
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+Gluino
+Gravitino
+Photino
+GluinoGluinoGravitinoGravitinoPhotinoPhotino
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+Others
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+HiggsinoHiggsinoNeutralinoNeutralinoCharginoCharginoAxinoAxinoSfermion (Stop squark)SfermionStop squark
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+Others
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+
+
+Planck particle
+Axion
+Dilaton
+Graviton
+Majoron
+Majorana fermion
+Magnetic monopole
+Tachyon
+Leptoquark
+X and Y bosons
+W′ and Z′ bosons
+Sterile neutrino
+Preon
+Planck particlePlanck particleAxionAxionDilatonDilatonGravitonGravitonMajoronMajoronMajorana fermionMajorana fermionMagnetic monopoleMagnetic monopoleTachyonTachyonLeptoquarkLeptoquarkX and Y bosonsX and Y bosonsW′ and Z′ bosonsW′ and Z′ bosonsSterile neutrinoSterile neutrinoPreonPreon
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+CompositeComposite
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+HadronsHadrons
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+
+
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+
+Baryons / Hyperons
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+Baryons / HyperonsBaryonsHyperons
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+
+
+Nucleon
+
+Proton
+Neutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+Pentaquark
+Nucleon
+
+Proton
+Neutron
+
+Nucleon
+Proton
+Neutron
+ProtonProtonNeutronNeutronDelta baryonDelta baryonLambda baryonLambda baryonSigma baryonSigma baryonXi baryonXi baryonOmega baryonOmega baryonPentaquarkPentaquark
+
+
+Mesons / Quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+Mesons / QuarkoniaMesonsQuarkonia
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Theta meson
+Kaon
+B meson
+D meson
+T meson
+PionPionRho mesonRho mesonEta and eta prime mesonsEta and eta prime mesonsPhi mesonPhi mesonJ/psi mesonJ/psi mesonOmega mesonOmega mesonUpsilon mesonUpsilon mesonTheta mesonTheta mesonKaonKaonB mesonB mesonD mesonD mesonT mesonT meson
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+Others
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+Atomic nuclei
+Atoms
+Diquarks
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+Atomic nucleiAtomic nucleiAtomsAtomsDiquarksDiquarksExotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+Exotic atoms
+Positronium
+Muonium
+Tauonium
+Onia
+PositroniumPositroniumMuoniumMuoniumTauoniumTauoniumOniaOniaSuperatomsSuperatomsMoleculesMolecules
+
+
+Hypothetical
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+HypotheticalHypothetical
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+
+Exotic
+hadrons
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+Exotic
+hadronsExotic
+hadrons
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+
+
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+
+
+Exotic baryons
+
+
+
+Dibaryon
+Skyrmion
+
+
+
+Exotic baryonsExotic baryons
+
+
+Dibaryon
+Skyrmion
+
+
+
+
+Dibaryon
+Skyrmion
+
+
+Dibaryon
+Skyrmion
+DibaryonDibaryonSkyrmionSkyrmion
+
+
+Exotic mesons
+
+
+
+Glueball
+Tetraquark
+
+
+
+Exotic mesonsExotic mesons
+
+
+Glueball
+Tetraquark
+
+
+
+
+Glueball
+Tetraquark
+
+
+Glueball
+Tetraquark
+GlueballGlueballTetraquarkTetraquark
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+
+
+
+Others
+
+
+Mesonic molecule
+Pomeron
+
+
+
+
+Mesonic molecule
+Pomeron
+
+
+Mesonic molecule
+Pomeron
+Mesonic moleculeMesonic moleculePomeronPomeron
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+QuasiparticlesQuasiparticles
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+Davydov solitonDavydov solitonDropletonDropletonExcitonExcitonHoleHoleMagnonMagnonPhononPhononPlasmaronPlasmaronPlasmonPlasmonPolaritonPolaritonPolaronPolaronRotonRotonTrionTrion
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+Lists
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+BaryonsBaryonsMesonsMesonsParticlesParticlesQuasiparticlesQuasiparticlesTimeline of particle discoveriesTimeline of particle discoveries
+
+
+Related
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+Related
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+
+
+Standard Model
+Subatomic particles
+Particles
+Nuclear physics
+Standard ModelStandard ModelSubatomic particlesSubatomic particlesParticlesParticlesNuclear physicsNuclear physics
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+Wikipedia booksWikipedia books
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+Hadronic MatterHadronic MatterParticles of the Standard ModelParticles of the Standard ModelLeptonsLeptonsQuarksQuarks
+
+
+
+ Physics portal
+
+
+ Physics portal
+ Physics portalPhysics portalPhysics portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeQuantum gravityQuantum gravity
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+Central concepts
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+AdS/CFT correspondenceAdS/CFT correspondenceCausal patchCausal patchGravitational anomalyGravitational anomalyGravitonGravitonHolographic principleHolographic principleIR/UV mixingIR/UV mixingPlanck scalePlanck scaleQuantum foamQuantum foamTrans-Planckian problemTrans-Planckian problemWeinberg–Witten theoremWeinberg–Witten theorem
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+Toy models
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+2+1D topological gravity2+1D topological gravityCGHS modelCGHS modelJackiw–Teitelboim gravityJackiw–Teitelboim gravityLiouville gravityLiouville gravityRST modelRST modelTopological quantum field theoryTopological quantum field theory
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+Quantum field theory
+in curved spacetimeQuantum field theory
+in curved spacetime
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+Bunch–Davies vacuumBunch–Davies vacuumHawking radiationHawking radiationSemiclassical gravitySemiclassical gravityUnruh effectUnruh effect
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+Black holesBlack holes
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+Black hole complementarityBlack hole complementarityBlack hole information paradoxBlack hole information paradoxBlack hole thermodynamicsBlack hole thermodynamicsBousso's holographic boundBousso's holographic boundER=EPRER=EPRFirewall (physics)Firewall (physics)Gravitational singularityGravitational singularity
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+Approaches
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+String theory
+String theoryString theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+Bosonic string theoryBosonic string theoryM-theoryM-theorySupergravitySupergravitySuperstring theorySuperstring theory
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Canonical quantum gravity
+Canonical quantum gravityCanonical quantum gravity
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+Loop quantum gravityLoop quantum gravityWheeler–DeWitt equationWheeler–DeWitt equation
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+Euclidean quantum gravity
+Euclidean quantum gravityEuclidean quantum gravity
+
+
+Hartle–Hawking state
+
+
+
+
+Hartle–Hawking state
+
+
+Hartle–Hawking state
+Hartle–Hawking stateHartle–Hawking state
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Others
+Others
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+Causal dynamical triangulationCausal dynamical triangulationCausal setsCausal setsNoncommutative geometryNoncommutative geometrySpin foamSpin foamGroup field theoryGroup field theorySuperfluid vacuum theorySuperfluid vacuum theoryTwistor theoryTwistor theory
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+Applications
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+Quantum cosmology
+Eternal inflation
+Multiverse
+FRW/CFT duality
+Eternal inflationEternal inflationMultiverseMultiverseFRW/CFT dualityFRW/CFT duality
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Graviton&oldid=716855926"					https://en.wikipedia.org/w/index.php?title=Graviton&oldid=716855926Categories: BosonsGauge bosonsQuantum gravityString theoryHypothetical elementary particlesHidden categories: CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015Categories: BosonsGauge bosonsQuantum gravityString theoryHypothetical elementary particlesCategoriesBosonsGauge bosonsQuantum gravityString theoryHypothetical elementary particlesBosonsBosonsGauge bosonsGauge bosonsQuantum gravityQuantum gravityString theoryString theoryHypothetical elementary particlesHypothetical elementary particlesHidden categories: CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesAll articles with unsourced statementsArticles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015CS1 Russian-language sources (ru)CS1 Russian-language sources (ru)Wikipedia indefinitely move-protected pagesWikipedia indefinitely move-protected pagesAll articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from August 2012Articles with unsourced statements from August 2012Wikipedia articles needing clarification from December 2015Wikipedia articles needing clarification from December 2015
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+AfrikaansالعربيةБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어ՀայերենHrvatskiItalianoעבריתҚазақшаLatinaLatviešuLietuviųLimburgsMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPlattdüütschPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+AfrikaansالعربيةБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어ՀայերենHrvatskiItalianoעבריתҚазақшаLatinaLatviešuLietuviųLimburgsMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPlattdüütschPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+AfrikaansالعربيةБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어ՀայերենHrvatskiItalianoעבריתҚазақшаLatinaLatviešuLietuviųLimburgsMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPlattdüütschPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文 
+Edit links 
+Languages
+
+AfrikaansالعربيةБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어ՀայերենHrvatskiItalianoעבריתҚазақшаLatinaLatviešuLietuviųLimburgsMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPlattdüütschPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文 
+Edit links 
+AfrikaansالعربيةБеларускаяБългарскиBosanskiCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGalego한국어ՀայերենHrvatskiItalianoעבריתҚазақшаLatinaLatviešuLietuviųLimburgsMagyarBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPlattdüütschPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogТатарча/tatarçaTürkçeУкраїнськаTiếng Việt中文 AfrikaansAfrikaansالعربيةالعربيةБеларускаяБеларускаяБългарскиБългарскиBosanskiBosanskiCatalàCatalàČeštinaČeštinaDanskDanskDeutschDeutschEestiEestiΕλληνικάΕλληνικάEspañolEspañolEuskaraEuskaraفارسیفارسیFrançaisFrançaisGaeilgeGaeilgeGalegoGalego한국어한국어ՀայերենՀայերենHrvatskiHrvatskiItalianoItalianoעבריתעבריתҚазақшаҚазақшаLatinaLatinaLatviešuLatviešuLietuviųLietuviųLimburgsLimburgsMagyarMagyarBahasa MelayuBahasa MelayuNederlandsNederlands日本語日本語Norsk bokmålNorsk bokmålNorsk nynorskNorsk nynorskਪੰਜਾਬੀਪੰਜਾਬੀPlattdüütschPlattdüütschPolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийSimple EnglishSimple EnglishSlovenčinaSlovenčinaSlovenščinaSlovenščinaSrpskohrvatski / српскохрватскиSrpskohrvatski / српскохрватскиSuomiSuomiSvenskaSvenskaTagalogTagalogТатарча/tatarçaТатарча/tatarçaTürkçeTürkçeУкраїнськаУкраїнськаTiếng ViệtTiếng Việt中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 24 April 2016, at 09:30.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 24 April 2016, at 09:30.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 24 April 2016, at 09:30.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

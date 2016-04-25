@@ -1,0 +1,836 @@
+André Neveu - Wikipedia, the free encyclopedia
+
+
+
+
+André Neveu
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+André Neveu (French: [nəvø]; born 28 August 1946 in Paris) is a French physicist working on string theory and quantum field theory who coinvented the Neveu-Schwarz algebra and the Gross-Neveu model.
+Neveu studied in Paris at the École Normale Supérieure (ENS). In 1969 he received his diploma (Thèse de Troisieme Cycle) at Université Paris-Sud 11 in Orsay with Philippe Meyer and Claude Bouchiat and in 1971 he completed his doctorate (Thèse d'Etat) there. In 1969 he and his classmate from ENS and Orsay, Joël Scherk, together with John H. Schwarz and David Gross at Princeton University, examined divergences in one-loop diagrams of the bosonic string theory (and discovered the cause of tachyon divergences).[1] From 1971 to 1974 Neveu was at the Laboratory for High Energy Physics of the University of Paris XI where he and Scherk showed that spin-1 excitations of strings could describe Yang–Mills theories.[2] In 1971, Neveu with John Schwarz in Princeton developed, at the same time as Pierre Ramond (1971), the first string theory that also described fermions (called RNS string theory after its three originators).[3] This was an early appearance of the ideas of supersymmetry which were being developed independently at that time by several groups. A few year later, Neveu, working in Princeton with David Gross, developed the Gross–Neveu model.[4] With Roger Dashen and Brosl Hasslacher, he examined, among other things, quantum-field-theoretic models of extended hadrons and semiclassical approximations in quantum field theory which are reflected in the DHN method of the quantization of solitons. From 1972 to 1977 Neveu was at the Institute for Advanced Study while spending half of the time in Orsay. From 1974 to 1983 he was at the Laboratory for Theoretical Physics of the ENS and from 1983 to 1989 in the theory department at CERN. From 1975 he was Maitre de recherche in the CNRS and from 1985 Directeur de recherche. From 1989 he was at the Institute (Laboratory) for Theoretical Physics of the University of Montpellier II (now L2C, Laboratory Charles Coulomb). In 1994/5 he was a visiting professor in the University of California, Berkeley.
+In 1973, Neveu received the Paul Langevin Prize of the Société Française de Physique.[5] In 1988 he received the Gentner-Kastler Prize awarded jointly by the Société Française de Physique and the Deutsche Physikalische Gesellschaft (DPG).[6]
+Neveu is married and has three children.
+Writings[edit]
+
+Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709  (On the occasion of the awarding of the Gentner-Kastler Prize)
+
+
+Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760 
+
+Notes[edit]
+
+
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 
+^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X 
+^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.
+^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 
+^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. 
+^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. 
+
+
+External links[edit]
+
+Some of my recollections about Joël Scherk
+Scientific publications of André Neveu on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+
+
+
+Persondata
+
+
+Name
+Neveu, André
+
+
+Alternative names
+
+
+
+Short description
+French physicist
+
+
+Date of birth
+28 August 1946
+
+
+Place of birth
+Paris
+
+
+Date of death
+
+
+
+Place of death
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=André_Neveu&oldid=714831142"					
+Categories: 1946 birthsLiving peopleScientists from ParisFrench physicistsString theoristsPeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with BNF identifiers 
+
+
+André Neveu
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+André Neveu (French: [nəvø]; born 28 August 1946 in Paris) is a French physicist working on string theory and quantum field theory who coinvented the Neveu-Schwarz algebra and the Gross-Neveu model.
+Neveu studied in Paris at the École Normale Supérieure (ENS). In 1969 he received his diploma (Thèse de Troisieme Cycle) at Université Paris-Sud 11 in Orsay with Philippe Meyer and Claude Bouchiat and in 1971 he completed his doctorate (Thèse d'Etat) there. In 1969 he and his classmate from ENS and Orsay, Joël Scherk, together with John H. Schwarz and David Gross at Princeton University, examined divergences in one-loop diagrams of the bosonic string theory (and discovered the cause of tachyon divergences).[1] From 1971 to 1974 Neveu was at the Laboratory for High Energy Physics of the University of Paris XI where he and Scherk showed that spin-1 excitations of strings could describe Yang–Mills theories.[2] In 1971, Neveu with John Schwarz in Princeton developed, at the same time as Pierre Ramond (1971), the first string theory that also described fermions (called RNS string theory after its three originators).[3] This was an early appearance of the ideas of supersymmetry which were being developed independently at that time by several groups. A few year later, Neveu, working in Princeton with David Gross, developed the Gross–Neveu model.[4] With Roger Dashen and Brosl Hasslacher, he examined, among other things, quantum-field-theoretic models of extended hadrons and semiclassical approximations in quantum field theory which are reflected in the DHN method of the quantization of solitons. From 1972 to 1977 Neveu was at the Institute for Advanced Study while spending half of the time in Orsay. From 1974 to 1983 he was at the Laboratory for Theoretical Physics of the ENS and from 1983 to 1989 in the theory department at CERN. From 1975 he was Maitre de recherche in the CNRS and from 1985 Directeur de recherche. From 1989 he was at the Institute (Laboratory) for Theoretical Physics of the University of Montpellier II (now L2C, Laboratory Charles Coulomb). In 1994/5 he was a visiting professor in the University of California, Berkeley.
+In 1973, Neveu received the Paul Langevin Prize of the Société Française de Physique.[5] In 1988 he received the Gentner-Kastler Prize awarded jointly by the Société Française de Physique and the Deutsche Physikalische Gesellschaft (DPG).[6]
+Neveu is married and has three children.
+Writings[edit]
+
+Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709  (On the occasion of the awarding of the Gentner-Kastler Prize)
+
+
+Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760 
+
+Notes[edit]
+
+
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 
+^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X 
+^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.
+^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 
+^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. 
+^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. 
+
+
+External links[edit]
+
+Some of my recollections about Joël Scherk
+Scientific publications of André Neveu on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+
+
+
+Persondata
+
+
+Name
+Neveu, André
+
+
+Alternative names
+
+
+
+Short description
+French physicist
+
+
+Date of birth
+28 August 1946
+
+
+Place of birth
+Paris
+
+
+Date of death
+
+
+
+Place of death
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=André_Neveu&oldid=714831142"					
+Categories: 1946 birthsLiving peopleScientists from ParisFrench physicistsString theoristsPeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchAndré Neveu (French: [nəvø]; born 28 August 1946 in Paris) is a French physicist working on string theory and quantum field theory who coinvented the Neveu-Schwarz algebra and the Gross-Neveu model.
+Neveu studied in Paris at the École Normale Supérieure (ENS). In 1969 he received his diploma (Thèse de Troisieme Cycle) at Université Paris-Sud 11 in Orsay with Philippe Meyer and Claude Bouchiat and in 1971 he completed his doctorate (Thèse d'Etat) there. In 1969 he and his classmate from ENS and Orsay, Joël Scherk, together with John H. Schwarz and David Gross at Princeton University, examined divergences in one-loop diagrams of the bosonic string theory (and discovered the cause of tachyon divergences).[1] From 1971 to 1974 Neveu was at the Laboratory for High Energy Physics of the University of Paris XI where he and Scherk showed that spin-1 excitations of strings could describe Yang–Mills theories.[2] In 1971, Neveu with John Schwarz in Princeton developed, at the same time as Pierre Ramond (1971), the first string theory that also described fermions (called RNS string theory after its three originators).[3] This was an early appearance of the ideas of supersymmetry which were being developed independently at that time by several groups. A few year later, Neveu, working in Princeton with David Gross, developed the Gross–Neveu model.[4] With Roger Dashen and Brosl Hasslacher, he examined, among other things, quantum-field-theoretic models of extended hadrons and semiclassical approximations in quantum field theory which are reflected in the DHN method of the quantization of solitons. From 1972 to 1977 Neveu was at the Institute for Advanced Study while spending half of the time in Orsay. From 1974 to 1983 he was at the Laboratory for Theoretical Physics of the ENS and from 1983 to 1989 in the theory department at CERN. From 1975 he was Maitre de recherche in the CNRS and from 1985 Directeur de recherche. From 1989 he was at the Institute (Laboratory) for Theoretical Physics of the University of Montpellier II (now L2C, Laboratory Charles Coulomb). In 1994/5 he was a visiting professor in the University of California, Berkeley.
+In 1973, Neveu received the Paul Langevin Prize of the Société Française de Physique.[5] In 1988 he received the Gentner-Kastler Prize awarded jointly by the Société Française de Physique and the Deutsche Physikalische Gesellschaft (DPG).[6]
+Neveu is married and has three children.
+Writings[edit]
+
+Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709  (On the occasion of the awarding of the Gentner-Kastler Prize)
+
+
+Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760 
+
+Notes[edit]
+
+
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 
+^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X 
+^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.
+^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 
+^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. 
+^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. 
+
+
+External links[edit]
+
+Some of my recollections about Joël Scherk
+Scientific publications of André Neveu on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+
+
+
+Persondata
+
+
+Name
+Neveu, André
+
+
+Alternative names
+
+
+
+Short description
+French physicist
+
+
+Date of birth
+28 August 1946
+
+
+Place of birth
+Paris
+
+
+Date of death
+
+
+
+Place of death
+
+
+
+
+
+
+André Neveu (French: [nəvø]; born 28 August 1946 in Paris) is a French physicist working on string theory and quantum field theory who coinvented the Neveu-Schwarz algebra and the Gross-Neveu model.André NeveuFrench: [nəvø][nəvø]ParisFrenchphysiciststring theoryquantum field theoryNeveu-Schwarz algebraGross-Neveu modelNeveu studied in Paris at the École Normale Supérieure (ENS). In 1969 he received his diploma (Thèse de Troisieme Cycle) at Université Paris-Sud 11 in Orsay with Philippe Meyer and Claude Bouchiat and in 1971 he completed his doctorate (Thèse d'Etat) there. In 1969 he and his classmate from ENS and Orsay, Joël Scherk, together with John H. Schwarz and David Gross at Princeton University, examined divergences in one-loop diagrams of the bosonic string theory (and discovered the cause of tachyon divergences).[1] From 1971 to 1974 Neveu was at the Laboratory for High Energy Physics of the University of Paris XI where he and Scherk showed that spin-1 excitations of strings could describe Yang–Mills theories.[2] In 1971, Neveu with John Schwarz in Princeton developed, at the same time as Pierre Ramond (1971), the first string theory that also described fermions (called RNS string theory after its three originators).[3] This was an early appearance of the ideas of supersymmetry which were being developed independently at that time by several groups. A few year later, Neveu, working in Princeton with David Gross, developed the Gross–Neveu model.[4] With Roger Dashen and Brosl Hasslacher, he examined, among other things, quantum-field-theoretic models of extended hadrons and semiclassical approximations in quantum field theory which are reflected in the DHN method of the quantization of solitons. From 1972 to 1977 Neveu was at the Institute for Advanced Study while spending half of the time in Orsay. From 1974 to 1983 he was at the Laboratory for Theoretical Physics of the ENS and from 1983 to 1989 in the theory department at CERN. From 1975 he was Maitre de recherche in the CNRS and from 1985 Directeur de recherche. From 1989 he was at the Institute (Laboratory) for Theoretical Physics of the University of Montpellier II (now L2C, Laboratory Charles Coulomb). In 1994/5 he was a visiting professor in the University of California, Berkeley.École Normale SupérieureUniversité Paris-Sud 11Philippe MeyerClaude BouchiatJoël ScherkJohn H. SchwarzDavid Grossbosonic string theorytachyon[1][1]Yang–Mills theories[2][2]Pierre RamondRNS string theory[3][3]supersymmetry[4][4]Roger DashensolitonsInstitute for Advanced StudyCERNMaitre de rechercheCNRSDirecteur de rechercheUniversity of Montpellier IIUniversity of CaliforniaIn 1973, Neveu received the Paul Langevin Prize of the Société Française de Physique.[5] In 1988 he received the Gentner-Kastler Prize awarded jointly by the Société Française de Physique and the Deutsche Physikalische Gesellschaft (DPG).[6]Paul Langevin PrizeSociété Française de Physique[5][5]Gentner-Kastler PrizeDeutsche Physikalische Gesellschaft[6][6]Neveu is married and has three children.Writings[edit]Writings[edit][edit]
+Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709  (On the occasion of the awarding of the Gentner-Kastler Prize)
+Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709  (On the occasion of the awarding of the Gentner-Kastler Prize)Neveu, A. (1988), "Introduction to Strings and Superstrings", Physikalische Blätter 44: 195, doi:10.1002/phbl.19880440709Physikalische Blätter44doi10.1002/phbl.19880440709  
+Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760 
+Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760 Neveu, A. (1982), "Dual resonance models and strings in QCD", in Zuber, Jean-Bernard; Stora, Raymond, Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 1982, Les Houches Summer School Proceedings 39, p. 760Recent Advances in Field Theory and Statistical Mechanics, Les Houches, France, Aug 2 – Sep 10, 198239  Notes[edit]Notes[edit][edit]
+
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 
+^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X 
+^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.
+^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 
+^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. 
+^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. 
+
+
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 
+^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X 
+^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.
+^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 
+^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. 
+^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. 
+^ Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 ^^^Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697 Gross, David J.; Neveu, A.; Scherk, J.; Schwarz, John H. (1970), "Renormalization and Unitarity in the Dual-Resonance Model", Phys. Rev. D 2: 697–710, Bibcode:1970PhRvD...2..697G, doi:10.1103/PhysRevD.2.697Phys. Rev. D2Bibcode1970PhRvD...2..697Gdoi10.1103/PhysRevD.2.697  ^ Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X ^^^Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-X Neveu, A.; Scherk, J. (1972), "Connection between Yang-Mills fields and dual models", Nuclear Physics B 36: 155–161, Bibcode:1972NuPhB..36..155N, doi:10.1016/0550-3213(72)90301-XNuclear Physics B36Bibcode1972NuPhB..36..155Ndoi10.1016/0550-3213(72)90301-X  ^ Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.^^^Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2 ; Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1 ; Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109 ; Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1 . The version of Neveu and Schwarz differed from that of Ramond in the boundary terms. By the choice of the boundary terms they obtained fermion pairs to produce a model of the pion, a boson. An important advantage of this string theory at that time was also that the unphysical tachyon of the bosonic string theory was eliminated.Neveu, A.; Schwarz, J. H. (1971), "Factorizable dual model of pions", Nuclear Physics B 31: 86–112, Bibcode:1971NuPhB..31...86N, doi:10.1016/0550-3213(71)90448-2Nuclear Physics B31Bibcode1971NuPhB..31...86Ndoi10.1016/0550-3213(71)90448-2  Neveu, A.; Schwarz, J. H. (1971), "Tachyon-free dual model with a positive intercept trajectory", Physics Letters B 34: 517–518, Bibcode:1971PhLB...34..517N, doi:10.1016/0370-2693(71)90669-1Physics Letters B34Bibcode1971PhLB...34..517Ndoi10.1016/0370-2693(71)90669-1  Neveu, A.; Schwarz, John H. (1971), "Quark Model of Dual Pions", Phys. Rev. D 4: 1109–1111, Bibcode:1971PhRvD...4.1109N, doi:10.1103/PhysRevD.4.1109Phys. Rev. D4Bibcode1971PhRvD...4.1109Ndoi10.1103/PhysRevD.4.1109  Neveu, A.; Schwarz, J. H.; Thorn, C. B. (1971), "Reformulation of the Dual Pion Model", Physics Letters B 35: 529–533, Bibcode:1971PhLB...35..529N, doi:10.1016/0370-2693(71)90391-1Physics Letters B35Bibcode1971PhLB...35..529Ndoi10.1016/0370-2693(71)90391-1  fermionpionboson^ A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 ^^^A quantum-field-theoretic model of Dirac fermions with a four-fermion interaction vertex and unitary symmetry in one spatial dimension. It is renormalizable and asymptotically free. In this model phenomena such as dynamic bulk production and spontaneous symmetric breaking can be studied.Gross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235 renormalizableasymptotically freeGross, David J.; Neveu, André (1974), "Dynamical symmetry breaking in asymptotically free field theories", Phys. Rev. D 10: 3235–3253, Bibcode:1974PhRvD..10.3235G, doi:10.1103/PhysRevD.10.3235Phys. Rev. D10Bibcode1974PhRvD..10.3235Gdoi10.1103/PhysRevD.10.3235  ^ "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. ^^^"Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011. "Liste exhaustive de tous les récipiendaires de prix SFP". Société française de physique. Retrieved 18 January 2011."Liste exhaustive de tous les récipiendaires de prix SFP". Retrieved 18 January 201118 January  ^ "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. ^^^"Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011. "Preisträger Gentner–Kastler". Deutsche Physikalische Gesellschaft. Retrieved 23 January 2011."Preisträger Gentner–Kastler". Retrieved 23 January 201123 January  External links[edit]External links[edit][edit]
+Some of my recollections about Joël Scherk
+Scientific publications of André Neveu on INSPIRE-HEP
+Some of my recollections about Joël ScherkSome of my recollections about Joël ScherkScientific publications of André Neveu on INSPIRE-HEPScientific publications of André Neveu onINSPIRE-HEP
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+
+
+WorldCat Identities
+VIAF: 24646380
+SUDOC: 030487196
+BNF: cb12189175m (data)
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 24646380VIAF2464638024646380SUDOC: 030487196SUDOC030487196030487196BNF: cb12189175m (data)BNFcb12189175m (data)cb12189175m(data)
+
+Persondata
+
+
+Name
+Neveu, André
+
+
+Alternative names
+
+
+
+Short description
+French physicist
+
+
+Date of birth
+28 August 1946
+
+
+Place of birth
+Paris
+
+
+Date of death
+
+
+
+Place of death
+
+
+
+Persondata
+PersondataPersondata
+Name
+Neveu, André
+NameNeveu, André
+Alternative names
+
+Alternative names
+Short description
+French physicist
+Short descriptionFrench physicist
+Date of birth
+28 August 1946
+Date of birth28 August 1946
+Place of birth
+Paris
+Place of birthParis
+Date of death
+
+Date of death
+Place of death
+
+Place of death
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=André_Neveu&oldid=714831142"					https://en.wikipedia.org/w/index.php?title=André_Neveu&oldid=714831142Categories: 1946 birthsLiving peopleScientists from ParisFrench physicistsString theoristsPeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with BNF identifiersCategories: 1946 birthsLiving peopleScientists from ParisFrench physicistsString theoristsPeople associated with CERNCategories1946 birthsLiving peopleScientists from ParisFrench physicistsString theoristsPeople associated with CERN1946 births1946 birthsLiving peopleLiving peopleScientists from ParisScientists from ParisFrench physicistsFrench physicistsString theoristsString theoristsPeople associated with CERNPeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschفارسیMalagasySlovenščina 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschفارسیMalagasySlovenščina 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschفارسیMalagasySlovenščina 
+Edit links 
+Languages
+
+DeutschفارسیMalagasySlovenščina 
+Edit links 
+DeutschفارسیMalagasySlovenščina DeutschDeutschفارسیفارسیMalagasyMalagasySlovenščinaSlovenščinaEdit linksEdit linksEdit links
+
+ This page was last modified on 12 April 2016, at 02:50.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 12 April 2016, at 02:50.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 12 April 2016, at 02:50.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

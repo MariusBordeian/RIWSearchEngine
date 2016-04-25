@@ -1,0 +1,1925 @@
+Type II string theory - Wikipedia, the free encyclopedia
+
+
+
+
+Type II string theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, type II string theory is a unified term that includes both type IIA strings and type IIB strings theories. Type II string theory accounts for two of the five consistent superstring theories in ten dimensions. Both theories have the maximal amount of supersymmetry — namely 32 supercharges — in ten dimensions. Both theories are based on oriented closed strings. On the worldsheet, they differ only in the choice of GSO projection.
+
+
+
+Contents
+
+
+1 Type IIA string
+2 Type IIB string
+3 Relationship between the type II theories
+4 See also
+5 References
+
+
+
+Type IIA string[edit]
+At low energies, type IIA string theory is described by type IIA supergravity in ten dimensions which is a non-chiral theory (i.e. left-right symmetric) with (1,1) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore trivial.
+In the 1990s it was realized by Edward Witten (building on previous insights by Michael Duff, Paul Townsend, and others) that the limit of type IIA string theory in which the string coupling goes to infinity becomes a new 11-dimensional theory called M-theory.
+The mathematical treatment of type IIA string theory belongs to symplectic topology and algebraic geometry, particularly Gromov–Witten invariants.
+Type IIB string[edit]
+At low energies, type IIB string theory is described by type IIB supergravity in ten dimensions which is a chiral theory (left-right asymmetric) with (2,0) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore nontrivial.
+In the 1990s it was realized that type II string theory with the string coupling constant g is equivalent to the same theory with the coupling 1/g. This equivalence is known as S-duality.
+Orientifold of type IIB string theory leads to type I string theory.
+The mathematical treatment of type IIB string theory belongs to algebraic geometry, specifically the deformation theory of complex structures originally studied by Kunihiko Kodaira and Donald C. Spencer.
+In 1997 Juan Maldacena gave some arguments indicating that type IIB string theory is equivalent to a Supersymmetric Yang Mills theory with 4 supersymmetries and gauge group SU(N), in the 't Hooft limit; it was the first suggestion concerning the AdS/CFT correspondence.[1]
+Relationship between the type II theories[edit]
+In the late 1980s, it was realized that type IIA string theory is related to type IIB string theory by T-duality.
+See also[edit]
+
+Superstring theory
+Type I string
+Heterotic string
+
+References[edit]
+
+
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Type_II_string_theory&oldid=629086741"					
+Categories: String theoryPhysics stubsString theory stubsHidden categories: Articles needing additional references from April 2014All articles needing additional referencesAll stub articles 
+
+
+Type II string theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, type II string theory is a unified term that includes both type IIA strings and type IIB strings theories. Type II string theory accounts for two of the five consistent superstring theories in ten dimensions. Both theories have the maximal amount of supersymmetry — namely 32 supercharges — in ten dimensions. Both theories are based on oriented closed strings. On the worldsheet, they differ only in the choice of GSO projection.
+
+
+
+Contents
+
+
+1 Type IIA string
+2 Type IIB string
+3 Relationship between the type II theories
+4 See also
+5 References
+
+
+
+Type IIA string[edit]
+At low energies, type IIA string theory is described by type IIA supergravity in ten dimensions which is a non-chiral theory (i.e. left-right symmetric) with (1,1) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore trivial.
+In the 1990s it was realized by Edward Witten (building on previous insights by Michael Duff, Paul Townsend, and others) that the limit of type IIA string theory in which the string coupling goes to infinity becomes a new 11-dimensional theory called M-theory.
+The mathematical treatment of type IIA string theory belongs to symplectic topology and algebraic geometry, particularly Gromov–Witten invariants.
+Type IIB string[edit]
+At low energies, type IIB string theory is described by type IIB supergravity in ten dimensions which is a chiral theory (left-right asymmetric) with (2,0) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore nontrivial.
+In the 1990s it was realized that type II string theory with the string coupling constant g is equivalent to the same theory with the coupling 1/g. This equivalence is known as S-duality.
+Orientifold of type IIB string theory leads to type I string theory.
+The mathematical treatment of type IIB string theory belongs to algebraic geometry, specifically the deformation theory of complex structures originally studied by Kunihiko Kodaira and Donald C. Spencer.
+In 1997 Juan Maldacena gave some arguments indicating that type IIB string theory is equivalent to a Supersymmetric Yang Mills theory with 4 supersymmetries and gauge group SU(N), in the 't Hooft limit; it was the first suggestion concerning the AdS/CFT correspondence.[1]
+Relationship between the type II theories[edit]
+In the late 1980s, it was realized that type IIA string theory is related to type IIB string theory by T-duality.
+See also[edit]
+
+Superstring theory
+Type I string
+Heterotic string
+
+References[edit]
+
+
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Type_II_string_theory&oldid=629086741"					
+Categories: String theoryPhysics stubsString theory stubsHidden categories: Articles needing additional references from April 2014All articles needing additional referencesAll stub articles 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, type II string theory is a unified term that includes both type IIA strings and type IIB strings theories. Type II string theory accounts for two of the five consistent superstring theories in ten dimensions. Both theories have the maximal amount of supersymmetry — namely 32 supercharges — in ten dimensions. Both theories are based on oriented closed strings. On the worldsheet, they differ only in the choice of GSO projection.
+
+
+
+Contents
+
+
+1 Type IIA string
+2 Type IIB string
+3 Relationship between the type II theories
+4 See also
+5 References
+
+
+
+Type IIA string[edit]
+At low energies, type IIA string theory is described by type IIA supergravity in ten dimensions which is a non-chiral theory (i.e. left-right symmetric) with (1,1) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore trivial.
+In the 1990s it was realized by Edward Witten (building on previous insights by Michael Duff, Paul Townsend, and others) that the limit of type IIA string theory in which the string coupling goes to infinity becomes a new 11-dimensional theory called M-theory.
+The mathematical treatment of type IIA string theory belongs to symplectic topology and algebraic geometry, particularly Gromov–Witten invariants.
+Type IIB string[edit]
+At low energies, type IIB string theory is described by type IIB supergravity in ten dimensions which is a chiral theory (left-right asymmetric) with (2,0) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore nontrivial.
+In the 1990s it was realized that type II string theory with the string coupling constant g is equivalent to the same theory with the coupling 1/g. This equivalence is known as S-duality.
+Orientifold of type IIB string theory leads to type I string theory.
+The mathematical treatment of type IIB string theory belongs to algebraic geometry, specifically the deformation theory of complex structures originally studied by Kunihiko Kodaira and Donald C. Spencer.
+In 1997 Juan Maldacena gave some arguments indicating that type IIB string theory is equivalent to a Supersymmetric Yang Mills theory with 4 supersymmetries and gauge group SU(N), in the 't Hooft limit; it was the first suggestion concerning the AdS/CFT correspondence.[1]
+Relationship between the type II theories[edit]
+In the late 1980s, it was realized that type IIA string theory is related to type IIB string theory by T-duality.
+See also[edit]
+
+Superstring theory
+Type I string
+Heterotic string
+
+References[edit]
+
+
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2014)needs additional citations for verificationverificationPlease help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.improve this articleadding citations to reliable sources(April 2014)(April 2014)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn theoretical physics, type II string theory is a unified term that includes both type IIA strings and type IIB strings theories. Type II string theory accounts for two of the five consistent superstring theories in ten dimensions. Both theories have the maximal amount of supersymmetry — namely 32 supercharges — in ten dimensions. Both theories are based on oriented closed strings. On the worldsheet, they differ only in the choice of GSO projection.theoretical physicstype II string theorytype IIA stringstype IIB stringssuperstring theoriessupersymmetrysuperchargesclosed stringsworldsheetGSO projection
+
+Contents
+
+
+1 Type IIA string
+2 Type IIB string
+3 Relationship between the type II theories
+4 See also
+5 References
+
+
+Contents
+Contents
+1 Type IIA string
+2 Type IIB string
+3 Relationship between the type II theories
+4 See also
+5 References
+1 Type IIA string1 Type IIA string1Type IIA string2 Type IIB string2 Type IIB string2Type IIB string3 Relationship between the type II theories3 Relationship between the type II theories3Relationship between the type II theories4 See also4 See also4See also5 References5 References5ReferencesType IIA string[edit]Type IIA string[edit][edit]At low energies, type IIA string theory is described by type IIA supergravity in ten dimensions which is a non-chiral theory (i.e. left-right symmetric) with (1,1) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore trivial.supergravitychiraldanomaliesIn the 1990s it was realized by Edward Witten (building on previous insights by Michael Duff, Paul Townsend, and others) that the limit of type IIA string theory in which the string coupling goes to infinity becomes a new 11-dimensional theory called M-theory.Edward WittenM-theoryThe mathematical treatment of type IIA string theory belongs to symplectic topology and algebraic geometry, particularly Gromov–Witten invariants.symplectic topologyalgebraic geometryGromov–Witten invariantsType IIB string[edit]Type IIB string[edit][edit]At low energies, type IIB string theory is described by type IIB supergravity in ten dimensions which is a chiral theory (left-right asymmetric) with (2,0) d=10 supersymmetry; the fact that the anomalies in this theory cancel is therefore nontrivial.dIn the 1990s it was realized that type II string theory with the string coupling constant g is equivalent to the same theory with the coupling 1/g. This equivalence is known as S-duality.g1/gS-dualityOrientifold of type IIB string theory leads to type I string theory.Orientifoldtype I string theoryThe mathematical treatment of type IIB string theory belongs to algebraic geometry, specifically the deformation theory of complex structures originally studied by Kunihiko Kodaira and Donald C. Spencer.deformation theoryKunihiko KodairaDonald C. SpencerIn 1997 Juan Maldacena gave some arguments indicating that type IIB string theory is equivalent to a Supersymmetric Yang Mills theory with 4 supersymmetries and gauge group SU(N), in the 't Hooft limit; it was the first suggestion concerning the AdS/CFT correspondence.[1]Juan MaldacenaSU(N)'t HooftAdS/CFT correspondence[1][1]Relationship between the type II theories[edit]Relationship between the type II theories[edit][edit]In the late 1980s, it was realized that type IIA string theory is related to type IIB string theory by T-duality.T-dualitySee also[edit]See also[edit][edit]
+Superstring theory
+Type I string
+Heterotic string
+Superstring theorySuperstring theoryType I stringType I stringHeterotic stringHeterotic stringReferences[edit]References[edit][edit]
+
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200
+
+
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200
+^ J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200^^^J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity" arXiv:hep-th/9711200arXiv:hep-th/9711200
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.physicsstubexpanding it
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.string theorystubexpanding it
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Type_II_string_theory&oldid=629086741"					https://en.wikipedia.org/w/index.php?title=Type_II_string_theory&oldid=629086741Categories: String theoryPhysics stubsString theory stubsHidden categories: Articles needing additional references from April 2014All articles needing additional referencesAll stub articlesCategories: String theoryPhysics stubsString theory stubsCategoriesString theoryPhysics stubsString theory stubsString theoryString theoryPhysics stubsPhysics stubsString theory stubsString theory stubsHidden categories: Articles needing additional references from April 2014All articles needing additional referencesAll stub articlesArticles needing additional references from April 2014All articles needing additional referencesAll stub articlesArticles needing additional references from April 2014Articles needing additional references from April 2014All articles needing additional referencesAll articles needing additional referencesAll stub articlesAll stub articles
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةDeutschEspañolFrançaisItalianoLietuvių日本語Português中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةDeutschEspañolFrançaisItalianoLietuvių日本語Português中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةDeutschEspañolFrançaisItalianoLietuvių日本語Português中文 
+Edit links 
+Languages
+
+العربيةDeutschEspañolFrançaisItalianoLietuvių日本語Português中文 
+Edit links 
+العربيةDeutschEspañolFrançaisItalianoLietuvių日本語Português中文 العربيةالعربيةDeutschDeutschEspañolEspañolFrançaisFrançaisItalianoItalianoLietuviųLietuvių日本語日本語PortuguêsPortuguês中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 10 October 2014, at 18:46.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 10 October 2014, at 18:46.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 10 October 2014, at 18:46.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

@@ -1,0 +1,1719 @@
+Michael Green (physicist) - Wikipedia, the free encyclopedia
+
+
+
+
+Michael Green (physicist)
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For other people named Michael Green, see Michael Green (disambiguation).
+
+
+Michael Green
+
+
+Born
+Michael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1]
+
+
+Residence
+Cambridge
+
+
+Nationality
+British[1]
+
+
+Fields
+Physics
+
+
+Institutions
+University of Cambridge
+Queen Mary, University of London
+Princeton University
+University of Oxford
+
+
+Alma mater
+Churchill College, Cambridge[1]
+
+
+Thesis
+Crossing Symmetry And Duality in Strong Interactions (1970)
+
+
+Doctoral advisor
+Richard J. Eden[2]
+
+
+Doctoral students
+Wafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2]
+
+
+Known for
+Superstring theory[3]
+Green–Schwarz mechanism
+
+
+Notable awards
+Fellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)
+
+
+Spouse
+Joanna Chataway[1]
+
+
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.green
+
+
+Michael Boris Green FRS[4] (born 22 May 1946) is a British physicist and one of the pioneers of string theory. Currently a professor in the Department of Applied Mathematics and Theoretical Physics and a Fellow in Clare Hall, Cambridge in England, he succeeded Stephen Hawking on 1 November 2009 as the Lucasian Professor of Mathematics.[5][6][7]
+
+
+
+Contents
+
+
+1 Education and background
+2 Career
+3 Research
+4 Awards and honours
+5 Selected publications
+6 References
+7 External links
+
+
+
+Education and background[edit]
+Green was born the son of Genia Green and Absalom Green. He attended William Ellis School in London and Churchill College, Cambridge[1] where he graduated with a Bachelor of Arts with first class honours in theoretical physics (1967) and a PhD in elementary particle theory (1970).[2][8][9]
+Career[edit]
+Following his PhD, Green did postdoctoral research at Princeton University (1970–72), Cambridge and the University of Oxford. Between 1978 and 1993 he was a Lecturer and Professor at Queen Mary, University of London and in July 1993 he was appointed John Humphrey Plummer Professor of Theoretical Physics at the University of Cambridge. On 19 October 2009 he was confirmed as the next Lucasian Professor of Mathematics, to succeed Stephen Hawking on 1 November 2009,[5][6] but in 2015 was succeeded in that chair by Michael Cates, a specialist in colloids, gels, and particulate materials.
+Research[edit]
+After many years in collaboration with John Henry Schwarz,[10] he co-discovered the anomaly cancellation in type I string theory in 1984. This insight, named the Green–Schwarz mechanism, initiated the First Superstring Revolution. Green has also worked on Dirichlet boundary conditions in string theory which have led to the postulation of D-branes[11] and instantons.[12]
+Awards and honours[edit]
+Green has been awarded the Dirac and Maxwell Medals of the Institute of Physics, UK, the Dirac Prize of the International Centre for Theoretical Physics (Trieste) and the Dannie Heineman Prize for Mathematical Physics of the American Physical Society. He was elected a Fellow of the Royal Society in 1989.[4] Green has co-authored more than 150 research papers.[7][13]
+His nomination for the Royal Society reads
+
+
+“
+Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+
+”
+
+
+On 12 December 2013, Michael Green shared the Fundamental Physics Prize with John Henry Schwarz "for opening new perspectives on quantum gravity and the unification of forces."
+Selected publications[edit]
+
+Green, M., John H. Schwarz, and E. Witten. Superstring Theory. Vol. 1, Introduction. Cambridge Monographs on Mathematical Physics. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357524.
+Superstring Theory. Vol. 2, Loop Amplitutes, Anomalies and Phenomenology. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357531.
+
+References[edit]
+
+
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)
+^ a b c Michael Green at the Mathematics Genealogy Project
+^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. 
+^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. 
+^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. 
+^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. 
+^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.
+^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. 
+^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. 
+^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. 
+^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. 
+^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. 
+^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. 
+
+
+External links[edit]
+
+[ Institute of physics page]
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Michael_Green_(physicist)&oldid=707375625"					
+Categories: 1946 birthsPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeEnglish JewsEnglish physicistsFellows of the Royal SocietyFellows of Clare Hall, CambridgeJewish scientistsLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsLucasian Professors of MathematicsMaxwell Medal and Prize recipientsHidden categories: Pages containing links to subscription-only contentEngvarB from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiers 
+
+
+Michael Green (physicist)
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For other people named Michael Green, see Michael Green (disambiguation).
+
+
+Michael Green
+
+
+Born
+Michael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1]
+
+
+Residence
+Cambridge
+
+
+Nationality
+British[1]
+
+
+Fields
+Physics
+
+
+Institutions
+University of Cambridge
+Queen Mary, University of London
+Princeton University
+University of Oxford
+
+
+Alma mater
+Churchill College, Cambridge[1]
+
+
+Thesis
+Crossing Symmetry And Duality in Strong Interactions (1970)
+
+
+Doctoral advisor
+Richard J. Eden[2]
+
+
+Doctoral students
+Wafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2]
+
+
+Known for
+Superstring theory[3]
+Green–Schwarz mechanism
+
+
+Notable awards
+Fellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)
+
+
+Spouse
+Joanna Chataway[1]
+
+
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.green
+
+
+Michael Boris Green FRS[4] (born 22 May 1946) is a British physicist and one of the pioneers of string theory. Currently a professor in the Department of Applied Mathematics and Theoretical Physics and a Fellow in Clare Hall, Cambridge in England, he succeeded Stephen Hawking on 1 November 2009 as the Lucasian Professor of Mathematics.[5][6][7]
+
+
+
+Contents
+
+
+1 Education and background
+2 Career
+3 Research
+4 Awards and honours
+5 Selected publications
+6 References
+7 External links
+
+
+
+Education and background[edit]
+Green was born the son of Genia Green and Absalom Green. He attended William Ellis School in London and Churchill College, Cambridge[1] where he graduated with a Bachelor of Arts with first class honours in theoretical physics (1967) and a PhD in elementary particle theory (1970).[2][8][9]
+Career[edit]
+Following his PhD, Green did postdoctoral research at Princeton University (1970–72), Cambridge and the University of Oxford. Between 1978 and 1993 he was a Lecturer and Professor at Queen Mary, University of London and in July 1993 he was appointed John Humphrey Plummer Professor of Theoretical Physics at the University of Cambridge. On 19 October 2009 he was confirmed as the next Lucasian Professor of Mathematics, to succeed Stephen Hawking on 1 November 2009,[5][6] but in 2015 was succeeded in that chair by Michael Cates, a specialist in colloids, gels, and particulate materials.
+Research[edit]
+After many years in collaboration with John Henry Schwarz,[10] he co-discovered the anomaly cancellation in type I string theory in 1984. This insight, named the Green–Schwarz mechanism, initiated the First Superstring Revolution. Green has also worked on Dirichlet boundary conditions in string theory which have led to the postulation of D-branes[11] and instantons.[12]
+Awards and honours[edit]
+Green has been awarded the Dirac and Maxwell Medals of the Institute of Physics, UK, the Dirac Prize of the International Centre for Theoretical Physics (Trieste) and the Dannie Heineman Prize for Mathematical Physics of the American Physical Society. He was elected a Fellow of the Royal Society in 1989.[4] Green has co-authored more than 150 research papers.[7][13]
+His nomination for the Royal Society reads
+
+
+“
+Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+
+”
+
+
+On 12 December 2013, Michael Green shared the Fundamental Physics Prize with John Henry Schwarz "for opening new perspectives on quantum gravity and the unification of forces."
+Selected publications[edit]
+
+Green, M., John H. Schwarz, and E. Witten. Superstring Theory. Vol. 1, Introduction. Cambridge Monographs on Mathematical Physics. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357524.
+Superstring Theory. Vol. 2, Loop Amplitutes, Anomalies and Phenomenology. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357531.
+
+References[edit]
+
+
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)
+^ a b c Michael Green at the Mathematics Genealogy Project
+^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. 
+^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. 
+^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. 
+^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. 
+^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.
+^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. 
+^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. 
+^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. 
+^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. 
+^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. 
+^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. 
+
+
+External links[edit]
+
+[ Institute of physics page]
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Michael_Green_(physicist)&oldid=707375625"					
+Categories: 1946 birthsPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeEnglish JewsEnglish physicistsFellows of the Royal SocietyFellows of Clare Hall, CambridgeJewish scientistsLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsLucasian Professors of MathematicsMaxwell Medal and Prize recipientsHidden categories: Pages containing links to subscription-only contentEngvarB from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchFor other people named Michael Green, see Michael Green (disambiguation).
+
+
+Michael Green
+
+
+Born
+Michael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1]
+
+
+Residence
+Cambridge
+
+
+Nationality
+British[1]
+
+
+Fields
+Physics
+
+
+Institutions
+University of Cambridge
+Queen Mary, University of London
+Princeton University
+University of Oxford
+
+
+Alma mater
+Churchill College, Cambridge[1]
+
+
+Thesis
+Crossing Symmetry And Duality in Strong Interactions (1970)
+
+
+Doctoral advisor
+Richard J. Eden[2]
+
+
+Doctoral students
+Wafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2]
+
+
+Known for
+Superstring theory[3]
+Green–Schwarz mechanism
+
+
+Notable awards
+Fellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)
+
+
+Spouse
+Joanna Chataway[1]
+
+
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.green
+
+
+Michael Boris Green FRS[4] (born 22 May 1946) is a British physicist and one of the pioneers of string theory. Currently a professor in the Department of Applied Mathematics and Theoretical Physics and a Fellow in Clare Hall, Cambridge in England, he succeeded Stephen Hawking on 1 November 2009 as the Lucasian Professor of Mathematics.[5][6][7]
+
+
+
+Contents
+
+
+1 Education and background
+2 Career
+3 Research
+4 Awards and honours
+5 Selected publications
+6 References
+7 External links
+
+
+
+Education and background[edit]
+Green was born the son of Genia Green and Absalom Green. He attended William Ellis School in London and Churchill College, Cambridge[1] where he graduated with a Bachelor of Arts with first class honours in theoretical physics (1967) and a PhD in elementary particle theory (1970).[2][8][9]
+Career[edit]
+Following his PhD, Green did postdoctoral research at Princeton University (1970–72), Cambridge and the University of Oxford. Between 1978 and 1993 he was a Lecturer and Professor at Queen Mary, University of London and in July 1993 he was appointed John Humphrey Plummer Professor of Theoretical Physics at the University of Cambridge. On 19 October 2009 he was confirmed as the next Lucasian Professor of Mathematics, to succeed Stephen Hawking on 1 November 2009,[5][6] but in 2015 was succeeded in that chair by Michael Cates, a specialist in colloids, gels, and particulate materials.
+Research[edit]
+After many years in collaboration with John Henry Schwarz,[10] he co-discovered the anomaly cancellation in type I string theory in 1984. This insight, named the Green–Schwarz mechanism, initiated the First Superstring Revolution. Green has also worked on Dirichlet boundary conditions in string theory which have led to the postulation of D-branes[11] and instantons.[12]
+Awards and honours[edit]
+Green has been awarded the Dirac and Maxwell Medals of the Institute of Physics, UK, the Dirac Prize of the International Centre for Theoretical Physics (Trieste) and the Dannie Heineman Prize for Mathematical Physics of the American Physical Society. He was elected a Fellow of the Royal Society in 1989.[4] Green has co-authored more than 150 research papers.[7][13]
+His nomination for the Royal Society reads
+
+
+“
+Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+
+”
+
+
+On 12 December 2013, Michael Green shared the Fundamental Physics Prize with John Henry Schwarz "for opening new perspectives on quantum gravity and the unification of forces."
+Selected publications[edit]
+
+Green, M., John H. Schwarz, and E. Witten. Superstring Theory. Vol. 1, Introduction. Cambridge Monographs on Mathematical Physics. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357524.
+Superstring Theory. Vol. 2, Loop Amplitutes, Anomalies and Phenomenology. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357531.
+
+References[edit]
+
+
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)
+^ a b c Michael Green at the Mathematics Genealogy Project
+^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. 
+^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. 
+^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. 
+^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. 
+^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.
+^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. 
+^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. 
+^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. 
+^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. 
+^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. 
+^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. 
+
+
+External links[edit]
+
+[ Institute of physics page]
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+
+
+
+
+For other people named Michael Green, see Michael Green (disambiguation).Michael Green (disambiguation)
+
+Michael Green
+
+
+Born
+Michael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1]
+
+
+Residence
+Cambridge
+
+
+Nationality
+British[1]
+
+
+Fields
+Physics
+
+
+Institutions
+University of Cambridge
+Queen Mary, University of London
+Princeton University
+University of Oxford
+
+
+Alma mater
+Churchill College, Cambridge[1]
+
+
+Thesis
+Crossing Symmetry And Duality in Strong Interactions (1970)
+
+
+Doctoral advisor
+Richard J. Eden[2]
+
+
+Doctoral students
+Wafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2]
+
+
+Known for
+Superstring theory[3]
+Green–Schwarz mechanism
+
+
+Notable awards
+Fellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)
+
+
+Spouse
+Joanna Chataway[1]
+
+
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.green
+
+
+Michael Green
+Michael GreenMichael Green
+Born
+Michael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1]
+BornMichael Boris Green
+(1946-05-22) 22 May 1946 (age 69)[1]
+London[1](1946-05-22)1946-05-22(age 69)[1][1][1][1]
+Residence
+Cambridge
+ResidenceCambridgeCambridge
+Nationality
+British[1]
+NationalityBritish[1][1][1]
+Fields
+Physics
+FieldsPhysicsPhysics
+Institutions
+University of Cambridge
+Queen Mary, University of London
+Princeton University
+University of Oxford
+InstitutionsUniversity of Cambridge
+Queen Mary, University of London
+Princeton University
+University of OxfordUniversity of CambridgeQueen Mary, University of LondonPrinceton UniversityUniversity of Oxford
+Alma mater
+Churchill College, Cambridge[1]
+Alma materAlma materAlma materChurchill College, Cambridge[1]Churchill College, Cambridge[1][1]
+Thesis
+Crossing Symmetry And Duality in Strong Interactions (1970)
+ThesisThesisCrossing Symmetry And Duality in Strong Interactions (1970)Crossing Symmetry And Duality in Strong InteractionsCrossing Symmetry And Duality in Strong Interactions(1970)
+Doctoral advisor
+Richard J. Eden[2]
+Doctoral advisorDoctoral advisorRichard J. Eden[2][2][2]
+Doctoral students
+Wafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2]
+Doctoral studentsWafic Sabra
+Michael Gutperle
+Ling-Yan Hung
+Miguel Paulos
+Aninda Sinha
+David Richards
+Marco Barrozo
+Bogdan Stefanski
+Tathagata Dasgupta
+Linda Uruchurtu[2][2][2]
+Known for
+Superstring theory[3]
+Green–Schwarz mechanism
+Known forSuperstring theory[3]
+Green–Schwarz mechanismSuperstring theory[3][3]Green–Schwarz mechanism
+Notable awards
+Fellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)
+Notable awardsFellow of the Royal Society[4]
+Dirac Prize
+Maxwell Medal and Prize (1987)
+Dannie Heineman Prize for Mathematical Physics (2002)
+Naylor Prize and Lectureship (2007)
+Fundamental Physics Prize (2013)Royal Society[4][4]Dirac PrizeMaxwell Medal and Prize(1987)Dannie Heineman Prize for Mathematical Physics(2002)Naylor Prize and Lectureship(2007)Fundamental Physics Prize(2013)
+Spouse
+Joanna Chataway[1]
+SpouseJoanna Chataway[1][1][1]
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.green
+Website
+www.damtp.cam.ac.uk/user/mbg15
+www.damtp.cam.ac.uk/people/m.b.greenWebsitewww.damtp.cam.ac.uk/user/mbg15www.damtp.cam.ac.uk/user/mbg15www.damtp.cam.ac.uk/people/m.b.greenwww.damtp.cam.ac.uk/people/m.b.greenMichael Boris Green FRS[4] (born 22 May 1946) is a British physicist and one of the pioneers of string theory. Currently a professor in the Department of Applied Mathematics and Theoretical Physics and a Fellow in Clare Hall, Cambridge in England, he succeeded Stephen Hawking on 1 November 2009 as the Lucasian Professor of Mathematics.[5][6][7]Michael Boris GreenFRSFRS[4][4]physiciststring theoryDepartment of Applied Mathematics and Theoretical PhysicsClare Hall, CambridgeStephen HawkingLucasian Professor of Mathematics[5][5][6][6][7][7]
+
+Contents
+
+
+1 Education and background
+2 Career
+3 Research
+4 Awards and honours
+5 Selected publications
+6 References
+7 External links
+
+
+Contents
+Contents
+1 Education and background
+2 Career
+3 Research
+4 Awards and honours
+5 Selected publications
+6 References
+7 External links
+1 Education and background1 Education and background1Education and background2 Career2 Career2Career3 Research3 Research3Research4 Awards and honours4 Awards and honours4Awards and honours5 Selected publications5 Selected publications5Selected publications6 References6 References6References7 External links7 External links7External linksEducation and background[edit]Education and background[edit][edit]Green was born the son of Genia Green and Absalom Green. He attended William Ellis School in London and Churchill College, Cambridge[1] where he graduated with a Bachelor of Arts with first class honours in theoretical physics (1967) and a PhD in elementary particle theory (1970).[2][8][9]William Ellis SchoolChurchill College, Cambridge[1][1]first class honourselementaryparticle theory[2][2][8][8][9][9]Career[edit]Career[edit][edit]Following his PhD, Green did postdoctoral research at Princeton University (1970–72), Cambridge and the University of Oxford. Between 1978 and 1993 he was a Lecturer and Professor at Queen Mary, University of London and in July 1993 he was appointed John Humphrey Plummer Professor of Theoretical Physics at the University of Cambridge. On 19 October 2009 he was confirmed as the next Lucasian Professor of Mathematics, to succeed Stephen Hawking on 1 November 2009,[5][6] but in 2015 was succeeded in that chair by Michael Cates, a specialist in colloids, gels, and particulate materials.postdoctoral researchPrinceton UniversityUniversity of OxfordQueen Mary, University of LondonJohn Humphrey Plummer Professor of Theoretical PhysicsLucasian Professor of MathematicsStephen Hawking[5][5][6][6]Research[edit]Research[edit][edit]After many years in collaboration with John Henry Schwarz,[10] he co-discovered the anomaly cancellation in type I string theory in 1984. This insight, named the Green–Schwarz mechanism, initiated the First Superstring Revolution. Green has also worked on Dirichlet boundary conditions in string theory which have led to the postulation of D-branes[11] and instantons.[12]John Henry Schwarz[10][10]Green–Schwarz mechanismFirst Superstring RevolutionDirichlet boundary conditionsD-branes[11][11]instantons[12][12]Awards and honours[edit]Awards and honours[edit][edit]Green has been awarded the Dirac and Maxwell Medals of the Institute of Physics, UK, the Dirac Prize of the International Centre for Theoretical Physics (Trieste) and the Dannie Heineman Prize for Mathematical Physics of the American Physical Society. He was elected a Fellow of the Royal Society in 1989.[4] Green has co-authored more than 150 research papers.[7][13]Institute of PhysicsDirac PrizeInternational Centre for Theoretical PhysicsDannie Heineman Prize for Mathematical PhysicsAmerican Physical SocietyRoyal Society[4][4][7][7][13][13]His nomination for the Royal Society readsRoyal Society
+
+“
+Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+
+”
+
+
+“
+Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+
+”
+“Distinguished for his outstanding contributions to quantum field theory, especially the theory of superstrings. Green's early work was largely on duality in S-matrix theory. He was the first to prove an important result on the dual model – the cancellation of the leading divergences between boson and fermion loops. He has made significant contributions to the theory of phase transitions, but is best known for his trail-blazing work, much of it in collaboration with Schwarz, on superstring theory, including the first covariant formulation of the theory. The most important results are the proofs in 1984 and 1985 of anomaly cancellation for SO (32) and E8xE8 superstring theories and of infinity cancellation in the SO (32) case.
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4]
+These definitive papers initiated the explosive growth of superstring theory, now one of the most active and exciting areas of fundamental theoretical physics.[4][4][4]”On 12 December 2013, Michael Green shared the Fundamental Physics Prize with John Henry Schwarz "for opening new perspectives on quantum gravity and the unification of forces."Fundamental Physics PrizeJohn Henry SchwarzSelected publications[edit]Selected publications[edit][edit]
+Green, M., John H. Schwarz, and E. Witten. Superstring Theory. Vol. 1, Introduction. Cambridge Monographs on Mathematical Physics. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357524.
+Superstring Theory. Vol. 2, Loop Amplitutes, Anomalies and Phenomenology. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357531.
+Green, M., John H. Schwarz, and E. Witten. Superstring Theory. Vol. 1, Introduction. Cambridge Monographs on Mathematical Physics. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357524.E. WittenISBN 9780521357524Superstring Theory. Vol. 2, Loop Amplitutes, Anomalies and Phenomenology. Cambridge, UK: Cambridge University Press, 1988. ISBN 9780521357531.ISBN 9780521357531References[edit]References[edit][edit]
+
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)
+^ a b c Michael Green at the Mathematics Genealogy Project
+^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. 
+^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. 
+^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. 
+^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. 
+^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.
+^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. 
+^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. 
+^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. 
+^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. 
+^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. 
+^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. 
+
+
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)
+^ a b c Michael Green at the Mathematics Genealogy Project
+^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. 
+^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. 
+^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. 
+^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. 
+^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.
+^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. 
+^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. 
+^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. 
+^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. 
+^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. 
+^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. 
+^ a b c d e f "GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)^ a b c d e faaaabbbbccccddddeeeeffff"GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press. (subscription required)"GREEN, Prof. Michael Boris". Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press."GREEN, Prof. Michael Boris"Who's Who 2013, A & C Black, an imprint of Bloomsbury Publishing plc, 2013; online edn, Oxford University Press  (subscription required)^ a b c Michael Green at the Mathematics Genealogy Project^ a b caaaabbbbccccMichael Green at the Mathematics Genealogy ProjectMichael GreenMathematics Genealogy Project^ Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. ^^^Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5. Green, M. B.; Schwarz, J. H. (1984). "Covariant description of superstrings". Physics Letters B 136 (5–6): 367. Bibcode:1984PhLB..136..367G. doi:10.1016/0370-2693(84)92021-5.Physics Letters B136Bibcode1984PhLB..136..367Gdoi10.1016/0370-2693(84)92021-5  ^ a b c d "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. ^ a b c daaaabbbbccccdddd"Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013. "Green, Michael Boris: Library and Archive Catalogue". London: The Royal Society. Retrieved 11 November 2013."Green, Michael Boris: Library and Archive Catalogue". Retrieved 11 November 201311 November  ^ a b Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. ^ a baaaabbbbHenderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009. Henderson, Mark (20 October 2009). "Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Times Online. Retrieved 20 October 2009."Stephen Hawking's successor as Lucasian Professor of Mathematics: Michael Green". Retrieved 20 October 200920 October  ^ a b "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. ^ a baaaabbbb"Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009. "Michael Green elected 18th Lucasian Professor at the University of Cambridge". University of Cambridge. 20 October 2009. Retrieved 20 October 2009."Michael Green elected 18th Lucasian Professor at the University of Cambridge". Retrieved 20 October 200920 October  ^ a b Michael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.^ a baaaabbbbMichael Green's publications indexed by the Scopus bibliographic database, a service provided by Elsevier.Michael Green's publicationsScopusElsevier^ Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. ^^^Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge. Green, Michael Boris (1970). Crossing symmetry and duality in strong interactions (PhD thesis). University of Cambridge.Crossing symmetry and duality in strong interactionsCrossing symmetry and duality in strong interactions  ^ "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. ^^^"Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009. "Dirac Medal 1989 Presentation Ceremony Leaflet" (pdf). April 1990. Retrieved 20 October 2009."Dirac Medal 1989 Presentation Ceremony Leaflet"(pdf). Retrieved 20 October 200920 October  ^ Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. ^^^Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X. Green, M. B.; Schwarz, J. H. (1984). "Anomaly cancellations in supersymmetric D = 10 gauge theory and superstring theory". Physics Letters B 149: 117. Bibcode:1984PhLB..149..117G. doi:10.1016/0370-2693(84)91565-X.Schwarz, J. H.Physics Letters B149Bibcode1984PhLB..149..117Gdoi10.1016/0370-2693(84)91565-X  ^ Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. ^^^Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008. Green, M. B.; Harvey, J. A.; Moore, G. (1997). "I-brane inflow and anomalous couplings on D-branes". Classical and Quantum Gravity 14: 47. doi:10.1088/0264-9381/14/1/008.Classical and Quantum Gravity14doi10.1088/0264-9381/14/1/008  ^ Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. ^^^Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1. Green, M. B.; Gutperle, M. (1997). "Effects of D-instantons". Nuclear Physics B 498: 195. doi:10.1016/S0550-3213(97)00269-1.Nuclear Physics B498doi10.1016/S0550-3213(97)00269-1  ^ "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. ^^^"Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009. "Michael Green Bibliography listing". Stanford University: Spires High Energy Physics database. Retrieved 22 October 2009."Michael Green Bibliography listing"Spires High Energy Physics. Retrieved 22 October 200922 October  External links[edit]External links[edit][edit]
+[ Institute of physics page]
+[ Institute of physics page]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+
+
+v
+t
+e
+
+
+Lucasian Professors of Mathematics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeLucasian Professors of MathematicsLucasian Professors of Mathematics
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+
+
+Isaac Barrow (1664)
+Isaac Newton (1669)
+William Whiston (1702)
+Nicholas Saunderson (1711)
+John Colson (1739)
+Edward Waring (1760)
+Isaac Milner (1798)
+Robert Woodhouse (1820)
+Thomas Turton (1822)
+George Biddell Airy (1826)
+Charles Babbage (1828)
+Joshua King (1839)
+George Stokes (1849)
+Joseph Larmor (1903)
+Paul Dirac (1932)
+James Lighthill (1969)
+Stephen Hawking (1979)
+Michael Green (2009)
+Michael Cates (2015)
+Isaac Barrow (1664)Isaac Barrow(1664)Isaac Newton (1669)Isaac Newton(1669)William Whiston (1702)William Whiston(1702)Nicholas Saunderson (1711)Nicholas Saunderson(1711)John Colson (1739)John Colson(1739)Edward Waring (1760)Edward Waring(1760)Isaac Milner (1798)Isaac Milner(1798)Robert Woodhouse (1820)Robert Woodhouse(1820)Thomas Turton (1822)Thomas Turton(1822)George Biddell Airy (1826)George Biddell Airy(1826)Charles Babbage (1828)Charles Babbage(1828)Joshua King (1839)Joshua King(1839)George Stokes (1849)George Stokes(1849)Joseph Larmor (1903)Joseph Larmor(1903)Paul Dirac (1932)Paul Dirac(1932)James Lighthill (1969)James Lighthill(1969)Stephen Hawking (1979)Stephen Hawking(1979)Michael Green (2009)Michael Green(2009)Michael Cates (2015)Michael Cates(2015)
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+
+
+WorldCat Identities
+VIAF: 17284915
+LCCN: n85346191
+SUDOC: 03167433X
+BNF: cb12284460c (data)
+MGP: 103689
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 17284915VIAF1728491517284915LCCN: n85346191LCCNn85346191n85346191SUDOC: 03167433XSUDOC03167433X03167433XBNF: cb12284460c (data)BNFcb12284460c (data)cb12284460c(data)MGP: 103689MGP103689103689
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Michael_Green_(physicist)&oldid=707375625"					https://en.wikipedia.org/w/index.php?title=Michael_Green_(physicist)&oldid=707375625Categories: 1946 birthsPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeEnglish JewsEnglish physicistsFellows of the Royal SocietyFellows of Clare Hall, CambridgeJewish scientistsLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsLucasian Professors of MathematicsMaxwell Medal and Prize recipientsHidden categories: Pages containing links to subscription-only contentEngvarB from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersCategories: 1946 birthsPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeEnglish JewsEnglish physicistsFellows of the Royal SocietyFellows of Clare Hall, CambridgeJewish scientistsLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsLucasian Professors of MathematicsMaxwell Medal and Prize recipientsCategories1946 birthsPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeEnglish JewsEnglish physicistsFellows of the Royal SocietyFellows of Clare Hall, CambridgeJewish scientistsLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsLucasian Professors of MathematicsMaxwell Medal and Prize recipients1946 births1946 birthsPeople educated at William Ellis SchoolPeople educated at William Ellis SchoolAcademics of Queen Mary University of LondonAcademics of Queen Mary University of LondonAlumni of Churchill College, CambridgeAlumni of Churchill College, CambridgeEnglish JewsEnglish JewsEnglish physicistsEnglish physicistsFellows of the Royal SocietyFellows of the Royal SocietyFellows of Clare Hall, CambridgeFellows of Clare Hall, CambridgeJewish scientistsJewish scientistsLiving peopleLiving peopleMembers of the Department of Applied Mathematics and Theoretical PhysicsMembers of the Department of Applied Mathematics and Theoretical PhysicsString theoristsString theoristsLucasian Professors of MathematicsLucasian Professors of MathematicsMaxwell Medal and Prize recipientsMaxwell Medal and Prize recipientsHidden categories: Pages containing links to subscription-only contentEngvarB from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersPages containing links to subscription-only contentEngvarB from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersPages containing links to subscription-only contentPages containing links to subscription-only contentEngvarB from July 2014EngvarB from July 2014Use dmy dates from July 2014Use dmy dates from July 2014Wikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БългарскиCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийTürkçe中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БългарскиCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийTürkçe中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+БългарскиCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийTürkçe中文 
+Edit links 
+Languages
+
+БългарскиCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийTürkçe中文 
+Edit links 
+БългарскиCatalàDeutschEspañolفارسیFrançais한국어日本語PortuguêsРусскийTürkçe中文 БългарскиБългарскиCatalàCatalàDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançais한국어한국어日本語日本語PortuguêsPortuguêsРусскийРусскийTürkçeTürkçe中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 28 February 2016, at 14:14.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 28 February 2016, at 14:14.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 28 February 2016, at 14:14.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

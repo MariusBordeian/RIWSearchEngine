@@ -1,0 +1,7563 @@
+Supergravity - Wikipedia, the free encyclopedia
+
+
+
+
+Supergravity
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+
+Beyond the Standard Model
+
+
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+
+
+
+Standard Model
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, supergravity (supergravity theory; SUGRA for short) is a field theory that combines the principles of supersymmetry and general relativity. Together, these imply that, in supergravity, the supersymmetry is a local symmetry (in contrast to non-gravitational supersymmetric theories, such as the Minimal Supersymmetric Standard Model). Since the generators of supersymmetry (SUSY) are convoluted with the Poincaré group to form a super-Poincaré algebra, it can be seen that supergravity follows naturally from supersymmetry.[1] All traditional literature on supergravity is generally written in terms of Cartan connections.[2]
+
+
+
+Contents
+
+
+1 Gravitons
+2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+
+3 Relation to superstrings
+4 4D N = 1 SUGRA
+5 N = 8 supergravity in 4 dimensions
+6 Higher-dimensional SUGRA
+7 See also
+8 Notes
+9 References
+
+9.1 Historical
+9.2 General
+
+
+
+
+
+Gravitons[edit]
+Like any field theory of gravity, a supergravity theory contains a spin-2 field whose quantum is the graviton. Supersymmetry requires the graviton field to have a superpartner. This field has spin 3/2 and its quantum is the gravitino. The number of gravitino fields is equal to the number of supersymmetries.
+History[edit]
+Gauge supersymmetry[edit]
+The first theory[3] of local supersymmetry was proposed in 1975 by Dick Arnowitt and Pran Nath and was called gauge supersymmetry.
+SUGRA[edit]
+SUGRA, or supergravity, was discovered in 1976 by Dan Freedman, Sergio Ferrara and Peter van Nieuwenhuizen,[4] but was quickly generalized to many different theories in various numbers of dimensions and additional (N) supersymmetry charges. Supergravity theories with N>1 are usually referred to as extended supergravity (SUEGRA). Some supergravity theories were shown to be equivalent to certain higher-dimensional supergravity theories via dimensional reduction (e.g. N = 1 11-dimensional supergravity is dimensionally reduced on S7 to N = 8, d = 4 SUGRA). The resulting theories were sometimes referred to as Kaluza–Klein theories as Kaluza and Klein constructed in 1919 a 5-dimensional gravitational theory, that when dimensionally reduced on circle, its 4-dimensional non-massive modes describe electromagnetism coupled to gravity.
+mSUGRA[edit]
+mSUGRA means minimal SUper GRAvity. The construction of a realistic model of particle interactions within the N = 1 supergravity framework where supersymmetry (SUSY) is broken by a super Higgs mechanism was carried out by Ali Chamseddine, Richard Arnowitt and Pran Nath in 1982. In these classes of models collectively now known as minimal supergravity Grand Unification Theories (mSUGRA GUT), gravity mediates the breaking of SUSY through the existence of a hidden sector. mSUGRA naturally generates the Soft SUSY breaking terms which are a consequence of the Super Higgs effect. Radiative breaking of electroweak symmetry through Renormalization Group Equations (RGEs) follows as an immediate consequence. mSUGRA is one of the most widely investigated models of particle physics due to its predictive power—requiring only four input parameters and a sign to determine the low energy phenomenology from the scale of Grand Unification.
+See also: Gravity-Mediated Supersymmetry Breaking in the MSSM
+11d: the maximal SUGRA[edit]
+One of these supergravities, the 11-dimensional theory, generated considerable excitement as the first potential candidate for the theory of everything. This excitement was built on four pillars, two of which have now been largely discredited:
+
+Werner Nahm showed[5] that 11 dimensions was the largest number of dimensions consistent with a single graviton, and that a theory with more dimensions would also have particles with spins greater than 2. These problems are avoided in 12 dimensions if two of these dimensions are timelike, as has been often emphasized by Itzhak Bars[citation needed].
+In 1981, Ed Witten showed[6] that 11 was the smallest number of dimensions that was big enough to contain the gauge groups of the Standard Model, namely SU(3) for the strong interactions and SU(2) times U(1) for the electroweak interactions.[citation needed] Today many techniques exist to embed the standard model gauge group in supergravity in any number of dimensions. For example, in the mid and late 1980s, the obligatory gauge symmetry in type I and heterotic string theories was often used. In type II string theory they could also be obtained by compactifying on certain Calabi–Yau manifolds. Today one may also use D-branes to engineer gauge symmetries.
+In 1978, Eugène Cremmer, Bernard Julia and Joël Scherk (CJS) found[7] the classical action for an 11-dimensional supergravity theory. This remains today the only known classical 11-dimensional theory with local supersymmetry and no fields of spin higher than two[citation needed]. Other 11-dimensional theories are known that are quantum-mechanically inequivalent to the CJS theory, but classically equivalent (that is, they reduce to the CJS theory when one imposes the classical equations of motion). For example, in the mid 1980s Bernard de Wit and Hermann Nicolai found an alternate theory in D=11 Supergravity with Local SU(8) Invariance. This theory, while not manifestly Lorentz-invariant, is in many ways superior to the CJS theory in that, for example, it dimensionally-reduces to the 4-dimensional theory without recourse to the classical equations of motion.
+
+
+In 1980, Peter Freund and M. A. Rubin showed that compactification from 11 dimensions preserving all the SUSY generators could occur in two ways, leaving only 4 or 7 macroscopic dimensions (the other 7 or 4 being compact).[8] Unfortunately, the noncompact dimensions have to form an anti-de Sitter space. Today it is understood that there are many possible compactifications, but that the Freund-Rubin compactifications are invariant under all of the supersymmetry transformations that preserve the action.
+
+Thus, the first two results appeared to establish 11 dimensions uniquely, the third result appeared to specify the theory, and the last result explained why the observed universe appears to be four-dimensional.
+Many of the details of the theory were fleshed out by Peter van Nieuwenhuizen, Sergio Ferrara and Daniel Z. Freedman.
+The end of the SUGRA era[edit]
+The initial excitement over 11-dimensional supergravity soon waned, as various failings were discovered, and attempts to repair the model failed as well. Problems included:
+
+The compact manifolds which were known at the time and which contained the standard model were not compatible with supersymmetry, and could not hold quarks or leptons. One suggestion was to replace the compact dimensions with the 7-sphere, with the symmetry group SO(8), or the squashed 7-sphere, with symmetry group SO(5) times SU(2).
+Until recently, the physical neutrinos seen in experiments were believed to be massless, and appeared to be left-handed, a phenomenon referred to as the chirality of the Standard Model. It was very difficult to construct a chiral fermion from a compactification — the compactified manifold needed to have singularities, but physics near singularities did not begin to be understood until the advent of orbifold conformal field theories in the late 1980s.
+Supergravity models generically result in an unrealistically large cosmological constant in four dimensions, and that constant is difficult to remove, and so require fine-tuning. This is still a problem today.
+Quantization of the theory led to quantum field theory gauge anomalies rendering the theory inconsistent. In the intervening years physicists have learned how to cancel these anomalies.
+
+Some of these difficulties could be avoided by moving to a 10-dimensional theory involving superstrings. However, by moving to 10 dimensions one loses the sense of uniqueness of the 11-dimensional theory.
+The core breakthrough for the 10-dimensional theory, known as the first superstring revolution, was a demonstration by Michael B. Green, John H. Schwarz and David Gross that there are only three supergravity models in 10 dimensions which have gauge symmetries and in which all of the gauge and gravitational anomalies cancel. These were theories built on the groups SO(32) and , the direct product of two copies of E8. Today we know that, using D-branes for example, gauge symmetries can be introduced in other 10-dimensional theories as well.[9]
+The second superstring revolution[edit]
+Initial excitement about the 10-dimensional theories, and the string theories that provide their quantum completion, died by the end of the 1980s. There were too many Calabi–Yaus to compactify on, many more than Yau had estimated, as he admitted in December 2005 at the 23rd International Solvay Conference in Physics. None quite gave the standard model, but it seemed as though one could get close with enough effort in many distinct ways. Plus no one understood the theory beyond the regime of applicability of string perturbation theory.
+There was a comparatively quiet period at the beginning of the 1990s; however, several important tools were developed. For example, it became apparent that the various superstring theories were related by "string dualities", some of which relate weak string-coupling (i.e. perturbative) physics in one model with strong string-coupling (i.e. non-perturbative) in another.
+Then it all changed, in what is known as the second superstring revolution. Joseph Polchinski realized that obscure string theory objects, called D-branes, which he had discovered six years earlier, are stringy versions of the p-branes that were known in supergravity theories. The treatment of these p-branes was not restricted by string perturbation theory; in fact, thanks to supersymmetry, p-branes in supergravity were understood well beyond the limits in which string theory was understood.
+Armed with this new nonperturbative tool, Edward Witten and many others were able to show that all of the perturbative string theories were descriptions of different states in a single theory which Witten named M-theory. Furthermore, he argued that M-theory's long wavelength limit (i.e. when the quantum wavelength associated to objects in the theory are much larger than the size of the 11th dimension) should be described by the 11-dimensional supergravity that had fallen out of favor with the first superstring revolution 10 years earlier, accompanied by the 2- and 5-branes.
+Historically, then, supergravity has come "full circle". It is a commonly used framework in understanding features of string theories, M-theory and their compactifications to lower spacetime dimensions.
+Relation to superstrings[edit]
+Particular 10-dimensional supergravity theories are considered "low energy limits" of the 10-dimensional superstring theories; more precisely, these arise as the massless, tree-level approximation of string theories. True effective field theories of string theories, rather than truncations, are rarely available. Due to string dualities, the conjectured 11-dimensional M-theory is required to have 11-dimensional supergravity as a "low energy limit". However, this doesn't necessarily mean that string theory/M-theory is the only possible UV completion of supergravity;[citation needed] supergravity research is useful independent of those relations.
+4D N = 1 SUGRA[edit]
+Before we move on to SUGRA proper, let's recapitulate some important details about general relativity. We have a 4D differentiable manifold M with a Spin(3,1) principal bundle over it. This principal bundle represents the local Lorentz symmetry. In addition, we have a vector bundle T over the manifold with the fiber having four real dimensions and transforming as a vector under Spin(3,1). We have an invertible linear map from the tangent bundle TM to T. This map is the vierbein. The local Lorentz symmetry has a gauge connection associated with it, the spin connection.
+The following discussion will be in superspace notation, as opposed to the component notation, which isn't manifestly covariant under SUSY. There are actually many different versions of SUGRA out there which are inequivalent in the sense that their actions and constraints upon the torsion tensor are different, but ultimately equivalent in that we can always perform a field redefinition of the supervierbeins and spin connection to get from one version to another.
+In 4D N=1 SUGRA, we have a 4|4 real differentiable supermanifold M, i.e. we have 4 real bosonic dimensions and 4 real fermionic dimensions. As in the nonsupersymmetric case, we have a Spin(3,1) principal bundle over M. We have an R4|4 vector bundle T over M. The fiber of T transforms under the local Lorentz group as follows; the four real bosonic dimensions transform as a vector and the four real fermionic dimensions transform as a Majorana spinor. This Majorana spinor can be reexpressed as a complex left-handed Weyl spinor and its complex conjugate right-handed Weyl spinor (they're not independent of each other). We also have a spin connection as before.
+We will use the following conventions; the spatial (both bosonic and fermionic) indices will be indicated by M, N, ... . The bosonic spatial indices will be indicated by μ, ν, ..., the left-handed Weyl spatial indices by α, β,..., and the right-handed Weyl spatial indices by , , ... . The indices for the fiber of T will follow a similar notation, except that they will be hatted like this: . See van der Waerden notation for more details. . The supervierbein is denoted by , and the spin connection by . The inverse supervierbein is denoted by .
+The supervierbein and spin connection are real in the sense that they satisfy the reality conditions
+
+ where , , and  and .
+
+The covariant derivative is defined as
+
+.
+
+The covariant exterior derivative as defined over supermanifolds needs to be super graded. This means that every time we interchange two fermionic indices, we pick up a +1 sign factor, instead of -1.
+The presence or absence of R symmetries is optional, but if R-symmetry exists, the integrand over the full superspace has to have an R-charge of 0 and the integrand over chiral superspace has to have an R-charge of 2.
+A chiral superfield X is a superfield which satisfies . In order for this constraint to be consistent, we require the integrability conditions that  for some coefficients c.
+Unlike nonSUSY GR, the torsion has to be nonzero, at least with respect to the fermionic directions. Already, even in flat superspace, . In one version of SUGRA (but certainly not the only one), we have the following constraints upon the torsion tensor:
+
+
+
+
+
+
+
+
+Here,  is a shorthand notation to mean the index runs over either the left or right Weyl spinors.
+The superdeterminant of the supervierbein, , gives us the volume factor for M. Equivalently, we have the volume 4|4-superform.
+If we complexify the superdiffeomorphisms, there is a gauge where ,  and . The resulting chiral superspace has the coordinates x and Θ.
+R is a scalar valued chiral superfield derivable from the supervielbeins and spin connection. If f is any superfield,  is always a chiral superfield.
+The action for a SUGRA theory with chiral superfields X, is given by
+
+
+
+where K is the Kähler potential and W is the superpotential, and  is the chiral volume factor.
+Unlike the case for flat superspace, adding a constant to either the Kähler or superpotential is now physical. A constant shift to the Kähler potential changes the effective Planck constant, while a constant shift to the superpotential changes the effective cosmological constant. As the effective Planck constant now depends upon the value of the chiral superfield X, we need to rescale the supervierbeins (a field redefinition) to get a constant Planck constant. This is called the Einstein frame.
+N = 8 supergravity in 4 dimensions[edit]
+N=8 Supergravity is the most symmetric quantum field theory which involves gravity and a finite number of fields. It can be found from a dimensional reduction of 11D supergravity by making the size of 7 of the dimensions go to zero. It has 8 supersymmetries which is the most any gravitational theory can have since there are 8 half-steps between spin 2 and spin -2. (A graviton has the highest spin in this theory which is a spin 2 particle). More supersymmetries would mean the particles would have superpartners with spins higher than 2. The only theories with spins higher than 2 which are consistent involve an infinite number of particles (such as String Theory and Higher-Spin Theories). Stephen Hawking in his A Brief History of Time speculated that this theory could be the Theory of Everything. However, in later years this was abandoned in favour of String Theory. There has been renewed interest in the 21st century with the possibility that this theory may be finite.
+Higher-dimensional SUGRA[edit]
+Main article: Higher-dimensional supergravity
+Higher-dimensional SUGRA is the higher-dimensional, supersymmetric generalization of general relativity. Supergravity can be formulated in any number of dimensions up to eleven. Higher-dimensional SUGRA focuses upon supergravity in greater than four dimensions.
+The number of supercharges in a spinor depends on the dimension and the signature of spacetime. The supercharges occur in spinors. Thus the limit on the number of supercharges cannot be satisfied in a spacetime of arbitrary dimension. Some theoretical examples in which this is satisfied are:
+
+12-dimensional two-time theory
+11-dimensional maximal SUGRA
+10-dimensional SUGRA theories
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+
+
+9d SUGRA theories
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+
+
+
+The supergravity theories that have attracted the most interest contain no spins higher than two. This means, in particular, that they do not contain any fields that transform as symmetric tensors of rank higher than two under Lorentz transformations. The consistency of interacting higher spin field theories is, however, presently a field of very active interest.
+See also[edit]
+
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+
+
+Notes[edit]
+
+
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)
+^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. 
+^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177
+^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3
+^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3
+^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,
+^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. 
+^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. 
+
+
+References[edit]
+Historical[edit]
+
+P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B '56 (1975) 177.
+D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409–412. scanned version
+P. Freund and M. Rubin, "Dynamics of dimensional reduction", Physics Letters B97 (1980) pp 233–235.
+Ali H. Chamseddine, R. Arnowitt, Pran Nath, "Locally Supersymmetric Grand Unification", " Phys. Rev.Lett.49:970,1982"
+Michael B. Green, John H. Schwarz, "Anomaly Cancellation in Supersymmetric D=10 Gauge Theory and Superstring Theory", Physics Letters B149 (1984) pp117–122.
+
+General[edit]
+
+Bernard de Wit(2002) Supergravity
+A Supersymmetry Primer (1998); updated in (2006).
+Adel Bilal, Introduction to supersymmetry (2001) ArXiv hep-th/0101055, (a comprehensive introduction to supersymmetry).
+Friedemann Brandt, Lectures on supergravity (2002) ArXiv hep-th/0204035, (an introduction to 4-dimensional N = 1 supergravity).
+Wess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Supergravity&oldid=709480809"					
+Categories: Theories of gravitationSupersymmetryPhysics beyond the Standard ModelHidden categories: Articles lacking in-text citations from December 2009All articles lacking in-text citationsArticles needing expert attention from November 2012All articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2013Wikipedia articles with GND identifiers 
+
+
+Supergravity
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+
+Beyond the Standard Model
+
+
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+
+
+
+Standard Model
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, supergravity (supergravity theory; SUGRA for short) is a field theory that combines the principles of supersymmetry and general relativity. Together, these imply that, in supergravity, the supersymmetry is a local symmetry (in contrast to non-gravitational supersymmetric theories, such as the Minimal Supersymmetric Standard Model). Since the generators of supersymmetry (SUSY) are convoluted with the Poincaré group to form a super-Poincaré algebra, it can be seen that supergravity follows naturally from supersymmetry.[1] All traditional literature on supergravity is generally written in terms of Cartan connections.[2]
+
+
+
+Contents
+
+
+1 Gravitons
+2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+
+3 Relation to superstrings
+4 4D N = 1 SUGRA
+5 N = 8 supergravity in 4 dimensions
+6 Higher-dimensional SUGRA
+7 See also
+8 Notes
+9 References
+
+9.1 Historical
+9.2 General
+
+
+
+
+
+Gravitons[edit]
+Like any field theory of gravity, a supergravity theory contains a spin-2 field whose quantum is the graviton. Supersymmetry requires the graviton field to have a superpartner. This field has spin 3/2 and its quantum is the gravitino. The number of gravitino fields is equal to the number of supersymmetries.
+History[edit]
+Gauge supersymmetry[edit]
+The first theory[3] of local supersymmetry was proposed in 1975 by Dick Arnowitt and Pran Nath and was called gauge supersymmetry.
+SUGRA[edit]
+SUGRA, or supergravity, was discovered in 1976 by Dan Freedman, Sergio Ferrara and Peter van Nieuwenhuizen,[4] but was quickly generalized to many different theories in various numbers of dimensions and additional (N) supersymmetry charges. Supergravity theories with N>1 are usually referred to as extended supergravity (SUEGRA). Some supergravity theories were shown to be equivalent to certain higher-dimensional supergravity theories via dimensional reduction (e.g. N = 1 11-dimensional supergravity is dimensionally reduced on S7 to N = 8, d = 4 SUGRA). The resulting theories were sometimes referred to as Kaluza–Klein theories as Kaluza and Klein constructed in 1919 a 5-dimensional gravitational theory, that when dimensionally reduced on circle, its 4-dimensional non-massive modes describe electromagnetism coupled to gravity.
+mSUGRA[edit]
+mSUGRA means minimal SUper GRAvity. The construction of a realistic model of particle interactions within the N = 1 supergravity framework where supersymmetry (SUSY) is broken by a super Higgs mechanism was carried out by Ali Chamseddine, Richard Arnowitt and Pran Nath in 1982. In these classes of models collectively now known as minimal supergravity Grand Unification Theories (mSUGRA GUT), gravity mediates the breaking of SUSY through the existence of a hidden sector. mSUGRA naturally generates the Soft SUSY breaking terms which are a consequence of the Super Higgs effect. Radiative breaking of electroweak symmetry through Renormalization Group Equations (RGEs) follows as an immediate consequence. mSUGRA is one of the most widely investigated models of particle physics due to its predictive power—requiring only four input parameters and a sign to determine the low energy phenomenology from the scale of Grand Unification.
+See also: Gravity-Mediated Supersymmetry Breaking in the MSSM
+11d: the maximal SUGRA[edit]
+One of these supergravities, the 11-dimensional theory, generated considerable excitement as the first potential candidate for the theory of everything. This excitement was built on four pillars, two of which have now been largely discredited:
+
+Werner Nahm showed[5] that 11 dimensions was the largest number of dimensions consistent with a single graviton, and that a theory with more dimensions would also have particles with spins greater than 2. These problems are avoided in 12 dimensions if two of these dimensions are timelike, as has been often emphasized by Itzhak Bars[citation needed].
+In 1981, Ed Witten showed[6] that 11 was the smallest number of dimensions that was big enough to contain the gauge groups of the Standard Model, namely SU(3) for the strong interactions and SU(2) times U(1) for the electroweak interactions.[citation needed] Today many techniques exist to embed the standard model gauge group in supergravity in any number of dimensions. For example, in the mid and late 1980s, the obligatory gauge symmetry in type I and heterotic string theories was often used. In type II string theory they could also be obtained by compactifying on certain Calabi–Yau manifolds. Today one may also use D-branes to engineer gauge symmetries.
+In 1978, Eugène Cremmer, Bernard Julia and Joël Scherk (CJS) found[7] the classical action for an 11-dimensional supergravity theory. This remains today the only known classical 11-dimensional theory with local supersymmetry and no fields of spin higher than two[citation needed]. Other 11-dimensional theories are known that are quantum-mechanically inequivalent to the CJS theory, but classically equivalent (that is, they reduce to the CJS theory when one imposes the classical equations of motion). For example, in the mid 1980s Bernard de Wit and Hermann Nicolai found an alternate theory in D=11 Supergravity with Local SU(8) Invariance. This theory, while not manifestly Lorentz-invariant, is in many ways superior to the CJS theory in that, for example, it dimensionally-reduces to the 4-dimensional theory without recourse to the classical equations of motion.
+
+
+In 1980, Peter Freund and M. A. Rubin showed that compactification from 11 dimensions preserving all the SUSY generators could occur in two ways, leaving only 4 or 7 macroscopic dimensions (the other 7 or 4 being compact).[8] Unfortunately, the noncompact dimensions have to form an anti-de Sitter space. Today it is understood that there are many possible compactifications, but that the Freund-Rubin compactifications are invariant under all of the supersymmetry transformations that preserve the action.
+
+Thus, the first two results appeared to establish 11 dimensions uniquely, the third result appeared to specify the theory, and the last result explained why the observed universe appears to be four-dimensional.
+Many of the details of the theory were fleshed out by Peter van Nieuwenhuizen, Sergio Ferrara and Daniel Z. Freedman.
+The end of the SUGRA era[edit]
+The initial excitement over 11-dimensional supergravity soon waned, as various failings were discovered, and attempts to repair the model failed as well. Problems included:
+
+The compact manifolds which were known at the time and which contained the standard model were not compatible with supersymmetry, and could not hold quarks or leptons. One suggestion was to replace the compact dimensions with the 7-sphere, with the symmetry group SO(8), or the squashed 7-sphere, with symmetry group SO(5) times SU(2).
+Until recently, the physical neutrinos seen in experiments were believed to be massless, and appeared to be left-handed, a phenomenon referred to as the chirality of the Standard Model. It was very difficult to construct a chiral fermion from a compactification — the compactified manifold needed to have singularities, but physics near singularities did not begin to be understood until the advent of orbifold conformal field theories in the late 1980s.
+Supergravity models generically result in an unrealistically large cosmological constant in four dimensions, and that constant is difficult to remove, and so require fine-tuning. This is still a problem today.
+Quantization of the theory led to quantum field theory gauge anomalies rendering the theory inconsistent. In the intervening years physicists have learned how to cancel these anomalies.
+
+Some of these difficulties could be avoided by moving to a 10-dimensional theory involving superstrings. However, by moving to 10 dimensions one loses the sense of uniqueness of the 11-dimensional theory.
+The core breakthrough for the 10-dimensional theory, known as the first superstring revolution, was a demonstration by Michael B. Green, John H. Schwarz and David Gross that there are only three supergravity models in 10 dimensions which have gauge symmetries and in which all of the gauge and gravitational anomalies cancel. These were theories built on the groups SO(32) and , the direct product of two copies of E8. Today we know that, using D-branes for example, gauge symmetries can be introduced in other 10-dimensional theories as well.[9]
+The second superstring revolution[edit]
+Initial excitement about the 10-dimensional theories, and the string theories that provide their quantum completion, died by the end of the 1980s. There were too many Calabi–Yaus to compactify on, many more than Yau had estimated, as he admitted in December 2005 at the 23rd International Solvay Conference in Physics. None quite gave the standard model, but it seemed as though one could get close with enough effort in many distinct ways. Plus no one understood the theory beyond the regime of applicability of string perturbation theory.
+There was a comparatively quiet period at the beginning of the 1990s; however, several important tools were developed. For example, it became apparent that the various superstring theories were related by "string dualities", some of which relate weak string-coupling (i.e. perturbative) physics in one model with strong string-coupling (i.e. non-perturbative) in another.
+Then it all changed, in what is known as the second superstring revolution. Joseph Polchinski realized that obscure string theory objects, called D-branes, which he had discovered six years earlier, are stringy versions of the p-branes that were known in supergravity theories. The treatment of these p-branes was not restricted by string perturbation theory; in fact, thanks to supersymmetry, p-branes in supergravity were understood well beyond the limits in which string theory was understood.
+Armed with this new nonperturbative tool, Edward Witten and many others were able to show that all of the perturbative string theories were descriptions of different states in a single theory which Witten named M-theory. Furthermore, he argued that M-theory's long wavelength limit (i.e. when the quantum wavelength associated to objects in the theory are much larger than the size of the 11th dimension) should be described by the 11-dimensional supergravity that had fallen out of favor with the first superstring revolution 10 years earlier, accompanied by the 2- and 5-branes.
+Historically, then, supergravity has come "full circle". It is a commonly used framework in understanding features of string theories, M-theory and their compactifications to lower spacetime dimensions.
+Relation to superstrings[edit]
+Particular 10-dimensional supergravity theories are considered "low energy limits" of the 10-dimensional superstring theories; more precisely, these arise as the massless, tree-level approximation of string theories. True effective field theories of string theories, rather than truncations, are rarely available. Due to string dualities, the conjectured 11-dimensional M-theory is required to have 11-dimensional supergravity as a "low energy limit". However, this doesn't necessarily mean that string theory/M-theory is the only possible UV completion of supergravity;[citation needed] supergravity research is useful independent of those relations.
+4D N = 1 SUGRA[edit]
+Before we move on to SUGRA proper, let's recapitulate some important details about general relativity. We have a 4D differentiable manifold M with a Spin(3,1) principal bundle over it. This principal bundle represents the local Lorentz symmetry. In addition, we have a vector bundle T over the manifold with the fiber having four real dimensions and transforming as a vector under Spin(3,1). We have an invertible linear map from the tangent bundle TM to T. This map is the vierbein. The local Lorentz symmetry has a gauge connection associated with it, the spin connection.
+The following discussion will be in superspace notation, as opposed to the component notation, which isn't manifestly covariant under SUSY. There are actually many different versions of SUGRA out there which are inequivalent in the sense that their actions and constraints upon the torsion tensor are different, but ultimately equivalent in that we can always perform a field redefinition of the supervierbeins and spin connection to get from one version to another.
+In 4D N=1 SUGRA, we have a 4|4 real differentiable supermanifold M, i.e. we have 4 real bosonic dimensions and 4 real fermionic dimensions. As in the nonsupersymmetric case, we have a Spin(3,1) principal bundle over M. We have an R4|4 vector bundle T over M. The fiber of T transforms under the local Lorentz group as follows; the four real bosonic dimensions transform as a vector and the four real fermionic dimensions transform as a Majorana spinor. This Majorana spinor can be reexpressed as a complex left-handed Weyl spinor and its complex conjugate right-handed Weyl spinor (they're not independent of each other). We also have a spin connection as before.
+We will use the following conventions; the spatial (both bosonic and fermionic) indices will be indicated by M, N, ... . The bosonic spatial indices will be indicated by μ, ν, ..., the left-handed Weyl spatial indices by α, β,..., and the right-handed Weyl spatial indices by , , ... . The indices for the fiber of T will follow a similar notation, except that they will be hatted like this: . See van der Waerden notation for more details. . The supervierbein is denoted by , and the spin connection by . The inverse supervierbein is denoted by .
+The supervierbein and spin connection are real in the sense that they satisfy the reality conditions
+
+ where , , and  and .
+
+The covariant derivative is defined as
+
+.
+
+The covariant exterior derivative as defined over supermanifolds needs to be super graded. This means that every time we interchange two fermionic indices, we pick up a +1 sign factor, instead of -1.
+The presence or absence of R symmetries is optional, but if R-symmetry exists, the integrand over the full superspace has to have an R-charge of 0 and the integrand over chiral superspace has to have an R-charge of 2.
+A chiral superfield X is a superfield which satisfies . In order for this constraint to be consistent, we require the integrability conditions that  for some coefficients c.
+Unlike nonSUSY GR, the torsion has to be nonzero, at least with respect to the fermionic directions. Already, even in flat superspace, . In one version of SUGRA (but certainly not the only one), we have the following constraints upon the torsion tensor:
+
+
+
+
+
+
+
+
+Here,  is a shorthand notation to mean the index runs over either the left or right Weyl spinors.
+The superdeterminant of the supervierbein, , gives us the volume factor for M. Equivalently, we have the volume 4|4-superform.
+If we complexify the superdiffeomorphisms, there is a gauge where ,  and . The resulting chiral superspace has the coordinates x and Θ.
+R is a scalar valued chiral superfield derivable from the supervielbeins and spin connection. If f is any superfield,  is always a chiral superfield.
+The action for a SUGRA theory with chiral superfields X, is given by
+
+
+
+where K is the Kähler potential and W is the superpotential, and  is the chiral volume factor.
+Unlike the case for flat superspace, adding a constant to either the Kähler or superpotential is now physical. A constant shift to the Kähler potential changes the effective Planck constant, while a constant shift to the superpotential changes the effective cosmological constant. As the effective Planck constant now depends upon the value of the chiral superfield X, we need to rescale the supervierbeins (a field redefinition) to get a constant Planck constant. This is called the Einstein frame.
+N = 8 supergravity in 4 dimensions[edit]
+N=8 Supergravity is the most symmetric quantum field theory which involves gravity and a finite number of fields. It can be found from a dimensional reduction of 11D supergravity by making the size of 7 of the dimensions go to zero. It has 8 supersymmetries which is the most any gravitational theory can have since there are 8 half-steps between spin 2 and spin -2. (A graviton has the highest spin in this theory which is a spin 2 particle). More supersymmetries would mean the particles would have superpartners with spins higher than 2. The only theories with spins higher than 2 which are consistent involve an infinite number of particles (such as String Theory and Higher-Spin Theories). Stephen Hawking in his A Brief History of Time speculated that this theory could be the Theory of Everything. However, in later years this was abandoned in favour of String Theory. There has been renewed interest in the 21st century with the possibility that this theory may be finite.
+Higher-dimensional SUGRA[edit]
+Main article: Higher-dimensional supergravity
+Higher-dimensional SUGRA is the higher-dimensional, supersymmetric generalization of general relativity. Supergravity can be formulated in any number of dimensions up to eleven. Higher-dimensional SUGRA focuses upon supergravity in greater than four dimensions.
+The number of supercharges in a spinor depends on the dimension and the signature of spacetime. The supercharges occur in spinors. Thus the limit on the number of supercharges cannot be satisfied in a spacetime of arbitrary dimension. Some theoretical examples in which this is satisfied are:
+
+12-dimensional two-time theory
+11-dimensional maximal SUGRA
+10-dimensional SUGRA theories
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+
+
+9d SUGRA theories
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+
+
+
+The supergravity theories that have attracted the most interest contain no spins higher than two. This means, in particular, that they do not contain any fields that transform as symmetric tensors of rank higher than two under Lorentz transformations. The consistency of interacting higher spin field theories is, however, presently a field of very active interest.
+See also[edit]
+
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+
+
+Notes[edit]
+
+
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)
+^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. 
+^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177
+^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3
+^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3
+^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,
+^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. 
+^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. 
+
+
+References[edit]
+Historical[edit]
+
+P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B '56 (1975) 177.
+D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409–412. scanned version
+P. Freund and M. Rubin, "Dynamics of dimensional reduction", Physics Letters B97 (1980) pp 233–235.
+Ali H. Chamseddine, R. Arnowitt, Pran Nath, "Locally Supersymmetric Grand Unification", " Phys. Rev.Lett.49:970,1982"
+Michael B. Green, John H. Schwarz, "Anomaly Cancellation in Supersymmetric D=10 Gauge Theory and Superstring Theory", Physics Letters B149 (1984) pp117–122.
+
+General[edit]
+
+Bernard de Wit(2002) Supergravity
+A Supersymmetry Primer (1998); updated in (2006).
+Adel Bilal, Introduction to supersymmetry (2001) ArXiv hep-th/0101055, (a comprehensive introduction to supersymmetry).
+Friedemann Brandt, Lectures on supergravity (2002) ArXiv hep-th/0204035, (an introduction to 4-dimensional N = 1 supergravity).
+Wess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Supergravity&oldid=709480809"					
+Categories: Theories of gravitationSupersymmetryPhysics beyond the Standard ModelHidden categories: Articles lacking in-text citations from December 2009All articles lacking in-text citationsArticles needing expert attention from November 2012All articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2013Wikipedia articles with GND identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+
+Beyond the Standard Model
+
+
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+
+
+
+Standard Model
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, supergravity (supergravity theory; SUGRA for short) is a field theory that combines the principles of supersymmetry and general relativity. Together, these imply that, in supergravity, the supersymmetry is a local symmetry (in contrast to non-gravitational supersymmetric theories, such as the Minimal Supersymmetric Standard Model). Since the generators of supersymmetry (SUSY) are convoluted with the Poincaré group to form a super-Poincaré algebra, it can be seen that supergravity follows naturally from supersymmetry.[1] All traditional literature on supergravity is generally written in terms of Cartan connections.[2]
+
+
+
+Contents
+
+
+1 Gravitons
+2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+
+3 Relation to superstrings
+4 4D N = 1 SUGRA
+5 N = 8 supergravity in 4 dimensions
+6 Higher-dimensional SUGRA
+7 See also
+8 Notes
+9 References
+
+9.1 Historical
+9.2 General
+
+
+
+
+
+Gravitons[edit]
+Like any field theory of gravity, a supergravity theory contains a spin-2 field whose quantum is the graviton. Supersymmetry requires the graviton field to have a superpartner. This field has spin 3/2 and its quantum is the gravitino. The number of gravitino fields is equal to the number of supersymmetries.
+History[edit]
+Gauge supersymmetry[edit]
+The first theory[3] of local supersymmetry was proposed in 1975 by Dick Arnowitt and Pran Nath and was called gauge supersymmetry.
+SUGRA[edit]
+SUGRA, or supergravity, was discovered in 1976 by Dan Freedman, Sergio Ferrara and Peter van Nieuwenhuizen,[4] but was quickly generalized to many different theories in various numbers of dimensions and additional (N) supersymmetry charges. Supergravity theories with N>1 are usually referred to as extended supergravity (SUEGRA). Some supergravity theories were shown to be equivalent to certain higher-dimensional supergravity theories via dimensional reduction (e.g. N = 1 11-dimensional supergravity is dimensionally reduced on S7 to N = 8, d = 4 SUGRA). The resulting theories were sometimes referred to as Kaluza–Klein theories as Kaluza and Klein constructed in 1919 a 5-dimensional gravitational theory, that when dimensionally reduced on circle, its 4-dimensional non-massive modes describe electromagnetism coupled to gravity.
+mSUGRA[edit]
+mSUGRA means minimal SUper GRAvity. The construction of a realistic model of particle interactions within the N = 1 supergravity framework where supersymmetry (SUSY) is broken by a super Higgs mechanism was carried out by Ali Chamseddine, Richard Arnowitt and Pran Nath in 1982. In these classes of models collectively now known as minimal supergravity Grand Unification Theories (mSUGRA GUT), gravity mediates the breaking of SUSY through the existence of a hidden sector. mSUGRA naturally generates the Soft SUSY breaking terms which are a consequence of the Super Higgs effect. Radiative breaking of electroweak symmetry through Renormalization Group Equations (RGEs) follows as an immediate consequence. mSUGRA is one of the most widely investigated models of particle physics due to its predictive power—requiring only four input parameters and a sign to determine the low energy phenomenology from the scale of Grand Unification.
+See also: Gravity-Mediated Supersymmetry Breaking in the MSSM
+11d: the maximal SUGRA[edit]
+One of these supergravities, the 11-dimensional theory, generated considerable excitement as the first potential candidate for the theory of everything. This excitement was built on four pillars, two of which have now been largely discredited:
+
+Werner Nahm showed[5] that 11 dimensions was the largest number of dimensions consistent with a single graviton, and that a theory with more dimensions would also have particles with spins greater than 2. These problems are avoided in 12 dimensions if two of these dimensions are timelike, as has been often emphasized by Itzhak Bars[citation needed].
+In 1981, Ed Witten showed[6] that 11 was the smallest number of dimensions that was big enough to contain the gauge groups of the Standard Model, namely SU(3) for the strong interactions and SU(2) times U(1) for the electroweak interactions.[citation needed] Today many techniques exist to embed the standard model gauge group in supergravity in any number of dimensions. For example, in the mid and late 1980s, the obligatory gauge symmetry in type I and heterotic string theories was often used. In type II string theory they could also be obtained by compactifying on certain Calabi–Yau manifolds. Today one may also use D-branes to engineer gauge symmetries.
+In 1978, Eugène Cremmer, Bernard Julia and Joël Scherk (CJS) found[7] the classical action for an 11-dimensional supergravity theory. This remains today the only known classical 11-dimensional theory with local supersymmetry and no fields of spin higher than two[citation needed]. Other 11-dimensional theories are known that are quantum-mechanically inequivalent to the CJS theory, but classically equivalent (that is, they reduce to the CJS theory when one imposes the classical equations of motion). For example, in the mid 1980s Bernard de Wit and Hermann Nicolai found an alternate theory in D=11 Supergravity with Local SU(8) Invariance. This theory, while not manifestly Lorentz-invariant, is in many ways superior to the CJS theory in that, for example, it dimensionally-reduces to the 4-dimensional theory without recourse to the classical equations of motion.
+
+
+In 1980, Peter Freund and M. A. Rubin showed that compactification from 11 dimensions preserving all the SUSY generators could occur in two ways, leaving only 4 or 7 macroscopic dimensions (the other 7 or 4 being compact).[8] Unfortunately, the noncompact dimensions have to form an anti-de Sitter space. Today it is understood that there are many possible compactifications, but that the Freund-Rubin compactifications are invariant under all of the supersymmetry transformations that preserve the action.
+
+Thus, the first two results appeared to establish 11 dimensions uniquely, the third result appeared to specify the theory, and the last result explained why the observed universe appears to be four-dimensional.
+Many of the details of the theory were fleshed out by Peter van Nieuwenhuizen, Sergio Ferrara and Daniel Z. Freedman.
+The end of the SUGRA era[edit]
+The initial excitement over 11-dimensional supergravity soon waned, as various failings were discovered, and attempts to repair the model failed as well. Problems included:
+
+The compact manifolds which were known at the time and which contained the standard model were not compatible with supersymmetry, and could not hold quarks or leptons. One suggestion was to replace the compact dimensions with the 7-sphere, with the symmetry group SO(8), or the squashed 7-sphere, with symmetry group SO(5) times SU(2).
+Until recently, the physical neutrinos seen in experiments were believed to be massless, and appeared to be left-handed, a phenomenon referred to as the chirality of the Standard Model. It was very difficult to construct a chiral fermion from a compactification — the compactified manifold needed to have singularities, but physics near singularities did not begin to be understood until the advent of orbifold conformal field theories in the late 1980s.
+Supergravity models generically result in an unrealistically large cosmological constant in four dimensions, and that constant is difficult to remove, and so require fine-tuning. This is still a problem today.
+Quantization of the theory led to quantum field theory gauge anomalies rendering the theory inconsistent. In the intervening years physicists have learned how to cancel these anomalies.
+
+Some of these difficulties could be avoided by moving to a 10-dimensional theory involving superstrings. However, by moving to 10 dimensions one loses the sense of uniqueness of the 11-dimensional theory.
+The core breakthrough for the 10-dimensional theory, known as the first superstring revolution, was a demonstration by Michael B. Green, John H. Schwarz and David Gross that there are only three supergravity models in 10 dimensions which have gauge symmetries and in which all of the gauge and gravitational anomalies cancel. These were theories built on the groups SO(32) and , the direct product of two copies of E8. Today we know that, using D-branes for example, gauge symmetries can be introduced in other 10-dimensional theories as well.[9]
+The second superstring revolution[edit]
+Initial excitement about the 10-dimensional theories, and the string theories that provide their quantum completion, died by the end of the 1980s. There were too many Calabi–Yaus to compactify on, many more than Yau had estimated, as he admitted in December 2005 at the 23rd International Solvay Conference in Physics. None quite gave the standard model, but it seemed as though one could get close with enough effort in many distinct ways. Plus no one understood the theory beyond the regime of applicability of string perturbation theory.
+There was a comparatively quiet period at the beginning of the 1990s; however, several important tools were developed. For example, it became apparent that the various superstring theories were related by "string dualities", some of which relate weak string-coupling (i.e. perturbative) physics in one model with strong string-coupling (i.e. non-perturbative) in another.
+Then it all changed, in what is known as the second superstring revolution. Joseph Polchinski realized that obscure string theory objects, called D-branes, which he had discovered six years earlier, are stringy versions of the p-branes that were known in supergravity theories. The treatment of these p-branes was not restricted by string perturbation theory; in fact, thanks to supersymmetry, p-branes in supergravity were understood well beyond the limits in which string theory was understood.
+Armed with this new nonperturbative tool, Edward Witten and many others were able to show that all of the perturbative string theories were descriptions of different states in a single theory which Witten named M-theory. Furthermore, he argued that M-theory's long wavelength limit (i.e. when the quantum wavelength associated to objects in the theory are much larger than the size of the 11th dimension) should be described by the 11-dimensional supergravity that had fallen out of favor with the first superstring revolution 10 years earlier, accompanied by the 2- and 5-branes.
+Historically, then, supergravity has come "full circle". It is a commonly used framework in understanding features of string theories, M-theory and their compactifications to lower spacetime dimensions.
+Relation to superstrings[edit]
+Particular 10-dimensional supergravity theories are considered "low energy limits" of the 10-dimensional superstring theories; more precisely, these arise as the massless, tree-level approximation of string theories. True effective field theories of string theories, rather than truncations, are rarely available. Due to string dualities, the conjectured 11-dimensional M-theory is required to have 11-dimensional supergravity as a "low energy limit". However, this doesn't necessarily mean that string theory/M-theory is the only possible UV completion of supergravity;[citation needed] supergravity research is useful independent of those relations.
+4D N = 1 SUGRA[edit]
+Before we move on to SUGRA proper, let's recapitulate some important details about general relativity. We have a 4D differentiable manifold M with a Spin(3,1) principal bundle over it. This principal bundle represents the local Lorentz symmetry. In addition, we have a vector bundle T over the manifold with the fiber having four real dimensions and transforming as a vector under Spin(3,1). We have an invertible linear map from the tangent bundle TM to T. This map is the vierbein. The local Lorentz symmetry has a gauge connection associated with it, the spin connection.
+The following discussion will be in superspace notation, as opposed to the component notation, which isn't manifestly covariant under SUSY. There are actually many different versions of SUGRA out there which are inequivalent in the sense that their actions and constraints upon the torsion tensor are different, but ultimately equivalent in that we can always perform a field redefinition of the supervierbeins and spin connection to get from one version to another.
+In 4D N=1 SUGRA, we have a 4|4 real differentiable supermanifold M, i.e. we have 4 real bosonic dimensions and 4 real fermionic dimensions. As in the nonsupersymmetric case, we have a Spin(3,1) principal bundle over M. We have an R4|4 vector bundle T over M. The fiber of T transforms under the local Lorentz group as follows; the four real bosonic dimensions transform as a vector and the four real fermionic dimensions transform as a Majorana spinor. This Majorana spinor can be reexpressed as a complex left-handed Weyl spinor and its complex conjugate right-handed Weyl spinor (they're not independent of each other). We also have a spin connection as before.
+We will use the following conventions; the spatial (both bosonic and fermionic) indices will be indicated by M, N, ... . The bosonic spatial indices will be indicated by μ, ν, ..., the left-handed Weyl spatial indices by α, β,..., and the right-handed Weyl spatial indices by , , ... . The indices for the fiber of T will follow a similar notation, except that they will be hatted like this: . See van der Waerden notation for more details. . The supervierbein is denoted by , and the spin connection by . The inverse supervierbein is denoted by .
+The supervierbein and spin connection are real in the sense that they satisfy the reality conditions
+
+ where , , and  and .
+
+The covariant derivative is defined as
+
+.
+
+The covariant exterior derivative as defined over supermanifolds needs to be super graded. This means that every time we interchange two fermionic indices, we pick up a +1 sign factor, instead of -1.
+The presence or absence of R symmetries is optional, but if R-symmetry exists, the integrand over the full superspace has to have an R-charge of 0 and the integrand over chiral superspace has to have an R-charge of 2.
+A chiral superfield X is a superfield which satisfies . In order for this constraint to be consistent, we require the integrability conditions that  for some coefficients c.
+Unlike nonSUSY GR, the torsion has to be nonzero, at least with respect to the fermionic directions. Already, even in flat superspace, . In one version of SUGRA (but certainly not the only one), we have the following constraints upon the torsion tensor:
+
+
+
+
+
+
+
+
+Here,  is a shorthand notation to mean the index runs over either the left or right Weyl spinors.
+The superdeterminant of the supervierbein, , gives us the volume factor for M. Equivalently, we have the volume 4|4-superform.
+If we complexify the superdiffeomorphisms, there is a gauge where ,  and . The resulting chiral superspace has the coordinates x and Θ.
+R is a scalar valued chiral superfield derivable from the supervielbeins and spin connection. If f is any superfield,  is always a chiral superfield.
+The action for a SUGRA theory with chiral superfields X, is given by
+
+
+
+where K is the Kähler potential and W is the superpotential, and  is the chiral volume factor.
+Unlike the case for flat superspace, adding a constant to either the Kähler or superpotential is now physical. A constant shift to the Kähler potential changes the effective Planck constant, while a constant shift to the superpotential changes the effective cosmological constant. As the effective Planck constant now depends upon the value of the chiral superfield X, we need to rescale the supervierbeins (a field redefinition) to get a constant Planck constant. This is called the Einstein frame.
+N = 8 supergravity in 4 dimensions[edit]
+N=8 Supergravity is the most symmetric quantum field theory which involves gravity and a finite number of fields. It can be found from a dimensional reduction of 11D supergravity by making the size of 7 of the dimensions go to zero. It has 8 supersymmetries which is the most any gravitational theory can have since there are 8 half-steps between spin 2 and spin -2. (A graviton has the highest spin in this theory which is a spin 2 particle). More supersymmetries would mean the particles would have superpartners with spins higher than 2. The only theories with spins higher than 2 which are consistent involve an infinite number of particles (such as String Theory and Higher-Spin Theories). Stephen Hawking in his A Brief History of Time speculated that this theory could be the Theory of Everything. However, in later years this was abandoned in favour of String Theory. There has been renewed interest in the 21st century with the possibility that this theory may be finite.
+Higher-dimensional SUGRA[edit]
+Main article: Higher-dimensional supergravity
+Higher-dimensional SUGRA is the higher-dimensional, supersymmetric generalization of general relativity. Supergravity can be formulated in any number of dimensions up to eleven. Higher-dimensional SUGRA focuses upon supergravity in greater than four dimensions.
+The number of supercharges in a spinor depends on the dimension and the signature of spacetime. The supercharges occur in spinors. Thus the limit on the number of supercharges cannot be satisfied in a spacetime of arbitrary dimension. Some theoretical examples in which this is satisfied are:
+
+12-dimensional two-time theory
+11-dimensional maximal SUGRA
+10-dimensional SUGRA theories
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+
+
+9d SUGRA theories
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+
+
+
+The supergravity theories that have attracted the most interest contain no spins higher than two. This means, in particular, that they do not contain any fields that transform as symmetric tensors of rank higher than two under Lorentz transformations. The consistency of interacting higher spin field theories is, however, presently a field of very active interest.
+See also[edit]
+
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+
+
+Notes[edit]
+
+
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)
+^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. 
+^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177
+^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3
+^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3
+^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,
+^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. 
+^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. 
+
+
+References[edit]
+Historical[edit]
+
+P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B '56 (1975) 177.
+D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409–412. scanned version
+P. Freund and M. Rubin, "Dynamics of dimensional reduction", Physics Letters B97 (1980) pp 233–235.
+Ali H. Chamseddine, R. Arnowitt, Pran Nath, "Locally Supersymmetric Grand Unification", " Phys. Rev.Lett.49:970,1982"
+Michael B. Green, John H. Schwarz, "Anomaly Cancellation in Supersymmetric D=10 Gauge Theory and Superstring Theory", Physics Letters B149 (1984) pp117–122.
+
+General[edit]
+
+Bernard de Wit(2002) Supergravity
+A Supersymmetry Primer (1998); updated in (2006).
+Adel Bilal, Introduction to supersymmetry (2001) ArXiv hep-th/0101055, (a comprehensive introduction to supersymmetry).
+Friedemann Brandt, Lectures on supergravity (2002) ArXiv hep-th/0204035, (an introduction to 4-dimensional N = 1 supergravity).
+Wess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.Please help improve it or discuss these issues on the talk page.improve itimprove ittalk pagetalk page
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (December 2009)list of referencesits sources remain unclearinsufficient inline citationsinline citationsPlease help to improve this article by introducing more precise citations.improveintroducing(December 2009)(December 2009)
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)
+
+
+This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)This article needs attention from an expert in supergravity or physics. See the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert. (November 2012)needs attention from an expert in supergravity or physicsSee the talk page for details. WikiProject Supergravity or WikiProject Physics (or their Portals) may be able to help recruit an expert.talk pageWikiProject SupergravityWikiProject PhysicsPortals(November 2012)(November 2012)
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (September 2013)is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of expertspersonal reflection or opinion essayfeelingsPlease help improve it by rewriting it in an encyclopedic style.help improve itencyclopedic style(September 2013)(September 2013)
+
+Beyond the Standard Model
+
+
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+
+
+
+Standard Model
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Beyond the Standard Model
+Beyond the Standard ModelBeyond the Standard Model
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+
+
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electrons
+Simulated Large Hadron Collider CMS particle detector data depicting a Higgs boson produced by colliding protons decaying into hadron jets and electronsLarge Hadron ColliderHiggs boson
+Standard Model
+Standard ModelStandard Model
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+Evidence
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+Evidence
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+Hierarchy problemHierarchy problemDark matterDark matterCosmological constant problemCosmological constant problemStrong CP problemStrong CP problemNeutrino oscillationNeutrino oscillation
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+
+
+Theories
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+Theories
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+String theory
+Causal fermion systems
+Superfluid vacuum theory
+TechnicolorTechnicolorKaluza–Klein theoryKaluza–Klein theoryGrand Unified TheoryGrand Unified TheoryTheory of everythingTheory of everythingString theoryString theoryCausal fermion systemsCausal fermion systemsSuperfluid vacuum theorySuperfluid vacuum theory
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+Supersymmetry
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+SupersymmetrySupersymmetry
+
+MSSM
+Superstring theory
+Supergravity
+
+
+MSSM
+Superstring theory
+Supergravity
+MSSMMSSMSuperstring theorySuperstring theorySupergravitySupergravity
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+
+
+Quantum gravity
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+Quantum gravityQuantum gravity
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Causal fermion systems
+Causal sets
+Canonical quantum gravity
+Superfluid vacuum theory
+String theoryString theoryLoop quantum gravityLoop quantum gravityCausal dynamical triangulationCausal dynamical triangulationCausal fermion systemsCausal fermion systemsCausal setsCausal setsCanonical quantum gravityCanonical quantum gravitySuperfluid vacuum theorySuperfluid vacuum theory
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+
+
+Experiments
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+Experiments
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+
+
+ANNIE
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+NOνA
+ANNIEANNIEGran SassoGran SassoINOINOLHCLHCSNOSNOSuper-KSuper-KTevatronTevatronNOνANOνA
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn theoretical physics, supergravity (supergravity theory; SUGRA for short) is a field theory that combines the principles of supersymmetry and general relativity. Together, these imply that, in supergravity, the supersymmetry is a local symmetry (in contrast to non-gravitational supersymmetric theories, such as the Minimal Supersymmetric Standard Model). Since the generators of supersymmetry (SUSY) are convoluted with the Poincaré group to form a super-Poincaré algebra, it can be seen that supergravity follows naturally from supersymmetry.[1] All traditional literature on supergravity is generally written in terms of Cartan connections.[2]theoretical physicssupergravitysupergravity theorySUGRAfield theorysupersymmetrygeneral relativitylocal symmetryMinimal Supersymmetric Standard ModelPoincaré groupsuper-Poincaré algebra[1][1]Cartan connections[2][2]
+
+Contents
+
+
+1 Gravitons
+2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+
+3 Relation to superstrings
+4 4D N = 1 SUGRA
+5 N = 8 supergravity in 4 dimensions
+6 Higher-dimensional SUGRA
+7 See also
+8 Notes
+9 References
+
+9.1 Historical
+9.2 General
+
+
+
+
+Contents
+Contents
+1 Gravitons
+2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+
+3 Relation to superstrings
+4 4D N = 1 SUGRA
+5 N = 8 supergravity in 4 dimensions
+6 Higher-dimensional SUGRA
+7 See also
+8 Notes
+9 References
+
+9.1 Historical
+9.2 General
+
+
+1 Gravitons1 Gravitons1Gravitons2 History
+
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+
+2 History2History
+2.1 Gauge supersymmetry
+2.2 SUGRA
+2.3 mSUGRA
+2.4 11d: the maximal SUGRA
+2.5 The end of the SUGRA era
+2.6 The second superstring revolution
+2.1 Gauge supersymmetry2.1 Gauge supersymmetry2.1Gauge supersymmetry2.2 SUGRA2.2 SUGRA2.2SUGRA2.3 mSUGRA2.3 mSUGRA2.3mSUGRA2.4 11d: the maximal SUGRA2.4 11d: the maximal SUGRA2.411d: the maximal SUGRA2.5 The end of the SUGRA era2.5 The end of the SUGRA era2.5The end of the SUGRA era2.6 The second superstring revolution2.6 The second superstring revolution2.6The second superstring revolution3 Relation to superstrings3 Relation to superstrings3Relation to superstrings4 4D N = 1 SUGRA4 4D N = 1 SUGRA44D N = 1 SUGRAN5 N = 8 supergravity in 4 dimensions5 N = 8 supergravity in 4 dimensions5N = 8 supergravity in 4 dimensions6 Higher-dimensional SUGRA6 Higher-dimensional SUGRA6Higher-dimensional SUGRA7 See also7 See also7See also8 Notes8 Notes8Notes9 References
+
+9.1 Historical
+9.2 General
+
+9 References9References
+9.1 Historical
+9.2 General
+9.1 Historical9.1 Historical9.1Historical9.2 General9.2 General9.2GeneralGravitons[edit]Gravitons[edit][edit]Like any field theory of gravity, a supergravity theory contains a spin-2 field whose quantum is the graviton. Supersymmetry requires the graviton field to have a superpartner. This field has spin 3/2 and its quantum is the gravitino. The number of gravitino fields is equal to the number of supersymmetries.gravitygravitonsuperpartnerspingravitinosupersymmetriesHistory[edit]History[edit][edit]Gauge supersymmetry[edit]Gauge supersymmetry[edit][edit]The first theory[3] of local supersymmetry was proposed in 1975 by Dick Arnowitt and Pran Nath and was called gauge supersymmetry.[3][3]Dick ArnowittPran Nathgauge supersymmetrySUGRA[edit]SUGRA[edit][edit]SUGRA, or supergravity, was discovered in 1976 by Dan Freedman, Sergio Ferrara and Peter van Nieuwenhuizen,[4] but was quickly generalized to many different theories in various numbers of dimensions and additional (N) supersymmetry charges. Supergravity theories with N>1 are usually referred to as extended supergravity (SUEGRA). Some supergravity theories were shown to be equivalent to certain higher-dimensional supergravity theories via dimensional reduction (e.g. N = 1 11-dimensional supergravity is dimensionally reduced on S7 to N = 8, d = 4 SUGRA). The resulting theories were sometimes referred to as Kaluza–Klein theories as Kaluza and Klein constructed in 1919 a 5-dimensional gravitational theory, that when dimensionally reduced on circle, its 4-dimensional non-massive modes describe electromagnetism coupled to gravity.Dan FreedmanSergio FerraraPeter van Nieuwenhuizen[4][4]dimensionshigher-dimensionaldimensional reductionN11-dimensional7NdKaluza–Klein theorieselectromagnetismgravitymSUGRA[edit]mSUGRA[edit][edit]mSUGRA means minimal SUper GRAvity. The construction of a realistic model of particle interactions within the N = 1 supergravity framework where supersymmetry (SUSY) is broken by a super Higgs mechanism was carried out by Ali Chamseddine, Richard Arnowitt and Pran Nath in 1982. In these classes of models collectively now known as minimal supergravity Grand Unification Theories (mSUGRA GUT), gravity mediates the breaking of SUSY through the existence of a hidden sector. mSUGRA naturally generates the Soft SUSY breaking terms which are a consequence of the Super Higgs effect. Radiative breaking of electroweak symmetry through Renormalization Group Equations (RGEs) follows as an immediate consequence. mSUGRA is one of the most widely investigated models of particle physics due to its predictive power—requiring only four input parameters and a sign to determine the low energy phenomenology from the scale of Grand Unification.NsupersymmetryHiggs mechanismAli ChamseddineRichard ArnowittPran NathRenormalizationparticle physicsSee also: Gravity-Mediated Supersymmetry Breaking in the MSSMGravity-Mediated Supersymmetry Breaking in the MSSM11d: the maximal SUGRA[edit]11d: the maximal SUGRA[edit][edit]One of these supergravities, the 11-dimensional theory, generated considerable excitement as the first potential candidate for the theory of everything. This excitement was built on four pillars, two of which have now been largely discredited:theory of everything
+Werner Nahm showed[5] that 11 dimensions was the largest number of dimensions consistent with a single graviton, and that a theory with more dimensions would also have particles with spins greater than 2. These problems are avoided in 12 dimensions if two of these dimensions are timelike, as has been often emphasized by Itzhak Bars[citation needed].
+In 1981, Ed Witten showed[6] that 11 was the smallest number of dimensions that was big enough to contain the gauge groups of the Standard Model, namely SU(3) for the strong interactions and SU(2) times U(1) for the electroweak interactions.[citation needed] Today many techniques exist to embed the standard model gauge group in supergravity in any number of dimensions. For example, in the mid and late 1980s, the obligatory gauge symmetry in type I and heterotic string theories was often used. In type II string theory they could also be obtained by compactifying on certain Calabi–Yau manifolds. Today one may also use D-branes to engineer gauge symmetries.
+In 1978, Eugène Cremmer, Bernard Julia and Joël Scherk (CJS) found[7] the classical action for an 11-dimensional supergravity theory. This remains today the only known classical 11-dimensional theory with local supersymmetry and no fields of spin higher than two[citation needed]. Other 11-dimensional theories are known that are quantum-mechanically inequivalent to the CJS theory, but classically equivalent (that is, they reduce to the CJS theory when one imposes the classical equations of motion). For example, in the mid 1980s Bernard de Wit and Hermann Nicolai found an alternate theory in D=11 Supergravity with Local SU(8) Invariance. This theory, while not manifestly Lorentz-invariant, is in many ways superior to the CJS theory in that, for example, it dimensionally-reduces to the 4-dimensional theory without recourse to the classical equations of motion.
+Werner Nahm showed[5] that 11 dimensions was the largest number of dimensions consistent with a single graviton, and that a theory with more dimensions would also have particles with spins greater than 2. These problems are avoided in 12 dimensions if two of these dimensions are timelike, as has been often emphasized by Itzhak Bars[citation needed].Werner Nahm[5][5]Itzhak Bars[citation needed]citation neededcitation neededcitation neededIn 1981, Ed Witten showed[6] that 11 was the smallest number of dimensions that was big enough to contain the gauge groups of the Standard Model, namely SU(3) for the strong interactions and SU(2) times U(1) for the electroweak interactions.[citation needed] Today many techniques exist to embed the standard model gauge group in supergravity in any number of dimensions. For example, in the mid and late 1980s, the obligatory gauge symmetry in type I and heterotic string theories was often used. In type II string theory they could also be obtained by compactifying on certain Calabi–Yau manifolds. Today one may also use D-branes to engineer gauge symmetries.Ed Witten[6][6]gauge groupsStandard ModelSU(3)strong interactionsSU(2)U(1)electroweak[citation needed]citation neededcitation neededcitation neededtype Iheterotic string theoriestype II string theorycompactifyingCalabi–Yau manifoldsD-branesIn 1978, Eugène Cremmer, Bernard Julia and Joël Scherk (CJS) found[7] the classical action for an 11-dimensional supergravity theory. This remains today the only known classical 11-dimensional theory with local supersymmetry and no fields of spin higher than two[citation needed]. Other 11-dimensional theories are known that are quantum-mechanically inequivalent to the CJS theory, but classically equivalent (that is, they reduce to the CJS theory when one imposes the classical equations of motion). For example, in the mid 1980s Bernard de Wit and Hermann Nicolai found an alternate theory in D=11 Supergravity with Local SU(8) Invariance. This theory, while not manifestly Lorentz-invariant, is in many ways superior to the CJS theory in that, for example, it dimensionally-reduces to the 4-dimensional theory without recourse to the classical equations of motion.Eugène CremmerBernard JuliaJoël Scherk[7][7]supersymmetry[citation needed]citation neededcitation neededcitation neededBernard de WitHermann NicolaiD=11 Supergravity with Local SU(8) Invariance
+In 1980, Peter Freund and M. A. Rubin showed that compactification from 11 dimensions preserving all the SUSY generators could occur in two ways, leaving only 4 or 7 macroscopic dimensions (the other 7 or 4 being compact).[8] Unfortunately, the noncompact dimensions have to form an anti-de Sitter space. Today it is understood that there are many possible compactifications, but that the Freund-Rubin compactifications are invariant under all of the supersymmetry transformations that preserve the action.
+In 1980, Peter Freund and M. A. Rubin showed that compactification from 11 dimensions preserving all the SUSY generators could occur in two ways, leaving only 4 or 7 macroscopic dimensions (the other 7 or 4 being compact).[8] Unfortunately, the noncompact dimensions have to form an anti-de Sitter space. Today it is understood that there are many possible compactifications, but that the Freund-Rubin compactifications are invariant under all of the supersymmetry transformations that preserve the action.Peter FreundM. A. Rubincompactification[8][8]anti-de Sitter spaceFreund-Rubin compactificationssupersymmetryThus, the first two results appeared to establish 11 dimensions uniquely, the third result appeared to specify the theory, and the last result explained why the observed universe appears to be four-dimensional.Many of the details of the theory were fleshed out by Peter van Nieuwenhuizen, Sergio Ferrara and Daniel Z. Freedman.Peter van NieuwenhuizenSergio FerraraDaniel Z. FreedmanThe end of the SUGRA era[edit]The end of the SUGRA era[edit][edit]The initial excitement over 11-dimensional supergravity soon waned, as various failings were discovered, and attempts to repair the model failed as well. Problems included:
+The compact manifolds which were known at the time and which contained the standard model were not compatible with supersymmetry, and could not hold quarks or leptons. One suggestion was to replace the compact dimensions with the 7-sphere, with the symmetry group SO(8), or the squashed 7-sphere, with symmetry group SO(5) times SU(2).
+Until recently, the physical neutrinos seen in experiments were believed to be massless, and appeared to be left-handed, a phenomenon referred to as the chirality of the Standard Model. It was very difficult to construct a chiral fermion from a compactification — the compactified manifold needed to have singularities, but physics near singularities did not begin to be understood until the advent of orbifold conformal field theories in the late 1980s.
+Supergravity models generically result in an unrealistically large cosmological constant in four dimensions, and that constant is difficult to remove, and so require fine-tuning. This is still a problem today.
+Quantization of the theory led to quantum field theory gauge anomalies rendering the theory inconsistent. In the intervening years physicists have learned how to cancel these anomalies.
+The compact manifolds which were known at the time and which contained the standard model were not compatible with supersymmetry, and could not hold quarks or leptons. One suggestion was to replace the compact dimensions with the 7-sphere, with the symmetry group SO(8), or the squashed 7-sphere, with symmetry group SO(5) times SU(2).quarksleptonsSO(8)SO(5)SU(2)Until recently, the physical neutrinos seen in experiments were believed to be massless, and appeared to be left-handed, a phenomenon referred to as the chirality of the Standard Model. It was very difficult to construct a chiral fermion from a compactification — the compactified manifold needed to have singularities, but physics near singularities did not begin to be understood until the advent of orbifold conformal field theories in the late 1980s.neutrinoschiralitycompactificationorbifoldconformal field theoriesSupergravity models generically result in an unrealistically large cosmological constant in four dimensions, and that constant is difficult to remove, and so require fine-tuning. This is still a problem today.cosmological constantfine-tuningQuantization of the theory led to quantum field theory gauge anomalies rendering the theory inconsistent. In the intervening years physicists have learned how to cancel these anomalies.gauge anomaliesSome of these difficulties could be avoided by moving to a 10-dimensional theory involving superstrings. However, by moving to 10 dimensions one loses the sense of uniqueness of the 11-dimensional theory.superstringsThe core breakthrough for the 10-dimensional theory, known as the first superstring revolution, was a demonstration by Michael B. Green, John H. Schwarz and David Gross that there are only three supergravity models in 10 dimensions which have gauge symmetries and in which all of the gauge and gravitational anomalies cancel. These were theories built on the groups SO(32) and , the direct product of two copies of E8. Today we know that, using D-branes for example, gauge symmetries can be introduced in other 10-dimensional theories as well.[9]first superstring revolutionMichael B. GreenJohn H. SchwarzDavid Grossgravitational anomaliesSO(32)direct productE88D-branes[9][9]The second superstring revolution[edit]The second superstring revolution[edit][edit]Initial excitement about the 10-dimensional theories, and the string theories that provide their quantum completion, died by the end of the 1980s. There were too many Calabi–Yaus to compactify on, many more than Yau had estimated, as he admitted in December 2005 at the 23rd International Solvay Conference in Physics. None quite gave the standard model, but it seemed as though one could get close with enough effort in many distinct ways. Plus no one understood the theory beyond the regime of applicability of string perturbation theory.Calabi–YauscompactifyYau23rd International Solvay Conference in Physicsperturbation theoryThere was a comparatively quiet period at the beginning of the 1990s; however, several important tools were developed. For example, it became apparent that the various superstring theories were related by "string dualities", some of which relate weak string-coupling (i.e. perturbative) physics in one model with strong string-coupling (i.e. non-perturbative) in another.string dualitiesThen it all changed, in what is known as the second superstring revolution. Joseph Polchinski realized that obscure string theory objects, called D-branes, which he had discovered six years earlier, are stringy versions of the p-branes that were known in supergravity theories. The treatment of these p-branes was not restricted by string perturbation theory; in fact, thanks to supersymmetry, p-branes in supergravity were understood well beyond the limits in which string theory was understood.second superstring revolutionJoseph PolchinskiD-branesp-branesp-branessupersymmetryArmed with this new nonperturbative tool, Edward Witten and many others were able to show that all of the perturbative string theories were descriptions of different states in a single theory which Witten named M-theory. Furthermore, he argued that M-theory's long wavelength limit (i.e. when the quantum wavelength associated to objects in the theory are much larger than the size of the 11th dimension) should be described by the 11-dimensional supergravity that had fallen out of favor with the first superstring revolution 10 years earlier, accompanied by the 2- and 5-branes.nonperturbativeEdward WittenM-theorylong wavelength limitfirst superstring revolutionHistorically, then, supergravity has come "full circle". It is a commonly used framework in understanding features of string theories, M-theory and their compactifications to lower spacetime dimensions.compactificationsRelation to superstrings[edit]Relation to superstrings[edit][edit]Particular 10-dimensional supergravity theories are considered "low energy limits" of the 10-dimensional superstring theories; more precisely, these arise as the massless, tree-level approximation of string theories. True effective field theories of string theories, rather than truncations, are rarely available. Due to string dualities, the conjectured 11-dimensional M-theory is required to have 11-dimensional supergravity as a "low energy limit". However, this doesn't necessarily mean that string theory/M-theory is the only possible UV completion of supergravity;[citation needed] supergravity research is useful independent of those relations.superstring theorieseffective field theoriesM-theoryUV completion[citation needed]citation neededcitation neededcitation needed4D N = 1 SUGRA[edit]4D N = 1 SUGRAN[edit][edit]Before we move on to SUGRA proper, let's recapitulate some important details about general relativity. We have a 4D differentiable manifold M with a Spin(3,1) principal bundle over it. This principal bundle represents the local Lorentz symmetry. In addition, we have a vector bundle T over the manifold with the fiber having four real dimensions and transforming as a vector under Spin(3,1). We have an invertible linear map from the tangent bundle TM to T. This map is the vierbein. The local Lorentz symmetry has a gauge connection associated with it, the spin connection.general relativityvierbeingauge connectionspin connectionThe following discussion will be in superspace notation, as opposed to the component notation, which isn't manifestly covariant under SUSY. There are actually many different versions of SUGRA out there which are inequivalent in the sense that their actions and constraints upon the torsion tensor are different, but ultimately equivalent in that we can always perform a field redefinition of the supervierbeins and spin connection to get from one version to another.manyIn 4D N=1 SUGRA, we have a 4|4 real differentiable supermanifold M, i.e. we have 4 real bosonic dimensions and 4 real fermionic dimensions. As in the nonsupersymmetric case, we have a Spin(3,1) principal bundle over M. We have an R4|4 vector bundle T over M. The fiber of T transforms under the local Lorentz group as follows; the four real bosonic dimensions transform as a vector and the four real fermionic dimensions transform as a Majorana spinor. This Majorana spinor can be reexpressed as a complex left-handed Weyl spinor and its complex conjugate right-handed Weyl spinor (they're not independent of each other). We also have a spin connection as before.R4|4We will use the following conventions; the spatial (both bosonic and fermionic) indices will be indicated by M, N, ... . The bosonic spatial indices will be indicated by μ, ν, ..., the left-handed Weyl spatial indices by α, β,..., and the right-handed Weyl spatial indices by , , ... . The indices for the fiber of T will follow a similar notation, except that they will be hatted like this: . See van der Waerden notation for more details. . The supervierbein is denoted by , and the spin connection by . The inverse supervierbein is denoted by .van der Waerden notationinverseThe supervierbein and spin connection are real in the sense that they satisfy the reality conditions
+ where , , and  and .
+ where , , and  and .The covariant derivative is defined ascovariant derivative
+.
+.The covariant exterior derivative as defined over supermanifolds needs to be super graded. This means that every time we interchange two fermionic indices, we pick up a +1 sign factor, instead of -1.covariant exterior derivativeThe presence or absence of R symmetries is optional, but if R-symmetry exists, the integrand over the full superspace has to have an R-charge of 0 and the integrand over chiral superspace has to have an R-charge of 2.R symmetriesA chiral superfield X is a superfield which satisfies . In order for this constraint to be consistent, we require the integrability conditions that  for some coefficients c.XcUnlike nonSUSY GR, the torsion has to be nonzero, at least with respect to the fermionic directions. Already, even in flat superspace, . In one version of SUGRA (but certainly not the only one), we have the following constraints upon the torsion tensor:torsion
+
+
+
+
+
+
+Here,  is a shorthand notation to mean the index runs over either the left or right Weyl spinors.The superdeterminant of the supervierbein, , gives us the volume factor for M. Equivalently, we have the volume 4|4-superform.superdeterminantIf we complexify the superdiffeomorphisms, there is a gauge where ,  and . The resulting chiral superspace has the coordinates x and Θ.R is a scalar valued chiral superfield derivable from the supervielbeins and spin connection. If f is any superfield,  is always a chiral superfield.RfThe action for a SUGRA theory with chiral superfields X, is given byX
+
+where K is the Kähler potential and W is the superpotential, and  is the chiral volume factor.KKähler potentialWsuperpotentialUnlike the case for flat superspace, adding a constant to either the Kähler or superpotential is now physical. A constant shift to the Kähler potential changes the effective Planck constant, while a constant shift to the superpotential changes the effective cosmological constant. As the effective Planck constant now depends upon the value of the chiral superfield X, we need to rescale the supervierbeins (a field redefinition) to get a constant Planck constant. This is called the Einstein frame.Planck constantcosmological constantXEinstein frameN = 8 supergravity in 4 dimensions[edit]N = 8 supergravity in 4 dimensions[edit][edit]N=8 Supergravity is the most symmetric quantum field theory which involves gravity and a finite number of fields. It can be found from a dimensional reduction of 11D supergravity by making the size of 7 of the dimensions go to zero. It has 8 supersymmetries which is the most any gravitational theory can have since there are 8 half-steps between spin 2 and spin -2. (A graviton has the highest spin in this theory which is a spin 2 particle). More supersymmetries would mean the particles would have superpartners with spins higher than 2. The only theories with spins higher than 2 which are consistent involve an infinite number of particles (such as String Theory and Higher-Spin Theories). Stephen Hawking in his A Brief History of Time speculated that this theory could be the Theory of Everything. However, in later years this was abandoned in favour of String Theory. There has been renewed interest in the 21st century with the possibility that this theory may be finite.N=8 SupergravitysymmetricStephen HawkingA Brief History of TimeTheory of EverythingHigher-dimensional SUGRA[edit]Higher-dimensional SUGRA[edit][edit]Main article: Higher-dimensional supergravityHigher-dimensional supergravityHigher-dimensional SUGRA is the higher-dimensional, supersymmetric generalization of general relativity. Supergravity can be formulated in any number of dimensions up to eleven. Higher-dimensional SUGRA focuses upon supergravity in greater than four dimensions.The number of supercharges in a spinor depends on the dimension and the signature of spacetime. The supercharges occur in spinors. Thus the limit on the number of supercharges cannot be satisfied in a spacetime of arbitrary dimension. Some theoretical examples in which this is satisfied are:spinor
+12-dimensional two-time theory
+11-dimensional maximal SUGRA
+10-dimensional SUGRA theories
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+
+
+9d SUGRA theories
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+
+
+12-dimensional two-time theory11-dimensional maximal SUGRA10-dimensional SUGRA theories
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+
+
+Type IIA SUGRA: N = (1, 1)
+IIA SUGRA from 11d SUGRA
+Type IIB SUGRA: N = (2, 0)
+Type I gauged SUGRA: N = (1, 0)
+Type IIA SUGRA: N = (1, 1)IIA SUGRA from 11d SUGRAType IIB SUGRA: N = (2, 0)Type I gauged SUGRA: N = (1, 0)9d SUGRA theories
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+
+
+Maximal 9d SUGRA from 10d
+T-duality
+N = 1 Gauged SUGRA
+Maximal 9d SUGRA from 10dT-dualityN = 1 Gauged SUGRAThe supergravity theories that have attracted the most interest contain no spins higher than two. This means, in particular, that they do not contain any fields that transform as symmetric tensors of rank higher than two under Lorentz transformations. The consistency of interacting higher spin field theories is, however, presently a field of very active interest.See also[edit]See also[edit][edit]
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+
+
+General relativity
+Grand Unified Theory
+M-theory
+
+
+General relativity
+Grand Unified Theory
+M-theory
+General relativityGeneral relativityGrand Unified TheoryGrand Unified TheoryM-theoryM-theory
+
+Quantum mechanics
+String Theory
+Supermanifold
+
+
+Quantum mechanics
+String Theory
+Supermanifold
+Quantum mechanicsQuantum mechanicsString TheoryString TheorySupermanifoldSupermanifold
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+
+
+Super-Poincaré algebra
+Supersymmetry
+Supermetric
+Super-Poincaré algebraSuper-Poincaré algebraSupersymmetrySupersymmetrySupermetricSupermetricNotes[edit]Notes[edit][edit]
+
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)
+^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. 
+^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177
+^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3
+^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3
+^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,
+^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. 
+^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. 
+
+
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)
+^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. 
+^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177
+^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3
+^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3
+^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,
+^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. 
+^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. 
+^ P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)^^^P. van Nieuwenhuizen, Phys. Rep. 68, 189 (1981)^ "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. ^^^"supergravity in nLab". ncatlab.org. Retrieved 2015-10-05. "supergravity in nLab". ncatlab.org. Retrieved 2015-10-05."supergravity in nLab"ncatlab.org. Retrieved 2015-10-052015-10-05  ^ P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177^^^P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B 56 (1975) 177Physics Letters B56^ D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.^^^D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.Physical ReviewD13^ Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3^^^Werner Nahm, "Supersymmetries and their representations". Nuclear Physics B 135 no 1 (1978) pp 149-166, doi:10.1016/0550-3213(78)90218-3Nuclear Physics B13510.1016/0550-3213(78)90218-3^ Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3^^^Ed Witten, "Search for a realistic Kaluza-Klein theory". Nuclear Physics B 186 no 3 (1981) pp 412-428, doi:10.1016/0550-3213(81)90021-3Nuclear Physics B18610.1016/0550-3213(81)90021-3^ E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,^^^E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409-412,Physics LettersB76^ Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. ^^^Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0. Peter G.O. Freund; Mark A. Rubin (1980). "Dynamics of dimensional reduction". Physics Letters B 97 (2): 233–235. Bibcode:1980PhLB...97..233F. doi:10.1016/0370-2693(80)90590-0."Dynamics of dimensional reduction"Physics Letters B97Bibcode1980PhLB...97..233Fdoi10.1016/0370-2693(80)90590-0  ^ Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. ^^^Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th]. Blumenhagen, R.; Cvetic, M.; Langacker, P.; Shiu, G. (2005). "Toward Realistic Intersecting D-Brane Models". arXiv:hep-th/0502005 [hep-th].arXivhep-th/0502005hep-th  References[edit]References[edit][edit]Historical[edit]Historical[edit][edit]
+P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B '56 (1975) 177.
+D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.
+E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409–412. scanned version
+P. Freund and M. Rubin, "Dynamics of dimensional reduction", Physics Letters B97 (1980) pp 233–235.
+Ali H. Chamseddine, R. Arnowitt, Pran Nath, "Locally Supersymmetric Grand Unification", " Phys. Rev.Lett.49:970,1982"
+Michael B. Green, John H. Schwarz, "Anomaly Cancellation in Supersymmetric D=10 Gauge Theory and Superstring Theory", Physics Letters B149 (1984) pp117–122.
+P. Nath and R. Arnowitt, "Generalized Super-Gauge Symmetry as a New Framework for Unified Gauge Theories", Physics Letters B '56 (1975) 177.Physics Letters B56D.Z. Freedman, P. van Nieuwenhuizen and S. Ferrara, "Progress Toward A Theory Of Supergravity", Physical Review D13 (1976) pp 3214–3218.Physical ReviewD13E. Cremmer, B. Julia and J. Scherk, "Supergravity theory in eleven dimensions", Physics Letters B76 (1978) pp 409–412. scanned versionPhysics LettersB76scanned versionP. Freund and M. Rubin, "Dynamics of dimensional reduction", Physics Letters B97 (1980) pp 233–235.Physics LettersB97Ali H. Chamseddine, R. Arnowitt, Pran Nath, "Locally Supersymmetric Grand Unification", " Phys. Rev.Lett.49:970,1982"Michael B. Green, John H. Schwarz, "Anomaly Cancellation in Supersymmetric D=10 Gauge Theory and Superstring Theory", Physics Letters B149 (1984) pp117–122.Physics LettersB149General[edit]General[edit][edit]
+Bernard de Wit(2002) Supergravity
+A Supersymmetry Primer (1998); updated in (2006).
+Adel Bilal, Introduction to supersymmetry (2001) ArXiv hep-th/0101055, (a comprehensive introduction to supersymmetry).
+Friedemann Brandt, Lectures on supergravity (2002) ArXiv hep-th/0204035, (an introduction to 4-dimensional N = 1 supergravity).
+Wess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4. 
+Bernard de Wit(2002) SupergravitySupergravityA Supersymmetry Primer (1998); updated in (2006).A Supersymmetry PrimerAdel Bilal, Introduction to supersymmetry (2001) ArXiv hep-th/0101055, (a comprehensive introduction to supersymmetry).Introduction to supersymmetrya comprehensive introduction to supersymmetryFriedemann Brandt, Lectures on supergravity (2002) ArXiv hep-th/0204035, (an introduction to 4-dimensional N = 1 supergravity).Lectures on supergravityan introduction to 4-dimensional N = 1 supergravityWess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4. Wess, Julius; Bagger, Jonathan (1992). Supersymmetry and Supergravity. Princeton University Press. p. 260. ISBN 0-691-02530-4.Wess, JuliusSupersymmetry and SupergravityISBN0-691-02530-4  
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeTheories of gravitationTheories of gravitation
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+Standard
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+Newtonian gravity (NG)
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+Newton's law of universal gravitationNewton's law of universal gravitationHistory of gravitational theoryHistory of gravitational theory
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+General relativity (GR)General relativity (GR)
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+IntroductionIntroductionHistoryHistoryMathematicsMathematicsResourcesResourcesTestsTestsPost-Newtonian formalismPost-Newtonian formalismLinearized gravityLinearized gravityADM formalismADM formalism
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+Alternatives to
+general relativityAlternatives to
+general relativity
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+Paradigms
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+Classical theories of gravitationClassical theories of gravitationQuantum gravityQuantum gravityTheory of everythingTheory of everything
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+Classical
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+Einstein–CartanEinstein–CartanBimetric theoriesBimetric theoriesGauge theory gravityGauge theory gravityTeleparallelismTeleparallelismComposite gravityComposite gravityf(R) gravityf(R) gravityfRMassive gravityMassive gravityModified Newtonian dynamics (MOND)Modified Newtonian dynamics (MOND)Nonsymmetric gravitationNonsymmetric gravitationScalar–tensor theories
+
+Brans–Dicke
+
+Scalar–tensor theories
+Brans–Dicke
+Brans–DickeBrans–DickeBrans–DickeScalar–tensor–vectorScalar–tensor–vectorConformal gravityConformal gravityScalar theories
+
+Nordström
+
+Scalar theories
+Nordström
+NordströmNordströmNordströmWhiteheadWhiteheadGeometrodynamicsGeometrodynamicsInduced gravityInduced gravityTensor–vector–scalarTensor–vector–scalarChameleonChameleonPressuronPressuron
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+Quantisation
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+Euclidean quantum gravityEuclidean quantum gravityCanonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+Canonical quantum gravity
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+Wheeler–DeWitt equationWheeler–DeWitt equationWheeler–DeWitt equationLoop quantum gravityLoop quantum gravityLoop quantum gravitySpin foamSpin foamSpin foamCausal dynamical triangulationCausal dynamical triangulationCausal setsCausal setsDGP modelDGP model
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+Unification
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+Kaluza–Klein theory
+
+Dilaton
+
+Kaluza–Klein theory
+Dilaton
+DilatonDilatonDilatonSupergravitySupergravity
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+Unification and
+quantisation
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+Noncommutative geometry
+Self-creation cosmology
+Self-creation cosmologySelf-creation cosmologySelf-creation cosmologySemiclassical gravitySemiclassical gravitySuperfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+Superfluid vacuum theory
+Logarithmic BEC vacuum
+Logarithmic BEC vacuumLogarithmic BEC vacuumLogarithmic BEC vacuumString theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+String theory
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+M-theoryM-theoryM-theoryF-theoryF-theoryF-theoryHeterotic string theoryHeterotic string theoryHeterotic string theoryType I string theoryType I string theoryType I string theoryType 0 string theoryType 0 string theoryType 0 string theoryBosonic string theoryBosonic string theoryBosonic string theoryType II string theoryType II string theoryType II string theoryLittle string theoryLittle string theoryLittle string theoryTwistor theory
+
+Twistor string theory
+
+Twistor theory
+Twistor string theory
+Twistor string theoryTwistor string theoryTwistor string theory
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+Generalisations /
+Extensions of GR
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+Scale relativityScale relativityLiouville gravityLiouville gravityLovelock theoryLovelock theory(2+1)-dimensional topological gravity(2+1)-dimensional topological gravityGauss–Bonnet gravityGauss–Bonnet gravityJackiw–Teitelboim gravityJackiw–Teitelboim gravity
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+Pre-Newtonian theories
+and Toy modelsPre-Newtonian theories
+and Toy models
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+Aristotelian physicsAristotelian physicsCGHS modelCGHS modelRST modelRST modelMechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+Mechanical explanations
+Fatio–Le Sage
+Entropic gravity
+Fatio–Le SageFatio–Le SageFatio–Le SageEntropic gravityEntropic gravityEntropic gravityGravitational interaction of antimatterGravitational interaction of antimatter
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeQuantum gravityQuantum gravity
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+Central concepts
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+AdS/CFT correspondenceAdS/CFT correspondenceCausal patchCausal patchGravitational anomalyGravitational anomalyGravitonGravitonHolographic principleHolographic principleIR/UV mixingIR/UV mixingPlanck scalePlanck scaleQuantum foamQuantum foamTrans-Planckian problemTrans-Planckian problemWeinberg–Witten theoremWeinberg–Witten theorem
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+Toy models
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+2+1D topological gravity2+1D topological gravityCGHS modelCGHS modelJackiw–Teitelboim gravityJackiw–Teitelboim gravityLiouville gravityLiouville gravityRST modelRST modelTopological quantum field theoryTopological quantum field theory
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+Quantum field theory
+in curved spacetimeQuantum field theory
+in curved spacetime
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+Bunch–Davies vacuumBunch–Davies vacuumHawking radiationHawking radiationSemiclassical gravitySemiclassical gravityUnruh effectUnruh effect
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+Black holesBlack holes
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+Black hole complementarity
+Black hole information paradox
+Black hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+Black hole complementarityBlack hole complementarityBlack hole information paradoxBlack hole information paradoxBlack hole thermodynamicsBlack hole thermodynamicsBousso's holographic boundBousso's holographic boundER=EPRER=EPRFirewall (physics)Firewall (physics)Gravitational singularityGravitational singularity
+
+
+Approaches
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+Approaches
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+String theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+String theory
+String theoryString theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+Bosonic string theoryBosonic string theoryM-theoryM-theorySupergravitySupergravitySuperstring theorySuperstring theory
+
+
+
+Canonical quantum gravity
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Canonical quantum gravity
+Canonical quantum gravityCanonical quantum gravity
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+Loop quantum gravityLoop quantum gravityWheeler–DeWitt equationWheeler–DeWitt equation
+
+
+
+Euclidean quantum gravity
+
+
+
+
+Hartle–Hawking state
+
+
+
+
+Euclidean quantum gravity
+Euclidean quantum gravityEuclidean quantum gravity
+
+
+Hartle–Hawking state
+
+
+
+
+Hartle–Hawking state
+
+
+Hartle–Hawking state
+Hartle–Hawking stateHartle–Hawking state
+
+
+
+Others
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Others
+Others
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+Causal dynamical triangulationCausal dynamical triangulationCausal setsCausal setsNoncommutative geometryNoncommutative geometrySpin foamSpin foamGroup field theoryGroup field theorySuperfluid vacuum theorySuperfluid vacuum theoryTwistor theoryTwistor theory
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+Applications
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+Quantum cosmology
+Eternal inflation
+Multiverse
+FRW/CFT duality
+Eternal inflationEternal inflationMultiverseMultiverseFRW/CFT dualityFRW/CFT duality
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+
+
+Authority control
+
+
+
+GND: 4184109-8
+
+
+
+Authority controlAuthority control
+
+
+GND: 4184109-8
+
+
+
+
+GND: 4184109-8
+
+
+GND: 4184109-8
+GND: 4184109-8GND4184109-84184109-8
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Supergravity&oldid=709480809"					https://en.wikipedia.org/w/index.php?title=Supergravity&oldid=709480809Categories: Theories of gravitationSupersymmetryPhysics beyond the Standard ModelHidden categories: Articles lacking in-text citations from December 2009All articles lacking in-text citationsArticles needing expert attention from November 2012All articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2013Wikipedia articles with GND identifiersCategories: Theories of gravitationSupersymmetryPhysics beyond the Standard ModelCategoriesTheories of gravitationSupersymmetryPhysics beyond the Standard ModelTheories of gravitationTheories of gravitationSupersymmetrySupersymmetryPhysics beyond the Standard ModelPhysics beyond the Standard ModelHidden categories: Articles lacking in-text citations from December 2009All articles lacking in-text citationsArticles needing expert attention from November 2012All articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2013Wikipedia articles with GND identifiersArticles lacking in-text citations from December 2009All articles lacking in-text citationsArticles needing expert attention from November 2012All articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013All articles needing style editingAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2013Wikipedia articles with GND identifiersArticles lacking in-text citations from December 2009Articles lacking in-text citations from December 2009All articles lacking in-text citationsAll articles lacking in-text citationsArticles needing expert attention from November 2012Articles needing expert attention from November 2012All articles needing expert attentionAll articles needing expert attentionPhysics articles needing expert attentionPhysics articles needing expert attentionWikipedia articles needing style editing from September 2013Wikipedia articles needing style editing from September 2013All articles needing style editingAll articles needing style editingAll articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from March 2007Articles with unsourced statements from March 2007Articles with unsourced statements from March 2013Articles with unsourced statements from March 2013Wikipedia articles with GND identifiersWikipedia articles with GND identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяČeštinaDeutschΕλληνικάEspañolفارسیFrançaisGaeilge한국어ItalianoҚазақшаLietuviųNederlands日本語Norsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSuomiSvenskaТатарча/tatarçaTürkçe中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяČeštinaDeutschΕλληνικάEspañolفارسیFrançaisGaeilge한국어ItalianoҚазақшаLietuviųNederlands日本語Norsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSuomiSvenskaТатарча/tatarçaTürkçe中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةБеларускаяČeštinaDeutschΕλληνικάEspañolفارسیFrançaisGaeilge한국어ItalianoҚазақшаLietuviųNederlands日本語Norsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSuomiSvenskaТатарча/tatarçaTürkçe中文 
+Edit links 
+Languages
+
+العربيةБеларускаяČeštinaDeutschΕλληνικάEspañolفارسیFrançaisGaeilge한국어ItalianoҚазақшаLietuviųNederlands日本語Norsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSuomiSvenskaТатарча/tatarçaTürkçe中文 
+Edit links 
+العربيةБеларускаяČeštinaDeutschΕλληνικάEspañolفارسیFrançaisGaeilge한국어ItalianoҚазақшаLietuviųNederlands日本語Norsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийSuomiSvenskaТатарча/tatarçaTürkçe中文 العربيةالعربيةБеларускаяБеларускаяČeštinaČeštinaDeutschDeutschΕλληνικάΕλληνικάEspañolEspañolفارسیفارسیFrançaisFrançaisGaeilgeGaeilge한국어한국어ItalianoItalianoҚазақшаҚазақшаLietuviųLietuviųNederlandsNederlands日本語日本語Norsk nynorskNorsk nynorskਪੰਜਾਬੀਪੰਜਾਬੀPolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийSuomiSuomiSvenskaSvenskaТатарча/tatarçaТатарча/tatarçaTürkçeTürkçe中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 11 March 2016, at 05:07.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 11 March 2016, at 05:07.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 11 March 2016, at 05:07.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

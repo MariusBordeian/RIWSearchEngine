@@ -1,0 +1,1069 @@
+Erik Verlinde - Wikipedia, the free encyclopedia
+
+
+
+
+Erik Verlinde
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Erik Verlinde
+
+
+
+
+
+Born
+21 January 1962
+Woudenberg
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Princeton University
+University of Amsterdam
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Bernard de Wit
+
+
+Known for
+entropic gravity
+
+
+Notable awards
+Spinoza Prize (2011)
+
+
+Website
+UvA site
+
+
+Erik Peter Verlinde (born 21 January 1962) is a Dutch theoretical physicist and string theorist. He is the identical twin brother of physicist Herman Verlinde. The Verlinde formula, which is important in conformal field theory and topological field theory, is named after him. His research deals with string theory, gravity, black holes and cosmology. Currently, he works at the Institute for Theoretical Physics at the University of Amsterdam.
+At a symposium at the Dutch Spinoza-institute on 8 December 2009 he introduced a theory of entropic gravity. In this theory, gravity exists because of a difference in concentration of information in the empty space between two masses and its surroundings; he also extrapolates this to general relativity and quantum mechanics. He said in an interview with the newspaper de Volkskrant,[1] "On the smallest level Newton's laws don't apply, but they do for apples and planets. You can compare this to pressure of gas. Molecules themselves don't have any pressure, but a barrel of gas has." It appears that Verlinde's approach to explaining gravity leads naturally to the correct observed strength of dark energy.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+
+3 Awards and Honors
+4 References
+5 External links
+
+
+
+Biography[edit]
+Erik Verlinde was born in the Dutch village of Woudenberg on January 21, 1962, together with his identical twin brother, Herman Verlinde.[3] He went to school in the nearby city of Utrecht, where he graduated from the gymnasium in 1980.
+That fall he began his studies in theoretical physics together with his twin brother at Utrecht University. There he studied with an extraordinary class of students including himself and his brother, Robbert Dijkgraaf, and Kareljan Schoutens (now dean of the faculty of Science at the University of Amsterdam). He wrote his Master's ("doctoraal") thesis with Nobel Laureate Gerard 't Hooft.[3]
+In 1985, Verlinde started work on his PhD at Utrecht University under the formal supervision of Bernard de Wit. He worked together with his twin Herman and Robbert Dijkgraaf, and in practice the trio supervised themselves. The original arrangement was that only one of them would be working on the emerging field of string theory, but in the end all three of them wrote their thesis on the subject. In September 1988 he defended his PhD thesis, which included the Verlinde formula.[3][4][5]
+After his PhD, Verlinde joined the Institute for Advanced Study in Princeton as a postdoctoral fellow. In 1993, he was added to the permanent staff of the theory division of CERN in Geneva. At the age of 34 he was appointed full professor of theoretical physics at Utrecht University. Only a few years later, in 1999, he left for Princeton University to take up a professorial position there. In 2003, he returned to the Netherlands to become a professor in the string theory group led by Robbert Dijkgraaf at the University of Amsterdam.[3][4][5]
+Major contributions[edit]
+Verlinde's main field of research is string theory. Over the years he has introduced a number of results that have become important in the development of the theory, and in the study of pure mathematics.
+Verlinde formula[edit]
+Main article: Verlinde formula
+Verlinde's PhD thesis was titled “Conformal Field Theory Applied to Strings”. In it he investigated conformal field theories in two dimensions and their relation to the description of the world sheet of fundamental strings. As part of the project he extended fusion or Verlinde algebras, describing conformal field theories with a finite number of fields.[6] A main result was an explicit formula for the fusion rules of these algebras, now known as the Verlinde formula. This has proven to be a very non-trivial mathematical result. In Verlinde's original work, the formula followed from mainly physical arguments, but since its introduction many formal mathematical proofs have been provided.[7]
+Witten-Dijkgraaf-Verlinde-Verlinde equation[edit]
+[8][9]
+Cardy–Verlinde formula[edit]
+Main article: Cardy formula
+The Cardy formula is an important result in conformal field theory that allows the calculation of the entropy of a 1+1 dimensional conformal field theory. Using the AdS/CFT correspondence correspondence between conformal field theories and quantum gravity in AntideSitter spaces with one additional dimension, it can be used to calculate the (quantum corrections) to the entropy of black holes in 2+1 dimensions. In 2000, Verlinde extended Cardy's result to conformal field theories of arbitrary dimension,[10] allowing the calculation of entropy of black holes in any dimension.
+Entropic gravity[edit]
+Main article: entropic gravity
+In 2009, Verlinde showed that the laws of gravity may be derived by assuming a form of the holographic principle and the laws of thermodynamics.[11] This may imply that gravity is not a true fundamental force of nature (like e.g. electromagnetism), but instead is a consequence of the universe striving to maximize entropy.
+Awards and Honors[edit]
+In June 2011, the Netherlands Organisation for Scientific Research (NWO) awarded Verlinde the Spinoza Prize, the highest award available to Dutch scientists including a 2.5 million euro grant for future research.[12] The committee cited his work on the Verlinde formula, the Witten-Dijkgraaf-Verlinde-Verlinde equations, the Cardy-Verlinde formula and entropic gravity as the major achievements leading to the award.
+References[edit]
+
+
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. 
+^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. 
+^ a b c d Erik Verlinde. "Website of Erik Verlinde". 
+^ a b "Erik Verlinde". NWO. 
+^ a b "Biografie Erik Verlinde". Quantum Universe. 
+^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. 
+^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. 
+^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. 
+^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. 
+^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. 
+^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. 
+^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. 
+
+
+External links[edit]
+
+University of Amsterdam faculty page
+Blog on Verlinde's publication 'On the Origin of Gravity and the Laws of Newton
+Blog discussing Verlinde's holographic derivation of Newtonian gravity
+A Scientist Takes On Gravity
+Scientific publications of Erik Verlinde on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Erik_Verlinde&oldid=707384546"					
+Categories: 1962 birthsLiving peopleDutch physicistsPeople from WoudenbergString theoristsUniversity of Amsterdam facultyUtrecht University alumniTheoretical physicistsPeople associated with CERNSpinoza Prize winnersHidden categories: CS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+
+
+Erik Verlinde
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Erik Verlinde
+
+
+
+
+
+Born
+21 January 1962
+Woudenberg
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Princeton University
+University of Amsterdam
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Bernard de Wit
+
+
+Known for
+entropic gravity
+
+
+Notable awards
+Spinoza Prize (2011)
+
+
+Website
+UvA site
+
+
+Erik Peter Verlinde (born 21 January 1962) is a Dutch theoretical physicist and string theorist. He is the identical twin brother of physicist Herman Verlinde. The Verlinde formula, which is important in conformal field theory and topological field theory, is named after him. His research deals with string theory, gravity, black holes and cosmology. Currently, he works at the Institute for Theoretical Physics at the University of Amsterdam.
+At a symposium at the Dutch Spinoza-institute on 8 December 2009 he introduced a theory of entropic gravity. In this theory, gravity exists because of a difference in concentration of information in the empty space between two masses and its surroundings; he also extrapolates this to general relativity and quantum mechanics. He said in an interview with the newspaper de Volkskrant,[1] "On the smallest level Newton's laws don't apply, but they do for apples and planets. You can compare this to pressure of gas. Molecules themselves don't have any pressure, but a barrel of gas has." It appears that Verlinde's approach to explaining gravity leads naturally to the correct observed strength of dark energy.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+
+3 Awards and Honors
+4 References
+5 External links
+
+
+
+Biography[edit]
+Erik Verlinde was born in the Dutch village of Woudenberg on January 21, 1962, together with his identical twin brother, Herman Verlinde.[3] He went to school in the nearby city of Utrecht, where he graduated from the gymnasium in 1980.
+That fall he began his studies in theoretical physics together with his twin brother at Utrecht University. There he studied with an extraordinary class of students including himself and his brother, Robbert Dijkgraaf, and Kareljan Schoutens (now dean of the faculty of Science at the University of Amsterdam). He wrote his Master's ("doctoraal") thesis with Nobel Laureate Gerard 't Hooft.[3]
+In 1985, Verlinde started work on his PhD at Utrecht University under the formal supervision of Bernard de Wit. He worked together with his twin Herman and Robbert Dijkgraaf, and in practice the trio supervised themselves. The original arrangement was that only one of them would be working on the emerging field of string theory, but in the end all three of them wrote their thesis on the subject. In September 1988 he defended his PhD thesis, which included the Verlinde formula.[3][4][5]
+After his PhD, Verlinde joined the Institute for Advanced Study in Princeton as a postdoctoral fellow. In 1993, he was added to the permanent staff of the theory division of CERN in Geneva. At the age of 34 he was appointed full professor of theoretical physics at Utrecht University. Only a few years later, in 1999, he left for Princeton University to take up a professorial position there. In 2003, he returned to the Netherlands to become a professor in the string theory group led by Robbert Dijkgraaf at the University of Amsterdam.[3][4][5]
+Major contributions[edit]
+Verlinde's main field of research is string theory. Over the years he has introduced a number of results that have become important in the development of the theory, and in the study of pure mathematics.
+Verlinde formula[edit]
+Main article: Verlinde formula
+Verlinde's PhD thesis was titled “Conformal Field Theory Applied to Strings”. In it he investigated conformal field theories in two dimensions and their relation to the description of the world sheet of fundamental strings. As part of the project he extended fusion or Verlinde algebras, describing conformal field theories with a finite number of fields.[6] A main result was an explicit formula for the fusion rules of these algebras, now known as the Verlinde formula. This has proven to be a very non-trivial mathematical result. In Verlinde's original work, the formula followed from mainly physical arguments, but since its introduction many formal mathematical proofs have been provided.[7]
+Witten-Dijkgraaf-Verlinde-Verlinde equation[edit]
+[8][9]
+Cardy–Verlinde formula[edit]
+Main article: Cardy formula
+The Cardy formula is an important result in conformal field theory that allows the calculation of the entropy of a 1+1 dimensional conformal field theory. Using the AdS/CFT correspondence correspondence between conformal field theories and quantum gravity in AntideSitter spaces with one additional dimension, it can be used to calculate the (quantum corrections) to the entropy of black holes in 2+1 dimensions. In 2000, Verlinde extended Cardy's result to conformal field theories of arbitrary dimension,[10] allowing the calculation of entropy of black holes in any dimension.
+Entropic gravity[edit]
+Main article: entropic gravity
+In 2009, Verlinde showed that the laws of gravity may be derived by assuming a form of the holographic principle and the laws of thermodynamics.[11] This may imply that gravity is not a true fundamental force of nature (like e.g. electromagnetism), but instead is a consequence of the universe striving to maximize entropy.
+Awards and Honors[edit]
+In June 2011, the Netherlands Organisation for Scientific Research (NWO) awarded Verlinde the Spinoza Prize, the highest award available to Dutch scientists including a 2.5 million euro grant for future research.[12] The committee cited his work on the Verlinde formula, the Witten-Dijkgraaf-Verlinde-Verlinde equations, the Cardy-Verlinde formula and entropic gravity as the major achievements leading to the award.
+References[edit]
+
+
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. 
+^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. 
+^ a b c d Erik Verlinde. "Website of Erik Verlinde". 
+^ a b "Erik Verlinde". NWO. 
+^ a b "Biografie Erik Verlinde". Quantum Universe. 
+^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. 
+^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. 
+^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. 
+^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. 
+^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. 
+^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. 
+^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. 
+
+
+External links[edit]
+
+University of Amsterdam faculty page
+Blog on Verlinde's publication 'On the Origin of Gravity and the Laws of Newton
+Blog discussing Verlinde's holographic derivation of Newtonian gravity
+A Scientist Takes On Gravity
+Scientific publications of Erik Verlinde on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Erik_Verlinde&oldid=707384546"					
+Categories: 1962 birthsLiving peopleDutch physicistsPeople from WoudenbergString theoristsUniversity of Amsterdam facultyUtrecht University alumniTheoretical physicistsPeople associated with CERNSpinoza Prize winnersHidden categories: CS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Erik Verlinde
+
+
+
+
+
+Born
+21 January 1962
+Woudenberg
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Princeton University
+University of Amsterdam
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Bernard de Wit
+
+
+Known for
+entropic gravity
+
+
+Notable awards
+Spinoza Prize (2011)
+
+
+Website
+UvA site
+
+
+Erik Peter Verlinde (born 21 January 1962) is a Dutch theoretical physicist and string theorist. He is the identical twin brother of physicist Herman Verlinde. The Verlinde formula, which is important in conformal field theory and topological field theory, is named after him. His research deals with string theory, gravity, black holes and cosmology. Currently, he works at the Institute for Theoretical Physics at the University of Amsterdam.
+At a symposium at the Dutch Spinoza-institute on 8 December 2009 he introduced a theory of entropic gravity. In this theory, gravity exists because of a difference in concentration of information in the empty space between two masses and its surroundings; he also extrapolates this to general relativity and quantum mechanics. He said in an interview with the newspaper de Volkskrant,[1] "On the smallest level Newton's laws don't apply, but they do for apples and planets. You can compare this to pressure of gas. Molecules themselves don't have any pressure, but a barrel of gas has." It appears that Verlinde's approach to explaining gravity leads naturally to the correct observed strength of dark energy.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+
+3 Awards and Honors
+4 References
+5 External links
+
+
+
+Biography[edit]
+Erik Verlinde was born in the Dutch village of Woudenberg on January 21, 1962, together with his identical twin brother, Herman Verlinde.[3] He went to school in the nearby city of Utrecht, where he graduated from the gymnasium in 1980.
+That fall he began his studies in theoretical physics together with his twin brother at Utrecht University. There he studied with an extraordinary class of students including himself and his brother, Robbert Dijkgraaf, and Kareljan Schoutens (now dean of the faculty of Science at the University of Amsterdam). He wrote his Master's ("doctoraal") thesis with Nobel Laureate Gerard 't Hooft.[3]
+In 1985, Verlinde started work on his PhD at Utrecht University under the formal supervision of Bernard de Wit. He worked together with his twin Herman and Robbert Dijkgraaf, and in practice the trio supervised themselves. The original arrangement was that only one of them would be working on the emerging field of string theory, but in the end all three of them wrote their thesis on the subject. In September 1988 he defended his PhD thesis, which included the Verlinde formula.[3][4][5]
+After his PhD, Verlinde joined the Institute for Advanced Study in Princeton as a postdoctoral fellow. In 1993, he was added to the permanent staff of the theory division of CERN in Geneva. At the age of 34 he was appointed full professor of theoretical physics at Utrecht University. Only a few years later, in 1999, he left for Princeton University to take up a professorial position there. In 2003, he returned to the Netherlands to become a professor in the string theory group led by Robbert Dijkgraaf at the University of Amsterdam.[3][4][5]
+Major contributions[edit]
+Verlinde's main field of research is string theory. Over the years he has introduced a number of results that have become important in the development of the theory, and in the study of pure mathematics.
+Verlinde formula[edit]
+Main article: Verlinde formula
+Verlinde's PhD thesis was titled “Conformal Field Theory Applied to Strings”. In it he investigated conformal field theories in two dimensions and their relation to the description of the world sheet of fundamental strings. As part of the project he extended fusion or Verlinde algebras, describing conformal field theories with a finite number of fields.[6] A main result was an explicit formula for the fusion rules of these algebras, now known as the Verlinde formula. This has proven to be a very non-trivial mathematical result. In Verlinde's original work, the formula followed from mainly physical arguments, but since its introduction many formal mathematical proofs have been provided.[7]
+Witten-Dijkgraaf-Verlinde-Verlinde equation[edit]
+[8][9]
+Cardy–Verlinde formula[edit]
+Main article: Cardy formula
+The Cardy formula is an important result in conformal field theory that allows the calculation of the entropy of a 1+1 dimensional conformal field theory. Using the AdS/CFT correspondence correspondence between conformal field theories and quantum gravity in AntideSitter spaces with one additional dimension, it can be used to calculate the (quantum corrections) to the entropy of black holes in 2+1 dimensions. In 2000, Verlinde extended Cardy's result to conformal field theories of arbitrary dimension,[10] allowing the calculation of entropy of black holes in any dimension.
+Entropic gravity[edit]
+Main article: entropic gravity
+In 2009, Verlinde showed that the laws of gravity may be derived by assuming a form of the holographic principle and the laws of thermodynamics.[11] This may imply that gravity is not a true fundamental force of nature (like e.g. electromagnetism), but instead is a consequence of the universe striving to maximize entropy.
+Awards and Honors[edit]
+In June 2011, the Netherlands Organisation for Scientific Research (NWO) awarded Verlinde the Spinoza Prize, the highest award available to Dutch scientists including a 2.5 million euro grant for future research.[12] The committee cited his work on the Verlinde formula, the Witten-Dijkgraaf-Verlinde-Verlinde equations, the Cardy-Verlinde formula and entropic gravity as the major achievements leading to the award.
+References[edit]
+
+
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. 
+^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. 
+^ a b c d Erik Verlinde. "Website of Erik Verlinde". 
+^ a b "Erik Verlinde". NWO. 
+^ a b "Biografie Erik Verlinde". Quantum Universe. 
+^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. 
+^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. 
+^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. 
+^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. 
+^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. 
+^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. 
+^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. 
+
+
+External links[edit]
+
+University of Amsterdam faculty page
+Blog on Verlinde's publication 'On the Origin of Gravity and the Laws of Newton
+Blog discussing Verlinde's holographic derivation of Newtonian gravity
+A Scientist Takes On Gravity
+Scientific publications of Erik Verlinde on INSPIRE-HEP
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+
+
+
+
+
+
+Erik Verlinde
+
+
+
+
+
+Born
+21 January 1962
+Woudenberg
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Princeton University
+University of Amsterdam
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Bernard de Wit
+
+
+Known for
+entropic gravity
+
+
+Notable awards
+Spinoza Prize (2011)
+
+
+Website
+UvA site
+
+
+Erik Verlinde
+Erik VerlindeErik Verlinde
+
+
+Born
+21 January 1962
+Woudenberg
+Born21 January 1962
+WoudenbergWoudenberg
+Nationality
+Dutch
+NationalityDutchDutch
+Fields
+Theoretical physics
+FieldsTheoretical physicsTheoretical physics
+Institutions
+Princeton University
+University of Amsterdam
+InstitutionsPrinceton University
+University of AmsterdamPrinceton UniversityUniversity of Amsterdam
+Alma mater
+Utrecht University
+Alma materAlma materAlma materUtrecht UniversityUtrecht University
+Doctoral advisor
+Bernard de Wit
+Doctoral advisorDoctoral advisorBernard de WitBernard de Wit
+Known for
+entropic gravity
+Known forentropic gravityentropic gravity
+Notable awards
+Spinoza Prize (2011)
+Notable awardsSpinoza Prize (2011)Spinoza Prize
+Website
+UvA site
+Website
+UvA siteWebsiteUvA siteErik Peter Verlinde (born 21 January 1962) is a Dutch theoretical physicist and string theorist. He is the identical twin brother of physicist Herman Verlinde. The Verlinde formula, which is important in conformal field theory and topological field theory, is named after him. His research deals with string theory, gravity, black holes and cosmology. Currently, he works at the Institute for Theoretical Physics at the University of Amsterdam.Erik Peter VerlindeDutchtheoretical physiciststring theoristidentical twinHerman VerlindeVerlinde formulaconformal field theorytopological field theorygravityblack holescosmologyUniversity of AmsterdamAt a symposium at the Dutch Spinoza-institute on 8 December 2009 he introduced a theory of entropic gravity. In this theory, gravity exists because of a difference in concentration of information in the empty space between two masses and its surroundings; he also extrapolates this to general relativity and quantum mechanics. He said in an interview with the newspaper de Volkskrant,[1] "On the smallest level Newton's laws don't apply, but they do for apples and planets. You can compare this to pressure of gas. Molecules themselves don't have any pressure, but a barrel of gas has." It appears that Verlinde's approach to explaining gravity leads naturally to the correct observed strength of dark energy.[2]entropic gravitygravitygeneral relativityquantum mechanicsde Volkskrantde Volkskrant[1][1]Newton's lawsapplesplanetsMoleculesdark energy[2][2]
+
+Contents
+
+
+1 Biography
+2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+
+3 Awards and Honors
+4 References
+5 External links
+
+
+Contents
+Contents
+1 Biography
+2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+
+3 Awards and Honors
+4 References
+5 External links
+1 Biography1 Biography1Biography2 Major contributions
+
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+
+2 Major contributions2Major contributions
+2.1 Verlinde formula
+2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation
+2.3 Cardy–Verlinde formula
+2.4 Entropic gravity
+2.1 Verlinde formula2.1 Verlinde formula2.1Verlinde formula2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation2.2 Witten-Dijkgraaf-Verlinde-Verlinde equation2.2Witten-Dijkgraaf-Verlinde-Verlinde equation2.3 Cardy–Verlinde formula2.3 Cardy–Verlinde formula2.3Cardy–Verlinde formula2.4 Entropic gravity2.4 Entropic gravity2.4Entropic gravity3 Awards and Honors3 Awards and Honors3Awards and Honors4 References4 References4References5 External links5 External links5External linksBiography[edit]Biography[edit][edit]Erik Verlinde was born in the Dutch village of Woudenberg on January 21, 1962, together with his identical twin brother, Herman Verlinde.[3] He went to school in the nearby city of Utrecht, where he graduated from the gymnasium in 1980.WoudenbergHerman Verlinde[3][3]UtrechtThat fall he began his studies in theoretical physics together with his twin brother at Utrecht University. There he studied with an extraordinary class of students including himself and his brother, Robbert Dijkgraaf, and Kareljan Schoutens (now dean of the faculty of Science at the University of Amsterdam). He wrote his Master's ("doctoraal") thesis with Nobel Laureate Gerard 't Hooft.[3]Utrecht UniversityRobbert DijkgraafKareljan SchoutensUniversity of AmsterdamGerard 't Hooft[3][3]In 1985, Verlinde started work on his PhD at Utrecht University under the formal supervision of Bernard de Wit. He worked together with his twin Herman and Robbert Dijkgraaf, and in practice the trio supervised themselves. The original arrangement was that only one of them would be working on the emerging field of string theory, but in the end all three of them wrote their thesis on the subject. In September 1988 he defended his PhD thesis, which included the Verlinde formula.[3][4][5]Bernard de Witstring theoryVerlinde formula[3][3][4][4][5][5]After his PhD, Verlinde joined the Institute for Advanced Study in Princeton as a postdoctoral fellow. In 1993, he was added to the permanent staff of the theory division of CERN in Geneva. At the age of 34 he was appointed full professor of theoretical physics at Utrecht University. Only a few years later, in 1999, he left for Princeton University to take up a professorial position there. In 2003, he returned to the Netherlands to become a professor in the string theory group led by Robbert Dijkgraaf at the University of Amsterdam.[3][4][5]Institute for Advanced StudyCERNPrinceton UniversityUniversity of Amsterdam[3][3][4][4][5][5]Major contributions[edit]Major contributions[edit][edit]Verlinde's main field of research is string theory. Over the years he has introduced a number of results that have become important in the development of the theory, and in the study of pure mathematics.string theorypure mathematicsVerlinde formula[edit]Verlinde formula[edit][edit]Main article: Verlinde formulaVerlinde formulaVerlinde's PhD thesis was titled “Conformal Field Theory Applied to Strings”. In it he investigated conformal field theories in two dimensions and their relation to the description of the world sheet of fundamental strings. As part of the project he extended fusion or Verlinde algebras, describing conformal field theories with a finite number of fields.[6] A main result was an explicit formula for the fusion rules of these algebras, now known as the Verlinde formula. This has proven to be a very non-trivial mathematical result. In Verlinde's original work, the formula followed from mainly physical arguments, but since its introduction many formal mathematical proofs have been provided.[7]conformal field theoriesworld sheetVerlinde algebras[6][6]fusion rules[7][7]Witten-Dijkgraaf-Verlinde-Verlinde equation[edit]Witten-Dijkgraaf-Verlinde-Verlinde equation[edit][edit][8][9][8][8][9][9]Cardy–Verlinde formula[edit]Cardy–Verlinde formula[edit][edit]Main article: Cardy formulaCardy formulaThe Cardy formula is an important result in conformal field theory that allows the calculation of the entropy of a 1+1 dimensional conformal field theory. Using the AdS/CFT correspondence correspondence between conformal field theories and quantum gravity in AntideSitter spaces with one additional dimension, it can be used to calculate the (quantum corrections) to the entropy of black holes in 2+1 dimensions. In 2000, Verlinde extended Cardy's result to conformal field theories of arbitrary dimension,[10] allowing the calculation of entropy of black holes in any dimension.Cardy formulaAdS/CFT correspondenceAntideSitter spacesblack holes in 2+1 dimensions[10][10]Entropic gravity[edit]Entropic gravity[edit][edit]Main article: entropic gravityentropic gravityIn 2009, Verlinde showed that the laws of gravity may be derived by assuming a form of the holographic principle and the laws of thermodynamics.[11] This may imply that gravity is not a true fundamental force of nature (like e.g. electromagnetism), but instead is a consequence of the universe striving to maximize entropy.holographic principlelaws of thermodynamics[11][11]electromagnetismAwards and Honors[edit]Awards and Honors[edit][edit]In June 2011, the Netherlands Organisation for Scientific Research (NWO) awarded Verlinde the Spinoza Prize, the highest award available to Dutch scientists including a 2.5 million euro grant for future research.[12] The committee cited his work on the Verlinde formula, the Witten-Dijkgraaf-Verlinde-Verlinde equations, the Cardy-Verlinde formula and entropic gravity as the major achievements leading to the award.Spinoza Prize[12][12]References[edit]References[edit][edit]
+
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. 
+^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. 
+^ a b c d Erik Verlinde. "Website of Erik Verlinde". 
+^ a b "Erik Verlinde". NWO. 
+^ a b "Biografie Erik Verlinde". Quantum Universe. 
+^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. 
+^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. 
+^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. 
+^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. 
+^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. 
+^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. 
+^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. 
+
+
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. 
+^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. 
+^ a b c d Erik Verlinde. "Website of Erik Verlinde". 
+^ a b "Erik Verlinde". NWO. 
+^ a b "Biografie Erik Verlinde". Quantum Universe. 
+^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. 
+^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. 
+^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. 
+^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. 
+^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. 
+^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. 
+^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. 
+^ "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. ^^^"De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011. "De Volkskrant January 27, 2010" (in Dutch). Retrieved September 11, 2011."De Volkskrant January 27, 2010". Retrieved September 11, 2011September 11,  ^ Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. ^^^Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011. Koelman, Johannes. "It from bit: how to get rid of dark energy". Retrieved 20 August 2011."It from bit: how to get rid of dark energy". Retrieved 20 August 201120 August  ^ a b c d Erik Verlinde. "Website of Erik Verlinde". ^ a b c daaaabbbbccccddddErik Verlinde. "Website of Erik Verlinde". Erik Verlinde. "Website of Erik Verlinde"."Website of Erik Verlinde"  ^ a b "Erik Verlinde". NWO. ^ a baaaabbbb"Erik Verlinde". NWO. "Erik Verlinde". NWO."Erik Verlinde"  ^ a b "Biografie Erik Verlinde". Quantum Universe. ^ a baaaabbbb"Biografie Erik Verlinde". Quantum Universe. "Biografie Erik Verlinde". Quantum Universe."Biografie Erik Verlinde"  ^ Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. ^^^Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7. Verlinde, Erik (1988). "Fusion Rules and Modular Transformations in 2D Conformal Field Theory". Nucl.Phys. B 300. Bibcode:1988NuPhB.300..360V. doi:10.1016/0550-3213(88)90603-7.Nucl.Phys. B300Bibcode1988NuPhB.300..360Vdoi10.1016/0550-3213(88)90603-7  ^ Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. ^^^Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255. Schottenloher, Martin (2008). A Mathematical Introduction to Conformal Field Theory. Springer. ISBN 9783540686255.A Mathematical Introduction to Conformal Field TheoryA Mathematical Introduction to Conformal Field TheoryISBN9783540686255  ^ Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. ^^^Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5. Witten, Edward (1991). "Two-dimensional gravity and intersection theory on moduli space". Surveys Diff. Geom. 1: 243–310. Bibcode:1990SDGeo...1..243W. doi:10.4310/SDG.1990.v1.n1.a5.Surveys Diff. Geom.1Bibcode1990SDGeo...1..243Wdoi10.4310/SDG.1990.v1.n1.a5  ^ Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. ^^^Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L. Dijkgraaf, Robbert; Verlinde, Herman; Verlinde, Erik (1990). "Topological strings in d < 1". Nucl. Phys. B 345: 59–86. Bibcode:1991NuPhB.352...59D. doi:10.1016/0550-3213(91)90129-L.Nucl. Phys. B345Bibcode1991NuPhB.352...59Ddoi10.1016/0550-3213(91)90129-L  ^ Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. ^^^Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140. Erik, Verlinde (2000). "On the Holographic Principle in a Radiation Dominated Universe". arXiv:hep-th/0008140.arXivhep-th/0008140  ^ E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. ^^^E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029. E.P. Verlinde. "On the Origin of Gravity and the Laws of Newton". JHEP 04, 29 (2011). arXiv:1001.0785. Bibcode:2011JHEP...04..029V. doi:10.1007/JHEP04(2011)029.JHEP 04, 29 (2011)arXiv1001.0785Bibcode2011JHEP...04..029Vdoi10.1007/JHEP04(2011)029  ^ "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. ^^^"NWO-Spinoza Laureates 2011". Retrieved 20 August 2011. "NWO-Spinoza Laureates 2011". Retrieved 20 August 2011."NWO-Spinoza Laureates 2011". Retrieved 20 August 201120 August  External links[edit]External links[edit][edit]
+University of Amsterdam faculty page
+Blog on Verlinde's publication 'On the Origin of Gravity and the Laws of Newton
+Blog discussing Verlinde's holographic derivation of Newtonian gravity
+A Scientist Takes On Gravity
+Scientific publications of Erik Verlinde on INSPIRE-HEP
+University of Amsterdam faculty pageUniversity of Amsterdam faculty pageBlog on Verlinde's publication 'On the Origin of Gravity and the Laws of NewtonBlog on Verlinde's publication 'On the Origin of Gravity and the Laws of NewtonBlog discussing Verlinde's holographic derivation of Newtonian gravityBlog discussing Verlinde's holographic derivation of Newtonian gravityA Scientist Takes On GravityA Scientist Takes On GravityScientific publications of Erik Verlinde on INSPIRE-HEPScientific publications of Erik Verlinde onINSPIRE-HEP
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+
+
+WorldCat Identities
+VIAF: 58261660
+LCCN: n91094731
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 58261660VIAF5826166058261660LCCN: n91094731LCCNn91094731n91094731
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Erik_Verlinde&oldid=707384546"					https://en.wikipedia.org/w/index.php?title=Erik_Verlinde&oldid=707384546Categories: 1962 birthsLiving peopleDutch physicistsPeople from WoudenbergString theoristsUniversity of Amsterdam facultyUtrecht University alumniTheoretical physicistsPeople associated with CERNSpinoza Prize winnersHidden categories: CS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCategories: 1962 birthsLiving peopleDutch physicistsPeople from WoudenbergString theoristsUniversity of Amsterdam facultyUtrecht University alumniTheoretical physicistsPeople associated with CERNSpinoza Prize winnersCategories1962 birthsLiving peopleDutch physicistsPeople from WoudenbergString theoristsUniversity of Amsterdam facultyUtrecht University alumniTheoretical physicistsPeople associated with CERNSpinoza Prize winners1962 births1962 birthsLiving peopleLiving peopleDutch physicistsDutch physicistsPeople from WoudenbergPeople from WoudenbergString theoristsString theoristsUniversity of Amsterdam facultyUniversity of Amsterdam facultyUtrecht University alumniUtrecht University alumniTheoretical physicistsTheoretical physicistsPeople associated with CERNPeople associated with CERNSpinoza Prize winnersSpinoza Prize winnersHidden categories: CS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCS1 Dutch-language sources (nl)CS1 Dutch-language sources (nl)Wikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschفارسیFrançaisItalianoעבריתNederlandsРусский中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschفارسیFrançaisItalianoעבריתNederlandsРусский中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschفارسیFrançaisItalianoעבריתNederlandsРусский中文 
+Edit links 
+Languages
+
+DeutschفارسیFrançaisItalianoעבריתNederlandsРусский中文 
+Edit links 
+DeutschفارسیFrançaisItalianoעבריתNederlandsРусский中文 DeutschDeutschفارسیفارسیFrançaisFrançaisItalianoItalianoעבריתעבריתNederlandsNederlandsРусскийРусский中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 28 February 2016, at 15:29.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 28 February 2016, at 15:29.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 28 February 2016, at 15:29.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

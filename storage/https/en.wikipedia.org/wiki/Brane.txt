@@ -1,0 +1,1907 @@
+Brane - Wikipedia, the free encyclopedia
+
+
+
+
+Brane
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For other uses, see Brane (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory and related theories such as supergravity theories, a brane is a physical object that generalizes the notion of a point particle to higher dimensions. For example, a point particle can be viewed as a brane of dimension zero, while a string can be viewed as a brane of dimension one. It is also possible to consider higher-dimensional branes. In dimension p, these are called p-branes. The word "brane" comes from the word "membrane" which refers to a two-dimensional brane.[1]
+Branes are dynamical objects which can propagate through spacetime according to the rules of quantum mechanics. They have mass and can have other attributes such as charge. A p-brane sweeps out a (p+1)-dimensional volume in spacetime called its worldvolume. Physicists often study fields analogous to the electromagnetic field, which live on the worldvolume of a brane.[2]
+In string theory, D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a certain mathematical condition on the system known as the Dirichlet boundary condition. The study of D-branes in string theory has led to important results such as the AdS/CFT correspondence, which has shed light on many problems in quantum field theory.
+Branes are also frequently studied from a purely mathematical point of view since they are related to subjects such as homological mirror symmetry and noncommutative geometry. Mathematically, branes may be represented as objects of certain categories, such as the derived category of coherent sheaves on a Calabi–Yau manifold, or the Fukaya category.
+
+
+
+Contents
+
+
+1 D-branes
+2 Mathematical viewpoint
+3 See also
+4 Notes
+5 References
+
+
+
+D-branes[edit]
+
+
+
+
+Open strings attached to a pair of D-branes
+
+
+Main article: D-brane
+In string theory, a string may be open (forming a segment with two endpoints) or closed (forming a closed loop). D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a condition that it satisfies, the Dirichlet boundary condition.[3]
+One crucial point about D-branes is that the dynamics on the D-brane worldvolume is described by a gauge theory, a kind of highly symmetric physical theory which is also used to describe the behavior of elementary particles in the standard model of particle physics. This connection has led to many important insights into gauge theory. For example, it led to the discovery of the AdS/CFT correspondence, a theoretical tool that physicists use to translate difficult problems in gauge theory into more mathematically tractable problems in string theory.[4]
+Mathematical viewpoint[edit]
+Mathematically, branes can be described using the notion of a category.[5] This is a mathematical structure consisting of objects, and for any pair of objects, a set of morphisms between them. In most examples, the objects are mathematical structures (such as sets, vector spaces, or topological spaces) and the morphisms are functions between these structures.[6] One can also consider categories where the objects are D-branes and the morphisms between two branes  and  are states of open strings stretched between  and .[7]
+
+
+
+
+A cross section of a Calabi–Yau manifold
+
+
+In one version of string theory known as the topological B-model, the D-branes are complex submanifolds of certain six-dimensional shapes called Calabi–Yau manifolds, together with additional data that arise physically from having charges at the endpoints of strings.[8] Intuitively, one can think of a submanifold as a surface embedded inside of a Calabi–Yau manifold, although submanifolds can also exist in dimensions different from two.[9] In mathematical language, the category having these branes as its objects is known as the derived category of coherent sheaves on the Calabi–Yau.[10] In another version of string theory called the topological A-model, the D-branes can again be viewed as submanifolds of a Calabi–Yau manifold. Roughly speaking, they are what mathematicians call special Lagrangian submanifolds.[11] This means among other things that they have half the dimension of the space in which they sit, and they are length-, area-, or volume-minimizing.[12] The category having these branes as its objects is called the Fukaya category.[13]
+The derived category of coherent sheaves is constructed using tools from complex geometry, a branch of mathematics that describes geometric curves in algebraic terms and solves geometric problems using algebraic equations.[14] On the other hand, the Fukaya category is constructed using symplectic geometry, a branch of mathematics that arose from studies of classical physics. Symplectic geometry studies spaces equipped with a symplectic form, a mathematical tool that can be used to compute area in two-dimensional examples.[15]
+The homological mirror symmetry conjecture of Maxim Kontsevich states that the derived category of coherent sheaves on one Calabi–Yau manifold is equivalent in a certain sense to the Fukaya category of a completely different Calabi–Yau manifold.[16] This equivalence provides an unexpected bridge between two branches of geometry, namely complex and symplectic geometry.[17]
+See also[edit]
+
+Black brane
+Brane cosmology
+Dirac membrane
+M2-brane
+M5-brane
+NS5-brane
+
+Notes[edit]
+
+
+^ Moore 2005, p. 214
+^ Moore 2005, p. 214
+^ Moore 2005, p. 215
+^ Moore 2005, p. 215
+^ Aspinwall et al. 2009
+^ A basic reference on category theory is Mac Lane 1998.
+^ Zaslow 2008, p. 536
+^ Zaslow 2008, p. 536
+^ Yau and Nadis 2010, p. 165
+^ Aspinwal et al. 2009, p. 575
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, p. 175
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, pp. 180–1
+^ Zaslow 2008, p. 531
+^ Aspinwall et al. 2009, p. 616
+^ Yau and Nadis 2010, p. 181
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2. 
+Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brane&oldid=714337937"					
+Categories: Quantum field theoryString theoryHidden categories: Wikipedia indefinitely move-protected pages 
+
+
+Brane
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For other uses, see Brane (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory and related theories such as supergravity theories, a brane is a physical object that generalizes the notion of a point particle to higher dimensions. For example, a point particle can be viewed as a brane of dimension zero, while a string can be viewed as a brane of dimension one. It is also possible to consider higher-dimensional branes. In dimension p, these are called p-branes. The word "brane" comes from the word "membrane" which refers to a two-dimensional brane.[1]
+Branes are dynamical objects which can propagate through spacetime according to the rules of quantum mechanics. They have mass and can have other attributes such as charge. A p-brane sweeps out a (p+1)-dimensional volume in spacetime called its worldvolume. Physicists often study fields analogous to the electromagnetic field, which live on the worldvolume of a brane.[2]
+In string theory, D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a certain mathematical condition on the system known as the Dirichlet boundary condition. The study of D-branes in string theory has led to important results such as the AdS/CFT correspondence, which has shed light on many problems in quantum field theory.
+Branes are also frequently studied from a purely mathematical point of view since they are related to subjects such as homological mirror symmetry and noncommutative geometry. Mathematically, branes may be represented as objects of certain categories, such as the derived category of coherent sheaves on a Calabi–Yau manifold, or the Fukaya category.
+
+
+
+Contents
+
+
+1 D-branes
+2 Mathematical viewpoint
+3 See also
+4 Notes
+5 References
+
+
+
+D-branes[edit]
+
+
+
+
+Open strings attached to a pair of D-branes
+
+
+Main article: D-brane
+In string theory, a string may be open (forming a segment with two endpoints) or closed (forming a closed loop). D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a condition that it satisfies, the Dirichlet boundary condition.[3]
+One crucial point about D-branes is that the dynamics on the D-brane worldvolume is described by a gauge theory, a kind of highly symmetric physical theory which is also used to describe the behavior of elementary particles in the standard model of particle physics. This connection has led to many important insights into gauge theory. For example, it led to the discovery of the AdS/CFT correspondence, a theoretical tool that physicists use to translate difficult problems in gauge theory into more mathematically tractable problems in string theory.[4]
+Mathematical viewpoint[edit]
+Mathematically, branes can be described using the notion of a category.[5] This is a mathematical structure consisting of objects, and for any pair of objects, a set of morphisms between them. In most examples, the objects are mathematical structures (such as sets, vector spaces, or topological spaces) and the morphisms are functions between these structures.[6] One can also consider categories where the objects are D-branes and the morphisms between two branes  and  are states of open strings stretched between  and .[7]
+
+
+
+
+A cross section of a Calabi–Yau manifold
+
+
+In one version of string theory known as the topological B-model, the D-branes are complex submanifolds of certain six-dimensional shapes called Calabi–Yau manifolds, together with additional data that arise physically from having charges at the endpoints of strings.[8] Intuitively, one can think of a submanifold as a surface embedded inside of a Calabi–Yau manifold, although submanifolds can also exist in dimensions different from two.[9] In mathematical language, the category having these branes as its objects is known as the derived category of coherent sheaves on the Calabi–Yau.[10] In another version of string theory called the topological A-model, the D-branes can again be viewed as submanifolds of a Calabi–Yau manifold. Roughly speaking, they are what mathematicians call special Lagrangian submanifolds.[11] This means among other things that they have half the dimension of the space in which they sit, and they are length-, area-, or volume-minimizing.[12] The category having these branes as its objects is called the Fukaya category.[13]
+The derived category of coherent sheaves is constructed using tools from complex geometry, a branch of mathematics that describes geometric curves in algebraic terms and solves geometric problems using algebraic equations.[14] On the other hand, the Fukaya category is constructed using symplectic geometry, a branch of mathematics that arose from studies of classical physics. Symplectic geometry studies spaces equipped with a symplectic form, a mathematical tool that can be used to compute area in two-dimensional examples.[15]
+The homological mirror symmetry conjecture of Maxim Kontsevich states that the derived category of coherent sheaves on one Calabi–Yau manifold is equivalent in a certain sense to the Fukaya category of a completely different Calabi–Yau manifold.[16] This equivalence provides an unexpected bridge between two branches of geometry, namely complex and symplectic geometry.[17]
+See also[edit]
+
+Black brane
+Brane cosmology
+Dirac membrane
+M2-brane
+M5-brane
+NS5-brane
+
+Notes[edit]
+
+
+^ Moore 2005, p. 214
+^ Moore 2005, p. 214
+^ Moore 2005, p. 215
+^ Moore 2005, p. 215
+^ Aspinwall et al. 2009
+^ A basic reference on category theory is Mac Lane 1998.
+^ Zaslow 2008, p. 536
+^ Zaslow 2008, p. 536
+^ Yau and Nadis 2010, p. 165
+^ Aspinwal et al. 2009, p. 575
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, p. 175
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, pp. 180–1
+^ Zaslow 2008, p. 531
+^ Aspinwall et al. 2009, p. 616
+^ Yau and Nadis 2010, p. 181
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2. 
+Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brane&oldid=714337937"					
+Categories: Quantum field theoryString theoryHidden categories: Wikipedia indefinitely move-protected pages 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchFor other uses, see Brane (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In string theory and related theories such as supergravity theories, a brane is a physical object that generalizes the notion of a point particle to higher dimensions. For example, a point particle can be viewed as a brane of dimension zero, while a string can be viewed as a brane of dimension one. It is also possible to consider higher-dimensional branes. In dimension p, these are called p-branes. The word "brane" comes from the word "membrane" which refers to a two-dimensional brane.[1]
+Branes are dynamical objects which can propagate through spacetime according to the rules of quantum mechanics. They have mass and can have other attributes such as charge. A p-brane sweeps out a (p+1)-dimensional volume in spacetime called its worldvolume. Physicists often study fields analogous to the electromagnetic field, which live on the worldvolume of a brane.[2]
+In string theory, D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a certain mathematical condition on the system known as the Dirichlet boundary condition. The study of D-branes in string theory has led to important results such as the AdS/CFT correspondence, which has shed light on many problems in quantum field theory.
+Branes are also frequently studied from a purely mathematical point of view since they are related to subjects such as homological mirror symmetry and noncommutative geometry. Mathematically, branes may be represented as objects of certain categories, such as the derived category of coherent sheaves on a Calabi–Yau manifold, or the Fukaya category.
+
+
+
+Contents
+
+
+1 D-branes
+2 Mathematical viewpoint
+3 See also
+4 Notes
+5 References
+
+
+
+D-branes[edit]
+
+
+
+
+Open strings attached to a pair of D-branes
+
+
+Main article: D-brane
+In string theory, a string may be open (forming a segment with two endpoints) or closed (forming a closed loop). D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a condition that it satisfies, the Dirichlet boundary condition.[3]
+One crucial point about D-branes is that the dynamics on the D-brane worldvolume is described by a gauge theory, a kind of highly symmetric physical theory which is also used to describe the behavior of elementary particles in the standard model of particle physics. This connection has led to many important insights into gauge theory. For example, it led to the discovery of the AdS/CFT correspondence, a theoretical tool that physicists use to translate difficult problems in gauge theory into more mathematically tractable problems in string theory.[4]
+Mathematical viewpoint[edit]
+Mathematically, branes can be described using the notion of a category.[5] This is a mathematical structure consisting of objects, and for any pair of objects, a set of morphisms between them. In most examples, the objects are mathematical structures (such as sets, vector spaces, or topological spaces) and the morphisms are functions between these structures.[6] One can also consider categories where the objects are D-branes and the morphisms between two branes  and  are states of open strings stretched between  and .[7]
+
+
+
+
+A cross section of a Calabi–Yau manifold
+
+
+In one version of string theory known as the topological B-model, the D-branes are complex submanifolds of certain six-dimensional shapes called Calabi–Yau manifolds, together with additional data that arise physically from having charges at the endpoints of strings.[8] Intuitively, one can think of a submanifold as a surface embedded inside of a Calabi–Yau manifold, although submanifolds can also exist in dimensions different from two.[9] In mathematical language, the category having these branes as its objects is known as the derived category of coherent sheaves on the Calabi–Yau.[10] In another version of string theory called the topological A-model, the D-branes can again be viewed as submanifolds of a Calabi–Yau manifold. Roughly speaking, they are what mathematicians call special Lagrangian submanifolds.[11] This means among other things that they have half the dimension of the space in which they sit, and they are length-, area-, or volume-minimizing.[12] The category having these branes as its objects is called the Fukaya category.[13]
+The derived category of coherent sheaves is constructed using tools from complex geometry, a branch of mathematics that describes geometric curves in algebraic terms and solves geometric problems using algebraic equations.[14] On the other hand, the Fukaya category is constructed using symplectic geometry, a branch of mathematics that arose from studies of classical physics. Symplectic geometry studies spaces equipped with a symplectic form, a mathematical tool that can be used to compute area in two-dimensional examples.[15]
+The homological mirror symmetry conjecture of Maxim Kontsevich states that the derived category of coherent sheaves on one Calabi–Yau manifold is equivalent in a certain sense to the Fukaya category of a completely different Calabi–Yau manifold.[16] This equivalence provides an unexpected bridge between two branches of geometry, namely complex and symplectic geometry.[17]
+See also[edit]
+
+Black brane
+Brane cosmology
+Dirac membrane
+M2-brane
+M5-brane
+NS5-brane
+
+Notes[edit]
+
+
+^ Moore 2005, p. 214
+^ Moore 2005, p. 214
+^ Moore 2005, p. 215
+^ Moore 2005, p. 215
+^ Aspinwall et al. 2009
+^ A basic reference on category theory is Mac Lane 1998.
+^ Zaslow 2008, p. 536
+^ Zaslow 2008, p. 536
+^ Yau and Nadis 2010, p. 165
+^ Aspinwal et al. 2009, p. 575
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, p. 175
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, pp. 180–1
+^ Zaslow 2008, p. 531
+^ Aspinwall et al. 2009, p. 616
+^ Yau and Nadis 2010, p. 181
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2. 
+Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+For other uses, see Brane (disambiguation).Brane (disambiguation)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn string theory and related theories such as supergravity theories, a brane is a physical object that generalizes the notion of a point particle to higher dimensions. For example, a point particle can be viewed as a brane of dimension zero, while a string can be viewed as a brane of dimension one. It is also possible to consider higher-dimensional branes. In dimension p, these are called p-branes. The word "brane" comes from the word "membrane" which refers to a two-dimensional brane.[1]string theorysupergravity theoriesbranepoint particlepp[1][1]Branes are dynamical objects which can propagate through spacetime according to the rules of quantum mechanics. They have mass and can have other attributes such as charge. A p-brane sweeps out a (p+1)-dimensional volume in spacetime called its worldvolume. Physicists often study fields analogous to the electromagnetic field, which live on the worldvolume of a brane.[2]spacetimequantum mechanicschargeppworldvolumefieldselectromagnetic field[2][2]In string theory, D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a certain mathematical condition on the system known as the Dirichlet boundary condition. The study of D-branes in string theory has led to important results such as the AdS/CFT correspondence, which has shed light on many problems in quantum field theory.D-branesDirichlet boundary conditionAdS/CFT correspondencequantum field theoryBranes are also frequently studied from a purely mathematical point of view since they are related to subjects such as homological mirror symmetry and noncommutative geometry. Mathematically, branes may be represented as objects of certain categories, such as the derived category of coherent sheaves on a Calabi–Yau manifold, or the Fukaya category.purely mathematicalhomological mirror symmetrynoncommutative geometrycategoriesderived categorycoherent sheavesCalabi–Yau manifoldFukaya category
+
+Contents
+
+
+1 D-branes
+2 Mathematical viewpoint
+3 See also
+4 Notes
+5 References
+
+
+Contents
+Contents
+1 D-branes
+2 Mathematical viewpoint
+3 See also
+4 Notes
+5 References
+1 D-branes1 D-branes1D-branes2 Mathematical viewpoint2 Mathematical viewpoint2Mathematical viewpoint3 See also3 See also3See also4 Notes4 Notes4Notes5 References5 References5ReferencesD-branes[edit]D-branes[edit][edit]
+
+
+
+Open strings attached to a pair of D-branes
+
+
+
+
+Open strings attached to a pair of D-branes
+
+
+Open strings attached to a pair of D-branesD-branesMain article: D-braneD-braneIn string theory, a string may be open (forming a segment with two endpoints) or closed (forming a closed loop). D-branes are an important class of branes that arise when one considers open strings. As an open string propagates through spacetime, its endpoints are required to lie on a D-brane. The letter "D" in D-brane refers to a condition that it satisfies, the Dirichlet boundary condition.[3]string theorystringD-branesDirichlet boundary condition[3][3]One crucial point about D-branes is that the dynamics on the D-brane worldvolume is described by a gauge theory, a kind of highly symmetric physical theory which is also used to describe the behavior of elementary particles in the standard model of particle physics. This connection has led to many important insights into gauge theory. For example, it led to the discovery of the AdS/CFT correspondence, a theoretical tool that physicists use to translate difficult problems in gauge theory into more mathematically tractable problems in string theory.[4]gauge theorystandard model of particle physicsAdS/CFT correspondence[4][4]Mathematical viewpoint[edit]Mathematical viewpoint[edit][edit]Mathematically, branes can be described using the notion of a category.[5] This is a mathematical structure consisting of objects, and for any pair of objects, a set of morphisms between them. In most examples, the objects are mathematical structures (such as sets, vector spaces, or topological spaces) and the morphisms are functions between these structures.[6] One can also consider categories where the objects are D-branes and the morphisms between two branes  and  are states of open strings stretched between  and .[7]category[5][5]objectsmorphismsmorphismssetsvector spacestopological spacesfunctions[6][6]states[7][7]
+
+
+
+A cross section of a Calabi–Yau manifold
+
+
+
+
+A cross section of a Calabi–Yau manifold
+
+
+A cross section of a Calabi–Yau manifoldCalabi–Yau manifoldIn one version of string theory known as the topological B-model, the D-branes are complex submanifolds of certain six-dimensional shapes called Calabi–Yau manifolds, together with additional data that arise physically from having charges at the endpoints of strings.[8] Intuitively, one can think of a submanifold as a surface embedded inside of a Calabi–Yau manifold, although submanifolds can also exist in dimensions different from two.[9] In mathematical language, the category having these branes as its objects is known as the derived category of coherent sheaves on the Calabi–Yau.[10] In another version of string theory called the topological A-model, the D-branes can again be viewed as submanifolds of a Calabi–Yau manifold. Roughly speaking, they are what mathematicians call special Lagrangian submanifolds.[11] This means among other things that they have half the dimension of the space in which they sit, and they are length-, area-, or volume-minimizing.[12] The category having these branes as its objects is called the Fukaya category.[13]topological B-modelcomplex submanifoldsCalabi–Yau manifoldscharges[8][8][9][9]derived categorycoherent sheaves[10][10]topological A-modelspecial Lagrangian submanifolds[11][11][12][12]Fukaya category[13][13]The derived category of coherent sheaves is constructed using tools from complex geometry, a branch of mathematics that describes geometric curves in algebraic terms and solves geometric problems using algebraic equations.[14] On the other hand, the Fukaya category is constructed using symplectic geometry, a branch of mathematics that arose from studies of classical physics. Symplectic geometry studies spaces equipped with a symplectic form, a mathematical tool that can be used to compute area in two-dimensional examples.[15]complex geometryalgebraic equations[14][14]symplectic geometryclassical physicssymplectic formarea[15][15]The homological mirror symmetry conjecture of Maxim Kontsevich states that the derived category of coherent sheaves on one Calabi–Yau manifold is equivalent in a certain sense to the Fukaya category of a completely different Calabi–Yau manifold.[16] This equivalence provides an unexpected bridge between two branches of geometry, namely complex and symplectic geometry.[17]homological mirror symmetryMaxim Kontsevich[16][16][17][17]See also[edit]See also[edit][edit]
+Black brane
+Brane cosmology
+Dirac membrane
+M2-brane
+M5-brane
+NS5-brane
+Black braneBlack braneBrane cosmologyBrane cosmologyDirac membraneDirac membraneM2-braneM2-braneM5-braneM5-braneNS5-braneNS5-braneNotes[edit]Notes[edit][edit]
+
+^ Moore 2005, p. 214
+^ Moore 2005, p. 214
+^ Moore 2005, p. 215
+^ Moore 2005, p. 215
+^ Aspinwall et al. 2009
+^ A basic reference on category theory is Mac Lane 1998.
+^ Zaslow 2008, p. 536
+^ Zaslow 2008, p. 536
+^ Yau and Nadis 2010, p. 165
+^ Aspinwal et al. 2009, p. 575
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, p. 175
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, pp. 180–1
+^ Zaslow 2008, p. 531
+^ Aspinwall et al. 2009, p. 616
+^ Yau and Nadis 2010, p. 181
+
+
+^ Moore 2005, p. 214
+^ Moore 2005, p. 214
+^ Moore 2005, p. 215
+^ Moore 2005, p. 215
+^ Aspinwall et al. 2009
+^ A basic reference on category theory is Mac Lane 1998.
+^ Zaslow 2008, p. 536
+^ Zaslow 2008, p. 536
+^ Yau and Nadis 2010, p. 165
+^ Aspinwal et al. 2009, p. 575
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, p. 175
+^ Aspinwal et al. 2009, p. 575
+^ Yau and Nadis 2010, pp. 180–1
+^ Zaslow 2008, p. 531
+^ Aspinwall et al. 2009, p. 616
+^ Yau and Nadis 2010, p. 181
+^ Moore 2005, p. 214^^^Moore 2005, p. 214^ Moore 2005, p. 214^^^Moore 2005, p. 214^ Moore 2005, p. 215^^^Moore 2005, p. 215^ Moore 2005, p. 215^^^Moore 2005, p. 215^ Aspinwall et al. 2009^^^Aspinwall et al. 2009^ A basic reference on category theory is Mac Lane 1998.^^^A basic reference on category theory is Mac Lane 1998.^ Zaslow 2008, p. 536^^^Zaslow 2008, p. 536^ Zaslow 2008, p. 536^^^Zaslow 2008, p. 536^ Yau and Nadis 2010, p. 165^^^Yau and Nadis 2010, p. 165^ Aspinwal et al. 2009, p. 575^^^Aspinwal et al. 2009, p. 575^ Aspinwal et al. 2009, p. 575^^^Aspinwal et al. 2009, p. 575^ Yau and Nadis 2010, p. 175^^^Yau and Nadis 2010, p. 175^ Aspinwal et al. 2009, p. 575^^^Aspinwal et al. 2009, p. 575^ Yau and Nadis 2010, pp. 180–1^^^Yau and Nadis 2010, pp. 180–1^ Zaslow 2008, p. 531^^^Zaslow 2008, p. 531^ Aspinwall et al. 2009, p. 616^^^Aspinwall et al. 2009, p. 616^ Yau and Nadis 2010, p. 181^^^Yau and Nadis 2010, p. 181References[edit]References[edit][edit]
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2. 
+Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8.Dirichlet Branes and Mirror SymmetryISBN978-0-8218-3848-8  Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2. Mac Lane, Saunders (1998). Categories for the Working Mathematician. ISBN 978-0-387-98403-2.Categories for the Working MathematicianISBN978-0-387-98403-2  Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013. Moore, Gregory (2005). "What is ... a Brane?" (PDF). Notices of the AMS 52: 214. Retrieved June 2013."What is ... a Brane?"(PDF)Notices of the AMS52. Retrieved June 2013  Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2.The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden DimensionsISBN978-0-465-02023-2  Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2.The Princeton Companion to MathematicsThe Princeton Companion to MathematicsISBN978-0-691-11880-2  
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brane&oldid=714337937"					https://en.wikipedia.org/w/index.php?title=Brane&oldid=714337937Categories: Quantum field theoryString theoryHidden categories: Wikipedia indefinitely move-protected pagesCategories: Quantum field theoryString theoryCategoriesQuantum field theoryString theoryQuantum field theoryQuantum field theoryString theoryString theoryHidden categories: Wikipedia indefinitely move-protected pagesWikipedia indefinitely move-protected pagesWikipedia indefinitely move-protected pagesWikipedia indefinitely move-protected pages
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяБългарскиCatalàDeutschEspañolفارسیFrançaisBahasa IndonesiaItalianoעבריתLatinaLietuviųМакедонскиNederlandsਪੰਜਾਬੀPolskiPortuguêsРусскийSuomiSvenskaУкраїнськаWalon中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяБългарскиCatalàDeutschEspañolفارسیFrançaisBahasa IndonesiaItalianoעבריתLatinaLietuviųМакедонскиNederlandsਪੰਜਾਬੀPolskiPortuguêsРусскийSuomiSvenskaУкраїнськаWalon中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+БеларускаяБългарскиCatalàDeutschEspañolفارسیFrançaisBahasa IndonesiaItalianoעבריתLatinaLietuviųМакедонскиNederlandsਪੰਜਾਬੀPolskiPortuguêsРусскийSuomiSvenskaУкраїнськаWalon中文 
+Edit links 
+Languages
+
+БеларускаяБългарскиCatalàDeutschEspañolفارسیFrançaisBahasa IndonesiaItalianoעבריתLatinaLietuviųМакедонскиNederlandsਪੰਜਾਬੀPolskiPortuguêsРусскийSuomiSvenskaУкраїнськаWalon中文 
+Edit links 
+БеларускаяБългарскиCatalàDeutschEspañolفارسیFrançaisBahasa IndonesiaItalianoעבריתLatinaLietuviųМакедонскиNederlandsਪੰਜਾਬੀPolskiPortuguêsРусскийSuomiSvenskaУкраїнськаWalon中文 БеларускаяБеларускаяБългарскиБългарскиCatalàCatalàDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançaisBahasa IndonesiaBahasa IndonesiaItalianoItalianoעבריתעבריתLatinaLatinaLietuviųLietuviųМакедонскиМакедонскиNederlandsNederlandsਪੰਜਾਬੀਪੰਜਾਬੀPolskiPolskiPortuguêsPortuguêsРусскийРусскийSuomiSuomiSvenskaSvenskaУкраїнськаУкраїнськаWalonWalon中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 9 April 2016, at 03:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 9 April 2016, at 03:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 9 April 2016, at 03:41.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

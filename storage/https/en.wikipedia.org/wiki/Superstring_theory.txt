@@ -1,0 +1,2859 @@
+Superstring theory - Wikipedia, the free encyclopedia
+
+
+
+
+Superstring theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+"Superstring" redirects here. For the converse relation of "substring", see Superstring (formal languages). For the bundle of firecrackers, see Superstring (fireworks).
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Superstring theory is an attempt to explain all of the particles and fundamental forces of nature in one theory by modelling them as vibrations of tiny supersymmetric strings.
+'Superstring theory' is a shorthand for supersymmetric string theory because unlike bosonic string theory, it is the version of string theory that incorporates fermions and supersymmetry.[clarification needed]
+Since the second superstring revolution, the five superstring theories are regarded as different limits of a single theory tentatively called M-theory, or simply string theory.
+
+
+
+Contents
+
+
+1 Background
+2 History
+3 Lack of experimental evidence
+4 Extra dimensions
+5 Number of superstring theories
+6 Integrating general relativity and quantum mechanics
+7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+
+8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+
+Background[edit]
+The deepest problem in theoretical physics is harmonizing the theory of general relativity, which describes gravitation and applies to large-scale structures (stars, galaxies, super clusters), with quantum mechanics, which describes the other three fundamental forces acting on the atomic scale.
+The development of a quantum field theory of a force invariably results in infinite possibilities. Physicists have developed mathematical techniques (renormalization) to eliminate these infinities that work for three of the four fundamental forces—electromagnetic, strong nuclear and weak nuclear forces—but not for gravity. The development of a quantum theory of gravity must therefore come about by different means than those used for the other forces.[1]
+According to the theory, the fundamental constituents of reality are strings of the Planck length (about 10−33 cm) that vibrate at resonant frequencies. Every string, in theory, has a unique resonance, or harmonic. Different harmonics determine different fundamental particles. The tension in a string is on the order of the Planck force (1044 newtons). The graviton (the proposed messenger particle of the gravitational force), for example, is predicted by the theory to be a string with wave amplitude zero.
+History[edit]
+
+Main article History of string theory
+
+Since it beginnings in late sixties the theory was developed through several decades of intense research and combined effort of numerous scientists. It has developed into a broad and varied subject with connections to quantum gravity, particle and condensed matter physics, cosmology, and pure mathematics.
+Lack of experimental evidence[edit]
+Superstring theory is based on supersymmetry. No supersymmetric particles have been discovered and recent research at LHC and Tevatron has excluded some of the ranges.[2][3][4][5] For instance, the mass constraint of the Minimal Supersymmetric Standard Model squarks has been up to 1.1 TeV, and gluinos up to 500 GeV.[6] No report on suggesting large extra dimensions has been delivered from LHC. There have been no principles so far to limit the number of vacua in the concept of a landscape of vacua.[7]
+Some particle physicists became disappointed[8] by the lack of experimental verification of supersymmetry, and some have already discarded it; Jon Butterworth at the University College London said that we had no sign of supersymmetry, even in higher energy region, excluding the superpartners of the top quark up to a few TeV. Ben Allanach at the University of Cambridge states that if we do not discover any new particles in the next trial at the LHC, then we can say it is unlikely to discover supersymmetry at CERN in the foreseeable future.[8]
+Extra dimensions[edit]
+
+See also: Why does consistency require 10 dimensions?
+
+Our physical space is observed to have three large spatial dimensions and, along with time, is a boundless four-dimensional continuum known as spacetime. However, nothing prevents a theory from including more than 4 dimensions. In the case of string theory, consistency requires spacetime to have 10 (3+1+6) dimensions. The fact that we see only 3 dimensions of space can be explained by one of two mechanisms: either the extra dimensions are compactified on a very small scale, or else our world may live on a 3-dimensional submanifold corresponding to a brane, on which all known particles besides gravity would be restricted.
+If the extra dimensions are compactified, then the extra six dimensions must be in the form of a Calabi–Yau manifold. Within the more complete framework of M-theory, they would have to take form of a G2 manifold. Calabi-Yaus are interesting mathematical spaces in their own right. A particular exact symmetry of string/M-theory called T-duality (which exchanges momentum modes for winding number and sends compact dimensions of radius R to radius 1/R),[9] has led to the discovery of equivalences between different Calabi-Yaus called Mirror Symmetry.
+Superstring theory is not the first theory to propose extra spatial dimensions. It can be seen as building upon the Kaluza–Klein theory, which proposed a 4+1-dimensional theory of gravity. When compactified on a circle, the gravity in the extra dimension precisely describes electromagnetism from the perspective of the 3 remaining large space dimensions. Thus the original Kaluza–Klein theory is a prototype for the unification of gauge and gravity interactions, at least at the classical level, however it is known to be insufficient to describe nature for a variety of reasons (missing weak and strong forces, lack of parity violation, etc.) A more complex compact geometry is needed to reproduce the known gauge forces. Also, to obtain a consistent, fundamental, quantum theory requires the upgrade to string theory—not just the extra dimensions.
+Number of superstring theories[edit]
+Theoretical physicists were troubled by the existence of five separate string theories. A possible solution for this dilemma was suggested at the beginning of what is called the second superstring revolution in the 1990s, which suggests that the five string theories might be different limits of a single underlying theory, called M-theory. This remains a conjecture.[10]
+
+
+String theories
+
+
+Type
+Spacetime dimensions
+SUSY generators
+chiral
+open strings
+heterotic compactification
+gauge group
+tachyon
+
+
+Bosonic (closed)
+26
+N = 0
+no
+no
+no
+none
+yes
+
+
+Bosonic (open)
+26
+N = 0
+no
+yes
+no
+U(1)
+yes
+
+
+I
+10
+N = (1,0)
+yes
+yes
+no
+SO(32)
+no
+
+
+IIA
+10
+N = (1,1)
+no
+no
+no
+U(1)
+no
+
+
+IIB
+10
+N = (2,0)
+yes
+no
+no
+none
+no
+
+
+HO
+10
+N = (1,0)
+yes
+no
+yes
+SO(32)
+no
+
+
+HE
+10
+N = (1,0)
+yes
+no
+yes
+E8 × E8
+no
+
+
+M-theory
+11
+N = 1
+no
+no
+no
+none
+no
+
+
+The five consistent superstring theories are:
+
+The type I string has one supersymmetry in the ten-dimensional sense (16 supercharges). This theory is special in the sense that it is based on unoriented open and closed strings, while the rest are based on oriented closed strings.
+The type II string theories have two supersymmetries in the ten-dimensional sense (32 supercharges). There are actually two kinds of type II strings called type IIA and type IIB. They differ mainly in the fact that the IIA theory is non-chiral (parity conserving) while the IIB theory is chiral (parity violating).
+The heterotic string theories are based on a peculiar hybrid of a type I superstring and a bosonic string. There are two kinds of heterotic strings differing in their ten-dimensional gauge groups: the heterotic E8×E8 string and the heterotic SO(32) string. (The name heterotic SO(32) is slightly inaccurate since among the SO(32) Lie groups, string theory singles out a quotient Spin(32)/Z2 that is not equivalent to SO(32).)
+
+Chiral gauge theories can be inconsistent due to anomalies. This happens when certain one-loop Feynman diagrams cause a quantum mechanical breakdown of the gauge symmetry. The anomalies were canceled out via the Green–Schwarz mechanism.
+Even though there are only five superstring theories, making detailed predictions for real experiments requires information about exactly what physical configuration the theory is in. This considerably complicates efforts to test string theory because there is an astronomically high number – 10500 or more – of configurations that meet some of the basic requirements to be consistent with our world. Along with the extreme remoteness of the Planck scale, this is the other major reason it is hard to test superstring theory.
+Another approach to the number of superstring theories refers to the mathematical structure called composition algebra. In the findings of abstract algebra there are just seven composition algebras over the field of real numbers. In 1990 physicists R. Foot and G.C. Joshi in Australia stated that "the seven classical superstring theories are in one-to-one correspondence to the seven composition algebras."[11]
+Integrating general relativity and quantum mechanics[edit]
+General relativity typically deals with situations involving large mass objects in fairly large regions of spacetime whereas quantum mechanics is generally reserved for scenarios at the atomic scale (small spacetime regions). The two are very rarely used together, and the most common case that combines them is in the study of black holes. Having peak density, or the maximum amount of matter possible in a space, and very small area, the two must be used in synchrony to predict conditions in such places. Yet, when used together, the equations fall apart, spitting out impossible answers, such as imaginary distances and less than one dimension.
+The major problem with their congruence is that, at Planck scale (a fundamental small unit of length) lengths, general relativity predicts a smooth, flowing surface, while quantum mechanics predicts a random, warped surface, neither of which are anywhere near compatible. Superstring theory resolves this issue, replacing the classical idea of point particles with strings. These strings have an average diameter of the Planck length, with extremely small variances, which completely ignores the quantum mechanical predictions of Planck-scale length dimensional warping. Also, these surfaces can be maped as branes. These branes can be viewed as objects with a morphism between them. In this case, the morphism will be state of a string that stretches between brane A and brane B.
+Singularities are avoided because the observed consequences of "Big Crunches" never reach zero size. In fact, should the universe begin a "big crunch" sort of process, string theory dictates that the universe could never be smaller than the size of one string, at which point it would actually begin expanding.
+Mathematics[edit]
+D-branes[edit]
+D-branes are membrane-like objects in 10D string theory. They can be thought of as occurring as a result of a Kaluza–Klein compactification of 11D M-theory that contains membranes. Because compactification of a geometric theory produces extra vector fields the D-branes can be included in the action by adding an extra U(1) vector field to the string action.
+
+
+
+In type I open string theory, the ends of open strings are always attached to D-brane surfaces. A string theory with more gauge fields such as SU(2) gauge fields would then correspond to the compactification of some higher-dimensional theory above 11 dimensions, which is not thought to be possible to date. Furthemore, the tachyons attached to the D-branes, show, the instability of those d-branes with respect to the annihilation. We will consider that tachyon total energy is (or reflects) the total energy of the D-branes.
+Why five superstring theories?[edit]
+For a 10 dimensional supersymmetric theory we are allowed a 32-component Majorana spinor. This can be decomposed into a pair of 16-component Majorana-Weyl (chiral) spinors. There are then various ways to construct an invariant depending on whether these two spinors have the same or opposite chiralities:
+
+
+Superstring model
+Invariant
+
+
+Heterotic
+
+
+
+IIA
+
+
+
+IIB
+
+
+
+The heterotic superstrings come in two types SO(32) and E8×E8 as indicated above and the type I superstrings include open strings.
+Beyond superstring theory[edit]
+It is conceivable that the five superstring theories are approximated to a theory in higher dimensions possibly involving membranes. Because the action for this involves quartic terms and higher so is not Gaussian, the functional integrals are very difficult to solve and so this has confounded the top theoretical physicists. Edward Witten has popularised the concept of a theory in 11 dimensions M-theory involving membranes interpolating from the known symmetries of superstring theory. It may turn out that there exist membrane models or other non-membrane models in higher dimensions—which may become acceptable when we find new unknown symmetries of nature, such as noncommutative geometry. It is thought, however, that 16 is probably the maximum since O(16) is a maximal subgroup of E8 the largest exceptional lie group and also is more than large enough to contain the Standard Model. Quartic integrals of the non-functional kind are easier to solve so there is hope for the future. This is the series solution, which is always convergent when a is non-zero and negative:
+
+
+
+In the case of membranes the series would correspond to sums of various membrane interactions that are not seen in string theory.
+Compactification[edit]
+Investigating theories of higher dimensions often involves looking at the 10 dimensional superstring theory and interpreting some of the more obscure results in terms of compactified dimensions. For example, D-branes are seen as compactified membranes from 11D M-theory. Theories of higher dimensions such as 12D F-theory and beyond produce other effects, such as gauge terms higher than U(1). The components of the extra vector fields (A) in the D-brane actions can be thought of as extra coordinates (X) in disguise. However, the known symmetries including supersymmetry currently restrict the spinors to 32-components—which limits the number of dimensions to 11 (or 12 if you include two time dimensions.) Some commentators (e.g., John Baez et al.) have speculated that the exceptional lie groups E6, E7 and E8 having maximum orthogonal subgroups O(10), O(12) and O(16) may be related to theories in 10, 12 and 16 dimensions; 10 dimensions corresponding to string theory and the 12 and 16 dimensional theories being yet undiscovered but would be theories based on 3-branes and 7-branes respectively. However this is a minority view within the string community. Since E7 is in some sense F4 quaternified and E8 is F4 octonified, then the 12 and 16 dimensional theories, if they did exist, may involve the noncommutative geometry based on the quaternions and octonions respectively. From the above discussion, it can be seen that physicists have many ideas for extending superstring theory beyond the current 10 dimensional theory, but so far none have been successful.
+Kac–Moody algebras[edit]
+Since strings can have an infinite number of modes, the symmetry used to describe string theory is based on infinite dimensional Lie algebras. Some Kac–Moody algebras that have been considered as symmetries for M-theory have been E10 and E11 and their supersymmetric extensions.
+See also[edit]
+
+
+
+
+Physics portal
+
+
+
+
+AdS/CFT correspondence
+dS/CFT correspondence
+Grand unification theory
+Large Hadron Collider
+List of string theory topics
+Quantum gravity
+String field theory
+
+Notes[edit]
+
+
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.
+^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]
+^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. 
+^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. 
+^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. 
+^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. 
+^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.
+^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.
+^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. 
+
+
+References[edit]
+
+
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. 
+Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. 
+
+
+External links[edit]
+
+Wellcome Collection video on superstring theory
+The Official Superstring theory website: http://superstringtheory.com/index.html
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Superstring_theory&oldid=712328444"					
+Categories: String theorySupersymmetryPhysics beyond the Standard ModelHidden categories: Accuracy disputes from July 2013Articles needing additional references from November 2012All articles needing additional referencesWikipedia articles needing clarification from December 2015 
+
+
+Superstring theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+"Superstring" redirects here. For the converse relation of "substring", see Superstring (formal languages). For the bundle of firecrackers, see Superstring (fireworks).
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Superstring theory is an attempt to explain all of the particles and fundamental forces of nature in one theory by modelling them as vibrations of tiny supersymmetric strings.
+'Superstring theory' is a shorthand for supersymmetric string theory because unlike bosonic string theory, it is the version of string theory that incorporates fermions and supersymmetry.[clarification needed]
+Since the second superstring revolution, the five superstring theories are regarded as different limits of a single theory tentatively called M-theory, or simply string theory.
+
+
+
+Contents
+
+
+1 Background
+2 History
+3 Lack of experimental evidence
+4 Extra dimensions
+5 Number of superstring theories
+6 Integrating general relativity and quantum mechanics
+7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+
+8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+
+Background[edit]
+The deepest problem in theoretical physics is harmonizing the theory of general relativity, which describes gravitation and applies to large-scale structures (stars, galaxies, super clusters), with quantum mechanics, which describes the other three fundamental forces acting on the atomic scale.
+The development of a quantum field theory of a force invariably results in infinite possibilities. Physicists have developed mathematical techniques (renormalization) to eliminate these infinities that work for three of the four fundamental forces—electromagnetic, strong nuclear and weak nuclear forces—but not for gravity. The development of a quantum theory of gravity must therefore come about by different means than those used for the other forces.[1]
+According to the theory, the fundamental constituents of reality are strings of the Planck length (about 10−33 cm) that vibrate at resonant frequencies. Every string, in theory, has a unique resonance, or harmonic. Different harmonics determine different fundamental particles. The tension in a string is on the order of the Planck force (1044 newtons). The graviton (the proposed messenger particle of the gravitational force), for example, is predicted by the theory to be a string with wave amplitude zero.
+History[edit]
+
+Main article History of string theory
+
+Since it beginnings in late sixties the theory was developed through several decades of intense research and combined effort of numerous scientists. It has developed into a broad and varied subject with connections to quantum gravity, particle and condensed matter physics, cosmology, and pure mathematics.
+Lack of experimental evidence[edit]
+Superstring theory is based on supersymmetry. No supersymmetric particles have been discovered and recent research at LHC and Tevatron has excluded some of the ranges.[2][3][4][5] For instance, the mass constraint of the Minimal Supersymmetric Standard Model squarks has been up to 1.1 TeV, and gluinos up to 500 GeV.[6] No report on suggesting large extra dimensions has been delivered from LHC. There have been no principles so far to limit the number of vacua in the concept of a landscape of vacua.[7]
+Some particle physicists became disappointed[8] by the lack of experimental verification of supersymmetry, and some have already discarded it; Jon Butterworth at the University College London said that we had no sign of supersymmetry, even in higher energy region, excluding the superpartners of the top quark up to a few TeV. Ben Allanach at the University of Cambridge states that if we do not discover any new particles in the next trial at the LHC, then we can say it is unlikely to discover supersymmetry at CERN in the foreseeable future.[8]
+Extra dimensions[edit]
+
+See also: Why does consistency require 10 dimensions?
+
+Our physical space is observed to have three large spatial dimensions and, along with time, is a boundless four-dimensional continuum known as spacetime. However, nothing prevents a theory from including more than 4 dimensions. In the case of string theory, consistency requires spacetime to have 10 (3+1+6) dimensions. The fact that we see only 3 dimensions of space can be explained by one of two mechanisms: either the extra dimensions are compactified on a very small scale, or else our world may live on a 3-dimensional submanifold corresponding to a brane, on which all known particles besides gravity would be restricted.
+If the extra dimensions are compactified, then the extra six dimensions must be in the form of a Calabi–Yau manifold. Within the more complete framework of M-theory, they would have to take form of a G2 manifold. Calabi-Yaus are interesting mathematical spaces in their own right. A particular exact symmetry of string/M-theory called T-duality (which exchanges momentum modes for winding number and sends compact dimensions of radius R to radius 1/R),[9] has led to the discovery of equivalences between different Calabi-Yaus called Mirror Symmetry.
+Superstring theory is not the first theory to propose extra spatial dimensions. It can be seen as building upon the Kaluza–Klein theory, which proposed a 4+1-dimensional theory of gravity. When compactified on a circle, the gravity in the extra dimension precisely describes electromagnetism from the perspective of the 3 remaining large space dimensions. Thus the original Kaluza–Klein theory is a prototype for the unification of gauge and gravity interactions, at least at the classical level, however it is known to be insufficient to describe nature for a variety of reasons (missing weak and strong forces, lack of parity violation, etc.) A more complex compact geometry is needed to reproduce the known gauge forces. Also, to obtain a consistent, fundamental, quantum theory requires the upgrade to string theory—not just the extra dimensions.
+Number of superstring theories[edit]
+Theoretical physicists were troubled by the existence of five separate string theories. A possible solution for this dilemma was suggested at the beginning of what is called the second superstring revolution in the 1990s, which suggests that the five string theories might be different limits of a single underlying theory, called M-theory. This remains a conjecture.[10]
+
+
+String theories
+
+
+Type
+Spacetime dimensions
+SUSY generators
+chiral
+open strings
+heterotic compactification
+gauge group
+tachyon
+
+
+Bosonic (closed)
+26
+N = 0
+no
+no
+no
+none
+yes
+
+
+Bosonic (open)
+26
+N = 0
+no
+yes
+no
+U(1)
+yes
+
+
+I
+10
+N = (1,0)
+yes
+yes
+no
+SO(32)
+no
+
+
+IIA
+10
+N = (1,1)
+no
+no
+no
+U(1)
+no
+
+
+IIB
+10
+N = (2,0)
+yes
+no
+no
+none
+no
+
+
+HO
+10
+N = (1,0)
+yes
+no
+yes
+SO(32)
+no
+
+
+HE
+10
+N = (1,0)
+yes
+no
+yes
+E8 × E8
+no
+
+
+M-theory
+11
+N = 1
+no
+no
+no
+none
+no
+
+
+The five consistent superstring theories are:
+
+The type I string has one supersymmetry in the ten-dimensional sense (16 supercharges). This theory is special in the sense that it is based on unoriented open and closed strings, while the rest are based on oriented closed strings.
+The type II string theories have two supersymmetries in the ten-dimensional sense (32 supercharges). There are actually two kinds of type II strings called type IIA and type IIB. They differ mainly in the fact that the IIA theory is non-chiral (parity conserving) while the IIB theory is chiral (parity violating).
+The heterotic string theories are based on a peculiar hybrid of a type I superstring and a bosonic string. There are two kinds of heterotic strings differing in their ten-dimensional gauge groups: the heterotic E8×E8 string and the heterotic SO(32) string. (The name heterotic SO(32) is slightly inaccurate since among the SO(32) Lie groups, string theory singles out a quotient Spin(32)/Z2 that is not equivalent to SO(32).)
+
+Chiral gauge theories can be inconsistent due to anomalies. This happens when certain one-loop Feynman diagrams cause a quantum mechanical breakdown of the gauge symmetry. The anomalies were canceled out via the Green–Schwarz mechanism.
+Even though there are only five superstring theories, making detailed predictions for real experiments requires information about exactly what physical configuration the theory is in. This considerably complicates efforts to test string theory because there is an astronomically high number – 10500 or more – of configurations that meet some of the basic requirements to be consistent with our world. Along with the extreme remoteness of the Planck scale, this is the other major reason it is hard to test superstring theory.
+Another approach to the number of superstring theories refers to the mathematical structure called composition algebra. In the findings of abstract algebra there are just seven composition algebras over the field of real numbers. In 1990 physicists R. Foot and G.C. Joshi in Australia stated that "the seven classical superstring theories are in one-to-one correspondence to the seven composition algebras."[11]
+Integrating general relativity and quantum mechanics[edit]
+General relativity typically deals with situations involving large mass objects in fairly large regions of spacetime whereas quantum mechanics is generally reserved for scenarios at the atomic scale (small spacetime regions). The two are very rarely used together, and the most common case that combines them is in the study of black holes. Having peak density, or the maximum amount of matter possible in a space, and very small area, the two must be used in synchrony to predict conditions in such places. Yet, when used together, the equations fall apart, spitting out impossible answers, such as imaginary distances and less than one dimension.
+The major problem with their congruence is that, at Planck scale (a fundamental small unit of length) lengths, general relativity predicts a smooth, flowing surface, while quantum mechanics predicts a random, warped surface, neither of which are anywhere near compatible. Superstring theory resolves this issue, replacing the classical idea of point particles with strings. These strings have an average diameter of the Planck length, with extremely small variances, which completely ignores the quantum mechanical predictions of Planck-scale length dimensional warping. Also, these surfaces can be maped as branes. These branes can be viewed as objects with a morphism between them. In this case, the morphism will be state of a string that stretches between brane A and brane B.
+Singularities are avoided because the observed consequences of "Big Crunches" never reach zero size. In fact, should the universe begin a "big crunch" sort of process, string theory dictates that the universe could never be smaller than the size of one string, at which point it would actually begin expanding.
+Mathematics[edit]
+D-branes[edit]
+D-branes are membrane-like objects in 10D string theory. They can be thought of as occurring as a result of a Kaluza–Klein compactification of 11D M-theory that contains membranes. Because compactification of a geometric theory produces extra vector fields the D-branes can be included in the action by adding an extra U(1) vector field to the string action.
+
+
+
+In type I open string theory, the ends of open strings are always attached to D-brane surfaces. A string theory with more gauge fields such as SU(2) gauge fields would then correspond to the compactification of some higher-dimensional theory above 11 dimensions, which is not thought to be possible to date. Furthemore, the tachyons attached to the D-branes, show, the instability of those d-branes with respect to the annihilation. We will consider that tachyon total energy is (or reflects) the total energy of the D-branes.
+Why five superstring theories?[edit]
+For a 10 dimensional supersymmetric theory we are allowed a 32-component Majorana spinor. This can be decomposed into a pair of 16-component Majorana-Weyl (chiral) spinors. There are then various ways to construct an invariant depending on whether these two spinors have the same or opposite chiralities:
+
+
+Superstring model
+Invariant
+
+
+Heterotic
+
+
+
+IIA
+
+
+
+IIB
+
+
+
+The heterotic superstrings come in two types SO(32) and E8×E8 as indicated above and the type I superstrings include open strings.
+Beyond superstring theory[edit]
+It is conceivable that the five superstring theories are approximated to a theory in higher dimensions possibly involving membranes. Because the action for this involves quartic terms and higher so is not Gaussian, the functional integrals are very difficult to solve and so this has confounded the top theoretical physicists. Edward Witten has popularised the concept of a theory in 11 dimensions M-theory involving membranes interpolating from the known symmetries of superstring theory. It may turn out that there exist membrane models or other non-membrane models in higher dimensions—which may become acceptable when we find new unknown symmetries of nature, such as noncommutative geometry. It is thought, however, that 16 is probably the maximum since O(16) is a maximal subgroup of E8 the largest exceptional lie group and also is more than large enough to contain the Standard Model. Quartic integrals of the non-functional kind are easier to solve so there is hope for the future. This is the series solution, which is always convergent when a is non-zero and negative:
+
+
+
+In the case of membranes the series would correspond to sums of various membrane interactions that are not seen in string theory.
+Compactification[edit]
+Investigating theories of higher dimensions often involves looking at the 10 dimensional superstring theory and interpreting some of the more obscure results in terms of compactified dimensions. For example, D-branes are seen as compactified membranes from 11D M-theory. Theories of higher dimensions such as 12D F-theory and beyond produce other effects, such as gauge terms higher than U(1). The components of the extra vector fields (A) in the D-brane actions can be thought of as extra coordinates (X) in disguise. However, the known symmetries including supersymmetry currently restrict the spinors to 32-components—which limits the number of dimensions to 11 (or 12 if you include two time dimensions.) Some commentators (e.g., John Baez et al.) have speculated that the exceptional lie groups E6, E7 and E8 having maximum orthogonal subgroups O(10), O(12) and O(16) may be related to theories in 10, 12 and 16 dimensions; 10 dimensions corresponding to string theory and the 12 and 16 dimensional theories being yet undiscovered but would be theories based on 3-branes and 7-branes respectively. However this is a minority view within the string community. Since E7 is in some sense F4 quaternified and E8 is F4 octonified, then the 12 and 16 dimensional theories, if they did exist, may involve the noncommutative geometry based on the quaternions and octonions respectively. From the above discussion, it can be seen that physicists have many ideas for extending superstring theory beyond the current 10 dimensional theory, but so far none have been successful.
+Kac–Moody algebras[edit]
+Since strings can have an infinite number of modes, the symmetry used to describe string theory is based on infinite dimensional Lie algebras. Some Kac–Moody algebras that have been considered as symmetries for M-theory have been E10 and E11 and their supersymmetric extensions.
+See also[edit]
+
+
+
+
+Physics portal
+
+
+
+
+AdS/CFT correspondence
+dS/CFT correspondence
+Grand unification theory
+Large Hadron Collider
+List of string theory topics
+Quantum gravity
+String field theory
+
+Notes[edit]
+
+
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.
+^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]
+^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. 
+^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. 
+^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. 
+^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. 
+^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.
+^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.
+^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. 
+
+
+References[edit]
+
+
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. 
+Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. 
+
+
+External links[edit]
+
+Wellcome Collection video on superstring theory
+The Official Superstring theory website: http://superstringtheory.com/index.html
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Superstring_theory&oldid=712328444"					
+Categories: String theorySupersymmetryPhysics beyond the Standard ModelHidden categories: Accuracy disputes from July 2013Articles needing additional references from November 2012All articles needing additional referencesWikipedia articles needing clarification from December 2015 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch"Superstring" redirects here. For the converse relation of "substring", see Superstring (formal languages). For the bundle of firecrackers, see Superstring (fireworks).
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Superstring theory is an attempt to explain all of the particles and fundamental forces of nature in one theory by modelling them as vibrations of tiny supersymmetric strings.
+'Superstring theory' is a shorthand for supersymmetric string theory because unlike bosonic string theory, it is the version of string theory that incorporates fermions and supersymmetry.[clarification needed]
+Since the second superstring revolution, the five superstring theories are regarded as different limits of a single theory tentatively called M-theory, or simply string theory.
+
+
+
+Contents
+
+
+1 Background
+2 History
+3 Lack of experimental evidence
+4 Extra dimensions
+5 Number of superstring theories
+6 Integrating general relativity and quantum mechanics
+7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+
+8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+
+Background[edit]
+The deepest problem in theoretical physics is harmonizing the theory of general relativity, which describes gravitation and applies to large-scale structures (stars, galaxies, super clusters), with quantum mechanics, which describes the other three fundamental forces acting on the atomic scale.
+The development of a quantum field theory of a force invariably results in infinite possibilities. Physicists have developed mathematical techniques (renormalization) to eliminate these infinities that work for three of the four fundamental forces—electromagnetic, strong nuclear and weak nuclear forces—but not for gravity. The development of a quantum theory of gravity must therefore come about by different means than those used for the other forces.[1]
+According to the theory, the fundamental constituents of reality are strings of the Planck length (about 10−33 cm) that vibrate at resonant frequencies. Every string, in theory, has a unique resonance, or harmonic. Different harmonics determine different fundamental particles. The tension in a string is on the order of the Planck force (1044 newtons). The graviton (the proposed messenger particle of the gravitational force), for example, is predicted by the theory to be a string with wave amplitude zero.
+History[edit]
+
+Main article History of string theory
+
+Since it beginnings in late sixties the theory was developed through several decades of intense research and combined effort of numerous scientists. It has developed into a broad and varied subject with connections to quantum gravity, particle and condensed matter physics, cosmology, and pure mathematics.
+Lack of experimental evidence[edit]
+Superstring theory is based on supersymmetry. No supersymmetric particles have been discovered and recent research at LHC and Tevatron has excluded some of the ranges.[2][3][4][5] For instance, the mass constraint of the Minimal Supersymmetric Standard Model squarks has been up to 1.1 TeV, and gluinos up to 500 GeV.[6] No report on suggesting large extra dimensions has been delivered from LHC. There have been no principles so far to limit the number of vacua in the concept of a landscape of vacua.[7]
+Some particle physicists became disappointed[8] by the lack of experimental verification of supersymmetry, and some have already discarded it; Jon Butterworth at the University College London said that we had no sign of supersymmetry, even in higher energy region, excluding the superpartners of the top quark up to a few TeV. Ben Allanach at the University of Cambridge states that if we do not discover any new particles in the next trial at the LHC, then we can say it is unlikely to discover supersymmetry at CERN in the foreseeable future.[8]
+Extra dimensions[edit]
+
+See also: Why does consistency require 10 dimensions?
+
+Our physical space is observed to have three large spatial dimensions and, along with time, is a boundless four-dimensional continuum known as spacetime. However, nothing prevents a theory from including more than 4 dimensions. In the case of string theory, consistency requires spacetime to have 10 (3+1+6) dimensions. The fact that we see only 3 dimensions of space can be explained by one of two mechanisms: either the extra dimensions are compactified on a very small scale, or else our world may live on a 3-dimensional submanifold corresponding to a brane, on which all known particles besides gravity would be restricted.
+If the extra dimensions are compactified, then the extra six dimensions must be in the form of a Calabi–Yau manifold. Within the more complete framework of M-theory, they would have to take form of a G2 manifold. Calabi-Yaus are interesting mathematical spaces in their own right. A particular exact symmetry of string/M-theory called T-duality (which exchanges momentum modes for winding number and sends compact dimensions of radius R to radius 1/R),[9] has led to the discovery of equivalences between different Calabi-Yaus called Mirror Symmetry.
+Superstring theory is not the first theory to propose extra spatial dimensions. It can be seen as building upon the Kaluza–Klein theory, which proposed a 4+1-dimensional theory of gravity. When compactified on a circle, the gravity in the extra dimension precisely describes electromagnetism from the perspective of the 3 remaining large space dimensions. Thus the original Kaluza–Klein theory is a prototype for the unification of gauge and gravity interactions, at least at the classical level, however it is known to be insufficient to describe nature for a variety of reasons (missing weak and strong forces, lack of parity violation, etc.) A more complex compact geometry is needed to reproduce the known gauge forces. Also, to obtain a consistent, fundamental, quantum theory requires the upgrade to string theory—not just the extra dimensions.
+Number of superstring theories[edit]
+Theoretical physicists were troubled by the existence of five separate string theories. A possible solution for this dilemma was suggested at the beginning of what is called the second superstring revolution in the 1990s, which suggests that the five string theories might be different limits of a single underlying theory, called M-theory. This remains a conjecture.[10]
+
+
+String theories
+
+
+Type
+Spacetime dimensions
+SUSY generators
+chiral
+open strings
+heterotic compactification
+gauge group
+tachyon
+
+
+Bosonic (closed)
+26
+N = 0
+no
+no
+no
+none
+yes
+
+
+Bosonic (open)
+26
+N = 0
+no
+yes
+no
+U(1)
+yes
+
+
+I
+10
+N = (1,0)
+yes
+yes
+no
+SO(32)
+no
+
+
+IIA
+10
+N = (1,1)
+no
+no
+no
+U(1)
+no
+
+
+IIB
+10
+N = (2,0)
+yes
+no
+no
+none
+no
+
+
+HO
+10
+N = (1,0)
+yes
+no
+yes
+SO(32)
+no
+
+
+HE
+10
+N = (1,0)
+yes
+no
+yes
+E8 × E8
+no
+
+
+M-theory
+11
+N = 1
+no
+no
+no
+none
+no
+
+
+The five consistent superstring theories are:
+
+The type I string has one supersymmetry in the ten-dimensional sense (16 supercharges). This theory is special in the sense that it is based on unoriented open and closed strings, while the rest are based on oriented closed strings.
+The type II string theories have two supersymmetries in the ten-dimensional sense (32 supercharges). There are actually two kinds of type II strings called type IIA and type IIB. They differ mainly in the fact that the IIA theory is non-chiral (parity conserving) while the IIB theory is chiral (parity violating).
+The heterotic string theories are based on a peculiar hybrid of a type I superstring and a bosonic string. There are two kinds of heterotic strings differing in their ten-dimensional gauge groups: the heterotic E8×E8 string and the heterotic SO(32) string. (The name heterotic SO(32) is slightly inaccurate since among the SO(32) Lie groups, string theory singles out a quotient Spin(32)/Z2 that is not equivalent to SO(32).)
+
+Chiral gauge theories can be inconsistent due to anomalies. This happens when certain one-loop Feynman diagrams cause a quantum mechanical breakdown of the gauge symmetry. The anomalies were canceled out via the Green–Schwarz mechanism.
+Even though there are only five superstring theories, making detailed predictions for real experiments requires information about exactly what physical configuration the theory is in. This considerably complicates efforts to test string theory because there is an astronomically high number – 10500 or more – of configurations that meet some of the basic requirements to be consistent with our world. Along with the extreme remoteness of the Planck scale, this is the other major reason it is hard to test superstring theory.
+Another approach to the number of superstring theories refers to the mathematical structure called composition algebra. In the findings of abstract algebra there are just seven composition algebras over the field of real numbers. In 1990 physicists R. Foot and G.C. Joshi in Australia stated that "the seven classical superstring theories are in one-to-one correspondence to the seven composition algebras."[11]
+Integrating general relativity and quantum mechanics[edit]
+General relativity typically deals with situations involving large mass objects in fairly large regions of spacetime whereas quantum mechanics is generally reserved for scenarios at the atomic scale (small spacetime regions). The two are very rarely used together, and the most common case that combines them is in the study of black holes. Having peak density, or the maximum amount of matter possible in a space, and very small area, the two must be used in synchrony to predict conditions in such places. Yet, when used together, the equations fall apart, spitting out impossible answers, such as imaginary distances and less than one dimension.
+The major problem with their congruence is that, at Planck scale (a fundamental small unit of length) lengths, general relativity predicts a smooth, flowing surface, while quantum mechanics predicts a random, warped surface, neither of which are anywhere near compatible. Superstring theory resolves this issue, replacing the classical idea of point particles with strings. These strings have an average diameter of the Planck length, with extremely small variances, which completely ignores the quantum mechanical predictions of Planck-scale length dimensional warping. Also, these surfaces can be maped as branes. These branes can be viewed as objects with a morphism between them. In this case, the morphism will be state of a string that stretches between brane A and brane B.
+Singularities are avoided because the observed consequences of "Big Crunches" never reach zero size. In fact, should the universe begin a "big crunch" sort of process, string theory dictates that the universe could never be smaller than the size of one string, at which point it would actually begin expanding.
+Mathematics[edit]
+D-branes[edit]
+D-branes are membrane-like objects in 10D string theory. They can be thought of as occurring as a result of a Kaluza–Klein compactification of 11D M-theory that contains membranes. Because compactification of a geometric theory produces extra vector fields the D-branes can be included in the action by adding an extra U(1) vector field to the string action.
+
+
+
+In type I open string theory, the ends of open strings are always attached to D-brane surfaces. A string theory with more gauge fields such as SU(2) gauge fields would then correspond to the compactification of some higher-dimensional theory above 11 dimensions, which is not thought to be possible to date. Furthemore, the tachyons attached to the D-branes, show, the instability of those d-branes with respect to the annihilation. We will consider that tachyon total energy is (or reflects) the total energy of the D-branes.
+Why five superstring theories?[edit]
+For a 10 dimensional supersymmetric theory we are allowed a 32-component Majorana spinor. This can be decomposed into a pair of 16-component Majorana-Weyl (chiral) spinors. There are then various ways to construct an invariant depending on whether these two spinors have the same or opposite chiralities:
+
+
+Superstring model
+Invariant
+
+
+Heterotic
+
+
+
+IIA
+
+
+
+IIB
+
+
+
+The heterotic superstrings come in two types SO(32) and E8×E8 as indicated above and the type I superstrings include open strings.
+Beyond superstring theory[edit]
+It is conceivable that the five superstring theories are approximated to a theory in higher dimensions possibly involving membranes. Because the action for this involves quartic terms and higher so is not Gaussian, the functional integrals are very difficult to solve and so this has confounded the top theoretical physicists. Edward Witten has popularised the concept of a theory in 11 dimensions M-theory involving membranes interpolating from the known symmetries of superstring theory. It may turn out that there exist membrane models or other non-membrane models in higher dimensions—which may become acceptable when we find new unknown symmetries of nature, such as noncommutative geometry. It is thought, however, that 16 is probably the maximum since O(16) is a maximal subgroup of E8 the largest exceptional lie group and also is more than large enough to contain the Standard Model. Quartic integrals of the non-functional kind are easier to solve so there is hope for the future. This is the series solution, which is always convergent when a is non-zero and negative:
+
+
+
+In the case of membranes the series would correspond to sums of various membrane interactions that are not seen in string theory.
+Compactification[edit]
+Investigating theories of higher dimensions often involves looking at the 10 dimensional superstring theory and interpreting some of the more obscure results in terms of compactified dimensions. For example, D-branes are seen as compactified membranes from 11D M-theory. Theories of higher dimensions such as 12D F-theory and beyond produce other effects, such as gauge terms higher than U(1). The components of the extra vector fields (A) in the D-brane actions can be thought of as extra coordinates (X) in disguise. However, the known symmetries including supersymmetry currently restrict the spinors to 32-components—which limits the number of dimensions to 11 (or 12 if you include two time dimensions.) Some commentators (e.g., John Baez et al.) have speculated that the exceptional lie groups E6, E7 and E8 having maximum orthogonal subgroups O(10), O(12) and O(16) may be related to theories in 10, 12 and 16 dimensions; 10 dimensions corresponding to string theory and the 12 and 16 dimensional theories being yet undiscovered but would be theories based on 3-branes and 7-branes respectively. However this is a minority view within the string community. Since E7 is in some sense F4 quaternified and E8 is F4 octonified, then the 12 and 16 dimensional theories, if they did exist, may involve the noncommutative geometry based on the quaternions and octonions respectively. From the above discussion, it can be seen that physicists have many ideas for extending superstring theory beyond the current 10 dimensional theory, but so far none have been successful.
+Kac–Moody algebras[edit]
+Since strings can have an infinite number of modes, the symmetry used to describe string theory is based on infinite dimensional Lie algebras. Some Kac–Moody algebras that have been considered as symmetries for M-theory have been E10 and E11 and their supersymmetric extensions.
+See also[edit]
+
+
+
+
+Physics portal
+
+
+
+
+AdS/CFT correspondence
+dS/CFT correspondence
+Grand unification theory
+Large Hadron Collider
+List of string theory topics
+Quantum gravity
+String field theory
+
+Notes[edit]
+
+
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.
+^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]
+^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. 
+^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. 
+^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. 
+^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. 
+^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.
+^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.
+^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. 
+
+
+References[edit]
+
+
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. 
+Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. 
+
+
+External links[edit]
+
+Wellcome Collection video on superstring theory
+The Official Superstring theory website: http://superstringtheory.com/index.html
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+
+
+
+
+"Superstring" redirects here. For the converse relation of "substring", see Superstring (formal languages). For the bundle of firecrackers, see Superstring (fireworks).Superstring (formal languages)Superstring (fireworks)
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2012)needs additional citations for verificationverificationPlease help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.improve this articleadding citations to reliable sources(November 2012)(November 2012)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeSuperstring theory is an attempt to explain all of the particles and fundamental forces of nature in one theory by modelling them as vibrations of tiny supersymmetric strings.Superstring theoryattempt to explain allparticlesfundamental forcessupersymmetricstrings'Superstring theory' is a shorthand for supersymmetric string theory because unlike bosonic string theory, it is the version of string theory that incorporates fermions and supersymmetry.[clarification needed]supersymmetric string theorybosonic string theorystring theoryfermions[clarification needed]clarification neededclarification neededclarification neededSince the second superstring revolution, the five superstring theories are regarded as different limits of a single theory tentatively called M-theory, or simply string theory.second superstring revolutionM-theorystring theory
+
+Contents
+
+
+1 Background
+2 History
+3 Lack of experimental evidence
+4 Extra dimensions
+5 Number of superstring theories
+6 Integrating general relativity and quantum mechanics
+7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+
+8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+Contents
+Contents
+1 Background
+2 History
+3 Lack of experimental evidence
+4 Extra dimensions
+5 Number of superstring theories
+6 Integrating general relativity and quantum mechanics
+7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+
+8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+1 Background1 Background1Background2 History2 History2History3 Lack of experimental evidence3 Lack of experimental evidence3Lack of experimental evidence4 Extra dimensions4 Extra dimensions4Extra dimensions5 Number of superstring theories5 Number of superstring theories5Number of superstring theories6 Integrating general relativity and quantum mechanics6 Integrating general relativity and quantum mechanics6Integrating general relativity and quantum mechanics7 Mathematics
+
+7.1 D-branes
+7.2 Why five superstring theories?
+
+7 Mathematics7Mathematics
+7.1 D-branes
+7.2 Why five superstring theories?
+7.1 D-branes7.1 D-branes7.1D-branes7.2 Why five superstring theories?7.2 Why five superstring theories?7.2Why five superstring theories?8 Beyond superstring theory
+
+8.1 Compactification
+8.2 Kac–Moody algebras
+
+8 Beyond superstring theory8Beyond superstring theory
+8.1 Compactification
+8.2 Kac–Moody algebras
+8.1 Compactification8.1 Compactification8.1Compactification8.2 Kac–Moody algebras8.2 Kac–Moody algebras8.2Kac–Moody algebras9 See also9 See also9See also10 Notes10 Notes10Notes11 References11 References11References12 External links12 External links12External linksBackground[edit]Background[edit][edit]The deepest problem in theoretical physics is harmonizing the theory of general relativity, which describes gravitation and applies to large-scale structures (stars, galaxies, super clusters), with quantum mechanics, which describes the other three fundamental forces acting on the atomic scale.theoretical physicsgeneral relativitystarsgalaxiessuper clustersquantum mechanicsfundamental forcesThe development of a quantum field theory of a force invariably results in infinite possibilities. Physicists have developed mathematical techniques (renormalization) to eliminate these infinities that work for three of the four fundamental forces—electromagnetic, strong nuclear and weak nuclear forces—but not for gravity. The development of a quantum theory of gravity must therefore come about by different means than those used for the other forces.[1]quantum field theoryrenormalizationelectromagneticstrong nuclearweak nucleargravityquantum theory of gravity[1][1]According to the theory, the fundamental constituents of reality are strings of the Planck length (about 10−33 cm) that vibrate at resonant frequencies. Every string, in theory, has a unique resonance, or harmonic. Different harmonics determine different fundamental particles. The tension in a string is on the order of the Planck force (1044 newtons). The graviton (the proposed messenger particle of the gravitational force), for example, is predicted by the theory to be a string with wave amplitude zero.Planck length−33resonantPlanck force44newtonsgravitonmessenger particleHistory[edit]History[edit][edit]
+Main article History of string theory
+Main article History of string theoryMain article History of string theoryHistory of string theorySince it beginnings in late sixties the theory was developed through several decades of intense research and combined effort of numerous scientists. It has developed into a broad and varied subject with connections to quantum gravity, particle and condensed matter physics, cosmology, and pure mathematics.Lack of experimental evidence[edit]Lack of experimental evidence[edit][edit]Superstring theory is based on supersymmetry. No supersymmetric particles have been discovered and recent research at LHC and Tevatron has excluded some of the ranges.[2][3][4][5] For instance, the mass constraint of the Minimal Supersymmetric Standard Model squarks has been up to 1.1 TeV, and gluinos up to 500 GeV.[6] No report on suggesting large extra dimensions has been delivered from LHC. There have been no principles so far to limit the number of vacua in the concept of a landscape of vacua.[7]supersymmetryLHCTevatron[2][2][3][3][4][4][5][5]Minimal Supersymmetric Standard Modelsquarksgluinos[6][6]large extra dimensions[7][7]Some particle physicists became disappointed[8] by the lack of experimental verification of supersymmetry, and some have already discarded it; Jon Butterworth at the University College London said that we had no sign of supersymmetry, even in higher energy region, excluding the superpartners of the top quark up to a few TeV. Ben Allanach at the University of Cambridge states that if we do not discover any new particles in the next trial at the LHC, then we can say it is unlikely to discover supersymmetry at CERN in the foreseeable future.[8][8][8][8][8]Extra dimensions[edit]Extra dimensions[edit][edit]
+See also: Why does consistency require 10 dimensions?
+See also: Why does consistency require 10 dimensions?See also: Why does consistency require 10 dimensions?10 dimensionsOur physical space is observed to have three large spatial dimensions and, along with time, is a boundless four-dimensional continuum known as spacetime. However, nothing prevents a theory from including more than 4 dimensions. In the case of string theory, consistency requires spacetime to have 10 (3+1+6) dimensions. The fact that we see only 3 dimensions of space can be explained by one of two mechanisms: either the extra dimensions are compactified on a very small scale, or else our world may live on a 3-dimensional submanifold corresponding to a brane, on which all known particles besides gravity would be restricted.physical spacethree large spatialdimensionstimecontinuumspacetimestring theoryconsistencyspacetimecompactifiedsubmanifoldbraneIf the extra dimensions are compactified, then the extra six dimensions must be in the form of a Calabi–Yau manifold. Within the more complete framework of M-theory, they would have to take form of a G2 manifold. Calabi-Yaus are interesting mathematical spaces in their own right. A particular exact symmetry of string/M-theory called T-duality (which exchanges momentum modes for winding number and sends compact dimensions of radius R to radius 1/R),[9] has led to the discovery of equivalences between different Calabi-Yaus called Mirror Symmetry.Calabi–Yau manifoldM-theoryG2 manifoldCalabi-YausT-dualitywinding number[9][9]Calabi-YausMirror SymmetrySuperstring theory is not the first theory to propose extra spatial dimensions. It can be seen as building upon the Kaluza–Klein theory, which proposed a 4+1-dimensional theory of gravity. When compactified on a circle, the gravity in the extra dimension precisely describes electromagnetism from the perspective of the 3 remaining large space dimensions. Thus the original Kaluza–Klein theory is a prototype for the unification of gauge and gravity interactions, at least at the classical level, however it is known to be insufficient to describe nature for a variety of reasons (missing weak and strong forces, lack of parity violation, etc.) A more complex compact geometry is needed to reproduce the known gauge forces. Also, to obtain a consistent, fundamental, quantum theory requires the upgrade to string theory—not just the extra dimensions.Kaluza–Klein theoryelectromagnetismNumber of superstring theories[edit]Number of superstring theories[edit][edit]Theoretical physicists were troubled by the existence of five separate string theories. A possible solution for this dilemma was suggested at the beginning of what is called the second superstring revolution in the 1990s, which suggests that the five string theories might be different limits of a single underlying theory, called M-theory. This remains a conjecture.[10]second superstring revolutionM-theoryconjecture[10][10]
+
+String theories
+
+
+Type
+Spacetime dimensions
+SUSY generators
+chiral
+open strings
+heterotic compactification
+gauge group
+tachyon
+
+
+Bosonic (closed)
+26
+N = 0
+no
+no
+no
+none
+yes
+
+
+Bosonic (open)
+26
+N = 0
+no
+yes
+no
+U(1)
+yes
+
+
+I
+10
+N = (1,0)
+yes
+yes
+no
+SO(32)
+no
+
+
+IIA
+10
+N = (1,1)
+no
+no
+no
+U(1)
+no
+
+
+IIB
+10
+N = (2,0)
+yes
+no
+no
+none
+no
+
+
+HO
+10
+N = (1,0)
+yes
+no
+yes
+SO(32)
+no
+
+
+HE
+10
+N = (1,0)
+yes
+no
+yes
+E8 × E8
+no
+
+
+M-theory
+11
+N = 1
+no
+no
+no
+none
+no
+
+
+String theories
+String theories
+Type
+Spacetime dimensions
+SUSY generators
+chiral
+open strings
+heterotic compactification
+gauge group
+tachyon
+TypeSpacetime dimensionsSpacetime dimensionsSUSY generatorschiralopen stringsheterotic compactificationgauge grouptachyon
+Bosonic (closed)
+26
+N = 0
+no
+no
+no
+none
+yes
+Bosonic (closed)26N = 0nononononeyes
+Bosonic (open)
+26
+N = 0
+no
+yes
+no
+U(1)
+yes
+Bosonic (open)26N = 0noyesnoU(1)yes
+I
+10
+N = (1,0)
+yes
+yes
+no
+SO(32)
+no
+I10N = (1,0)yesyesnoSO(32)no
+IIA
+10
+N = (1,1)
+no
+no
+no
+U(1)
+no
+IIA10N = (1,1)nononoU(1)no
+IIB
+10
+N = (2,0)
+yes
+no
+no
+none
+no
+IIB10N = (2,0)yesnonononeno
+HO
+10
+N = (1,0)
+yes
+no
+yes
+SO(32)
+no
+HO10N = (1,0)yesnoyesSO(32)no
+HE
+10
+N = (1,0)
+yes
+no
+yes
+E8 × E8
+no
+HE10N = (1,0)yesnoyesE8 × E888no
+M-theory
+11
+N = 1
+no
+no
+no
+none
+no
+M-theory11N = 1nononononenoThe five consistent superstring theories are:
+The type I string has one supersymmetry in the ten-dimensional sense (16 supercharges). This theory is special in the sense that it is based on unoriented open and closed strings, while the rest are based on oriented closed strings.
+The type II string theories have two supersymmetries in the ten-dimensional sense (32 supercharges). There are actually two kinds of type II strings called type IIA and type IIB. They differ mainly in the fact that the IIA theory is non-chiral (parity conserving) while the IIB theory is chiral (parity violating).
+The heterotic string theories are based on a peculiar hybrid of a type I superstring and a bosonic string. There are two kinds of heterotic strings differing in their ten-dimensional gauge groups: the heterotic E8×E8 string and the heterotic SO(32) string. (The name heterotic SO(32) is slightly inaccurate since among the SO(32) Lie groups, string theory singles out a quotient Spin(32)/Z2 that is not equivalent to SO(32).)
+The type I string has one supersymmetry in the ten-dimensional sense (16 supercharges). This theory is special in the sense that it is based on unoriented open and closed strings, while the rest are based on oriented closed strings.type I stringopenclosed stringsThe type II string theories have two supersymmetries in the ten-dimensional sense (32 supercharges). There are actually two kinds of type II strings called type IIA and type IIB. They differ mainly in the fact that the IIA theory is non-chiral (parity conserving) while the IIB theory is chiral (parity violating).type II stringchiralThe heterotic string theories are based on a peculiar hybrid of a type I superstring and a bosonic string. There are two kinds of heterotic strings differing in their ten-dimensional gauge groups: the heterotic E8×E8 string and the heterotic SO(32) string. (The name heterotic SO(32) is slightly inaccurate since among the SO(32) Lie groups, string theory singles out a quotient Spin(32)/Z2 that is not equivalent to SO(32).)heterotic stringgauge groupsE8×E8E8E8SO(32)Lie groups2Chiral gauge theories can be inconsistent due to anomalies. This happens when certain one-loop Feynman diagrams cause a quantum mechanical breakdown of the gauge symmetry. The anomalies were canceled out via the Green–Schwarz mechanism.gauge theoriesanomaliesFeynman diagramsGreen–Schwarz mechanismEven though there are only five superstring theories, making detailed predictions for real experiments requires information about exactly what physical configuration the theory is in. This considerably complicates efforts to test string theory because there is an astronomically high number – 10500 or more – of configurations that meet some of the basic requirements to be consistent with our world. Along with the extreme remoteness of the Planck scale, this is the other major reason it is hard to test superstring theory.500Another approach to the number of superstring theories refers to the mathematical structure called composition algebra. In the findings of abstract algebra there are just seven composition algebras over the field of real numbers. In 1990 physicists R. Foot and G.C. Joshi in Australia stated that "the seven classical superstring theories are in one-to-one correspondence to the seven composition algebras."[11]mathematical structurecomposition algebraabstract algebrafieldreal numbers[11][11]Integrating general relativity and quantum mechanics[edit]Integrating general relativity and quantum mechanics[edit][edit]General relativity typically deals with situations involving large mass objects in fairly large regions of spacetime whereas quantum mechanics is generally reserved for scenarios at the atomic scale (small spacetime regions). The two are very rarely used together, and the most common case that combines them is in the study of black holes. Having peak density, or the maximum amount of matter possible in a space, and very small area, the two must be used in synchrony to predict conditions in such places. Yet, when used together, the equations fall apart, spitting out impossible answers, such as imaginary distances and less than one dimension.General relativityspacetimequantum mechanicsblack holespeak densityThe major problem with their congruence is that, at Planck scale (a fundamental small unit of length) lengths, general relativity predicts a smooth, flowing surface, while quantum mechanics predicts a random, warped surface, neither of which are anywhere near compatible. Superstring theory resolves this issue, replacing the classical idea of point particles with strings. These strings have an average diameter of the Planck length, with extremely small variances, which completely ignores the quantum mechanical predictions of Planck-scale length dimensional warping. Also, these surfaces can be maped as branes. These branes can be viewed as objects with a morphism between them. In this case, the morphism will be state of a string that stretches between brane A and brane B.Planck scalePlanck lengthSingularities are avoided because the observed consequences of "Big Crunches" never reach zero size. In fact, should the universe begin a "big crunch" sort of process, string theory dictates that the universe could never be smaller than the size of one string, at which point it would actually begin expanding.SingularitiesBig CrunchesMathematics[edit]Mathematics[edit][edit]D-branes[edit]D-branes[edit][edit]D-branes are membrane-like objects in 10D string theory. They can be thought of as occurring as a result of a Kaluza–Klein compactification of 11D M-theory that contains membranes. Because compactification of a geometric theory produces extra vector fields the D-branes can be included in the action by adding an extra U(1) vector field to the string action.Kaluza–Kleinvector fields
+
+In type I open string theory, the ends of open strings are always attached to D-brane surfaces. A string theory with more gauge fields such as SU(2) gauge fields would then correspond to the compactification of some higher-dimensional theory above 11 dimensions, which is not thought to be possible to date. Furthemore, the tachyons attached to the D-branes, show, the instability of those d-branes with respect to the annihilation. We will consider that tachyon total energy is (or reflects) the total energy of the D-branes.type IWhy five superstring theories?[edit]Why five superstring theories?[edit][edit]For a 10 dimensional supersymmetric theory we are allowed a 32-component Majorana spinor. This can be decomposed into a pair of 16-component Majorana-Weyl (chiral) spinors. There are then various ways to construct an invariant depending on whether these two spinors have the same or opposite chiralities:spinors
+
+Superstring model
+Invariant
+
+
+Heterotic
+
+
+
+IIA
+
+
+
+IIB
+
+
+
+Superstring model
+Invariant
+Superstring modelInvariant
+Heterotic
+
+Heterotic
+IIA
+
+IIA
+IIB
+
+IIBThe heterotic superstrings come in two types SO(32) and E8×E8 as indicated above and the type I superstrings include open strings.88Beyond superstring theory[edit]Beyond superstring theory[edit][edit]It is conceivable that the five superstring theories are approximated to a theory in higher dimensions possibly involving membranes. Because the action for this involves quartic terms and higher so is not Gaussian, the functional integrals are very difficult to solve and so this has confounded the top theoretical physicists. Edward Witten has popularised the concept of a theory in 11 dimensions M-theory involving membranes interpolating from the known symmetries of superstring theory. It may turn out that there exist membrane models or other non-membrane models in higher dimensions—which may become acceptable when we find new unknown symmetries of nature, such as noncommutative geometry. It is thought, however, that 16 is probably the maximum since O(16) is a maximal subgroup of E8 the largest exceptional lie group and also is more than large enough to contain the Standard Model. Quartic integrals of the non-functional kind are easier to solve so there is hope for the future. This is the series solution, which is always convergent when a is non-zero and negative:GaussianEdward WittenStandard Model
+
+In the case of membranes the series would correspond to sums of various membrane interactions that are not seen in string theory.Compactification[edit]Compactification[edit][edit]Investigating theories of higher dimensions often involves looking at the 10 dimensional superstring theory and interpreting some of the more obscure results in terms of compactified dimensions. For example, D-branes are seen as compactified membranes from 11D M-theory. Theories of higher dimensions such as 12D F-theory and beyond produce other effects, such as gauge terms higher than U(1). The components of the extra vector fields (A) in the D-brane actions can be thought of as extra coordinates (X) in disguise. However, the known symmetries including supersymmetry currently restrict the spinors to 32-components—which limits the number of dimensions to 11 (or 12 if you include two time dimensions.) Some commentators (e.g., John Baez et al.) have speculated that the exceptional lie groups E6, E7 and E8 having maximum orthogonal subgroups O(10), O(12) and O(16) may be related to theories in 10, 12 and 16 dimensions; 10 dimensions corresponding to string theory and the 12 and 16 dimensional theories being yet undiscovered but would be theories based on 3-branes and 7-branes respectively. However this is a minority view within the string community. Since E7 is in some sense F4 quaternified and E8 is F4 octonified, then the 12 and 16 dimensional theories, if they did exist, may involve the noncommutative geometry based on the quaternions and octonions respectively. From the above discussion, it can be seen that physicists have many ideas for extending superstring theory beyond the current 10 dimensional theory, but so far none have been successful.D-branesUknownsupersymmetryspinorsJohn Baezlie groups6787484noncommutative geometryquaternionsoctonionsKac–Moody algebras[edit]Kac–Moody algebras[edit][edit]Since strings can have an infinite number of modes, the symmetry used to describe string theory is based on infinite dimensional Lie algebras. Some Kac–Moody algebras that have been considered as symmetries for M-theory have been E10 and E11 and their supersymmetric extensions.Kac–Moody algebrasM-theory1011See also[edit]See also[edit][edit]
+
+
+
+Physics portal
+
+
+
+
+
+Physics portal
+
+
+
+Physics portal
+Physics portalPhysics portal
+AdS/CFT correspondence
+dS/CFT correspondence
+Grand unification theory
+Large Hadron Collider
+List of string theory topics
+Quantum gravity
+String field theory
+AdS/CFT correspondenceAdS/CFT correspondencedS/CFT correspondencedS/CFT correspondenceGrand unification theoryGrand unification theoryLarge Hadron ColliderLarge Hadron ColliderList of string theory topicsList of string theory topicsQuantum gravityQuantum gravityString field theoryString field theoryNotes[edit]Notes[edit][edit]
+
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.
+^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]
+^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. 
+^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. 
+^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. 
+^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. 
+^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.
+^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.
+^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. 
+
+
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.
+^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]
+^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. 
+^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. 
+^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. 
+^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. 
+^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.
+^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.
+^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. 
+^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.^^^Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 4.String Theory: Volume I^ Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]^^^Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry". [self-published source?]Woit, Peter (February 22, 2011). "Implications of Initial LHC Searches for Supersymmetry"."Implications of Initial LHC Searches for Supersymmetry"  [self-published source?]self-published source?self-published source?self-published source?^ Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. ^^^Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120. Cassel, S.; Ghilencea, D. M.; Kraml, S.; Lessa, A.; Ross, G. G. (2011). "Fine-tuning implications for complementary dark matter and LHC SUSY searches". Journal of High Energy Physics 2011 (5): 120. arXiv:1101.4664. Bibcode:2011JHEP...05..120C. doi:10.1007/JHEP05(2011)120.Journal of High Energy Physics2011arXiv1101.4664Bibcode2011JHEP...05..120Cdoi10.1007/JHEP05(2011)120  ^ Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. ^^^Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014. Falkowski, Adam (Jester) (February 16, 2011). "What LHC tells about SUSY". resonaances.blogspot.com. Archived from the original on March 22, 2014. Retrieved March 22, 2014."What LHC tells about SUSY"resonaances.blogspot.comArchived. Retrieved March 22, 2014March 22,  ^ Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. ^^^Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London. Tapper, Alex (24 March 2010). "Early SUSY searches at the LHC" (PDF). Imperial College London."Early SUSY searches at the LHC"(PDF)Imperial College London  ^ CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. ^^^CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023. CMS Collaboration (2011). "Search for Supersymmetry at the LHC in Events with Jets and Missing Transverse Energy". Physical Review Letters 107 (22): 221804. arXiv:1109.2352. Bibcode:2011PhRvL.107v1804C. doi:10.1103/PhysRevLett.107.221804. PMID 22182023.Physical Review Letters107arXiv1109.2352Bibcode2011PhRvL.107v1804Cdoi10.1103/PhysRevLett.107.221804PMID22182023  ^ Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. ^^^Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431. Shifman, M. (2012). "Frontiers Beyond the Standard Model: Reflections and Impressionistic Portrait of the Conference". Modern Physics Letters A 27 (40): 1230043. Bibcode:2012MPLA...2730043S. doi:10.1142/S0217732312300431.Modern Physics Letters A27Bibcode2012MPLA...2730043Sdoi10.1142/S0217732312300431  ^ a b Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. ^ a baaaabbbbJha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014. Jha, Alok (August 6, 2013). "One year on from the Higgs boson find, has physics hit the buffers?". The Guardian. photograph: Harold Cunningham/Getty Images (London: GMG). ISSN 0261-3077. OCLC 60623878. Archived from the original on March 22, 2014. Retrieved March 22, 2014."One year on from the Higgs boson find, has physics hit the buffers?"The GuardianThe GuardianLondonGMGISSN0261-3077OCLC60623878Archived. Retrieved March 22, 2014March 22,  ^ Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.^^^Polchinski, Joseph. String Theory: Volume I. Cambridge University Press, p. 247.String Theory: Volume I^ Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.^^^Polchinski, Joseph. String Theory: Volume II. Cambridge University Press, p. 198.String Theory: Volume II^ Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. ^^^Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262. Foot, R.; Joshi, G. C. (1990). "Nonstandard signature of spacetime, superstrings, and the split composition algebras". Letters in Mathematical Physics 19: 65–71. Bibcode:1990LMaPh..19...65F. doi:10.1007/BF00402262.Letters in Mathematical Physics19Bibcode1990LMaPh..19...65Fdoi10.1007/BF00402262  References[edit]References[edit][edit]
+
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. 
+Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. 
+
+
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. 
+Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. 
+Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag. Kaku, Michio (1999). Introduction to Superstring and M-Theory (2nd ed.). New York, USA: Springer-Verlag.Introduction to Superstring and M-Theory  Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press. Shen, Sinyan (1982). Introduction to Superfluidity (2nd ed.). Beijing, China: Science Press.Introduction to Superfluidity  Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc. Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House Inc.The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate TheoryThe Elegant Universe  External links[edit]External links[edit][edit]
+Wellcome Collection video on superstring theory
+The Official Superstring theory website: http://superstringtheory.com/index.html
+Wellcome Collection video on superstring theoryWellcome Collection video on superstring theoryThe Official Superstring theory website: http://superstringtheory.com/index.htmlhttp://superstringtheory.com/index.html
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00576901
+
+
+
+Authority controlAuthority control
+
+
+NDL: 00576901
+
+
+
+
+NDL: 00576901
+
+
+NDL: 00576901
+NDL: 00576901NDL0057690100576901
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Superstring_theory&oldid=712328444"					https://en.wikipedia.org/w/index.php?title=Superstring_theory&oldid=712328444Categories: String theorySupersymmetryPhysics beyond the Standard ModelHidden categories: Accuracy disputes from July 2013Articles needing additional references from November 2012All articles needing additional referencesWikipedia articles needing clarification from December 2015Categories: String theorySupersymmetryPhysics beyond the Standard ModelCategoriesString theorySupersymmetryPhysics beyond the Standard ModelString theoryString theorySupersymmetrySupersymmetryPhysics beyond the Standard ModelPhysics beyond the Standard ModelHidden categories: Accuracy disputes from July 2013Articles needing additional references from November 2012All articles needing additional referencesWikipedia articles needing clarification from December 2015Accuracy disputes from July 2013Articles needing additional references from November 2012All articles needing additional referencesWikipedia articles needing clarification from December 2015Accuracy disputes from July 2013Accuracy disputes from July 2013Articles needing additional references from November 2012Articles needing additional references from November 2012All articles needing additional referencesAll articles needing additional referencesWikipedia articles needing clarification from December 2015Wikipedia articles needing clarification from December 2015
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikiquote 
+
+
+
+Languages
+
+
+العربيةБеларускаяБългарскиČeštinaDeutschEspañolفارسیFrançais한국어IdoItalianoעבריתLatviešuLietuviųМакедонскиമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikiquote 
+
+
+
+Languages
+
+
+العربيةБеларускаяБългарскиČeštinaDeutschEspañolفارسیFrançais한국어IdoItalianoעבריתLatviešuLietuviųМакедонскиമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikiquote 
+
+In other projects
+
+Wikiquote 
+
+Wikiquote WikiquoteWikiquote
+Languages
+
+
+العربيةБеларускаяБългарскиČeštinaDeutschEspañolفارسیFrançais한국어IdoItalianoעבריתLatviešuLietuviųМакедонскиമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文 
+Edit links 
+Languages
+
+العربيةБеларускаяБългарскиČeštinaDeutschEspañolفارسیFrançais한국어IdoItalianoעבריתLatviešuLietuviųМакедонскиമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文 
+Edit links 
+العربيةБеларускаяБългарскиČeštinaDeutschEspañolفارسیFrançais한국어IdoItalianoעבריתLatviešuLietuviųМакедонскиമലയാളം日本語Norsk bokmålNorsk nynorskPolskiPortuguêsРусскийSlovenščinaSuomiSvenskaTürkçeУкраїнська中文 العربيةالعربيةБеларускаяБеларускаяБългарскиБългарскиČeštinaČeštinaDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançais한국어한국어IdoIdoItalianoItalianoעבריתעבריתLatviešuLatviešuLietuviųLietuviųМакедонскиМакедонскиമലയാളംമലയാളം日本語日本語Norsk bokmålNorsk bokmålNorsk nynorskNorsk nynorskPolskiPolskiPortuguêsPortuguêsРусскийРусскийSlovenščinaSlovenščinaSuomiSuomiSvenskaSvenskaTürkçeTürkçeУкраїнськаУкраїнська中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 28 March 2016, at 13:18.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 28 March 2016, at 13:18.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 28 March 2016, at 13:18.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

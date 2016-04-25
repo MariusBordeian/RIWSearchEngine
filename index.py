@@ -70,7 +70,7 @@ def hashFiles(files):
 
 
 def lemmatizeFile(file):
-    f = open(file, 'r')
+    f = open(file, 'r', encoding='utf-8')
     # wnl = WordNetLemmatizer()
     wordsHashMap = {}
     words = {}
@@ -124,7 +124,10 @@ def main(argv):
     indexDirect = {}
     indexReversed = {}
     if len(argv) > 0:
-        input = argv
+        if type(argv) == type([]):
+            input = argv
+        else:
+            input = [argv]
 
     for i in input:
         item = os.path.abspath(i)
@@ -151,19 +154,19 @@ def main(argv):
 
         # dumping to json files needed info
         print(os.path.basename(item) + '.folderHashMap')
-        with open('.\\output\\' + os.path.basename(item) + '.folderHashMap', 'w') as outfile:
+        with open(item + '\\output\\' + os.path.basename(item) + '.folderHashMap', 'w') as outfile:
             json.dump(folderHashMap, outfile)
 
         print(os.path.basename(item) + '.wordsHashMap')
-        with open('.\\output\\' + os.path.basename(item) + '.wordsHashMap', 'w') as outfile:
+        with open(item + '\\output\\' + os.path.basename(item) + '.wordsHashMap', 'w') as outfile:
             json.dump(wordsHashMap, outfile)
 
         print(os.path.basename(item) + '.indexDirect')
-        with open('.\\output\\' + os.path.basename(item) + '.indexDirect', 'w') as outfile:
+        with open(item + '\\output\\' + os.path.basename(item) + '.indexDirect', 'w') as outfile:
             json.dump(indexDirect, outfile)
 
         print(os.path.basename(item) + '.indexReversed')
-        with open('.\\output\\' + os.path.basename(item) + '.indexReversed', 'w') as outfile:
+        with open(item + '\\output\\' + os.path.basename(item) + '.indexReversed', 'w') as outfile:
             json.dump(indexReversed, outfile)
         
 
@@ -172,6 +175,8 @@ if __name__ == "__main__":
 
 
 """
+    giving an array of folders with html files inside the following will be constructed for each folder in the input array of args.:
+
     index direct : <docId : { wordId : count}>
     index invers : <cuvId : { docId : count}>
 """

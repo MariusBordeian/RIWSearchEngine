@@ -1,0 +1,4677 @@
+Maxim Kontsevich - Wikipedia, the free encyclopedia
+
+
+
+
+Maxim Kontsevich
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Maxim Kontsevich
+
+
+
+
+
+Born
+(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union
+
+
+Residence
+Miami, United States
+
+
+Citizenship
+Russia
+France
+
+
+Nationality
+Russian
+
+
+Fields
+Mathematics
+
+
+Institutions
+Institut des Hautes Études Scientifiques
+University of Miami
+
+
+Alma mater
+University of Bonn
+Moscow State University
+
+
+Doctoral advisor
+Don Bernard Zagier
+
+
+Doctoral students
+Dmitri Panov
+
+
+Notable awards
+EMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)
+
+
+Maxim Lvovich Kontsevich (Russian: Макси́м Льво́вич Конце́вич; [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info); born 25 August 1964) is a Russian and French[1] mathematician. He holds both Russian and French citizenship. He is a professor at the Institut des Hautes Études Scientifiques and a distinguished professor at the University of Miami. He received the Henri Poincaré Prize in 1997, the Fields Medal in 1998, the Crafoord Prize in 2008, the Shaw Prize and Fundamental Physics Prize in 2012, and the Breakthrough Prize in Mathematics in 2014.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Honors and awards
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+
+Biography[edit]
+He was born into the family of Lev Rafailovich Kontsevich, Soviet orientalist and author of the Kontsevich system. After ranking second in the All-Union Mathematics Olympiads, he attended Moscow State University but left without a degree in 1985 to become a researcher at the Institute for Problems of Information Transmission in Moscow.[3] In 1992 he received his Ph.D. at the University of Bonn under Don Bernard Zagier. His thesis outlines a proof of a conjecture by Edward Witten that two quantum gravitational models are equivalent.
+His work concentrates on geometric aspects of mathematical physics, most notably on knot theory, quantization, and mirror symmetry. One of his results is a formal deformation quantization that holds for any Poisson manifold. He also introduced knot invariants defined by complicated integrals analogous to Feynman integrals. In topological field theory, he introduced the moduli space of stable maps, which may be considered a mathematically rigorous formulation of the Feynman integral for topological string theory.
+Honors and awards[edit]
+In 1998, he won the Fields Medal for his "contributions to four problems of Geometry". In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[4]
+See also[edit]
+
+Kontsevich integral
+Homological mirror symmetry
+Motivic integration
+Kontsevich quantization formula
+Ring of periods
+
+Notes[edit]
+
+^ Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.
+^ Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. 
+^ http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universe
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+References[edit]
+
+Fields Medal citation at the website of the 2002 International Congress of Mathematicians held in Beijing.
+Taubes, Clifford Henry (1998) "The work of Maxim Kontsevich". In Proceedings of the International Congress of Mathematicians, Vol. I (Berlin, 1998). Doc. Math., Extra Vol. I, 119–126.
+
+External links[edit]
+
+O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St Andrews .
+Maxim Kontsevich at the Mathematics Genealogy Project
+AMS Profile of Maxim Kontsevich
+Official Homepage of Maxim Kontsevich
+Stankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Maxim_Kontsevich&oldid=711467720"					
+Categories: 1964 births20th-century mathematicians21st-century mathematiciansMoscow State University alumniFields MedalistsLiving peopleRussian mathematiciansRutgers University facultyMembers of the French Academy of SciencesTopologistsDifferential geometersAlgebraic geometersUniversity of Bonn alumniHidden categories: Articles containing Russian-language textArticles with hAudio microformatsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+
+
+Maxim Kontsevich
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Maxim Kontsevich
+
+
+
+
+
+Born
+(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union
+
+
+Residence
+Miami, United States
+
+
+Citizenship
+Russia
+France
+
+
+Nationality
+Russian
+
+
+Fields
+Mathematics
+
+
+Institutions
+Institut des Hautes Études Scientifiques
+University of Miami
+
+
+Alma mater
+University of Bonn
+Moscow State University
+
+
+Doctoral advisor
+Don Bernard Zagier
+
+
+Doctoral students
+Dmitri Panov
+
+
+Notable awards
+EMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)
+
+
+Maxim Lvovich Kontsevich (Russian: Макси́м Льво́вич Конце́вич; [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info); born 25 August 1964) is a Russian and French[1] mathematician. He holds both Russian and French citizenship. He is a professor at the Institut des Hautes Études Scientifiques and a distinguished professor at the University of Miami. He received the Henri Poincaré Prize in 1997, the Fields Medal in 1998, the Crafoord Prize in 2008, the Shaw Prize and Fundamental Physics Prize in 2012, and the Breakthrough Prize in Mathematics in 2014.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Honors and awards
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+
+Biography[edit]
+He was born into the family of Lev Rafailovich Kontsevich, Soviet orientalist and author of the Kontsevich system. After ranking second in the All-Union Mathematics Olympiads, he attended Moscow State University but left without a degree in 1985 to become a researcher at the Institute for Problems of Information Transmission in Moscow.[3] In 1992 he received his Ph.D. at the University of Bonn under Don Bernard Zagier. His thesis outlines a proof of a conjecture by Edward Witten that two quantum gravitational models are equivalent.
+His work concentrates on geometric aspects of mathematical physics, most notably on knot theory, quantization, and mirror symmetry. One of his results is a formal deformation quantization that holds for any Poisson manifold. He also introduced knot invariants defined by complicated integrals analogous to Feynman integrals. In topological field theory, he introduced the moduli space of stable maps, which may be considered a mathematically rigorous formulation of the Feynman integral for topological string theory.
+Honors and awards[edit]
+In 1998, he won the Fields Medal for his "contributions to four problems of Geometry". In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[4]
+See also[edit]
+
+Kontsevich integral
+Homological mirror symmetry
+Motivic integration
+Kontsevich quantization formula
+Ring of periods
+
+Notes[edit]
+
+^ Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.
+^ Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. 
+^ http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universe
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+References[edit]
+
+Fields Medal citation at the website of the 2002 International Congress of Mathematicians held in Beijing.
+Taubes, Clifford Henry (1998) "The work of Maxim Kontsevich". In Proceedings of the International Congress of Mathematicians, Vol. I (Berlin, 1998). Doc. Math., Extra Vol. I, 119–126.
+
+External links[edit]
+
+O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St Andrews .
+Maxim Kontsevich at the Mathematics Genealogy Project
+AMS Profile of Maxim Kontsevich
+Official Homepage of Maxim Kontsevich
+Stankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Maxim_Kontsevich&oldid=711467720"					
+Categories: 1964 births20th-century mathematicians21st-century mathematiciansMoscow State University alumniFields MedalistsLiving peopleRussian mathematiciansRutgers University facultyMembers of the French Academy of SciencesTopologistsDifferential geometersAlgebraic geometersUniversity of Bonn alumniHidden categories: Articles containing Russian-language textArticles with hAudio microformatsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Maxim Kontsevich
+
+
+
+
+
+Born
+(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union
+
+
+Residence
+Miami, United States
+
+
+Citizenship
+Russia
+France
+
+
+Nationality
+Russian
+
+
+Fields
+Mathematics
+
+
+Institutions
+Institut des Hautes Études Scientifiques
+University of Miami
+
+
+Alma mater
+University of Bonn
+Moscow State University
+
+
+Doctoral advisor
+Don Bernard Zagier
+
+
+Doctoral students
+Dmitri Panov
+
+
+Notable awards
+EMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)
+
+
+Maxim Lvovich Kontsevich (Russian: Макси́м Льво́вич Конце́вич; [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info); born 25 August 1964) is a Russian and French[1] mathematician. He holds both Russian and French citizenship. He is a professor at the Institut des Hautes Études Scientifiques and a distinguished professor at the University of Miami. He received the Henri Poincaré Prize in 1997, the Fields Medal in 1998, the Crafoord Prize in 2008, the Shaw Prize and Fundamental Physics Prize in 2012, and the Breakthrough Prize in Mathematics in 2014.[2]
+
+
+
+Contents
+
+
+1 Biography
+2 Honors and awards
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+
+Biography[edit]
+He was born into the family of Lev Rafailovich Kontsevich, Soviet orientalist and author of the Kontsevich system. After ranking second in the All-Union Mathematics Olympiads, he attended Moscow State University but left without a degree in 1985 to become a researcher at the Institute for Problems of Information Transmission in Moscow.[3] In 1992 he received his Ph.D. at the University of Bonn under Don Bernard Zagier. His thesis outlines a proof of a conjecture by Edward Witten that two quantum gravitational models are equivalent.
+His work concentrates on geometric aspects of mathematical physics, most notably on knot theory, quantization, and mirror symmetry. One of his results is a formal deformation quantization that holds for any Poisson manifold. He also introduced knot invariants defined by complicated integrals analogous to Feynman integrals. In topological field theory, he introduced the moduli space of stable maps, which may be considered a mathematically rigorous formulation of the Feynman integral for topological string theory.
+Honors and awards[edit]
+In 1998, he won the Fields Medal for his "contributions to four problems of Geometry". In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[4]
+See also[edit]
+
+Kontsevich integral
+Homological mirror symmetry
+Motivic integration
+Kontsevich quantization formula
+Ring of periods
+
+Notes[edit]
+
+^ Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.
+^ Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. 
+^ http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universe
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+References[edit]
+
+Fields Medal citation at the website of the 2002 International Congress of Mathematicians held in Beijing.
+Taubes, Clifford Henry (1998) "The work of Maxim Kontsevich". In Proceedings of the International Congress of Mathematicians, Vol. I (Berlin, 1998). Doc. Math., Extra Vol. I, 119–126.
+
+External links[edit]
+
+O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St Andrews .
+Maxim Kontsevich at the Mathematics Genealogy Project
+AMS Profile of Maxim Kontsevich
+Official Homepage of Maxim Kontsevich
+Stankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maxim Kontsevich
+
+
+
+
+
+Born
+(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union
+
+
+Residence
+Miami, United States
+
+
+Citizenship
+Russia
+France
+
+
+Nationality
+Russian
+
+
+Fields
+Mathematics
+
+
+Institutions
+Institut des Hautes Études Scientifiques
+University of Miami
+
+
+Alma mater
+University of Bonn
+Moscow State University
+
+
+Doctoral advisor
+Don Bernard Zagier
+
+
+Doctoral students
+Dmitri Panov
+
+
+Notable awards
+EMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)
+
+
+Maxim Kontsevich
+Maxim KontsevichMaxim Kontsevich
+
+
+Born
+(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union
+Born(1964-08-25) 25 August 1964 (age 51)
+Khimki, Russian SFSR, Soviet Union(1964-08-25)1964-08-25(age 51)KhimkiRussian SFSRSoviet Union
+Residence
+Miami, United States
+ResidenceMiami, United StatesMiamiUnited States
+Citizenship
+Russia
+France
+CitizenshipRussia
+FranceRussiaFrance
+Nationality
+Russian
+NationalityRussianRussian
+Fields
+Mathematics
+FieldsMathematicsMathematics
+Institutions
+Institut des Hautes Études Scientifiques
+University of Miami
+InstitutionsInstitut des Hautes Études Scientifiques
+University of MiamiInstitut des Hautes Études ScientifiquesUniversity of Miami
+Alma mater
+University of Bonn
+Moscow State University
+Alma materAlma materAlma materUniversity of Bonn
+Moscow State UniversityUniversity of BonnMoscow State University
+Doctoral advisor
+Don Bernard Zagier
+Doctoral advisorDoctoral advisorDon Bernard ZagierDon Bernard Zagier
+Doctoral students
+Dmitri Panov
+Doctoral studentsDmitri PanovDmitri Panov
+Notable awards
+EMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)
+Notable awardsEMS Prize (1992)
+Otto Hahn Medal (1992)
+Henri Poincaré Prize (1997)
+Fields Medal (1998)
+Crafoord Prize (2008)
+Shaw Prize (2012)
+Fundamental Physics Prize (2012)
+Breakthrough Prize in Mathematics (2014)
+[National Academy of Sciences (Foreign Associate)] (2015)EMS PrizeOtto Hahn MedalHenri Poincaré PrizeFields MedalCrafoord PrizeShaw PrizeFundamental Physics PrizeBreakthrough Prize in MathematicsMaxim Lvovich Kontsevich (Russian: Макси́м Льво́вич Конце́вич; [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info); born 25 August 1964) is a Russian and French[1] mathematician. He holds both Russian and French citizenship. He is a professor at the Institut des Hautes Études Scientifiques and a distinguished professor at the University of Miami. He received the Henri Poincaré Prize in 1997, the Fields Medal in 1998, the Crafoord Prize in 2008, the Shaw Prize and Fundamental Physics Prize in 2012, and the Breakthrough Prize in Mathematics in 2014.[2]Maxim Lvovich KontsevichRussianМакси́м Льво́вич Конце́вич [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info) [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] (help·info) [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ] [mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ][mɐˈksʲim lʲˈvovʲit͡ɕ konˈt͡sɛvʲit͡ɕ](help·info)helphelpinfoinfoRussianFrench[1][1]mathematicianInstitut des Hautes Études ScientifiquesUniversity of MiamiHenri Poincaré PrizeFields MedalCrafoord PrizeShaw PrizeFundamental Physics PrizeBreakthrough Prize in Mathematics[2][2]
+
+Contents
+
+
+1 Biography
+2 Honors and awards
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+Contents
+Contents
+1 Biography
+2 Honors and awards
+3 See also
+4 Notes
+5 References
+6 External links
+1 Biography1 Biography1Biography2 Honors and awards2 Honors and awards2Honors and awards3 See also3 See also3See also4 Notes4 Notes4Notes5 References5 References5References6 External links6 External links6External linksBiography[edit]Biography[edit][edit]He was born into the family of Lev Rafailovich Kontsevich, Soviet orientalist and author of the Kontsevich system. After ranking second in the All-Union Mathematics Olympiads, he attended Moscow State University but left without a degree in 1985 to become a researcher at the Institute for Problems of Information Transmission in Moscow.[3] In 1992 he received his Ph.D. at the University of Bonn under Don Bernard Zagier. His thesis outlines a proof of a conjecture by Edward Witten that two quantum gravitational models are equivalent.Kontsevich systemMoscow State UniversityInstitute for Problems of Information Transmission[3][3]Ph.D.University of BonnDon Bernard ZagierEdward WittenHis work concentrates on geometric aspects of mathematical physics, most notably on knot theory, quantization, and mirror symmetry. One of his results is a formal deformation quantization that holds for any Poisson manifold. He also introduced knot invariants defined by complicated integrals analogous to Feynman integrals. In topological field theory, he introduced the moduli space of stable maps, which may be considered a mathematically rigorous formulation of the Feynman integral for topological string theory.mathematical physicsknot theoryquantizationmirror symmetrydeformation quantizationPoisson manifoldFeynman integralstopological field theorymoduli space of stable mapsFeynman integralHonors and awards[edit]Honors and awards[edit][edit]In 1998, he won the Fields Medal for his "contributions to four problems of Geometry". In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[4]Fields MedalFundamental Physics PrizeYuri Milner[4][4]See also[edit]See also[edit][edit]
+Kontsevich integral
+Homological mirror symmetry
+Motivic integration
+Kontsevich quantization formula
+Ring of periods
+Kontsevich integralKontsevich integralHomological mirror symmetryHomological mirror symmetryMotivic integrationMotivic integrationKontsevich quantization formulaKontsevich quantization formulaRing of periodsRing of periodsNotes[edit]Notes[edit][edit]
+^ Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.
+^ Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. 
+^ http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universe
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.^^^Kontsevich received French citizenship in 1999 and remains a dual citizen of both the France and his native Russia.^ Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. ^^^Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times. Chang, Kenneth (23 June 2014). "The Multimillion-Dollar Minds of 5 Mathematical Masters". The New York Times."The Multimillion-Dollar Minds of 5 Mathematical Masters"The New York Times  ^ http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universe^^^http://www.berkeley.edu/news/berkeleyan/1994/1012/math.html　A Very Pleasurable Universehttp://www.berkeley.edu/news/berkeleyan/1994/1012/math.html^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012^^^New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the fieldReferences[edit]References[edit][edit]
+Fields Medal citation at the website of the 2002 International Congress of Mathematicians held in Beijing.
+Taubes, Clifford Henry (1998) "The work of Maxim Kontsevich". In Proceedings of the International Congress of Mathematicians, Vol. I (Berlin, 1998). Doc. Math., Extra Vol. I, 119–126.
+Fields Medal citation at the website of the 2002 International Congress of Mathematicians held in Beijing.Fields Medal citation2002 International Congress of MathematiciansBeijingTaubes, Clifford Henry (1998) "The work of Maxim Kontsevich". In Proceedings of the International Congress of Mathematicians, Vol. I (Berlin, 1998). Doc. Math., Extra Vol. I, 119–126.Proceedings of the International Congress of MathematiciansDoc. Math.External links[edit]External links[edit][edit]
+O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St Andrews .
+Maxim Kontsevich at the Mathematics Genealogy Project
+AMS Profile of Maxim Kontsevich
+Official Homepage of Maxim Kontsevich
+Stankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013. 
+O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St Andrews .O'Connor, John J.; Robertson, Edmund F., "Maxim Kontsevich", MacTutor History of Mathematics archive, University of St AndrewsO'Connor, John J.Robertson, Edmund F."Maxim Kontsevich"MacTutor History of Mathematics archiveMacTutor History of Mathematics archiveUniversity of St Andrews  Maxim Kontsevich at the Mathematics Genealogy ProjectMaxim KontsevichMathematics Genealogy ProjectAMS Profile of Maxim KontsevichAMS Profile of Maxim KontsevichOfficial Homepage of Maxim KontsevichOfficial Homepage of Maxim KontsevichStankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013. Stankova, Zvezdelina. "Pebbling a Chessboard". YouTube: Brady Haran. Retrieved 19 December 2013.Stankova, Zvezdelina"Pebbling a Chessboard"Brady Haran. Retrieved 19 December 201319 December  
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+
+
+v
+t
+e
+
+
+Fields Medalists
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeFields MedalistsFields Medalists
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+
+
+1954  Kodaira
+Serre
+
+
+
+
+
+
+1958  Roth
+Thom
+
+
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+
+
+1936  Ahlfors
+Douglas
+
+
+1936  Ahlfors
+Douglas
+1936  AhlforsAhlforsDouglasDouglas
+
+
+1950  Schwartz
+Selberg
+
+
+
+
+1950  Schwartz
+Selberg
+
+
+1950  Schwartz
+Selberg
+1950  SchwartzSchwartzSelbergSelberg
+
+
+1954  Kodaira
+Serre
+
+
+
+
+1954  Kodaira
+Serre
+
+
+1954  Kodaira
+Serre
+1954  KodairaKodairaSerreSerre
+
+
+1958  Roth
+Thom
+
+
+
+
+1958  Roth
+Thom
+
+
+1958  Roth
+Thom
+1958  RothRothThomThom
+
+
+1962  Hörmander
+Milnor
+
+
+
+
+1962  Hörmander
+Milnor
+
+
+1962  Hörmander
+Milnor
+1962  HörmanderHörmanderMilnorMilnor
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+
+
+1966  Atiyah
+Cohen
+Grothendieck
+Smale
+1966  AtiyahAtiyahCohenCohenGrothendieckGrothendieckSmaleSmale
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+
+
+1970  Baker
+Hironaka
+Novikov
+Thompson
+1970  BakerBakerHironakaHironakaNovikovNovikovThompsonThompson
+
+
+1974  Bombieri
+Mumford
+
+
+
+
+1974  Bombieri
+Mumford
+
+
+1974  Bombieri
+Mumford
+1974  BombieriBombieriMumfordMumford
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+
+
+1978  Deligne
+Fefferman
+Margulis
+Quillen
+1978  DeligneDeligneFeffermanFeffermanMargulisMargulisQuillenQuillen
+
+
+1982  Connes
+Thurston
+Yau
+
+
+
+
+1982  Connes
+Thurston
+Yau
+
+
+1982  Connes
+Thurston
+Yau
+1982  ConnesConnesThurstonThurstonYauYau
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+
+
+1986  Donaldson
+Faltings
+Freedman
+
+
+1986  Donaldson
+Faltings
+Freedman
+1986  DonaldsonDonaldsonFaltingsFaltingsFreedmanFreedman
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+
+
+1990  Drinfeld
+Jones
+Mori
+Witten
+1990  DrinfeldDrinfeldJonesJonesMoriMoriWittenWitten
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+
+
+1994  Bourgain
+Lions
+Yoccoz
+Zelmanov
+1994  BourgainBourgainLionsLionsYoccozYoccozZelmanovZelmanov
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+
+
+1998  Borcherds
+Gowers
+Kontsevich
+McMullen
+1998  BorcherdsBorcherdsGowersGowersKontsevichKontsevichMcMullenMcMullen
+
+
+2002  Lafforgue
+Voevodsky
+
+
+
+
+2002  Lafforgue
+Voevodsky
+
+
+2002  Lafforgue
+Voevodsky
+2002  LafforgueLafforgueVoevodskyVoevodsky
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+
+
+2006  Okounkov
+Perelman
+Tao
+Werner
+2006  OkounkovOkounkovPerelmanPerelmanTaoTaoWernerWerner
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+
+
+2010  Lindenstrauss
+Ngô
+Smirnov
+Villani
+2010  LindenstraussLindenstraussNgôNgôSmirnovSmirnovVillaniVillani
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+
+
+2014  Avila
+Bhargava
+Hairer
+Mirzakhani
+2014  AvilaAvilaBhargavaBhargavaHairerHairerMirzakhaniMirzakhani
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+
+
+ Book
+ Category
+ Mathematics portal
+
+
+ Book
+ Category
+ Mathematics portal
+ BookBook CategoryCategory Mathematics portalMathematics portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+
+
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+
+
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+
+
+v
+t
+e
+
+
+Shaw Prize laureates
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeShaw Prize laureatesShaw Prize
+
+
+Astronomy
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+Astronomy
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+
+
+Jim Peebles (2004)
+Geoffrey Marcy and Michel Mayor (2005)
+Saul Perlmutter, Adam Riess and Brian Schmidt (2006)
+Peter Goldreich (2007)
+Reinhard Genzel (2008)
+Frank Shu (2009)
+Charles Bennett, Lyman Page and David Spergel (2010)
+Enrico Costa and Gerald Fishman (2011)
+David Jewitt and Jane Luu (2012)
+Steven Balbus and John Hawley (2013)
+Daniel Eisenstein, Shaun Cole and John Peacock (2014)
+William Borucki (2015)
+Jim Peebles (2004)Jim PeeblesGeoffrey Marcy and Michel Mayor (2005)Geoffrey MarcyMichel MayorSaul Perlmutter, Adam Riess and Brian Schmidt (2006)Saul PerlmutterAdam RiessBrian SchmidtPeter Goldreich (2007)Peter GoldreichReinhard Genzel (2008)Reinhard GenzelFrank Shu (2009)Frank ShuCharles Bennett, Lyman Page and David Spergel (2010)Charles BennettLyman PageDavid SpergelEnrico Costa and Gerald Fishman (2011)Enrico CostaGerald FishmanDavid Jewitt and Jane Luu (2012)David JewittJane LuuSteven Balbus and John Hawley (2013)Steven BalbusJohn HawleyDaniel Eisenstein, Shaun Cole and John Peacock (2014)Daniel EisensteinShaun ColeJohn PeacockWilliam Borucki (2015)William Borucki
+
+
+Life science and medicine
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+Life science and medicine
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+
+
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)
+Michael Berridge (2005)
+Xiaodong Wang (2006)
+Robert Lefkowitz (2007)
+Ian Wilmut, Keith Campbell and Shinya Yamanaka (2008)
+Douglas Coleman and Jeffrey Friedman (2009)
+David Julius (2010)
+Jules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)
+Franz-Ulrich Hartl and Arthur Horwich (2012)
+Jeffrey Hall, Michael Rosbash and Michael Young (2013)
+Kazutoshi Mori and Peter Walter (2014)
+Bonnie Bassler and Everett Peter Greenberg (2015)
+Stanley Norman Cohen, Herbert Boyer, Kan Yuet-wai and Richard Doll (2004)Stanley Norman CohenHerbert BoyerKan Yuet-waiRichard DollMichael Berridge (2005)Michael BerridgeXiaodong Wang (2006)Xiaodong WangRobert Lefkowitz (2007)Robert LefkowitzIan Wilmut, Keith Campbell and Shinya Yamanaka (2008)Ian WilmutKeith CampbellShinya YamanakaDouglas Coleman and Jeffrey Friedman (2009)Douglas ColemanJeffrey FriedmanDavid Julius (2010)David JuliusJules Hoffmann, Ruslan Medzhitov and Bruce Beutler (2011)Jules HoffmannRuslan MedzhitovBruce BeutlerFranz-Ulrich Hartl and Arthur Horwich (2012)Franz-Ulrich HartlArthur HorwichJeffrey Hall, Michael Rosbash and Michael Young (2013)Jeffrey HallMichael RosbashMichael YoungKazutoshi Mori and Peter Walter (2014)Kazutoshi MoriPeter WalterBonnie Bassler and Everett Peter Greenberg (2015)Bonnie BasslerEverett Peter Greenberg
+
+
+Mathematical science
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+Mathematical science
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+
+
+Shiing-Shen Chern (2004)
+Andrew Wiles (2005)
+David Mumford and Wu Wenjun (2006)
+Robert Langlands and Richard Taylor (2007)
+Vladimir Arnold and Ludvig Faddeev (2008)
+Simon Donaldson and Clifford Taubes (2009)
+Jean Bourgain (2010)
+Demetrios Christodoulou and Richard Hamilton (2011)
+Maxim Kontsevich (2012)
+David Donoho (2013)
+George Lusztig (2014)
+Gerd Faltings and Henryk Iwaniec (2015)
+Shiing-Shen Chern (2004)Shiing-Shen ChernAndrew Wiles (2005)Andrew WilesDavid Mumford and Wu Wenjun (2006)David MumfordWu WenjunRobert Langlands and Richard Taylor (2007)Robert LanglandsRichard TaylorVladimir Arnold and Ludvig Faddeev (2008)Vladimir ArnoldLudvig FaddeevSimon Donaldson and Clifford Taubes (2009)Simon DonaldsonClifford TaubesJean Bourgain (2010)Jean BourgainDemetrios Christodoulou and Richard Hamilton (2011)Demetrios ChristodoulouRichard HamiltonMaxim Kontsevich (2012)Maxim KontsevichDavid Donoho (2013)David DonohoGeorge Lusztig (2014)George LusztigGerd Faltings and Henryk Iwaniec (2015)Gerd FaltingsHenryk Iwaniec
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+
+
+WorldCat Identities
+VIAF: 61793160
+LCCN: no00024345
+GND: 1026762456
+SUDOC: 071596496
+BNF: cb14580876p (data)
+MGP: 26861
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 61793160VIAF6179316061793160LCCN: no00024345LCCNno00024345no00024345GND: 1026762456GND10267624561026762456SUDOC: 071596496SUDOC071596496071596496BNF: cb14580876p (data)BNFcb14580876p (data)cb14580876p(data)MGP: 26861MGP2686126861
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Maxim_Kontsevich&oldid=711467720"					https://en.wikipedia.org/w/index.php?title=Maxim_Kontsevich&oldid=711467720Categories: 1964 births20th-century mathematicians21st-century mathematiciansMoscow State University alumniFields MedalistsLiving peopleRussian mathematiciansRutgers University facultyMembers of the French Academy of SciencesTopologistsDifferential geometersAlgebraic geometersUniversity of Bonn alumniHidden categories: Articles containing Russian-language textArticles with hAudio microformatsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersCategories: 1964 births20th-century mathematicians21st-century mathematiciansMoscow State University alumniFields MedalistsLiving peopleRussian mathematiciansRutgers University facultyMembers of the French Academy of SciencesTopologistsDifferential geometersAlgebraic geometersUniversity of Bonn alumniCategories1964 births20th-century mathematicians21st-century mathematiciansMoscow State University alumniFields MedalistsLiving peopleRussian mathematiciansRutgers University facultyMembers of the French Academy of SciencesTopologistsDifferential geometersAlgebraic geometersUniversity of Bonn alumni1964 births1964 births20th-century mathematicians20th-century mathematicians21st-century mathematicians21st-century mathematiciansMoscow State University alumniMoscow State University alumniFields MedalistsFields MedalistsLiving peopleLiving peopleRussian mathematiciansRussian mathematiciansRutgers University facultyRutgers University facultyMembers of the French Academy of SciencesMembers of the French Academy of SciencesTopologistsTopologistsDifferential geometersDifferential geometersAlgebraic geometersAlgebraic geometersUniversity of Bonn alumniUniversity of Bonn alumniHidden categories: Articles containing Russian-language textArticles with hAudio microformatsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersArticles containing Russian-language textArticles with hAudio microformatsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersArticles containing Russian-language textArticles containing Russian-language textArticles with hAudio microformatsArticles with hAudio microformatsArticles including recorded pronunciationsArticles including recorded pronunciationsWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+العربيةBân-lâm-gúCatalàČeštinaDeutschEspañolEuskaraFrançais한국어ItalianoעבריתҚазақшаKreyòl ayisyenNederlands日本語پنجابیPolskiPortuguêsРусскийSlovenčinaSlovenščinaSuomiУкраїнськаTiếng Việt中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+العربيةBân-lâm-gúCatalàČeštinaDeutschEspañolEuskaraFrançais한국어ItalianoעבריתҚазақшаKreyòl ayisyenNederlands日本語پنجابیPolskiPortuguêsРусскийSlovenčinaSlovenščinaSuomiУкраїнськаTiếng Việt中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia Commons 
+
+In other projects
+
+Wikimedia Commons 
+
+Wikimedia Commons Wikimedia CommonsWikimedia Commons
+Languages
+
+
+العربيةBân-lâm-gúCatalàČeštinaDeutschEspañolEuskaraFrançais한국어ItalianoעבריתҚазақшаKreyòl ayisyenNederlands日本語پنجابیPolskiPortuguêsРусскийSlovenčinaSlovenščinaSuomiУкраїнськаTiếng Việt中文 
+Edit links 
+Languages
+
+العربيةBân-lâm-gúCatalàČeštinaDeutschEspañolEuskaraFrançais한국어ItalianoעבריתҚазақшаKreyòl ayisyenNederlands日本語پنجابیPolskiPortuguêsРусскийSlovenčinaSlovenščinaSuomiУкраїнськаTiếng Việt中文 
+Edit links 
+العربيةBân-lâm-gúCatalàČeštinaDeutschEspañolEuskaraFrançais한국어ItalianoעבריתҚазақшаKreyòl ayisyenNederlands日本語پنجابیPolskiPortuguêsРусскийSlovenčinaSlovenščinaSuomiУкраїнськаTiếng Việt中文 العربيةالعربيةBân-lâm-gúBân-lâm-gúCatalàCatalàČeštinaČeštinaDeutschDeutschEspañolEspañolEuskaraEuskaraFrançaisFrançais한국어한국어ItalianoItalianoעבריתעבריתҚазақшаҚазақшаKreyòl ayisyenKreyòl ayisyenNederlandsNederlands日本語日本語پنجابیپنجابیPolskiPolskiPortuguêsPortuguêsРусскийРусскийSlovenčinaSlovenčinaSlovenščinaSlovenščinaSuomiSuomiУкраїнськаУкраїнськаTiếng ViệtTiếng Việt中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 23 March 2016, at 01:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 23 March 2016, at 01:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 23 March 2016, at 01:39.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

@@ -1,0 +1,3697 @@
+Ashoke Sen - Wikipedia, the free encyclopedia
+
+
+
+
+Ashoke Sen
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For the Indian politician, see Ashoke Kumar Sen.
+
+
+Ashoke Sen
+অশোক সেন
+
+
+Born
+(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India
+
+
+Residence
+Kolkata, Allahabad
+
+
+Nationality
+Indian
+
+
+Fields
+Physics
+
+
+Institutions
+Fermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research Institute
+
+
+Alma mater
+Scottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook University
+
+
+Doctoral advisor
+George Sterman
+
+
+Known for
+Contributions to string field theory
+S-duality
+Sen Conjecture
+
+
+Notable awards
+G.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)
+
+
+Ashoke Sen, FRS (Bengali: অশোক সেন; born 1956) is an Indian theoretical physicist and distinguished professor at the Harish-Chandra Research Institute, Allahabad.[1] He also is the Morningstar Visiting professor at MIT and a distinguished professor at the Korea Institute for Advanced Study. His main area of work is String Theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”. This prize has been set up by the Russian billionaire Yuri Milner for rewarding scientific breakthroughs.
+
+
+
+Contents
+
+
+1 Early life
+2 Career
+3 Honors and awards
+4 References
+5 External links
+
+
+
+Early life[edit]
+He was born on 15 July 1956[2] in Kolkata, and is the elder son of Anil Kumar Sen, a former professor of physics at the Scottish Church College, and Gouri Sen, a homemaker.[3]
+After completing his schooling from the Sailendra Sircar Vidyalaya and the Scottish Church Collegiate School in Kolkata, he earned his Bachelor of Science degree in 1975 from the Presidency College under the University of Calcutta, and his master’s three years later from the Indian Institute of Technology Kanpur. During his undergraduate studies at Presidency, he was greatly inspired by the work and teaching of Amal Kumar Raychaudhuri. He did his doctoral work in physics at Stony Brook University.
+Career[edit]
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Ashoke Sen made a number of major original contributions to the subject of string theory, including his landmark paper on strong-weak coupling duality or S-duality,[4] which was influential in changing the course of research in the field. He pioneered the study of unstable D-branes and made the famous Sen conjecture about open string tachyon condensation on such branes.[5] His description of rolling tachyons[6] has been influential in string cosmology. He has also co-authored many important papers on string field theory. In 1998 he won the fellowship of the Royal Society on being nominated by the theoretical physicist Stephen Hawking.[1] His contributions include the entropy function formalism for extremal black holes and its applications to attractors. His current research interests are centered on the attractor mechanism and the precision counting of microstates of black holes. Recently he has joined National Institute of Science Education and Research (NISER), Bhubaneswar, India as an honorary fellow.[7]
+Honors and awards[edit]
+
+Dirac Medal in 2014 [8]
+Doctor of Literature (honorary), 2013, awarded by Jadavpur University.
+Doctor of Science (Honoris Causa), 2013, awarded by IIT Bombay [9]
+M.P. Birla Memorial Award in 2013
+Padma Bhushan in 2013 [10]
+Fundamental Physics Prize, 2012, for his work on string theory [11][12]
+Doctor of Science (Honoris Causa), 2011, awarded by Bengal Engineering and Science University, Shibpur (Presently Indian Institute of Engineering Sciences and Technology, Shibpur) [13]
+Doctor of Science (Honoris Causa), 2009, awarded by IIT Kharagpur [14]
+Infosys Prize in the Mathematical Sciences, 2009 [15]
+Padma Shri in 2001[16]
+Fellow of the Royal Society 1998 [1]
+Fellow of the Indian National Science Academy in 1996 [17]
+S.S. Bhatnagar award in 1994
+Fellow of the Indian Academy of Sciences in 1991[2]
+ICTP Prize in 1989 [18]
+
+References[edit]
+
+
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. 
+^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. 
+^ Physicist with pillow power
+^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. 
+^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. 
+^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. 
+^ http://physics.niser.ac.in/mem.php?ty=fc
+^ "Dirac Medallists 2014". 
+^ [1]
+^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. 
+^ [2]
+^ http://www.iitkgp.ac.in/institute/index.php?page=honors
+^ Infosys Prize 2009 Mathematical Sciences
+^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. 
+^ The Year Book 2014 // Indian National Science Academy, New Delhi
+^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. 
+
+
+
+Thomson Honours Leading Indian Scientists Five people receive the "Thomson Citation Laureate Award", including physics professor Ashoke Sen of the Harish-Chandra Research Institute.
+The Hindu, Sunday, January 7, 2001: Stringing together the ultimate law States that Dr. Ashoke Sen of HRI has "made several important contributions to the String Theory".
+
+External links[edit]
+
+Home Page
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ashoke_Sen&oldid=714809120"					
+Categories: Recipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 birthsLiving peoplePresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian physicistsStony Brook University alumniString theoristsUniversity of Calcutta alumniBengali peopleRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma BhushanScottish Church Collegiate School alumniHidden categories: EngvarB from June 2015Use dmy dates from June 2015Articles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+
+
+Ashoke Sen
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For the Indian politician, see Ashoke Kumar Sen.
+
+
+Ashoke Sen
+অশোক সেন
+
+
+Born
+(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India
+
+
+Residence
+Kolkata, Allahabad
+
+
+Nationality
+Indian
+
+
+Fields
+Physics
+
+
+Institutions
+Fermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research Institute
+
+
+Alma mater
+Scottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook University
+
+
+Doctoral advisor
+George Sterman
+
+
+Known for
+Contributions to string field theory
+S-duality
+Sen Conjecture
+
+
+Notable awards
+G.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)
+
+
+Ashoke Sen, FRS (Bengali: অশোক সেন; born 1956) is an Indian theoretical physicist and distinguished professor at the Harish-Chandra Research Institute, Allahabad.[1] He also is the Morningstar Visiting professor at MIT and a distinguished professor at the Korea Institute for Advanced Study. His main area of work is String Theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”. This prize has been set up by the Russian billionaire Yuri Milner for rewarding scientific breakthroughs.
+
+
+
+Contents
+
+
+1 Early life
+2 Career
+3 Honors and awards
+4 References
+5 External links
+
+
+
+Early life[edit]
+He was born on 15 July 1956[2] in Kolkata, and is the elder son of Anil Kumar Sen, a former professor of physics at the Scottish Church College, and Gouri Sen, a homemaker.[3]
+After completing his schooling from the Sailendra Sircar Vidyalaya and the Scottish Church Collegiate School in Kolkata, he earned his Bachelor of Science degree in 1975 from the Presidency College under the University of Calcutta, and his master’s three years later from the Indian Institute of Technology Kanpur. During his undergraduate studies at Presidency, he was greatly inspired by the work and teaching of Amal Kumar Raychaudhuri. He did his doctoral work in physics at Stony Brook University.
+Career[edit]
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Ashoke Sen made a number of major original contributions to the subject of string theory, including his landmark paper on strong-weak coupling duality or S-duality,[4] which was influential in changing the course of research in the field. He pioneered the study of unstable D-branes and made the famous Sen conjecture about open string tachyon condensation on such branes.[5] His description of rolling tachyons[6] has been influential in string cosmology. He has also co-authored many important papers on string field theory. In 1998 he won the fellowship of the Royal Society on being nominated by the theoretical physicist Stephen Hawking.[1] His contributions include the entropy function formalism for extremal black holes and its applications to attractors. His current research interests are centered on the attractor mechanism and the precision counting of microstates of black holes. Recently he has joined National Institute of Science Education and Research (NISER), Bhubaneswar, India as an honorary fellow.[7]
+Honors and awards[edit]
+
+Dirac Medal in 2014 [8]
+Doctor of Literature (honorary), 2013, awarded by Jadavpur University.
+Doctor of Science (Honoris Causa), 2013, awarded by IIT Bombay [9]
+M.P. Birla Memorial Award in 2013
+Padma Bhushan in 2013 [10]
+Fundamental Physics Prize, 2012, for his work on string theory [11][12]
+Doctor of Science (Honoris Causa), 2011, awarded by Bengal Engineering and Science University, Shibpur (Presently Indian Institute of Engineering Sciences and Technology, Shibpur) [13]
+Doctor of Science (Honoris Causa), 2009, awarded by IIT Kharagpur [14]
+Infosys Prize in the Mathematical Sciences, 2009 [15]
+Padma Shri in 2001[16]
+Fellow of the Royal Society 1998 [1]
+Fellow of the Indian National Science Academy in 1996 [17]
+S.S. Bhatnagar award in 1994
+Fellow of the Indian Academy of Sciences in 1991[2]
+ICTP Prize in 1989 [18]
+
+References[edit]
+
+
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. 
+^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. 
+^ Physicist with pillow power
+^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. 
+^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. 
+^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. 
+^ http://physics.niser.ac.in/mem.php?ty=fc
+^ "Dirac Medallists 2014". 
+^ [1]
+^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. 
+^ [2]
+^ http://www.iitkgp.ac.in/institute/index.php?page=honors
+^ Infosys Prize 2009 Mathematical Sciences
+^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. 
+^ The Year Book 2014 // Indian National Science Academy, New Delhi
+^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. 
+
+
+
+Thomson Honours Leading Indian Scientists Five people receive the "Thomson Citation Laureate Award", including physics professor Ashoke Sen of the Harish-Chandra Research Institute.
+The Hindu, Sunday, January 7, 2001: Stringing together the ultimate law States that Dr. Ashoke Sen of HRI has "made several important contributions to the String Theory".
+
+External links[edit]
+
+Home Page
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ashoke_Sen&oldid=714809120"					
+Categories: Recipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 birthsLiving peoplePresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian physicistsStony Brook University alumniString theoristsUniversity of Calcutta alumniBengali peopleRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma BhushanScottish Church Collegiate School alumniHidden categories: EngvarB from June 2015Use dmy dates from June 2015Articles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchFor the Indian politician, see Ashoke Kumar Sen.
+
+
+Ashoke Sen
+অশোক সেন
+
+
+Born
+(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India
+
+
+Residence
+Kolkata, Allahabad
+
+
+Nationality
+Indian
+
+
+Fields
+Physics
+
+
+Institutions
+Fermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research Institute
+
+
+Alma mater
+Scottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook University
+
+
+Doctoral advisor
+George Sterman
+
+
+Known for
+Contributions to string field theory
+S-duality
+Sen Conjecture
+
+
+Notable awards
+G.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)
+
+
+Ashoke Sen, FRS (Bengali: অশোক সেন; born 1956) is an Indian theoretical physicist and distinguished professor at the Harish-Chandra Research Institute, Allahabad.[1] He also is the Morningstar Visiting professor at MIT and a distinguished professor at the Korea Institute for Advanced Study. His main area of work is String Theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”. This prize has been set up by the Russian billionaire Yuri Milner for rewarding scientific breakthroughs.
+
+
+
+Contents
+
+
+1 Early life
+2 Career
+3 Honors and awards
+4 References
+5 External links
+
+
+
+Early life[edit]
+He was born on 15 July 1956[2] in Kolkata, and is the elder son of Anil Kumar Sen, a former professor of physics at the Scottish Church College, and Gouri Sen, a homemaker.[3]
+After completing his schooling from the Sailendra Sircar Vidyalaya and the Scottish Church Collegiate School in Kolkata, he earned his Bachelor of Science degree in 1975 from the Presidency College under the University of Calcutta, and his master’s three years later from the Indian Institute of Technology Kanpur. During his undergraduate studies at Presidency, he was greatly inspired by the work and teaching of Amal Kumar Raychaudhuri. He did his doctoral work in physics at Stony Brook University.
+Career[edit]
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Ashoke Sen made a number of major original contributions to the subject of string theory, including his landmark paper on strong-weak coupling duality or S-duality,[4] which was influential in changing the course of research in the field. He pioneered the study of unstable D-branes and made the famous Sen conjecture about open string tachyon condensation on such branes.[5] His description of rolling tachyons[6] has been influential in string cosmology. He has also co-authored many important papers on string field theory. In 1998 he won the fellowship of the Royal Society on being nominated by the theoretical physicist Stephen Hawking.[1] His contributions include the entropy function formalism for extremal black holes and its applications to attractors. His current research interests are centered on the attractor mechanism and the precision counting of microstates of black holes. Recently he has joined National Institute of Science Education and Research (NISER), Bhubaneswar, India as an honorary fellow.[7]
+Honors and awards[edit]
+
+Dirac Medal in 2014 [8]
+Doctor of Literature (honorary), 2013, awarded by Jadavpur University.
+Doctor of Science (Honoris Causa), 2013, awarded by IIT Bombay [9]
+M.P. Birla Memorial Award in 2013
+Padma Bhushan in 2013 [10]
+Fundamental Physics Prize, 2012, for his work on string theory [11][12]
+Doctor of Science (Honoris Causa), 2011, awarded by Bengal Engineering and Science University, Shibpur (Presently Indian Institute of Engineering Sciences and Technology, Shibpur) [13]
+Doctor of Science (Honoris Causa), 2009, awarded by IIT Kharagpur [14]
+Infosys Prize in the Mathematical Sciences, 2009 [15]
+Padma Shri in 2001[16]
+Fellow of the Royal Society 1998 [1]
+Fellow of the Indian National Science Academy in 1996 [17]
+S.S. Bhatnagar award in 1994
+Fellow of the Indian Academy of Sciences in 1991[2]
+ICTP Prize in 1989 [18]
+
+References[edit]
+
+
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. 
+^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. 
+^ Physicist with pillow power
+^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. 
+^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. 
+^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. 
+^ http://physics.niser.ac.in/mem.php?ty=fc
+^ "Dirac Medallists 2014". 
+^ [1]
+^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. 
+^ [2]
+^ http://www.iitkgp.ac.in/institute/index.php?page=honors
+^ Infosys Prize 2009 Mathematical Sciences
+^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. 
+^ The Year Book 2014 // Indian National Science Academy, New Delhi
+^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. 
+
+
+
+Thomson Honours Leading Indian Scientists Five people receive the "Thomson Citation Laureate Award", including physics professor Ashoke Sen of the Harish-Chandra Research Institute.
+The Hindu, Sunday, January 7, 2001: Stringing together the ultimate law States that Dr. Ashoke Sen of HRI has "made several important contributions to the String Theory".
+
+External links[edit]
+
+Home Page
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+
+
+
+
+For the Indian politician, see Ashoke Kumar Sen.Ashoke Kumar Sen
+
+Ashoke Sen
+অশোক সেন
+
+
+Born
+(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India
+
+
+Residence
+Kolkata, Allahabad
+
+
+Nationality
+Indian
+
+
+Fields
+Physics
+
+
+Institutions
+Fermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research Institute
+
+
+Alma mater
+Scottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook University
+
+
+Doctoral advisor
+George Sterman
+
+
+Known for
+Contributions to string field theory
+S-duality
+Sen Conjecture
+
+
+Notable awards
+G.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)
+
+
+Ashoke Sen
+অশোক সেন
+Ashoke Sen
+অশোক সেনAshoke Sen
+অশোক সেন
+Born
+(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India
+Born(1956-07-15) 15 July 1956 (age 59)
+Kolkata, West Bengal, India(1956-07-15)1956-07-15(age 59)KolkataWest BengalIndia
+Residence
+Kolkata, Allahabad
+ResidenceKolkata, AllahabadKolkataAllahabad
+Nationality
+Indian
+NationalityIndianIndian
+Fields
+Physics
+FieldsPhysicsPhysics
+Institutions
+Fermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research Institute
+InstitutionsFermilab
+Stanford Linear Accelerator Center
+Tata Institute of Fundamental Research
+Harish-Chandra Research InstituteFermilabStanford Linear Accelerator CenterTata Institute of Fundamental ResearchHarish-Chandra Research Institute
+Alma mater
+Scottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook University
+Alma materAlma materAlma materScottish Church Collegiate School
+Presidency College, Kolkata
+University of Calcutta
+IIT Kanpur
+Stony Brook UniversityScottish Church Collegiate SchoolPresidency College, KolkataUniversity of CalcuttaIIT KanpurStony Brook University
+Doctoral advisor
+George Sterman
+Doctoral advisorDoctoral advisorGeorge StermanGeorge Sterman
+Known for
+Contributions to string field theory
+S-duality
+Sen Conjecture
+Known forContributions to string field theory
+S-duality
+Sen Conjecturestring field theoryS-dualitySen Conjecture
+Notable awards
+G.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)
+Notable awardsG.D. Birla Award for Scientific Research (1996)
+Padma Shri (2001)
+Infosys Prize - Mathematical Sciences (2009)
+Fundamental Physics Prize (2012)
+Padma Bhushan (2013)
+Dirac Medal (2014)G.D. Birla Award for Scientific ResearchPadma ShriInfosys PrizeFundamental Physics PrizePadma BhushanDirac MedalAshoke Sen, FRS (Bengali: অশোক সেন; born 1956) is an Indian theoretical physicist and distinguished professor at the Harish-Chandra Research Institute, Allahabad.[1] He also is the Morningstar Visiting professor at MIT and a distinguished professor at the Korea Institute for Advanced Study. His main area of work is String Theory. He was among the first recipients of the Fundamental Physics Prize “for opening the path to the realisation that all string theories are different limits of the same underlying theory”. This prize has been set up by the Russian billionaire Yuri Milner for rewarding scientific breakthroughs.Ashoke SenFRSBengaliঅশোক সেনঅশোক সেনtheoretical physicistHarish-Chandra Research InstituteAllahabad[1][1]MITKorea Institute for Advanced StudyString TheoryFundamental Physics PrizeYuri Milner
+
+Contents
+
+
+1 Early life
+2 Career
+3 Honors and awards
+4 References
+5 External links
+
+
+Contents
+Contents
+1 Early life
+2 Career
+3 Honors and awards
+4 References
+5 External links
+1 Early life1 Early life1Early life2 Career2 Career2Career3 Honors and awards3 Honors and awards3Honors and awards4 References4 References4References5 External links5 External links5External linksEarly life[edit]Early life[edit][edit]He was born on 15 July 1956[2] in Kolkata, and is the elder son of Anil Kumar Sen, a former professor of physics at the Scottish Church College, and Gouri Sen, a homemaker.[3][2][2]Scottish Church College[3][3]After completing his schooling from the Sailendra Sircar Vidyalaya and the Scottish Church Collegiate School in Kolkata, he earned his Bachelor of Science degree in 1975 from the Presidency College under the University of Calcutta, and his master’s three years later from the Indian Institute of Technology Kanpur. During his undergraduate studies at Presidency, he was greatly inspired by the work and teaching of Amal Kumar Raychaudhuri. He did his doctoral work in physics at Stony Brook University.Sailendra Sircar VidyalayaScottish Church Collegiate SchoolKolkataPresidency CollegeUniversity of CalcuttaIndian Institute of Technology KanpurAmal Kumar RaychaudhuriStony Brook UniversityCareer[edit]Career[edit][edit]
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeAshoke Sen made a number of major original contributions to the subject of string theory, including his landmark paper on strong-weak coupling duality or S-duality,[4] which was influential in changing the course of research in the field. He pioneered the study of unstable D-branes and made the famous Sen conjecture about open string tachyon condensation on such branes.[5] His description of rolling tachyons[6] has been influential in string cosmology. He has also co-authored many important papers on string field theory. In 1998 he won the fellowship of the Royal Society on being nominated by the theoretical physicist Stephen Hawking.[1] His contributions include the entropy function formalism for extremal black holes and its applications to attractors. His current research interests are centered on the attractor mechanism and the precision counting of microstates of black holes. Recently he has joined National Institute of Science Education and Research (NISER), Bhubaneswar, India as an honorary fellow.[7]string theoryS-duality[4][4]D-branesSen conjectureopen stringtachyon condensation[5][5][6][6]string cosmologystring field theoryRoyal SocietyStephen Hawking[1][1]National Institute of Science Education and Research (NISER),[7][7]Honors and awards[edit]Honors and awards[edit][edit]
+Dirac Medal in 2014 [8]
+Doctor of Literature (honorary), 2013, awarded by Jadavpur University.
+Doctor of Science (Honoris Causa), 2013, awarded by IIT Bombay [9]
+M.P. Birla Memorial Award in 2013
+Padma Bhushan in 2013 [10]
+Fundamental Physics Prize, 2012, for his work on string theory [11][12]
+Doctor of Science (Honoris Causa), 2011, awarded by Bengal Engineering and Science University, Shibpur (Presently Indian Institute of Engineering Sciences and Technology, Shibpur) [13]
+Doctor of Science (Honoris Causa), 2009, awarded by IIT Kharagpur [14]
+Infosys Prize in the Mathematical Sciences, 2009 [15]
+Padma Shri in 2001[16]
+Fellow of the Royal Society 1998 [1]
+Fellow of the Indian National Science Academy in 1996 [17]
+S.S. Bhatnagar award in 1994
+Fellow of the Indian Academy of Sciences in 1991[2]
+ICTP Prize in 1989 [18]
+Dirac Medal in 2014 [8]Dirac Medal[8][8]Doctor of Literature (honorary), 2013, awarded by Jadavpur University.Jadavpur UniversityDoctor of Science (Honoris Causa), 2013, awarded by IIT Bombay [9][9][9]M.P. Birla Memorial Award in 2013Padma Bhushan in 2013 [10]Padma Bhushan[10][10]Fundamental Physics Prize, 2012, for his work on string theory [11][12]Fundamental Physics Prize[11][11][12][12]Doctor of Science (Honoris Causa), 2011, awarded by Bengal Engineering and Science University, Shibpur (Presently Indian Institute of Engineering Sciences and Technology, Shibpur) [13][13][13]Doctor of Science (Honoris Causa), 2009, awarded by IIT Kharagpur [14]Doctor of ScienceHonoris CausaIIT Kharagpur[14][14]Infosys Prize in the Mathematical Sciences, 2009 [15]Infosys PrizeMathematical Sciences[15][15]Padma Shri in 2001[16]Padma Shri[16][16]Fellow of the Royal Society 1998 [1]Fellow of the Royal Society[1][1]Fellow of the Indian National Science Academy in 1996 [17]Indian National Science Academy[17][17]S.S. Bhatnagar award in 1994S.S. Bhatnagar awardFellow of the Indian Academy of Sciences in 1991[2]Indian Academy of Sciences[2][2]ICTP Prize in 1989 [18]ICTP Prize[18][18]References[edit]References[edit][edit]
+
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. 
+^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. 
+^ Physicist with pillow power
+^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. 
+^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. 
+^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. 
+^ http://physics.niser.ac.in/mem.php?ty=fc
+^ "Dirac Medallists 2014". 
+^ [1]
+^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. 
+^ [2]
+^ http://www.iitkgp.ac.in/institute/index.php?page=honors
+^ Infosys Prize 2009 Mathematical Sciences
+^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. 
+^ The Year Book 2014 // Indian National Science Academy, New Delhi
+^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. 
+
+
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. 
+^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. 
+^ Physicist with pillow power
+^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. 
+^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. 
+^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. 
+^ http://physics.niser.ac.in/mem.php?ty=fc
+^ "Dirac Medallists 2014". 
+^ [1]
+^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. 
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. 
+^ [2]
+^ http://www.iitkgp.ac.in/institute/index.php?page=honors
+^ Infosys Prize 2009 Mathematical Sciences
+^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. 
+^ The Year Book 2014 // Indian National Science Academy, New Delhi
+^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. 
+^ a b c Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. ^ a b caaaabbbbccccPulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times. Pulakkat, Hari (Dec 19, 2013). "How many of us know about Breakthrough Prize winner, Ashoke Sen?". The Economic Times."How many of us know about Breakthrough Prize winner, Ashoke Sen?"The Economic TimesThe Economic Times  ^ a b "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. ^ a baaaabbbb"Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016. "Fellow Profile - Sen, Prof. Ashoke". Indian Academy of Sciences. Bangalore: Indian Academy of Sciences. Retrieved 23 January 2016."Fellow Profile - Sen, Prof. Ashoke"Indian Academy of SciencesIndian Academy of Sciences. Retrieved 23 January 201623 January  ^ Physicist with pillow power^^^Physicist with pillow powerPhysicist with pillow power^ Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. ^^^Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3. Sen, Ashoke (1994). "Dyon - monopole bound states, selfdual harmonic forms on the multi - monopole moduli space, and SL(2,Z) invariance in string theory". Phys. Lett. B329: 217–221. arXiv:hep-th/9402032. Bibcode:1994PhLB..329..217S. doi:10.1016/0370-2693(94)90763-3.Phys. Lett.B329arXivhep-th/9402032Bibcode1994PhLB..329..217Sdoi10.1016/0370-2693(94)90763-3  ^ Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. ^^^Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012. Sen, Ashoke (1998). "Tachyon condensation on the brane antibrane system". JHEP 8: 012. arXiv:hep-th/9805170. Bibcode:1998JHEP...08..012S. doi:10.1088/1126-6708/1998/08/012.JHEP8arXivhep-th/9805170Bibcode1998JHEP...08..012Sdoi10.1088/1126-6708/1998/08/012  ^ Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. ^^^Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048. Sen, Ashoke (2002). "Rolling Tachyon". JHEP 4: 048. arXiv:hep-th/0203211. Bibcode:2002JHEP...04..048S. doi:10.1088/1126-6708/2002/04/048.JHEP4arXivhep-th/0203211Bibcode2002JHEP...04..048Sdoi10.1088/1126-6708/2002/04/048  ^ http://physics.niser.ac.in/mem.php?ty=fc^^^http://physics.niser.ac.in/mem.php?ty=fchttp://physics.niser.ac.in/mem.php?ty=fc^ "Dirac Medallists 2014". ^^^"Dirac Medallists 2014". "Dirac Medallists 2014"."Dirac Medallists 2014"  ^ [1]^^^[1][1]^ "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. ^^^"Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013. "Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list". Times of India. TNN. Jan 26, 2013."Rajesh Khanna, Sridevi, Mary Kom, Rahul Dravid on Padma list"Times of India  ^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012^^^New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field^ "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. ^^^"Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02. "Indian scientist Ashoke Sen bags top physics honour". The Times Of India. 2012-08-02."Indian scientist Ashoke Sen bags top physics honour"The Times Of India  ^ [2]^^^[2][2]^ http://www.iitkgp.ac.in/institute/index.php?page=honors^^^http://www.iitkgp.ac.in/institute/index.php?page=honorshttp://www.iitkgp.ac.in/institute/index.php?page=honors^ Infosys Prize 2009 Mathematical Sciences^^^Infosys Prize 2009 Mathematical SciencesInfosys Prize 2009 Mathematical Sciences^ "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. ^^^"Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015. "Padma Awards" (PDF). Ministry of Home Affairs, Government of India. 2015. Retrieved July 21, 2015."Padma Awards"(PDF). Retrieved July 21, 2015July 21,  ^ The Year Book 2014 // Indian National Science Academy, New Delhi^^^The Year Book 2014 // Indian National Science Academy, New Delhi^ "ICTP Prize Winner 1989". Retrieved 2009-11-17. ^^^"ICTP Prize Winner 1989". Retrieved 2009-11-17. "ICTP Prize Winner 1989". Retrieved 2009-11-17."ICTP Prize Winner 1989". Retrieved 2009-11-172009-11-17  
+Thomson Honours Leading Indian Scientists Five people receive the "Thomson Citation Laureate Award", including physics professor Ashoke Sen of the Harish-Chandra Research Institute.
+The Hindu, Sunday, January 7, 2001: Stringing together the ultimate law States that Dr. Ashoke Sen of HRI has "made several important contributions to the String Theory".
+Thomson Honours Leading Indian Scientists Five people receive the "Thomson Citation Laureate Award", including physics professor Ashoke Sen of the Harish-Chandra Research Institute.Thomson Honours Leading Indian ScientistsThe Hindu, Sunday, January 7, 2001: Stringing together the ultimate law States that Dr. Ashoke Sen of HRI has "made several important contributions to the String Theory".The Hindu, Sunday, January 7, 2001: Stringing together the ultimate lawString TheoryExternal links[edit]External links[edit][edit]
+Home Page
+Home PageHome PageHome PageHome Page
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+
+
+v
+t
+e
+
+
+Recipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical Sciences
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeRecipients of Shanti Swarup Bhatnagar Prize for Science and Technology in Physical SciencesShanti Swarup Bhatnagar Prize for Science and TechnologyPhysical Sciences
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+
+
+K. S. Krishnan (1958)
+M. G. K. Menon (1960)
+G. N. Ramachandran (1961)
+Vikram Sarabhai (1962)
+Raja Ramanna (1963)
+A. R. Verma (1964)
+R. B. Ramachandra (1965)
+S. C. Jain & S. Ramaseshan (1966)
+Devendra Lal (1967)
+A. P. Mitra (1968)
+Asoke Nath Mitra (1969)
+Vainu Bappu (1970)
+P. K. Iyengar (1971)
+S. Chandrasekhar & S. K. Joshi (1972)
+Virendra Singh (1973)
+K. P. Sinha & M. S. Sodha (1974)
+K. L. Chopra & B. R. Nag (1975)
+C. K. Majumdar & Ramanuja Vijayaraghavan (1976)
+Jayant Narlikar & E. S. Rajagopal (1978)
+Ajoy Ghatak & S. S. Jha (1979)
+N. Mukunda & N. S. Satyamurthy (1980)
+S. M. Roy & Ramanujan Srinivasan (1981)
+Girish Saran Agarwal & T. V. Ramakrishnan(1982)
+S. S. Kapoor & Ramamurti Rajaraman (1983)
+Ramanath Cowsik & Ranganathan Shashidhar (1984)
+Narendra Kumar & K. Singh (1985)
+P. K. Kaw (1986)
+Vijay Kumar Kapahi & Probir Roy (1987)
+Deepak Kumar & O. N. Srivastava (1988)
+M. Lakshmanan & N. V. Madhusudhana (1989)
+G. Baskaran & A. K. Sood (1990)
+Deepak Dhar & Deepak Mathur (1991)
+Vikram Kumar & S. R. Shenoy (1992)
+Krishna Gopal & Rajiah Simon (1993)
+A. K. Raychaudhuri & Ashoke Sen (1994)
+Mustansir Barma (1995)
+Thanu Padmanabhan (1996)
+B. K. Chakrabarti & A. Raychaudhuri (1997)
+S. R. Das & A. M. Jayannavar (1998)
+Sunil Mukhi & E. V. Sampathkumaran (1999)
+Sriram Ramaswamy & Varun Sahni (2000)
+Rahul Pandit (2001)
+Avinash Anant Deshpande & Mohit Randeria (2002)
+G. Ravindra Kumar & Biswarup Mukhopadhyay (2003)
+Madan Rao (2004)
+Sandip Trivedi (2005)
+Atish Dabholkar & Sanjay Puri (2006)
+Yashwant Gupta & Pinaki Majumdar (2007)
+Raghunathan Srianand & Srikanth Sastry (2008)
+Rajesh Gopakumar & Abhishek Dhar (2009)
+Kalobaran Maiti & Umesh Waghmare (2010)
+Shiraz Minwalla (2011)
+Arindam Ghosh & Krishnendu Sengupta (2012)
+Amol Dighe & Vijay Balakrishna Shenoy (2013)
+Pratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)
+Bedangadas Mohanty & Mandar Madhukar Deshmukh (2015)
+K. S. Krishnan (1958)K. S. KrishnanM. G. K. Menon (1960)M. G. K. MenonG. N. Ramachandran (1961)G. N. RamachandranVikram Sarabhai (1962)Vikram SarabhaiRaja Ramanna (1963)Raja RamannaA. R. Verma (1964)A. R. VermaR. B. Ramachandra (1965)R. B. RamachandraS. C. Jain & S. Ramaseshan (1966)S. C. JainS. RamaseshanDevendra Lal (1967)Devendra LalA. P. Mitra (1968)A. P. MitraAsoke Nath Mitra (1969)Asoke Nath MitraVainu Bappu (1970)Vainu BappuP. K. Iyengar (1971)P. K. IyengarS. Chandrasekhar & S. K. Joshi (1972)S. ChandrasekharS. K. JoshiVirendra Singh (1973)Virendra SinghK. P. Sinha & M. S. Sodha (1974)K. P. SinhaM. S. SodhaK. L. Chopra & B. R. Nag (1975)K. L. ChopraB. R. NagC. K. Majumdar & Ramanuja Vijayaraghavan (1976)C. K. MajumdarRamanuja VijayaraghavanJayant Narlikar & E. S. Rajagopal (1978)Jayant NarlikarE. S. RajagopalAjoy Ghatak & S. S. Jha (1979)Ajoy GhatakS. S. JhaN. Mukunda & N. S. Satyamurthy (1980)N. MukundaN. S. SatyamurthyS. M. Roy & Ramanujan Srinivasan (1981)S. M. RoyRamanujan SrinivasanGirish Saran Agarwal & T. V. Ramakrishnan(1982)Girish Saran AgarwalT. V. RamakrishnanS. S. Kapoor & Ramamurti Rajaraman (1983)S. S. KapoorRamamurti RajaramanRamanath Cowsik & Ranganathan Shashidhar (1984)Ramanath CowsikRanganathan ShashidharNarendra Kumar & K. Singh (1985)Narendra KumarK. SinghP. K. Kaw (1986)P. K. KawVijay Kumar Kapahi & Probir Roy (1987)Vijay Kumar KapahiProbir RoyDeepak Kumar & O. N. Srivastava (1988)Deepak KumarO. N. SrivastavaM. Lakshmanan & N. V. Madhusudhana (1989)M. LakshmananN. V. MadhusudhanaG. Baskaran & A. K. Sood (1990)G. BaskaranA. K. SoodDeepak Dhar & Deepak Mathur (1991)Deepak DharDeepak MathurVikram Kumar & S. R. Shenoy (1992)Vikram KumarS. R. ShenoyKrishna Gopal & Rajiah Simon (1993)Krishna GopalRajiah SimonA. K. Raychaudhuri & Ashoke Sen (1994)A. K. RaychaudhuriAshoke SenMustansir Barma (1995)Mustansir BarmaThanu Padmanabhan (1996)Thanu PadmanabhanB. K. Chakrabarti & A. Raychaudhuri (1997)B. K. ChakrabartiA. RaychaudhuriS. R. Das & A. M. Jayannavar (1998)S. R. DasA. M. JayannavarSunil Mukhi & E. V. Sampathkumaran (1999)Sunil MukhiE. V. SampathkumaranSriram Ramaswamy & Varun Sahni (2000)Sriram RamaswamyVarun SahniRahul Pandit (2001)Rahul PanditAvinash Anant Deshpande & Mohit Randeria (2002)Avinash Anant DeshpandeMohit RanderiaG. Ravindra Kumar & Biswarup Mukhopadhyay (2003)G. Ravindra KumarBiswarup MukhopadhyayMadan Rao (2004)Madan RaoSandip Trivedi (2005)Sandip TrivediAtish Dabholkar & Sanjay Puri (2006)Atish DabholkarSanjay PuriYashwant Gupta & Pinaki Majumdar (2007)Yashwant GuptaPinaki MajumdarRaghunathan Srianand & Srikanth Sastry (2008)Raghunathan SrianandSrikanth SastryRajesh Gopakumar & Abhishek Dhar (2009)Rajesh GopakumarAbhishek DharKalobaran Maiti & Umesh Waghmare (2010)Kalobaran MaitiUmesh WaghmareShiraz Minwalla (2011)Shiraz MinwallaArindam Ghosh & Krishnendu Sengupta (2012)Arindam GhoshKrishnendu SenguptaAmol Dighe & Vijay Balakrishna Shenoy (2013)Amol DigheVijay Balakrishna ShenoyPratap Raychaudhuri & Sadiqali Abbas Rangwala (2014)Pratap RaychaudhuriSadiqali Abbas RangwalaBedangadas Mohanty & Mandar Madhukar Deshmukh (2015)Bedangadas MohantyMandar Madhukar Deshmukh
+
+
+All the branches
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+All the branches
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+
+
+Biological Science
+Chemical Science
+Engineering Science
+Mathematical Science
+Medical Science
+Physical Science
+Earth, Atmosphere, Ocean & Planetary Sciences
+Biological ScienceBiological ScienceChemical ScienceChemical ScienceEngineering ScienceEngineering ScienceMathematical ScienceMathematical ScienceMedical ScienceMedical SciencePhysical SciencePhysical ScienceEarth, Atmosphere, Ocean & Planetary SciencesEarth, Atmosphere, Ocean & Planetary Sciences
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+
+
+v
+t
+e
+
+
+Padma Shri awards
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeePadma Shri awardsPadma Shri
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+
+
+1954–59
+1960–69
+1970–79
+1980–89
+1990–99
+2000–09
+2010–19
+1954–591954–591960–691960–691970–791970–791980–891980–891990–991990–992000–092000–092010–192010–19
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+
+
+WorldCat Identities
+VIAF: 36061481
+LCCN: n89632942
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 36061481VIAF3606148136061481LCCN: n89632942LCCNn89632942n89632942
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ashoke_Sen&oldid=714809120"					https://en.wikipedia.org/w/index.php?title=Ashoke_Sen&oldid=714809120Categories: Recipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 birthsLiving peoplePresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian physicistsStony Brook University alumniString theoristsUniversity of Calcutta alumniBengali peopleRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma BhushanScottish Church Collegiate School alumniHidden categories: EngvarB from June 2015Use dmy dates from June 2015Articles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCategories: Recipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 birthsLiving peoplePresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian physicistsStony Brook University alumniString theoristsUniversity of Calcutta alumniBengali peopleRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma BhushanScottish Church Collegiate School alumniCategoriesRecipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 birthsLiving peoplePresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian physicistsStony Brook University alumniString theoristsUniversity of Calcutta alumniBengali peopleRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma BhushanScottish Church Collegiate School alumniRecipients of the Shanti Swarup Bhatnagar Award in Physical ScienceRecipients of the Shanti Swarup Bhatnagar Award in Physical Science1956 births1956 birthsLiving peopleLiving peoplePresidency University, Kolkata alumniPresidency University, Kolkata alumniFellows of the Indian National Science AcademyFellows of the Indian National Science AcademyFellows of the Royal SocietyFellows of the Royal SocietyIndian Institute of Technology Kanpur alumniIndian Institute of Technology Kanpur alumniIndian physicistsIndian physicistsStony Brook University alumniStony Brook University alumniString theoristsString theoristsUniversity of Calcutta alumniUniversity of Calcutta alumniBengali peopleBengali peopleRecipients of the Infosys PrizeRecipients of the Infosys PrizeRecipients of the Padma ShriRecipients of the Padma ShriRecipients of the Padma BhushanRecipients of the Padma BhushanScottish Church Collegiate School alumniScottish Church Collegiate School alumniHidden categories: EngvarB from June 2015Use dmy dates from June 2015Articles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersEngvarB from June 2015Use dmy dates from June 2015Articles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersEngvarB from June 2015EngvarB from June 2015Use dmy dates from June 2015Use dmy dates from June 2015Articles containing Bengali-language textArticles containing Bengali-language textWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어हिन्दीമലയാളംPortuguêsРусскийसंस्कृतम्Slovenščinaதமிழ்తెలుగు 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어हिन्दीമലയാളംPortuguêsРусскийसंस्कृतम्Slovenščinaதமிழ்తెలుగు 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia Commons 
+
+In other projects
+
+Wikimedia Commons 
+
+Wikimedia Commons Wikimedia CommonsWikimedia Commons
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어हिन्दीമലയാളംPortuguêsРусскийसंस्कृतम्Slovenščinaதமிழ்తెలుగు 
+Edit links 
+Languages
+
+বাংলাDeutschفارسیFrançais한국어हिन्दीമലയാളംPortuguêsРусскийसंस्कृतम्Slovenščinaதமிழ்తెలుగు 
+Edit links 
+বাংলাDeutschفارسیFrançais한국어हिन्दीമലയാളംPortuguêsРусскийसंस्कृतम्Slovenščinaதமிழ்తెలుగు বাংলাবাংলাDeutschDeutschفارسیفارسیFrançaisFrançais한국어한국어हिन्दीहिन्दीമലയാളംമലയാളംPortuguêsPortuguêsРусскийРусскийसंस्कृतम्संस्कृतम्SlovenščinaSlovenščinaதமிழ்தமிழ்తెలుగుతెలుగుEdit linksEdit linksEdit links
+
+ This page was last modified on 11 April 2016, at 23:59.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 11 April 2016, at 23:59.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 11 April 2016, at 23:59.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

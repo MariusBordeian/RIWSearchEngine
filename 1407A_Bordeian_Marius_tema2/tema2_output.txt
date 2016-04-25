@@ -1,0 +1,17 @@
+will run on sample, as no args were passed! : ['function', 'AP_MPMQ_NOT_SUPPORTED']
+
+file : .\output\1407A_Bordeian_Marius_tema2.folderHashMap
+file : .\output\1407A_Bordeian_Marius_tema2.wordsHashMap
+file : .\output\1407A_Bordeian_Marius_tema2.indexReversed
+
+files for : function
+C:\Users\mbord\Documents\GitHub\RIWSearchEngine\1407A_Bordeian_Marius_tema1\input\HTML\5.html
+C:\Users\mbord\Documents\GitHub\RIWSearchEngine\1407A_Bordeian_Marius_tema1\input\HTML\9.html
+
+
+files for : ap_mpmq_not_supported
+C:\Users\mbord\Documents\GitHub\RIWSearchEngine\1407A_Bordeian_Marius_tema1\input\HTML\9.html
+
+
+Files for "['function', 'and', 'ap_mpmq_not_supported']" query : 
+C:\Users\mbord\Documents\GitHub\RIWSearchEngine\1407A_Bordeian_Marius_tema1\input\HTML\9.html

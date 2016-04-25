@@ -1,0 +1,1722 @@
+Leonard Susskind - Wikipedia, the free encyclopedia
+
+
+
+
+Leonard Susskind
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Leonard Susskind
+
+
+
+Leonard Susskind
+
+
+
+Born
+June 1940 (1940-06) (age 75)
+South Bronx, New York City, US
+
+
+Residence
+United States
+
+
+Citizenship
+United States
+
+
+Nationality
+American
+
+
+Fields
+Physics, mathematics
+
+
+Institutions
+Yeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical Physics
+
+
+Alma mater
+City College of New York
+Cornell University
+
+
+Doctoral advisor
+Peter A. Carruthers
+
+
+Known for
+Holographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theory
+
+
+Notable awards
+Pomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]
+
+
+Leonard Susskind (born June, 1940)[2][3] is the professor of theoretical physics at Stanford University, and director of the Stanford Institute for Theoretical Physics. His research interests include string theory, quantum field theory, quantum statistical mechanics and quantum cosmology.[1] He is a member of the National Academy of Sciences of the US,[4] and the American Academy of Arts and Sciences,[5] an associate member of the faculty of Canada's Perimeter Institute for Theoretical Physics,[6] and a distinguished professor of the Korea Institute for Advanced Study.[7]
+Susskind is widely regarded as one of the fathers of string theory,[8] having, with Yoichiro Nambu and Holger Bech Nielsen, independently introduced the idea that particles could in fact be states of excitation of a relativistic string.[9][unreliable source?] He was the first to give a precise string-theory interpretation of the holographic principle in 1995[10] and the first to introduce the idea of the string theory landscape in 2003.[11][12]
+Susskind was awarded the 1998 J. J. Sakurai Prize.[13]
+
+
+
+Contents
+
+
+1 Early life and education
+2 Career
+
+2.1 Scientific career
+
+
+3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+
+4 The Theoretical Minimum lecture series
+5 Cornell Messenger Lectures
+6 Smolin–Susskind debate
+7 Personal Life
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+
+Early life and education[edit]
+Leonard Susskind was born to a Jewish family from the South Bronx section of New York City,[14] he now resides in Palo Alto, California. He began working as a plumber at the age of 16, taking over from his father who had become ill.[14] Later, he enrolled in the City College of New York as an engineering student, graduating with a B.S. in physics in 1962.[5] In an interview in the Los Angeles Times, Susskind recalls the moment he discussed with his father this change in career path: "When I told my father I wanted to be a physicist, he said: ‘Hell no, you ain’t going to work in a drug store.’ I said, "No. Not a pharmacist." I said, ‘Like Einstein.’ He poked me in the chest with a piece of plumbing pipe. ‘You ain’t going to be no engineer’, he said. ‘You’re going to be Einstein.’"[14] Susskind then studied at Cornell University under Peter A. Carruthers where he earned his Ph.D. in 1965. He has been married twice, first in 1960,[5] and has four children.
+Career[edit]
+Susskind was an assistant professor of physics, then an associate professor at Yeshiva University (1966–1970), after which he went for a year to the Tel Aviv University (1971–72), returning to Yeshiva to become a professor of physics (1970–1979). Since 1979 he has been professor of physics at Stanford University,[1] and since 2000 has held the Felix Bloch professorship of physics.
+Susskind was awarded the 1998 J. J. Sakurai Prize for his "pioneering contributions to hadronic string models, lattice gauge theories, quantum chromodynamics, and dynamical symmetry breaking". Susskind's hallmark, according to colleagues, has been the application of "brilliant imagination and originality to the theoretical study of the nature of the elementary particles and forces that make up the physical world".[13]
+In 2007, Susskind joined the faculty of Perimeter Institute for Theoretical Physics in Waterloo, Ontario, Canada, as an associate member. He has been elected to the National Academy of Sciences and the American Academy of Arts and Sciences. He is also a distinguished professor at Korea Institute for Advanced Study.[15]
+Scientific career[edit]
+Susskind was one of at least three physicists who independently discovered during or around 1970 that the Veneziano dual resonance model of strong interactions could be described by a quantum mechanical model of strings,[16] and was the first to propose the idea of the string theory landscape. Susskind has also made contributions in the following areas of physics:
+
+The independent discovery of the string theory model of particle physics
+The theory of quark confinement[17]
+The development of Hamiltonian lattice gauge theory[18]
+The theory of scaling violations in deep inelastic electroproduction
+The theory of symmetry breaking sometimes known as "technicolor theory"[19]
+The second, yet independent, theory of cosmological baryogenesis[20] (Andrei Sakharov's work was first, but was mostly unknown in the Western hemisphere)
+String theory of black hole entropy[21]
+The principle of black hole complementarity[22]
+The causal patch hypothesis
+The holographic principle[23]
+M-theory, including development of the BFSS matrix model [24]
+Kogut-Susskind fermions
+Introduction of holographic entropy bounds in physical cosmology
+The idea of an anthropic string theory landscape[11]
+The Census Taker's Hat
+
+Books[edit]
+Susskind is the author of several popular science books.
+The Cosmic Landscape[edit]
+Main article: The Cosmic Landscape
+The Cosmic Landscape: String Theory and the Illusion of Intelligent Design is Susskind's first popular science book, published by Little, Brown and Company on December 12, 2005.[25] It is Susskind's attempt to bring his idea of the anthropic landscape of string theory to the general public. In the book, Susskind describes how the string theory landscape was an almost inevitable consequence of several factors, one of which was Steven Weinberg's prediction of the cosmological constant in 1987. The question addressed here is why our universe is fine-tuned for our existence. Susskind explains that Weinberg calculated that if the cosmological constant was just a little different, our universe would cease to exist.
+The Black Hole War[edit]
+Main articles: The Black Hole War and Susskind-Hawking battle
+The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics is Susskind's second popular science book, published by Little, Brown, and Company on July 7, 2008.[26] The book is his most famous work and explains what he thinks would happen to the information and matter stored in a black hole when it evaporates. The book sparked from a debate that started in 1981, when there was a meeting of physicists to try to decode some of the mysteries about how particles of particular elemental compounds function. During this discussion Stephen Hawking stated that the information inside a black hole is lost forever as the black hole evaporates. It took 28 years for Leonard Susskind to formulate his theory that would prove Hawking wrong. He then published his theory in his book, The Black Hole War. Like The Cosmic Landscape, The Black Hole War is aimed at the lay reader. He writes: "The real tools for understanding the quantum universe are abstract mathematics: infinite dimensional Hilbert spaces, projection operators, unitary matrices and a lot of other advanced principles that take a few years to learn. But let's see how we do in just a few pages."
+The Theoretical Minimum book series[edit]
+Susskind is currently co-authoring a series of companion books to his lecture series The Theoretical Minimum. The first of these, The Theoretical Minimum: What You Need to Know to Start Doing Physics,[27] was published in 2013 and presents the modern formulations of classical mechanics. The second of these, Quantum Mechanics: The Theoretical Minimum,[28] was published in February 2014. The next book is expected to be largely concerned with special relativity.
+The Theoretical Minimum lecture series[edit]
+Susskind teaches a series of Stanford Continuing Studies courses about modern physics referred to as The Theoretical Minimum. These lectures later formed the basis for the books of the same name.[29] The goal of the courses is to teach the basic but rigorous theoretical foundations required to study certain areas of physics. The sequence covers classical mechanics, relativity, quantum mechanics, statistical mechanics, and cosmology, including the physics of black holes.[30]
+These courses are available on the The Theoretical Minimum website, on iTunes, and on YouTube. The courses are intended for the mathematically literate[31] public as well as physical science/mathematics students. Susskind aims the courses at people with prior exposure to algebra, calculus,[32] vectors, differential calculus, integrals, and perhaps differential operators, matrices, and linear equations. Homework and study outside of class is otherwise unnecessary. Susskind explains most of the mathematics used, which form the basis of the lectures.
+Cornell Messenger Lectures[edit]
+Susskind gave 3 lectures "The Birth of the Universe and the Origin of Laws of Physics" April 28-May 1, 2014 in the Cornell Messenger Lecture series which are posted on a Cornell website.[33]
+Smolin–Susskind debate[edit]
+The Smolin-Susskind debate refers to the series of intense postings in 2004 between Lee Smolin and Susskind, concerning Smolin’s argument that the "anthropic principle cannot yield any falsifiable predictions, and therefore cannot be a part of science."[34] It began on July 26, 2004, with Smolin's publication of "Scientific alternatives to the anthropic principle". Smolin e-mailed Susskind asking for a comment. Having not had the chance to read the paper, Susskind requested a summarization of his arguments. Smolin obliged, and on July 28, 2004, Susskind responded, saying that the logic Smolin followed "can lead to ridiculous conclusions".[34] The next day, Smolin responded, saying that "If a large body of our colleagues feels comfortable believing a theory that cannot be proved wrong, then the progress of science could get stuck, leading to a situation in which false, but unfalsifiable theories dominate the attention of our field." This was followed by another paper by Susskind which made a few comments about Smolin's theory of "cosmic natural selection".[35] The Smolin-Susskind debate finally ended with each of them agreeing to write a final letter which would be posted on the edge.org website, with three conditions attached: (1) No more than one letter each; (2) Neither sees the other's letter in advance; (3) No changes after the fact.
+Personal Life[edit]
+Susskind was a close friend of Richard Feynman, though they never published a paper together. Susskind always referred to Feynman as "Dick". While at a conference in France, Feynman took to calling Susskind "Leonardo" because he was practicing his French.[36]
+Susskind is a great-grandfather. He identifies as an atheist. [37]
+See also[edit]
+
+Superstring theory
+Quantum chromodynamics
+Supersymmetry
+Susskind–Glogower operator
+List of theoretical physicists
+Kogut–Susskind fermions
+Fischler–Susskind mechanism
+Boris Pregel
+
+References[edit]
+
+
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. 
+^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.
+^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.
+^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. 
+^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).
+^ "Leonard Susskind Joins PI". October 15, 2007. 
+^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. 
+^ "Father of String Theory Muses on the Megaverse". NYAS Publications. 
+^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.
+^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. 
+^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. 
+^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. 
+^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. 
+^ Welcome To Kias
+^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. 
+^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. 
+^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. 
+^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+
+^ Biography, American Physical Society website (last accessed November, 2013)
+^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. 
+^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. 
+^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+
+^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. 
+^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]
+^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]
+^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. 
+^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. 
+^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. 
+^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. 
+^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html
+^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. 
+^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. 
+^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ https://www.youtube.com/watch?v=hpjwotips7E
+
+
+Further reading[edit]
+
+Chown, Marcus, "Our world may be a giant hologram", New Scientist, 15 January 2009, magazine issue 2691. "The holograms you find on credit cards and banknotes are etched on two-dimensional plastic films. When light bounces off them, it recreates the appearance of a 3D image. In the 1990s physicists Leonard Susskind and Nobel prize winner Gerard 't Hooft suggested that the same principle might apply to the universe as a whole. Our everyday experience might itself be a holographic projection of physical processes that take place on a distant, 2D surface."
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Leonard Susskind.
+
+
+
+
+
+Wikiquote has quotations related to: Leonard Susskind
+
+
+
+Leonard Susskind's Faculty Page (Stanford University)
+Susskind's Blog: Physics for Everyone
+The Theoretical Minimum website, with the full set of free lectures
+Radio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principle on The 7th Avenue Project radio show
+The Edge:
+
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+
+
+Radio Interview from This Week in Science March 14, 2006 Broadcast
+"Father of String Theory Muses on the Megaverse": Podcast
+Leonard Susskind at the Internet Movie Database
+Leonard Susskind: My friend Richard Feynman on YouTube - A Ted talk
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Leonard_Susskind&oldid=714686130"					
+Categories: 1940 birthsCity College of New York alumniCornell University alumniJewish American scientistsAmerican atheistsJewish atheistsStanford University Department of Physics facultyString theoristsLiving peopleHolographyMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipientsHidden categories: All articles lacking reliable referencesArticles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersDate of birth missing (living people) 
+
+
+Leonard Susskind
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Leonard Susskind
+
+
+
+Leonard Susskind
+
+
+
+Born
+June 1940 (1940-06) (age 75)
+South Bronx, New York City, US
+
+
+Residence
+United States
+
+
+Citizenship
+United States
+
+
+Nationality
+American
+
+
+Fields
+Physics, mathematics
+
+
+Institutions
+Yeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical Physics
+
+
+Alma mater
+City College of New York
+Cornell University
+
+
+Doctoral advisor
+Peter A. Carruthers
+
+
+Known for
+Holographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theory
+
+
+Notable awards
+Pomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]
+
+
+Leonard Susskind (born June, 1940)[2][3] is the professor of theoretical physics at Stanford University, and director of the Stanford Institute for Theoretical Physics. His research interests include string theory, quantum field theory, quantum statistical mechanics and quantum cosmology.[1] He is a member of the National Academy of Sciences of the US,[4] and the American Academy of Arts and Sciences,[5] an associate member of the faculty of Canada's Perimeter Institute for Theoretical Physics,[6] and a distinguished professor of the Korea Institute for Advanced Study.[7]
+Susskind is widely regarded as one of the fathers of string theory,[8] having, with Yoichiro Nambu and Holger Bech Nielsen, independently introduced the idea that particles could in fact be states of excitation of a relativistic string.[9][unreliable source?] He was the first to give a precise string-theory interpretation of the holographic principle in 1995[10] and the first to introduce the idea of the string theory landscape in 2003.[11][12]
+Susskind was awarded the 1998 J. J. Sakurai Prize.[13]
+
+
+
+Contents
+
+
+1 Early life and education
+2 Career
+
+2.1 Scientific career
+
+
+3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+
+4 The Theoretical Minimum lecture series
+5 Cornell Messenger Lectures
+6 Smolin–Susskind debate
+7 Personal Life
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+
+Early life and education[edit]
+Leonard Susskind was born to a Jewish family from the South Bronx section of New York City,[14] he now resides in Palo Alto, California. He began working as a plumber at the age of 16, taking over from his father who had become ill.[14] Later, he enrolled in the City College of New York as an engineering student, graduating with a B.S. in physics in 1962.[5] In an interview in the Los Angeles Times, Susskind recalls the moment he discussed with his father this change in career path: "When I told my father I wanted to be a physicist, he said: ‘Hell no, you ain’t going to work in a drug store.’ I said, "No. Not a pharmacist." I said, ‘Like Einstein.’ He poked me in the chest with a piece of plumbing pipe. ‘You ain’t going to be no engineer’, he said. ‘You’re going to be Einstein.’"[14] Susskind then studied at Cornell University under Peter A. Carruthers where he earned his Ph.D. in 1965. He has been married twice, first in 1960,[5] and has four children.
+Career[edit]
+Susskind was an assistant professor of physics, then an associate professor at Yeshiva University (1966–1970), after which he went for a year to the Tel Aviv University (1971–72), returning to Yeshiva to become a professor of physics (1970–1979). Since 1979 he has been professor of physics at Stanford University,[1] and since 2000 has held the Felix Bloch professorship of physics.
+Susskind was awarded the 1998 J. J. Sakurai Prize for his "pioneering contributions to hadronic string models, lattice gauge theories, quantum chromodynamics, and dynamical symmetry breaking". Susskind's hallmark, according to colleagues, has been the application of "brilliant imagination and originality to the theoretical study of the nature of the elementary particles and forces that make up the physical world".[13]
+In 2007, Susskind joined the faculty of Perimeter Institute for Theoretical Physics in Waterloo, Ontario, Canada, as an associate member. He has been elected to the National Academy of Sciences and the American Academy of Arts and Sciences. He is also a distinguished professor at Korea Institute for Advanced Study.[15]
+Scientific career[edit]
+Susskind was one of at least three physicists who independently discovered during or around 1970 that the Veneziano dual resonance model of strong interactions could be described by a quantum mechanical model of strings,[16] and was the first to propose the idea of the string theory landscape. Susskind has also made contributions in the following areas of physics:
+
+The independent discovery of the string theory model of particle physics
+The theory of quark confinement[17]
+The development of Hamiltonian lattice gauge theory[18]
+The theory of scaling violations in deep inelastic electroproduction
+The theory of symmetry breaking sometimes known as "technicolor theory"[19]
+The second, yet independent, theory of cosmological baryogenesis[20] (Andrei Sakharov's work was first, but was mostly unknown in the Western hemisphere)
+String theory of black hole entropy[21]
+The principle of black hole complementarity[22]
+The causal patch hypothesis
+The holographic principle[23]
+M-theory, including development of the BFSS matrix model [24]
+Kogut-Susskind fermions
+Introduction of holographic entropy bounds in physical cosmology
+The idea of an anthropic string theory landscape[11]
+The Census Taker's Hat
+
+Books[edit]
+Susskind is the author of several popular science books.
+The Cosmic Landscape[edit]
+Main article: The Cosmic Landscape
+The Cosmic Landscape: String Theory and the Illusion of Intelligent Design is Susskind's first popular science book, published by Little, Brown and Company on December 12, 2005.[25] It is Susskind's attempt to bring his idea of the anthropic landscape of string theory to the general public. In the book, Susskind describes how the string theory landscape was an almost inevitable consequence of several factors, one of which was Steven Weinberg's prediction of the cosmological constant in 1987. The question addressed here is why our universe is fine-tuned for our existence. Susskind explains that Weinberg calculated that if the cosmological constant was just a little different, our universe would cease to exist.
+The Black Hole War[edit]
+Main articles: The Black Hole War and Susskind-Hawking battle
+The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics is Susskind's second popular science book, published by Little, Brown, and Company on July 7, 2008.[26] The book is his most famous work and explains what he thinks would happen to the information and matter stored in a black hole when it evaporates. The book sparked from a debate that started in 1981, when there was a meeting of physicists to try to decode some of the mysteries about how particles of particular elemental compounds function. During this discussion Stephen Hawking stated that the information inside a black hole is lost forever as the black hole evaporates. It took 28 years for Leonard Susskind to formulate his theory that would prove Hawking wrong. He then published his theory in his book, The Black Hole War. Like The Cosmic Landscape, The Black Hole War is aimed at the lay reader. He writes: "The real tools for understanding the quantum universe are abstract mathematics: infinite dimensional Hilbert spaces, projection operators, unitary matrices and a lot of other advanced principles that take a few years to learn. But let's see how we do in just a few pages."
+The Theoretical Minimum book series[edit]
+Susskind is currently co-authoring a series of companion books to his lecture series The Theoretical Minimum. The first of these, The Theoretical Minimum: What You Need to Know to Start Doing Physics,[27] was published in 2013 and presents the modern formulations of classical mechanics. The second of these, Quantum Mechanics: The Theoretical Minimum,[28] was published in February 2014. The next book is expected to be largely concerned with special relativity.
+The Theoretical Minimum lecture series[edit]
+Susskind teaches a series of Stanford Continuing Studies courses about modern physics referred to as The Theoretical Minimum. These lectures later formed the basis for the books of the same name.[29] The goal of the courses is to teach the basic but rigorous theoretical foundations required to study certain areas of physics. The sequence covers classical mechanics, relativity, quantum mechanics, statistical mechanics, and cosmology, including the physics of black holes.[30]
+These courses are available on the The Theoretical Minimum website, on iTunes, and on YouTube. The courses are intended for the mathematically literate[31] public as well as physical science/mathematics students. Susskind aims the courses at people with prior exposure to algebra, calculus,[32] vectors, differential calculus, integrals, and perhaps differential operators, matrices, and linear equations. Homework and study outside of class is otherwise unnecessary. Susskind explains most of the mathematics used, which form the basis of the lectures.
+Cornell Messenger Lectures[edit]
+Susskind gave 3 lectures "The Birth of the Universe and the Origin of Laws of Physics" April 28-May 1, 2014 in the Cornell Messenger Lecture series which are posted on a Cornell website.[33]
+Smolin–Susskind debate[edit]
+The Smolin-Susskind debate refers to the series of intense postings in 2004 between Lee Smolin and Susskind, concerning Smolin’s argument that the "anthropic principle cannot yield any falsifiable predictions, and therefore cannot be a part of science."[34] It began on July 26, 2004, with Smolin's publication of "Scientific alternatives to the anthropic principle". Smolin e-mailed Susskind asking for a comment. Having not had the chance to read the paper, Susskind requested a summarization of his arguments. Smolin obliged, and on July 28, 2004, Susskind responded, saying that the logic Smolin followed "can lead to ridiculous conclusions".[34] The next day, Smolin responded, saying that "If a large body of our colleagues feels comfortable believing a theory that cannot be proved wrong, then the progress of science could get stuck, leading to a situation in which false, but unfalsifiable theories dominate the attention of our field." This was followed by another paper by Susskind which made a few comments about Smolin's theory of "cosmic natural selection".[35] The Smolin-Susskind debate finally ended with each of them agreeing to write a final letter which would be posted on the edge.org website, with three conditions attached: (1) No more than one letter each; (2) Neither sees the other's letter in advance; (3) No changes after the fact.
+Personal Life[edit]
+Susskind was a close friend of Richard Feynman, though they never published a paper together. Susskind always referred to Feynman as "Dick". While at a conference in France, Feynman took to calling Susskind "Leonardo" because he was practicing his French.[36]
+Susskind is a great-grandfather. He identifies as an atheist. [37]
+See also[edit]
+
+Superstring theory
+Quantum chromodynamics
+Supersymmetry
+Susskind–Glogower operator
+List of theoretical physicists
+Kogut–Susskind fermions
+Fischler–Susskind mechanism
+Boris Pregel
+
+References[edit]
+
+
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. 
+^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.
+^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.
+^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. 
+^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).
+^ "Leonard Susskind Joins PI". October 15, 2007. 
+^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. 
+^ "Father of String Theory Muses on the Megaverse". NYAS Publications. 
+^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.
+^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. 
+^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. 
+^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. 
+^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. 
+^ Welcome To Kias
+^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. 
+^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. 
+^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. 
+^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+
+^ Biography, American Physical Society website (last accessed November, 2013)
+^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. 
+^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. 
+^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+
+^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. 
+^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]
+^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]
+^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. 
+^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. 
+^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. 
+^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. 
+^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html
+^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. 
+^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. 
+^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ https://www.youtube.com/watch?v=hpjwotips7E
+
+
+Further reading[edit]
+
+Chown, Marcus, "Our world may be a giant hologram", New Scientist, 15 January 2009, magazine issue 2691. "The holograms you find on credit cards and banknotes are etched on two-dimensional plastic films. When light bounces off them, it recreates the appearance of a 3D image. In the 1990s physicists Leonard Susskind and Nobel prize winner Gerard 't Hooft suggested that the same principle might apply to the universe as a whole. Our everyday experience might itself be a holographic projection of physical processes that take place on a distant, 2D surface."
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Leonard Susskind.
+
+
+
+
+
+Wikiquote has quotations related to: Leonard Susskind
+
+
+
+Leonard Susskind's Faculty Page (Stanford University)
+Susskind's Blog: Physics for Everyone
+The Theoretical Minimum website, with the full set of free lectures
+Radio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principle on The 7th Avenue Project radio show
+The Edge:
+
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+
+
+Radio Interview from This Week in Science March 14, 2006 Broadcast
+"Father of String Theory Muses on the Megaverse": Podcast
+Leonard Susskind at the Internet Movie Database
+Leonard Susskind: My friend Richard Feynman on YouTube - A Ted talk
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Leonard_Susskind&oldid=714686130"					
+Categories: 1940 birthsCity College of New York alumniCornell University alumniJewish American scientistsAmerican atheistsJewish atheistsStanford University Department of Physics facultyString theoristsLiving peopleHolographyMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipientsHidden categories: All articles lacking reliable referencesArticles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersDate of birth missing (living people) 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Leonard Susskind
+
+
+
+Leonard Susskind
+
+
+
+Born
+June 1940 (1940-06) (age 75)
+South Bronx, New York City, US
+
+
+Residence
+United States
+
+
+Citizenship
+United States
+
+
+Nationality
+American
+
+
+Fields
+Physics, mathematics
+
+
+Institutions
+Yeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical Physics
+
+
+Alma mater
+City College of New York
+Cornell University
+
+
+Doctoral advisor
+Peter A. Carruthers
+
+
+Known for
+Holographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theory
+
+
+Notable awards
+Pomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]
+
+
+Leonard Susskind (born June, 1940)[2][3] is the professor of theoretical physics at Stanford University, and director of the Stanford Institute for Theoretical Physics. His research interests include string theory, quantum field theory, quantum statistical mechanics and quantum cosmology.[1] He is a member of the National Academy of Sciences of the US,[4] and the American Academy of Arts and Sciences,[5] an associate member of the faculty of Canada's Perimeter Institute for Theoretical Physics,[6] and a distinguished professor of the Korea Institute for Advanced Study.[7]
+Susskind is widely regarded as one of the fathers of string theory,[8] having, with Yoichiro Nambu and Holger Bech Nielsen, independently introduced the idea that particles could in fact be states of excitation of a relativistic string.[9][unreliable source?] He was the first to give a precise string-theory interpretation of the holographic principle in 1995[10] and the first to introduce the idea of the string theory landscape in 2003.[11][12]
+Susskind was awarded the 1998 J. J. Sakurai Prize.[13]
+
+
+
+Contents
+
+
+1 Early life and education
+2 Career
+
+2.1 Scientific career
+
+
+3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+
+4 The Theoretical Minimum lecture series
+5 Cornell Messenger Lectures
+6 Smolin–Susskind debate
+7 Personal Life
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+
+Early life and education[edit]
+Leonard Susskind was born to a Jewish family from the South Bronx section of New York City,[14] he now resides in Palo Alto, California. He began working as a plumber at the age of 16, taking over from his father who had become ill.[14] Later, he enrolled in the City College of New York as an engineering student, graduating with a B.S. in physics in 1962.[5] In an interview in the Los Angeles Times, Susskind recalls the moment he discussed with his father this change in career path: "When I told my father I wanted to be a physicist, he said: ‘Hell no, you ain’t going to work in a drug store.’ I said, "No. Not a pharmacist." I said, ‘Like Einstein.’ He poked me in the chest with a piece of plumbing pipe. ‘You ain’t going to be no engineer’, he said. ‘You’re going to be Einstein.’"[14] Susskind then studied at Cornell University under Peter A. Carruthers where he earned his Ph.D. in 1965. He has been married twice, first in 1960,[5] and has four children.
+Career[edit]
+Susskind was an assistant professor of physics, then an associate professor at Yeshiva University (1966–1970), after which he went for a year to the Tel Aviv University (1971–72), returning to Yeshiva to become a professor of physics (1970–1979). Since 1979 he has been professor of physics at Stanford University,[1] and since 2000 has held the Felix Bloch professorship of physics.
+Susskind was awarded the 1998 J. J. Sakurai Prize for his "pioneering contributions to hadronic string models, lattice gauge theories, quantum chromodynamics, and dynamical symmetry breaking". Susskind's hallmark, according to colleagues, has been the application of "brilliant imagination and originality to the theoretical study of the nature of the elementary particles and forces that make up the physical world".[13]
+In 2007, Susskind joined the faculty of Perimeter Institute for Theoretical Physics in Waterloo, Ontario, Canada, as an associate member. He has been elected to the National Academy of Sciences and the American Academy of Arts and Sciences. He is also a distinguished professor at Korea Institute for Advanced Study.[15]
+Scientific career[edit]
+Susskind was one of at least three physicists who independently discovered during or around 1970 that the Veneziano dual resonance model of strong interactions could be described by a quantum mechanical model of strings,[16] and was the first to propose the idea of the string theory landscape. Susskind has also made contributions in the following areas of physics:
+
+The independent discovery of the string theory model of particle physics
+The theory of quark confinement[17]
+The development of Hamiltonian lattice gauge theory[18]
+The theory of scaling violations in deep inelastic electroproduction
+The theory of symmetry breaking sometimes known as "technicolor theory"[19]
+The second, yet independent, theory of cosmological baryogenesis[20] (Andrei Sakharov's work was first, but was mostly unknown in the Western hemisphere)
+String theory of black hole entropy[21]
+The principle of black hole complementarity[22]
+The causal patch hypothesis
+The holographic principle[23]
+M-theory, including development of the BFSS matrix model [24]
+Kogut-Susskind fermions
+Introduction of holographic entropy bounds in physical cosmology
+The idea of an anthropic string theory landscape[11]
+The Census Taker's Hat
+
+Books[edit]
+Susskind is the author of several popular science books.
+The Cosmic Landscape[edit]
+Main article: The Cosmic Landscape
+The Cosmic Landscape: String Theory and the Illusion of Intelligent Design is Susskind's first popular science book, published by Little, Brown and Company on December 12, 2005.[25] It is Susskind's attempt to bring his idea of the anthropic landscape of string theory to the general public. In the book, Susskind describes how the string theory landscape was an almost inevitable consequence of several factors, one of which was Steven Weinberg's prediction of the cosmological constant in 1987. The question addressed here is why our universe is fine-tuned for our existence. Susskind explains that Weinberg calculated that if the cosmological constant was just a little different, our universe would cease to exist.
+The Black Hole War[edit]
+Main articles: The Black Hole War and Susskind-Hawking battle
+The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics is Susskind's second popular science book, published by Little, Brown, and Company on July 7, 2008.[26] The book is his most famous work and explains what he thinks would happen to the information and matter stored in a black hole when it evaporates. The book sparked from a debate that started in 1981, when there was a meeting of physicists to try to decode some of the mysteries about how particles of particular elemental compounds function. During this discussion Stephen Hawking stated that the information inside a black hole is lost forever as the black hole evaporates. It took 28 years for Leonard Susskind to formulate his theory that would prove Hawking wrong. He then published his theory in his book, The Black Hole War. Like The Cosmic Landscape, The Black Hole War is aimed at the lay reader. He writes: "The real tools for understanding the quantum universe are abstract mathematics: infinite dimensional Hilbert spaces, projection operators, unitary matrices and a lot of other advanced principles that take a few years to learn. But let's see how we do in just a few pages."
+The Theoretical Minimum book series[edit]
+Susskind is currently co-authoring a series of companion books to his lecture series The Theoretical Minimum. The first of these, The Theoretical Minimum: What You Need to Know to Start Doing Physics,[27] was published in 2013 and presents the modern formulations of classical mechanics. The second of these, Quantum Mechanics: The Theoretical Minimum,[28] was published in February 2014. The next book is expected to be largely concerned with special relativity.
+The Theoretical Minimum lecture series[edit]
+Susskind teaches a series of Stanford Continuing Studies courses about modern physics referred to as The Theoretical Minimum. These lectures later formed the basis for the books of the same name.[29] The goal of the courses is to teach the basic but rigorous theoretical foundations required to study certain areas of physics. The sequence covers classical mechanics, relativity, quantum mechanics, statistical mechanics, and cosmology, including the physics of black holes.[30]
+These courses are available on the The Theoretical Minimum website, on iTunes, and on YouTube. The courses are intended for the mathematically literate[31] public as well as physical science/mathematics students. Susskind aims the courses at people with prior exposure to algebra, calculus,[32] vectors, differential calculus, integrals, and perhaps differential operators, matrices, and linear equations. Homework and study outside of class is otherwise unnecessary. Susskind explains most of the mathematics used, which form the basis of the lectures.
+Cornell Messenger Lectures[edit]
+Susskind gave 3 lectures "The Birth of the Universe and the Origin of Laws of Physics" April 28-May 1, 2014 in the Cornell Messenger Lecture series which are posted on a Cornell website.[33]
+Smolin–Susskind debate[edit]
+The Smolin-Susskind debate refers to the series of intense postings in 2004 between Lee Smolin and Susskind, concerning Smolin’s argument that the "anthropic principle cannot yield any falsifiable predictions, and therefore cannot be a part of science."[34] It began on July 26, 2004, with Smolin's publication of "Scientific alternatives to the anthropic principle". Smolin e-mailed Susskind asking for a comment. Having not had the chance to read the paper, Susskind requested a summarization of his arguments. Smolin obliged, and on July 28, 2004, Susskind responded, saying that the logic Smolin followed "can lead to ridiculous conclusions".[34] The next day, Smolin responded, saying that "If a large body of our colleagues feels comfortable believing a theory that cannot be proved wrong, then the progress of science could get stuck, leading to a situation in which false, but unfalsifiable theories dominate the attention of our field." This was followed by another paper by Susskind which made a few comments about Smolin's theory of "cosmic natural selection".[35] The Smolin-Susskind debate finally ended with each of them agreeing to write a final letter which would be posted on the edge.org website, with three conditions attached: (1) No more than one letter each; (2) Neither sees the other's letter in advance; (3) No changes after the fact.
+Personal Life[edit]
+Susskind was a close friend of Richard Feynman, though they never published a paper together. Susskind always referred to Feynman as "Dick". While at a conference in France, Feynman took to calling Susskind "Leonardo" because he was practicing his French.[36]
+Susskind is a great-grandfather. He identifies as an atheist. [37]
+See also[edit]
+
+Superstring theory
+Quantum chromodynamics
+Supersymmetry
+Susskind–Glogower operator
+List of theoretical physicists
+Kogut–Susskind fermions
+Fischler–Susskind mechanism
+Boris Pregel
+
+References[edit]
+
+
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. 
+^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.
+^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.
+^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. 
+^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).
+^ "Leonard Susskind Joins PI". October 15, 2007. 
+^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. 
+^ "Father of String Theory Muses on the Megaverse". NYAS Publications. 
+^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.
+^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. 
+^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. 
+^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. 
+^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. 
+^ Welcome To Kias
+^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. 
+^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. 
+^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. 
+^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+
+^ Biography, American Physical Society website (last accessed November, 2013)
+^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. 
+^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. 
+^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+
+^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. 
+^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]
+^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]
+^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. 
+^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. 
+^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. 
+^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. 
+^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html
+^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. 
+^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. 
+^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ https://www.youtube.com/watch?v=hpjwotips7E
+
+
+Further reading[edit]
+
+Chown, Marcus, "Our world may be a giant hologram", New Scientist, 15 January 2009, magazine issue 2691. "The holograms you find on credit cards and banknotes are etched on two-dimensional plastic films. When light bounces off them, it recreates the appearance of a 3D image. In the 1990s physicists Leonard Susskind and Nobel prize winner Gerard 't Hooft suggested that the same principle might apply to the universe as a whole. Our everyday experience might itself be a holographic projection of physical processes that take place on a distant, 2D surface."
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Leonard Susskind.
+
+
+
+
+
+Wikiquote has quotations related to: Leonard Susskind
+
+
+
+Leonard Susskind's Faculty Page (Stanford University)
+Susskind's Blog: Physics for Everyone
+The Theoretical Minimum website, with the full set of free lectures
+Radio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principle on The 7th Avenue Project radio show
+The Edge:
+
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+
+
+Radio Interview from This Week in Science March 14, 2006 Broadcast
+"Father of String Theory Muses on the Megaverse": Podcast
+Leonard Susskind at the Internet Movie Database
+Leonard Susskind: My friend Richard Feynman on YouTube - A Ted talk
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leonard Susskind
+
+
+
+Leonard Susskind
+
+
+
+Born
+June 1940 (1940-06) (age 75)
+South Bronx, New York City, US
+
+
+Residence
+United States
+
+
+Citizenship
+United States
+
+
+Nationality
+American
+
+
+Fields
+Physics, mathematics
+
+
+Institutions
+Yeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical Physics
+
+
+Alma mater
+City College of New York
+Cornell University
+
+
+Doctoral advisor
+Peter A. Carruthers
+
+
+Known for
+Holographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theory
+
+
+Notable awards
+Pomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]
+
+
+Leonard Susskind
+Leonard SusskindLeonard Susskind
+
+Leonard Susskind
+
+
+Leonard Susskind
+Leonard Susskind
+Born
+June 1940 (1940-06) (age 75)
+South Bronx, New York City, US
+BornJune 1940 (1940-06) (age 75)
+South Bronx, New York City, US (1940-06)1940-06South BronxNew York City
+Residence
+United States
+ResidenceUnited StatesUnited States
+Citizenship
+United States
+CitizenshipUnited StatesUnited States
+Nationality
+American
+NationalityAmericanAmerican
+Fields
+Physics, mathematics
+FieldsPhysics, mathematicsPhysicsmathematics
+Institutions
+Yeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical Physics
+InstitutionsYeshiva University
+Tel Aviv University
+Stanford University
+Stanford Institute for Theoretical Physics
+Korea Institute for Advanced Study
+Perimeter Institute for Theoretical PhysicsYeshiva UniversityTel Aviv UniversityStanford UniversityStanford Institute for Theoretical PhysicsKorea Institute for Advanced StudyPerimeter Institute for Theoretical Physics
+Alma mater
+City College of New York
+Cornell University
+Alma materAlma materAlma materCity College of New York
+Cornell UniversityCity College of New YorkCornell University
+Doctoral advisor
+Peter A. Carruthers
+Doctoral advisorDoctoral advisorPeter A. CarruthersPeter A. Carruthers
+Known for
+Holographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theory
+Known forHolographic principle
+String theory
+String theory landscape
+Color confinement
+Hamiltonian lattice gauge theoryHolographic principleString theoryString theory landscapeColor confinementHamiltonian lattice gauge theory
+Notable awards
+Pomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]
+Notable awardsPomeranchuk Prize (2008)
+American Institute of Physics' Science Writing Award
+Sakurai Prize (1998)
+Boris Pregel Award, New York Academy of Sciences (1975)[1]Pomeranchuk PrizeAmerican Institute of Physics' Science Writing AwardSakurai PrizeBoris Pregel AwardNew York Academy of Sciences[1][1]Leonard Susskind (born June, 1940)[2][3] is the professor of theoretical physics at Stanford University, and director of the Stanford Institute for Theoretical Physics. His research interests include string theory, quantum field theory, quantum statistical mechanics and quantum cosmology.[1] He is a member of the National Academy of Sciences of the US,[4] and the American Academy of Arts and Sciences,[5] an associate member of the faculty of Canada's Perimeter Institute for Theoretical Physics,[6] and a distinguished professor of the Korea Institute for Advanced Study.[7]Leonard Susskind[2][2][3][3]theoretical physicsStanford UniversityStanford Institute for Theoretical Physicsstring theoryquantum field theoryquantum statistical mechanicsquantum cosmology[1][1]National Academy of Sciences[4][4]American Academy of Arts and Sciences[5][5]CanadaPerimeter Institute for Theoretical Physics[6][6]Korea Institute for Advanced Study[7][7]Susskind is widely regarded as one of the fathers of string theory,[8] having, with Yoichiro Nambu and Holger Bech Nielsen, independently introduced the idea that particles could in fact be states of excitation of a relativistic string.[9][unreliable source?] He was the first to give a precise string-theory interpretation of the holographic principle in 1995[10] and the first to introduce the idea of the string theory landscape in 2003.[11][12]string theory[8][8]Yoichiro NambuHolger Bech Nielsen[9][9][unreliable source?]unreliable source?unreliable source?unreliable source?holographic principle[10][10]string theory landscape[11][11][12][12]Susskind was awarded the 1998 J. J. Sakurai Prize.[13]1998 J. J. Sakurai Prize[13][13]
+
+Contents
+
+
+1 Early life and education
+2 Career
+
+2.1 Scientific career
+
+
+3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+
+4 The Theoretical Minimum lecture series
+5 Cornell Messenger Lectures
+6 Smolin–Susskind debate
+7 Personal Life
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+Contents
+Contents
+1 Early life and education
+2 Career
+
+2.1 Scientific career
+
+
+3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+
+4 The Theoretical Minimum lecture series
+5 Cornell Messenger Lectures
+6 Smolin–Susskind debate
+7 Personal Life
+8 See also
+9 References
+10 Further reading
+11 External links
+1 Early life and education1 Early life and education1Early life and education2 Career
+
+2.1 Scientific career
+
+2 Career2Career
+2.1 Scientific career
+2.1 Scientific career2.1 Scientific career2.1Scientific career3 Books
+
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+
+3 Books3Books
+3.1 The Cosmic Landscape
+3.2 The Black Hole War
+3.3 The Theoretical Minimum book series
+3.1 The Cosmic Landscape3.1 The Cosmic Landscape3.1The Cosmic LandscapeThe Cosmic Landscape3.2 The Black Hole War3.2 The Black Hole War3.2The Black Hole WarThe Black Hole War3.3 The Theoretical Minimum book series3.3 The Theoretical Minimum book series3.3The Theoretical Minimum book seriesThe Theoretical Minimum4 The Theoretical Minimum lecture series4 The Theoretical Minimum lecture series4The Theoretical Minimum lecture seriesThe Theoretical Minimum5 Cornell Messenger Lectures5 Cornell Messenger Lectures5Cornell Messenger Lectures6 Smolin–Susskind debate6 Smolin–Susskind debate6Smolin–Susskind debate7 Personal Life7 Personal Life7Personal Life8 See also8 See also8See also9 References9 References9References10 Further reading10 Further reading10Further reading11 External links11 External links11External linksEarly life and education[edit]Early life and education[edit][edit]Leonard Susskind was born to a Jewish family from the South Bronx section of New York City,[14] he now resides in Palo Alto, California. He began working as a plumber at the age of 16, taking over from his father who had become ill.[14] Later, he enrolled in the City College of New York as an engineering student, graduating with a B.S. in physics in 1962.[5] In an interview in the Los Angeles Times, Susskind recalls the moment he discussed with his father this change in career path: "When I told my father I wanted to be a physicist, he said: ‘Hell no, you ain’t going to work in a drug store.’ I said, "No. Not a pharmacist." I said, ‘Like Einstein.’ He poked me in the chest with a piece of plumbing pipe. ‘You ain’t going to be no engineer’, he said. ‘You’re going to be Einstein.’"[14] Susskind then studied at Cornell University under Peter A. Carruthers where he earned his Ph.D. in 1965. He has been married twice, first in 1960,[5] and has four children.JewishSouth BronxNew York City[14][14]Palo AltoCaliforniaplumber[14][14]City College of New YorkB.S.physics[5][5]Los Angeles TimesLos Angeles Times[14][14]Cornell UniversityPeter A. Carruthers[5][5]Career[edit]Career[edit][edit]Susskind was an assistant professor of physics, then an associate professor at Yeshiva University (1966–1970), after which he went for a year to the Tel Aviv University (1971–72), returning to Yeshiva to become a professor of physics (1970–1979). Since 1979 he has been professor of physics at Stanford University,[1] and since 2000 has held the Felix Bloch professorship of physics.Yeshiva UniversityTel Aviv UniversityStanford University[1][1]Felix BlochSusskind was awarded the 1998 J. J. Sakurai Prize for his "pioneering contributions to hadronic string models, lattice gauge theories, quantum chromodynamics, and dynamical symmetry breaking". Susskind's hallmark, according to colleagues, has been the application of "brilliant imagination and originality to the theoretical study of the nature of the elementary particles and forces that make up the physical world".[13]1998 J. J. Sakurai Prizehadronic string modelslattice gauge theoriesquantum chromodynamics[13][13]In 2007, Susskind joined the faculty of Perimeter Institute for Theoretical Physics in Waterloo, Ontario, Canada, as an associate member. He has been elected to the National Academy of Sciences and the American Academy of Arts and Sciences. He is also a distinguished professor at Korea Institute for Advanced Study.[15]Perimeter Institute for Theoretical PhysicsOntarioNational Academy of SciencesAmerican Academy of Arts and Sciencesdistinguished professorKorea Institute for Advanced Study[15][15]Scientific career[edit]Scientific career[edit][edit]Susskind was one of at least three physicists who independently discovered during or around 1970 that the Veneziano dual resonance model of strong interactions could be described by a quantum mechanical model of strings,[16] and was the first to propose the idea of the string theory landscape. Susskind has also made contributions in the following areas of physics:Venezianodual resonance modelstrong interactions[16][16]string theory landscape
+The independent discovery of the string theory model of particle physics
+The theory of quark confinement[17]
+The development of Hamiltonian lattice gauge theory[18]
+The theory of scaling violations in deep inelastic electroproduction
+The theory of symmetry breaking sometimes known as "technicolor theory"[19]
+The second, yet independent, theory of cosmological baryogenesis[20] (Andrei Sakharov's work was first, but was mostly unknown in the Western hemisphere)
+String theory of black hole entropy[21]
+The principle of black hole complementarity[22]
+The causal patch hypothesis
+The holographic principle[23]
+M-theory, including development of the BFSS matrix model [24]
+Kogut-Susskind fermions
+Introduction of holographic entropy bounds in physical cosmology
+The idea of an anthropic string theory landscape[11]
+The Census Taker's Hat
+The independent discovery of the string theory model of particle physicsstring theoryThe theory of quark confinement[17]quarkconfinement[17][17]The development of Hamiltonian lattice gauge theory[18]Hamiltonian lattice gauge theory[18][18]The theory of scaling violations in deep inelastic electroproductionThe theory of symmetry breaking sometimes known as "technicolor theory"[19]technicolor[19][19]The second, yet independent, theory of cosmological baryogenesis[20] (Andrei Sakharov's work was first, but was mostly unknown in the Western hemisphere)baryogenesis[20][20]Andrei SakharovString theory of black hole entropy[21]black hole[21][21]The principle of black hole complementarity[22]black hole complementarity[22][22]The causal patch hypothesiscausal patchThe holographic principle[23]holographic principle[23][23]M-theory, including development of the BFSS matrix model [24]M-theoryBFSS matrix modelBFSS[24][24]Kogut-Susskind fermionsKogut-Susskind fermionsIntroduction of holographic entropy bounds in physical cosmologyentropyphysical cosmologyThe idea of an anthropic string theory landscape[11]anthropicstring theory landscape[11][11]The Census Taker's HatCensus Taker's HatBooks[edit]Books[edit][edit]Susskind is the author of several popular science books.The Cosmic Landscape[edit]The Cosmic LandscapeThe Cosmic Landscape[edit][edit]Main article: The Cosmic LandscapeThe Cosmic LandscapeThe Cosmic Landscape: String Theory and the Illusion of Intelligent Design is Susskind's first popular science book, published by Little, Brown and Company on December 12, 2005.[25] It is Susskind's attempt to bring his idea of the anthropic landscape of string theory to the general public. In the book, Susskind describes how the string theory landscape was an almost inevitable consequence of several factors, one of which was Steven Weinberg's prediction of the cosmological constant in 1987. The question addressed here is why our universe is fine-tuned for our existence. Susskind explains that Weinberg calculated that if the cosmological constant was just a little different, our universe would cease to exist.The Cosmic Landscape: String Theory and the Illusion of Intelligent Design[25][25]Steven Weinbergcosmological constantThe Black Hole War[edit]The Black Hole WarThe Black Hole War[edit][edit]Main articles: The Black Hole War and Susskind-Hawking battleThe Black Hole WarSusskind-Hawking battleThe Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics is Susskind's second popular science book, published by Little, Brown, and Company on July 7, 2008.[26] The book is his most famous work and explains what he thinks would happen to the information and matter stored in a black hole when it evaporates. The book sparked from a debate that started in 1981, when there was a meeting of physicists to try to decode some of the mysteries about how particles of particular elemental compounds function. During this discussion Stephen Hawking stated that the information inside a black hole is lost forever as the black hole evaporates. It took 28 years for Leonard Susskind to formulate his theory that would prove Hawking wrong. He then published his theory in his book, The Black Hole War. Like The Cosmic Landscape, The Black Hole War is aimed at the lay reader. He writes: "The real tools for understanding the quantum universe are abstract mathematics: infinite dimensional Hilbert spaces, projection operators, unitary matrices and a lot of other advanced principles that take a few years to learn. But let's see how we do in just a few pages."The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum MechanicsStephen Hawking[26][26]The Cosmic LandscapeThe Black Hole WarThe Theoretical Minimum book series[edit]The Theoretical Minimum book seriesThe Theoretical Minimum[edit][edit]Susskind is currently co-authoring a series of companion books to his lecture series The Theoretical Minimum. The first of these, The Theoretical Minimum: What You Need to Know to Start Doing Physics,[27] was published in 2013 and presents the modern formulations of classical mechanics. The second of these, Quantum Mechanics: The Theoretical Minimum,[28] was published in February 2014. The next book is expected to be largely concerned with special relativity.The Theoretical MinimumThe Theoretical MinimumThe Theoretical Minimum: What You Need to Know to Start Doing PhysicsThe Theoretical Minimum: What You Need to Know to Start Doing Physics[27][27]Quantum Mechanics: The Theoretical Minimum[28][28]The Theoretical Minimum lecture series[edit]The Theoretical Minimum lecture seriesThe Theoretical Minimum[edit][edit]Susskind teaches a series of Stanford Continuing Studies courses about modern physics referred to as The Theoretical Minimum. These lectures later formed the basis for the books of the same name.[29] The goal of the courses is to teach the basic but rigorous theoretical foundations required to study certain areas of physics. The sequence covers classical mechanics, relativity, quantum mechanics, statistical mechanics, and cosmology, including the physics of black holes.[30]Stanford Continuing StudiesThe Theoretical MinimumThe Theoretical Minimum[29][29]classical mechanicsrelativityquantum mechanicsstatistical mechanicscosmologyblack holes[30][30]These courses are available on the The Theoretical Minimum website, on iTunes, and on YouTube. The courses are intended for the mathematically literate[31] public as well as physical science/mathematics students. Susskind aims the courses at people with prior exposure to algebra, calculus,[32] vectors, differential calculus, integrals, and perhaps differential operators, matrices, and linear equations. Homework and study outside of class is otherwise unnecessary. Susskind explains most of the mathematics used, which form the basis of the lectures.The Theoretical MinimumiTunesYouTube[31][31][32][32]vectorsdifferential calculusintegralsdifferential operatorsmatriceslinear equationsCornell Messenger Lectures[edit]Cornell Messenger Lectures[edit][edit]Susskind gave 3 lectures "The Birth of the Universe and the Origin of Laws of Physics" April 28-May 1, 2014 in the Cornell Messenger Lecture series which are posted on a Cornell website.[33]The Birth of the Universe and the Origin of Laws of PhysicsMessenger Lecturewebsite[33][33]Smolin–Susskind debate[edit]Smolin–Susskind debate[edit][edit]The Smolin-Susskind debate refers to the series of intense postings in 2004 between Lee Smolin and Susskind, concerning Smolin’s argument that the "anthropic principle cannot yield any falsifiable predictions, and therefore cannot be a part of science."[34] It began on July 26, 2004, with Smolin's publication of "Scientific alternatives to the anthropic principle". Smolin e-mailed Susskind asking for a comment. Having not had the chance to read the paper, Susskind requested a summarization of his arguments. Smolin obliged, and on July 28, 2004, Susskind responded, saying that the logic Smolin followed "can lead to ridiculous conclusions".[34] The next day, Smolin responded, saying that "If a large body of our colleagues feels comfortable believing a theory that cannot be proved wrong, then the progress of science could get stuck, leading to a situation in which false, but unfalsifiable theories dominate the attention of our field." This was followed by another paper by Susskind which made a few comments about Smolin's theory of "cosmic natural selection".[35] The Smolin-Susskind debate finally ended with each of them agreeing to write a final letter which would be posted on the edge.org website, with three conditions attached: (1) No more than one letter each; (2) Neither sees the other's letter in advance; (3) No changes after the fact.Lee Smolinanthropic principle[34][34][34][34][35][35]Personal Life[edit]Personal Life[edit][edit]Susskind was a close friend of Richard Feynman, though they never published a paper together. Susskind always referred to Feynman as "Dick". While at a conference in France, Feynman took to calling Susskind "Leonardo" because he was practicing his French.[36]Richard Feynman[36][36]Susskind is a great-grandfather. He identifies as an atheist. [37]atheist[37][37]See also[edit]See also[edit][edit]
+Superstring theory
+Quantum chromodynamics
+Supersymmetry
+Susskind–Glogower operator
+List of theoretical physicists
+Kogut–Susskind fermions
+Fischler–Susskind mechanism
+Boris Pregel
+Superstring theorySuperstring theoryQuantum chromodynamicsQuantum chromodynamicsSupersymmetrySupersymmetrySusskind–Glogower operatorSusskind–Glogower operatorList of theoretical physicistsList of theoretical physicistsKogut–Susskind fermionsKogut–Susskind fermionsFischler–Susskind mechanismFischler–Susskind mechanismBoris PregelBoris PregelReferences[edit]References[edit][edit]
+
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. 
+^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.
+^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.
+^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. 
+^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).
+^ "Leonard Susskind Joins PI". October 15, 2007. 
+^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. 
+^ "Father of String Theory Muses on the Megaverse". NYAS Publications. 
+^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.
+^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. 
+^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. 
+^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. 
+^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. 
+^ Welcome To Kias
+^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. 
+^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. 
+^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. 
+^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+
+^ Biography, American Physical Society website (last accessed November, 2013)
+^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. 
+^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. 
+^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+
+^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. 
+^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]
+^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]
+^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. 
+^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. 
+^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. 
+^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. 
+^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html
+^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. 
+^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. 
+^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ https://www.youtube.com/watch?v=hpjwotips7E
+
+
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. 
+^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.
+^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.
+^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. 
+^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).
+^ "Leonard Susskind Joins PI". October 15, 2007. 
+^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. 
+^ "Father of String Theory Muses on the Megaverse". NYAS Publications. 
+^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.
+^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. 
+^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. 
+^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. 
+^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. 
+^ Welcome To Kias
+^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. 
+^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. 
+^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. 
+^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+
+^ Biography, American Physical Society website (last accessed November, 2013)
+^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. 
+^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. 
+^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+
+^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. 
+^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]
+^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]
+^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. 
+^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. 
+^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. 
+^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. 
+^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html
+^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. 
+^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. 
+^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. 
+^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ https://www.youtube.com/watch?v=hpjwotips7E
+^ a b c "Faculty information sheet". Stanford University. Retrieved 2009-09-01. ^ a b caaaabbbbcccc"Faculty information sheet". Stanford University. Retrieved 2009-09-01. "Faculty information sheet". Stanford University. Retrieved 2009-09-01."Faculty information sheet". Retrieved 2009-09-012009-09-01  ^ "Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University.^^^"Lennyfest". May 20–21, 2000: his 60th birthday was celebrated with a special symposium at Stanford University."Lennyfest". May 20–21, 2000:"Lennyfest"  ^ "Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent.^^^"Why is Time a One-Way Street?". June 26, 2013: in Geoffrey West's introduction, he gives Suskind's current age as 74 and says his birthday was recent."Why is Time a One-Way Street?". June 26, 2013:"Why is Time a One-Way Street?"  ^ "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. ^^^"60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01. "60 New Members Chosen by Academy". National Academy of Sciences (press release). May 2, 2000. Retrieved 2009-09-01."60 New Members Chosen by Academy"National Academy of Sciences. Retrieved 2009-09-012009-09-01  ^ a b c www.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).^ a b caaaabbbbccccwww.edge.org • Leonard Susskind - A Biography (last accessed August 12, 2007).www.edge.orgLeonard Susskind - A Biography^ "Leonard Susskind Joins PI". October 15, 2007. ^^^"Leonard Susskind Joins PI". October 15, 2007. "Leonard Susskind Joins PI". October 15, 2007."Leonard Susskind Joins PI"  ^ "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. ^^^"Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study. "Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics". Korea Institute for Advanced Study."Susskind, Leonard: Distinguished Professor / School of Physics : Theoretical Particle Physics"Korea Institute for Advanced Study  ^ "Father of String Theory Muses on the Megaverse". NYAS Publications. ^^^"Father of String Theory Muses on the Megaverse". NYAS Publications. "Father of String Theory Muses on the Megaverse". NYAS Publications."Father of String Theory Muses on the Megaverse"NYAS  ^ http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.^^^http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.ppt Archived July 16, 2011, at the Wayback Machine.http://www.veccal.ernet.in/~iwlsc/qgp/Haridass_talk.pptArchivedWayback Machine^ Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. ^^^Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. Susskind, Leonard (1995). "The World as a Hologram". Journal of Mathematical Physics 36 (11): 6377–6396. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249.Journal of Mathematical Physics36arXivhep-th/9409089Bibcode1995JMP....36.6377Sdoi10.1063/1.531249  ^ a b Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. ^ a baaaabbbbLeonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th]. Leonard Susskind (2003). "The Anthropic Landscape of String Theory". arXiv:hep-th/0302219 [hep-th].arXivhep-th/0302219hep-th  ^ Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. ^^^Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80. Byrne, P. (2011). "Bad Boy of Physics". Scientific American 305: 80. doi:10.1038/scientificamerican0711-80."Bad Boy of Physics"Scientific American305doi10.1038/scientificamerican0711-80  ^ a b Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. ^ a baaaabbbbSalisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University. Salisbury, David F. (11 May 1997). "Susskind wins prestigious Sakurai Prize in theoretical physics" (Press release). Stanford University."Susskind wins prestigious Sakurai Prize in theoretical physics"  ^ a b c "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. ^ a b caaaabbbbcccc"Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008. "Leonard Susskind discusses duel with Stephen Hawking". Los Angeles Times. July 26, 2008."Leonard Susskind discusses duel with Stephen Hawking"Los Angeles Times  ^ Welcome To Kias^^^Welcome To KiasWelcome To Kias^ Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. ^^^Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th]. Schwarz (2000). "String Theory: The Early Years". arXiv:hep-th/0007118 [hep-th].arXivhep-th/0007118hep-th  ^ Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. ^^^Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610. Susskind, L. (1979). "Lattice models of quark confinement at high temperature". Physical Review D 20 (10): 2610. Bibcode:1979PhRvD..20.2610S. doi:10.1103/PhysRevD.20.2610.Physical Review DPhysical Review D20Bibcode1979PhRvD..20.2610Sdoi10.1103/PhysRevD.20.2610  ^ Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. ^^^Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395. Kogut, John; Susskind, Leonard (1975). "Hamiltonian formulation of Wilson's lattice gauge theories". Physical Review D 11 (2): 395. Bibcode:1975PhRvD..11..395K. doi:10.1103/PhysRevD.11.395.Physical Review DPhysical Review D11Bibcode1975PhRvD..11..395Kdoi10.1103/PhysRevD.11.395  ^ Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. 
+
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+
+^^^Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001. Yao, W. -M. (2006). "Review of Particle Physics". Journal of Physics G: Nuclear and Particle Physics 33 (1): 1. doi:10.1088/0954-3899/33/1/001.Journal of Physics G: Nuclear and Particle PhysicsJournal of Physics G: Nuclear and Particle Physics33doi10.1088/0954-3899/33/1/001  
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]
+Dynamical Electroweak Symmetry Breaking section cites two 1979 publications, one by Steven Weinberg, the other by L. Susskind to represent the earliest models with technicolor and technifermions. [1]Steven Weinberg[1]^ Biography, American Physical Society website (last accessed November, 2013)^^^Biography, American Physical Society website (last accessed November, 2013)BiographyAmerican Physical Society^ Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. ^^^Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th]. Leonard Susskind (1993). "Some Speculations about Black Hole Entropy in String Theory". arXiv:hep-th/9309145 [hep-th].arXivhep-th/9309145hep-th  ^ Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. ^^^Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662. Susskind, L. (1993). "String theory and the principle of black hole complementarity". Physical Review Letters 71 (15): 2367–2368. arXiv:hep-th/9307168. Bibcode:1993PhRvL..71.2367S. doi:10.1103/PhysRevLett.71.2367. PMID 10054662.Physical Review LettersPhysical Review Letters71arXivhep-th/9307168Bibcode1993PhRvL..71.2367Sdoi10.1103/PhysRevLett.71.2367PMID10054662  ^ Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. 
+
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+
+^^^Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825. Bousso, R. (2002). "The holographic principle". Reviews of Modern Physics 74 (3): 825. arXiv:hep-th/0203101. Bibcode:2002RvMP...74..825B. doi:10.1103/RevModPhys.74.825.Bousso, R.Reviews of Modern PhysicsReviews of Modern Physics74arXivhep-th/0203101Bibcode2002RvMP...74..825Bdoi10.1103/RevModPhys.74.825  
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...
+The insistence on unitarity in the presence of black holes led 't Hooft (1993) and Susskind (1995b) to embrace a more radical, holographic interpretation of ...holographic^ Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. ^^^Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112. Banks, T.; Fischler, W.; Shenker, S. H.; Susskind, L. (1997). "M theory as a matrix model: A conjecture". Physical Review D 55 (8): 5112. arXiv:hep-th/9610043. Bibcode:1997PhRvD..55.5112B. doi:10.1103/PhysRevD.55.5112.Physical Review DPhysical Review D55arXivhep-th/9610043Bibcode1997PhRvD..55.5112Bdoi10.1103/PhysRevD.55.5112  ^ L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]^^^L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.  [2]L. Susskind (2005). The Cosmic Landscape: String Theory and the Illusion of Intelligent Design. Little, Brown. ISBN 0-316-15579-9.The Cosmic Landscape: String Theory and the Illusion of Intelligent DesignISBN0-316-15579-9  [2]^ L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]^^^L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.  [3]L. Susskind (2008). The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanics. Little, Brown. ISBN 0-316-01640-3.The Black Hole War: My battle with Stephen Hawking to make the world safe for quantum mechanicsISBN0-316-01640-3  [3]^ Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. ^^^Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X. Susskind, Leonard; Hrabovsky, George (2013). The Theoretical Minimum: What You Need to Know to Start Doing Physics. Basic Books. ISBN 0-465-02811-X.The Theoretical Minimum: What You Need to Know to Start Doing PhysicsISBN0-465-02811-X  ^ Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. ^^^Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8. Susskind, Leonard; Friedman, Art (2014). Quantum Mechanics: The Theoretical Minimum. Basic Books. ISBN 0-465-03667-8.Quantum Mechanics: The Theoretical MinimumISBN0-465-03667-8  ^ Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. ^^^Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014. Gribbin, John (1 February 2013). "Physics Made (Almost) Easy". Wall Street Journal. Retrieved 4 June 2014."Physics Made (Almost) Easy"Wall Street JournalWall Street Journal. Retrieved 4 June 20144 June  ^ "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. ^^^"The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014. "The Theoretical Minimum". theoreticalminimum.com. Retrieved 3 June 2014."The Theoretical Minimum"theoreticalminimum.com. Retrieved 3 June 20143 June  ^ http://www.nature.com/nature/journal/v506/n7489/full/506431a.html^^^http://www.nature.com/nature/journal/v506/n7489/full/506431a.htmlhttp://www.nature.com/nature/journal/v506/n7489/full/506431a.html^ "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. ^^^"The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners. "The Theoretical Minimum". Retrieved 12 June 2014. The courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners."The Theoretical Minimum". Retrieved 12 June 201412 JuneThe courses are specifically aimed at people who know, or once knew, a bit of algebra and calculus, but are more or less beginners.  ^ "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. ^^^"The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26. "The Birth of the Universe and the Origin of Laws of Physics - CornellCast". CornellCast. Retrieved 2015-12-26."The Birth of the Universe and the Origin of Laws of Physics - CornellCast"CornellCast. Retrieved 2015-12-262015-12-26  ^ a b "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. ^ a baaaabbbb"Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01. "Smolin vs. Susskind: The Anthropic Principle". Edge Institute. August 2004. Retrieved 2009-09-01."Smolin vs. Susskind: The Anthropic Principle". Retrieved 2009-09-012009-09-01  ^ Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)^^^Letter from Leonard Susskind at the Wayback Machine (archived October 21, 2012)Letter from Leonard SusskindWayback Machine^ https://www.youtube.com/watch?v=hpjwotips7E^^^https://www.youtube.com/watch?v=hpjwotips7Ehttps://www.youtube.com/watch?v=hpjwotips7E^ https://www.youtube.com/watch?v=hpjwotips7E^^^https://www.youtube.com/watch?v=hpjwotips7Ehttps://www.youtube.com/watch?v=hpjwotips7EFurther reading[edit]Further reading[edit][edit]
+Chown, Marcus, "Our world may be a giant hologram", New Scientist, 15 January 2009, magazine issue 2691. "The holograms you find on credit cards and banknotes are etched on two-dimensional plastic films. When light bounces off them, it recreates the appearance of a 3D image. In the 1990s physicists Leonard Susskind and Nobel prize winner Gerard 't Hooft suggested that the same principle might apply to the universe as a whole. Our everyday experience might itself be a holographic projection of physical processes that take place on a distant, 2D surface."
+Chown, Marcus, "Our world may be a giant hologram", New Scientist, 15 January 2009, magazine issue 2691. "The holograms you find on credit cards and banknotes are etched on two-dimensional plastic films. When light bounces off them, it recreates the appearance of a 3D image. In the 1990s physicists Leonard Susskind and Nobel prize winner Gerard 't Hooft suggested that the same principle might apply to the universe as a whole. Our everyday experience might itself be a holographic projection of physical processes that take place on a distant, 2D surface.""Our world may be a giant hologram"New ScientistNew ScientistGerard 't HooftExternal links[edit]External links[edit][edit]
+
+
+Wikimedia Commons has media related to Leonard Susskind.
+
+
+
+Wikimedia Commons has media related to Leonard Susskind.
+Wikimedia Commons has media related to Leonard Susskind.Leonard SusskindLeonard SusskindLeonard Susskind
+
+
+Wikiquote has quotations related to: Leonard Susskind
+
+
+
+Wikiquote has quotations related to: Leonard Susskind
+Wikiquote has quotations related to: Leonard SusskindLeonard SusskindLeonard SusskindLeonard Susskind
+Leonard Susskind's Faculty Page (Stanford University)
+Susskind's Blog: Physics for Everyone
+The Theoretical Minimum website, with the full set of free lectures
+Radio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principle on The 7th Avenue Project radio show
+The Edge:
+
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+
+
+Radio Interview from This Week in Science March 14, 2006 Broadcast
+"Father of String Theory Muses on the Megaverse": Podcast
+Leonard Susskind at the Internet Movie Database
+Leonard Susskind: My friend Richard Feynman on YouTube - A Ted talk
+Leonard Susskind's Faculty Page (Stanford University)Leonard Susskind's Faculty Page (Stanford University)Susskind's Blog: Physics for EveryoneSusskind's Blog: Physics for EveryoneThe Theoretical Minimum website, with the full set of free lecturesThe Theoretical MinimumThe Theoretical MinimumRadio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principle on The 7th Avenue Project radio showRadio Interview: Leonard Susskind discusses his life as a physicist, string theory and the holographic principleThe Edge:
+
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+
+The Edge
+"Interview with Leonard Susskind."
+"Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principle
+"Interview with Leonard Susskind."Interview with Leonard Susskind."Smolin vs. Susskind: The Anthropic Principle" Susskind and Lee Smolin debate the Anthropic principleSmolin vs. Susskind: The Anthropic PrincipleLee SmolinAnthropic principleRadio Interview from This Week in Science March 14, 2006 BroadcastRadio InterviewThis Week in Science"Father of String Theory Muses on the Megaverse": PodcastPodcastLeonard Susskind at the Internet Movie DatabaseLeonard SusskindInternet Movie DatabaseLeonard Susskind: My friend Richard Feynman on YouTube - A Ted talkLeonard Susskind: My friend Richard FeynmanLeonard Susskind: My friend Richard FeynmanYouTube
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+
+
+WorldCat Identities
+VIAF: 242432436
+LCCN: n2005048022
+ISNI: 0000 0001 1055 4216
+GND: 136831087
+SUDOC: 094474605
+BNF: cb15534502c (data)
+NDL: 01073302
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 242432436VIAF242432436242432436LCCN: n2005048022LCCNn2005048022n2005048022ISNI: 0000 0001 1055 4216ISNI0000 0001 1055 42160000 0001 1055 4216GND: 136831087GND136831087136831087SUDOC: 094474605SUDOC094474605094474605BNF: cb15534502c (data)BNFcb15534502c (data)cb15534502c(data)NDL: 01073302NDL0107330201073302
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Leonard_Susskind&oldid=714686130"					https://en.wikipedia.org/w/index.php?title=Leonard_Susskind&oldid=714686130Categories: 1940 birthsCity College of New York alumniCornell University alumniJewish American scientistsAmerican atheistsJewish atheistsStanford University Department of Physics facultyString theoristsLiving peopleHolographyMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipientsHidden categories: All articles lacking reliable referencesArticles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersDate of birth missing (living people)Categories: 1940 birthsCity College of New York alumniCornell University alumniJewish American scientistsAmerican atheistsJewish atheistsStanford University Department of Physics facultyString theoristsLiving peopleHolographyMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipientsCategories1940 birthsCity College of New York alumniCornell University alumniJewish American scientistsAmerican atheistsJewish atheistsStanford University Department of Physics facultyString theoristsLiving peopleHolographyMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipients1940 births1940 birthsCity College of New York alumniCity College of New York alumniCornell University alumniCornell University alumniJewish American scientistsJewish American scientistsAmerican atheistsAmerican atheistsJewish atheistsJewish atheistsStanford University Department of Physics facultyStanford University Department of Physics facultyString theoristsString theoristsLiving peopleLiving peopleHolographyHolographyMembers of the United States National Academy of SciencesMembers of the United States National Academy of SciencesJ. J. Sakurai Prize for Theoretical Particle Physics recipientsJ. J. Sakurai Prize for Theoretical Particle Physics recipientsHidden categories: All articles lacking reliable referencesArticles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersDate of birth missing (living people)All articles lacking reliable referencesArticles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersDate of birth missing (living people)All articles lacking reliable referencesAll articles lacking reliable referencesArticles lacking reliable references from October 2013Articles lacking reliable references from October 2013Wikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiersDate of birth missing (living people)Date of birth missing (living people)
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةCatalàDeutschEspañolفارسیFrançais한국어हिन्दीItalianoעבריתNederlands日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнська中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةCatalàDeutschEspañolفارسیFrançais한국어हिन्दीItalianoעבריתNederlands日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнська中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+In other projects
+
+Wikimedia CommonsWikiquote 
+
+Wikimedia CommonsWikiquote Wikimedia CommonsWikimedia CommonsWikiquoteWikiquote
+Languages
+
+
+العربيةCatalàDeutschEspañolفارسیFrançais한국어हिन्दीItalianoעבריתNederlands日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнська中文 
+Edit links 
+Languages
+
+العربيةCatalàDeutschEspañolفارسیFrançais한국어हिन्दीItalianoעבריתNederlands日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнська中文 
+Edit links 
+العربيةCatalàDeutschEspañolفارسیFrançais한국어हिन्दीItalianoעבריתNederlands日本語ਪੰਜਾਬੀPolskiPortuguêsРусскийSlovenčinaSlovenščinaСрпски / srpskiSvenskaTürkçeУкраїнська中文 العربيةالعربيةCatalàCatalàDeutschDeutschEspañolEspañolفارسیفارسیFrançaisFrançais한국어한국어हिन्दीहिन्दीItalianoItalianoעבריתעבריתNederlandsNederlands日本語日本語ਪੰਜਾਬੀਪੰਜਾਬੀPolskiPolskiPortuguêsPortuguêsРусскийРусскийSlovenčinaSlovenčinaSlovenščinaSlovenščinaСрпски / srpskiСрпски / srpskiSvenskaSvenskaTürkçeTürkçeУкраїнськаУкраїнська中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 11 April 2016, at 07:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 11 April 2016, at 07:01.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 11 April 2016, at 07:01.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

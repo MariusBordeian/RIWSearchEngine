@@ -1,0 +1,2267 @@
+String cosmology - Wikipedia, the free encyclopedia
+
+
+
+
+String cosmology
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String cosmology is a relatively new field that tries to apply equations of string theory to solve the questions of early cosmology. A related area of study is brane cosmology.
+This approach can be dated back to a paper by Gabriele Veneziano[1] that shows how an inflationary cosmological model can be obtained from string theory, thus opening the door to a description of pre-Big Bang scenarios.
+The idea is related to a property of the bosonic string in a curve background, better known as nonlinear sigma model. First calculations from this model[2] showed as the beta function, representing the running of the metric of the model as a function of an energy scale, is proportional to the Ricci tensor giving rise to a Ricci flow. As this model has conformal invariance and this must be kept to have a sensible quantum field theory, the beta function must be zero producing immediately the Einstein field equations. While Einstein equations seem to appear somewhat out of place, nevertheless this result is surely striking showing as a background two-dimensional model could produce higher-dimensional physics. An interesting point here is that such a string theory can be formulated without a requirement of criticality at 26 dimensions for consistency as happens on a flat background. This is a serious hint that the underlying physics of Einstein equations could be described by an effective two-dimensional conformal field theory. Indeed, the fact that we have evidence for an inflationary universe is an important support to string cosmology.
+In the evolution of the universe, after the inflationary phase, the expansion observed today sets in that is well described by Friedmann equations. A smooth transition is expected between these two different phases. String cosmology appears to have difficulties in explaining this transition. This is known in literature as the graceful exit problem.
+An inflationary cosmology implies the presence of a scalar field that drives inflation. In string cosmology, this arises from the so-called dilaton field. This is a scalar term entering into the description of the bosonic string that produces a scalar field term into the effective theory at low energies. The corresponding equations resemble those of a Brans–Dicke theory.
+Analysis has been worked out from a critical number of dimension (26) down to four. In general one gets Friedmann equations in an arbitrary number of dimensions. The other way round is to assume that a certain number of dimensions is compactified producing an effective four-dimensional theory to work with. Such a theory is a typical Kaluza–Klein theory with a set of scalar fields arising from compactified dimensions. Such fields are called moduli.
+
+
+
+Contents
+
+
+1 Technical details
+2 Notes
+3 References
+4 External links
+
+
+
+Technical details[edit]
+This section presents some of the relevant equations entering into string cosmology. The starting point is the Polyakov action, which can be written as:
+
+
+
+where  is the Ricci scalar in two dimensions,  the dilaton field, and  the string constant. The indices  range over 1,2, and  over , where D the dimension of the target space. A further antisymmetric field could be added. This is generally considered when one wants this action generating a potential for inflation.[3] Otherwise, a generic potential is inserted by hand, as well as a cosmological constant.
+The above string action has a conformal invariance. This is a property of a two dimensional Riemannian manifold. At the quantum level, this property is lost due to anomalies and the theory itself is not consistent, having no unitarity. So it is necessary to require that conformal invariance is kept at any order of perturbation theory. Perturbation theory is the only known approach to manage the quantum field theory. Indeed, the beta functions at two loops are
+
+
+
+and
+
+
+
+The assumption that conformal invariance holds implies that
+
+
+
+producing the corresponding equations of motion of low-energy physics. These conditions can only be satisfied perturbatively, but this has to hold at any order of perturbation theory. The first term in  is just the anomaly of the bosonic string theory in a flat spacetime. But here there are further terms that can grant a compensation of the anomaly also when , and from this cosmological models of a pre-big bang scenario can be constructed. Indeed, this low energy equations can be obtained from the following action:
+
+
+
+where  is a constant that can always be changed by redefining the dilaton field. One can also rewrite this action in a more familiar form by redefining the fields (Einstein frame) as
+
+
+
+
+
+
+and using  one can write
+
+
+
+where
+
+
+
+This is the formula for the Einstein action describing a scalar field interacting with a gravitational field in D dimensions. Indeed, the following identity holds:
+
+
+
+where  is the Newton constant in D dimensions and  the corresponding Planck mass. When setting  in this action, the conditions for inflation are not fulfilled unless a potential or antisymmetric term is added to the string action,[3] in which case power-law inflation is possible.
+Notes[edit]
+
+
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. 
+^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. 
+^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. 
+
+
+References[edit]
+
+Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6. 
+Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4. 
+Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8. 
+
+External links[edit]
+
+String cosmology on arxiv.org
+Maurizio Gasperini's homepage
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_cosmology&oldid=666337214"					
+Categories: String theoryPhysical cosmologyGeneral relativity 
+
+
+String cosmology
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String cosmology is a relatively new field that tries to apply equations of string theory to solve the questions of early cosmology. A related area of study is brane cosmology.
+This approach can be dated back to a paper by Gabriele Veneziano[1] that shows how an inflationary cosmological model can be obtained from string theory, thus opening the door to a description of pre-Big Bang scenarios.
+The idea is related to a property of the bosonic string in a curve background, better known as nonlinear sigma model. First calculations from this model[2] showed as the beta function, representing the running of the metric of the model as a function of an energy scale, is proportional to the Ricci tensor giving rise to a Ricci flow. As this model has conformal invariance and this must be kept to have a sensible quantum field theory, the beta function must be zero producing immediately the Einstein field equations. While Einstein equations seem to appear somewhat out of place, nevertheless this result is surely striking showing as a background two-dimensional model could produce higher-dimensional physics. An interesting point here is that such a string theory can be formulated without a requirement of criticality at 26 dimensions for consistency as happens on a flat background. This is a serious hint that the underlying physics of Einstein equations could be described by an effective two-dimensional conformal field theory. Indeed, the fact that we have evidence for an inflationary universe is an important support to string cosmology.
+In the evolution of the universe, after the inflationary phase, the expansion observed today sets in that is well described by Friedmann equations. A smooth transition is expected between these two different phases. String cosmology appears to have difficulties in explaining this transition. This is known in literature as the graceful exit problem.
+An inflationary cosmology implies the presence of a scalar field that drives inflation. In string cosmology, this arises from the so-called dilaton field. This is a scalar term entering into the description of the bosonic string that produces a scalar field term into the effective theory at low energies. The corresponding equations resemble those of a Brans–Dicke theory.
+Analysis has been worked out from a critical number of dimension (26) down to four. In general one gets Friedmann equations in an arbitrary number of dimensions. The other way round is to assume that a certain number of dimensions is compactified producing an effective four-dimensional theory to work with. Such a theory is a typical Kaluza–Klein theory with a set of scalar fields arising from compactified dimensions. Such fields are called moduli.
+
+
+
+Contents
+
+
+1 Technical details
+2 Notes
+3 References
+4 External links
+
+
+
+Technical details[edit]
+This section presents some of the relevant equations entering into string cosmology. The starting point is the Polyakov action, which can be written as:
+
+
+
+where  is the Ricci scalar in two dimensions,  the dilaton field, and  the string constant. The indices  range over 1,2, and  over , where D the dimension of the target space. A further antisymmetric field could be added. This is generally considered when one wants this action generating a potential for inflation.[3] Otherwise, a generic potential is inserted by hand, as well as a cosmological constant.
+The above string action has a conformal invariance. This is a property of a two dimensional Riemannian manifold. At the quantum level, this property is lost due to anomalies and the theory itself is not consistent, having no unitarity. So it is necessary to require that conformal invariance is kept at any order of perturbation theory. Perturbation theory is the only known approach to manage the quantum field theory. Indeed, the beta functions at two loops are
+
+
+
+and
+
+
+
+The assumption that conformal invariance holds implies that
+
+
+
+producing the corresponding equations of motion of low-energy physics. These conditions can only be satisfied perturbatively, but this has to hold at any order of perturbation theory. The first term in  is just the anomaly of the bosonic string theory in a flat spacetime. But here there are further terms that can grant a compensation of the anomaly also when , and from this cosmological models of a pre-big bang scenario can be constructed. Indeed, this low energy equations can be obtained from the following action:
+
+
+
+where  is a constant that can always be changed by redefining the dilaton field. One can also rewrite this action in a more familiar form by redefining the fields (Einstein frame) as
+
+
+
+
+
+
+and using  one can write
+
+
+
+where
+
+
+
+This is the formula for the Einstein action describing a scalar field interacting with a gravitational field in D dimensions. Indeed, the following identity holds:
+
+
+
+where  is the Newton constant in D dimensions and  the corresponding Planck mass. When setting  in this action, the conditions for inflation are not fulfilled unless a potential or antisymmetric term is added to the string action,[3] in which case power-law inflation is possible.
+Notes[edit]
+
+
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. 
+^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. 
+^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. 
+
+
+References[edit]
+
+Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6. 
+Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4. 
+Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8. 
+
+External links[edit]
+
+String cosmology on arxiv.org
+Maurizio Gasperini's homepage
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_cosmology&oldid=666337214"					
+Categories: String theoryPhysical cosmologyGeneral relativity 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String cosmology is a relatively new field that tries to apply equations of string theory to solve the questions of early cosmology. A related area of study is brane cosmology.
+This approach can be dated back to a paper by Gabriele Veneziano[1] that shows how an inflationary cosmological model can be obtained from string theory, thus opening the door to a description of pre-Big Bang scenarios.
+The idea is related to a property of the bosonic string in a curve background, better known as nonlinear sigma model. First calculations from this model[2] showed as the beta function, representing the running of the metric of the model as a function of an energy scale, is proportional to the Ricci tensor giving rise to a Ricci flow. As this model has conformal invariance and this must be kept to have a sensible quantum field theory, the beta function must be zero producing immediately the Einstein field equations. While Einstein equations seem to appear somewhat out of place, nevertheless this result is surely striking showing as a background two-dimensional model could produce higher-dimensional physics. An interesting point here is that such a string theory can be formulated without a requirement of criticality at 26 dimensions for consistency as happens on a flat background. This is a serious hint that the underlying physics of Einstein equations could be described by an effective two-dimensional conformal field theory. Indeed, the fact that we have evidence for an inflationary universe is an important support to string cosmology.
+In the evolution of the universe, after the inflationary phase, the expansion observed today sets in that is well described by Friedmann equations. A smooth transition is expected between these two different phases. String cosmology appears to have difficulties in explaining this transition. This is known in literature as the graceful exit problem.
+An inflationary cosmology implies the presence of a scalar field that drives inflation. In string cosmology, this arises from the so-called dilaton field. This is a scalar term entering into the description of the bosonic string that produces a scalar field term into the effective theory at low energies. The corresponding equations resemble those of a Brans–Dicke theory.
+Analysis has been worked out from a critical number of dimension (26) down to four. In general one gets Friedmann equations in an arbitrary number of dimensions. The other way round is to assume that a certain number of dimensions is compactified producing an effective four-dimensional theory to work with. Such a theory is a typical Kaluza–Klein theory with a set of scalar fields arising from compactified dimensions. Such fields are called moduli.
+
+
+
+Contents
+
+
+1 Technical details
+2 Notes
+3 References
+4 External links
+
+
+
+Technical details[edit]
+This section presents some of the relevant equations entering into string cosmology. The starting point is the Polyakov action, which can be written as:
+
+
+
+where  is the Ricci scalar in two dimensions,  the dilaton field, and  the string constant. The indices  range over 1,2, and  over , where D the dimension of the target space. A further antisymmetric field could be added. This is generally considered when one wants this action generating a potential for inflation.[3] Otherwise, a generic potential is inserted by hand, as well as a cosmological constant.
+The above string action has a conformal invariance. This is a property of a two dimensional Riemannian manifold. At the quantum level, this property is lost due to anomalies and the theory itself is not consistent, having no unitarity. So it is necessary to require that conformal invariance is kept at any order of perturbation theory. Perturbation theory is the only known approach to manage the quantum field theory. Indeed, the beta functions at two loops are
+
+
+
+and
+
+
+
+The assumption that conformal invariance holds implies that
+
+
+
+producing the corresponding equations of motion of low-energy physics. These conditions can only be satisfied perturbatively, but this has to hold at any order of perturbation theory. The first term in  is just the anomaly of the bosonic string theory in a flat spacetime. But here there are further terms that can grant a compensation of the anomaly also when , and from this cosmological models of a pre-big bang scenario can be constructed. Indeed, this low energy equations can be obtained from the following action:
+
+
+
+where  is a constant that can always be changed by redefining the dilaton field. One can also rewrite this action in a more familiar form by redefining the fields (Einstein frame) as
+
+
+
+
+
+
+and using  one can write
+
+
+
+where
+
+
+
+This is the formula for the Einstein action describing a scalar field interacting with a gravitational field in D dimensions. Indeed, the following identity holds:
+
+
+
+where  is the Newton constant in D dimensions and  the corresponding Planck mass. When setting  in this action, the conditions for inflation are not fulfilled unless a potential or antisymmetric term is added to the string action,[3] in which case power-law inflation is possible.
+Notes[edit]
+
+
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. 
+^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. 
+^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. 
+
+
+References[edit]
+
+Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6. 
+Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4. 
+Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8. 
+
+External links[edit]
+
+String cosmology on arxiv.org
+Maurizio Gasperini's homepage
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeString cosmology is a relatively new field that tries to apply equations of string theory to solve the questions of early cosmology. A related area of study is brane cosmology.String cosmologystring theorycosmologybrane cosmologyThis approach can be dated back to a paper by Gabriele Veneziano[1] that shows how an inflationary cosmological model can be obtained from string theory, thus opening the door to a description of pre-Big Bang scenarios.Gabriele Veneziano[1][1]Big BangThe idea is related to a property of the bosonic string in a curve background, better known as nonlinear sigma model. First calculations from this model[2] showed as the beta function, representing the running of the metric of the model as a function of an energy scale, is proportional to the Ricci tensor giving rise to a Ricci flow. As this model has conformal invariance and this must be kept to have a sensible quantum field theory, the beta function must be zero producing immediately the Einstein field equations. While Einstein equations seem to appear somewhat out of place, nevertheless this result is surely striking showing as a background two-dimensional model could produce higher-dimensional physics. An interesting point here is that such a string theory can be formulated without a requirement of criticality at 26 dimensions for consistency as happens on a flat background. This is a serious hint that the underlying physics of Einstein equations could be described by an effective two-dimensional conformal field theory. Indeed, the fact that we have evidence for an inflationary universe is an important support to string cosmology.bosonic stringnonlinear sigma model[2][2]beta functionRicci tensorRicci flowconformal invariancequantum field theorybeta functionEinstein field equationsconformal field theoryIn the evolution of the universe, after the inflationary phase, the expansion observed today sets in that is well described by Friedmann equations. A smooth transition is expected between these two different phases. String cosmology appears to have difficulties in explaining this transition. This is known in literature as the graceful exit problem.Friedmann equationsgraceful exit problemAn inflationary cosmology implies the presence of a scalar field that drives inflation. In string cosmology, this arises from the so-called dilaton field. This is a scalar term entering into the description of the bosonic string that produces a scalar field term into the effective theory at low energies. The corresponding equations resemble those of a Brans–Dicke theory.inflationary cosmologydilatonbosonic stringBrans–Dicke theoryAnalysis has been worked out from a critical number of dimension (26) down to four. In general one gets Friedmann equations in an arbitrary number of dimensions. The other way round is to assume that a certain number of dimensions is compactified producing an effective four-dimensional theory to work with. Such a theory is a typical Kaluza–Klein theory with a set of scalar fields arising from compactified dimensions. Such fields are called moduli.Friedmann equationscompactifiedKaluza–Klein theorycompactifiedmoduli
+
+Contents
+
+
+1 Technical details
+2 Notes
+3 References
+4 External links
+
+
+Contents
+Contents
+1 Technical details
+2 Notes
+3 References
+4 External links
+1 Technical details1 Technical details1Technical details2 Notes2 Notes2Notes3 References3 References3References4 External links4 External links4External linksTechnical details[edit]Technical details[edit][edit]This section presents some of the relevant equations entering into string cosmology. The starting point is the Polyakov action, which can be written as:Polyakov action
+
+where  is the Ricci scalar in two dimensions,  the dilaton field, and  the string constant. The indices  range over 1,2, and  over , where D the dimension of the target space. A further antisymmetric field could be added. This is generally considered when one wants this action generating a potential for inflation.[3] Otherwise, a generic potential is inserted by hand, as well as a cosmological constant.Ricci scalardilatonD[3][3]The above string action has a conformal invariance. This is a property of a two dimensional Riemannian manifold. At the quantum level, this property is lost due to anomalies and the theory itself is not consistent, having no unitarity. So it is necessary to require that conformal invariance is kept at any order of perturbation theory. Perturbation theory is the only known approach to manage the quantum field theory. Indeed, the beta functions at two loops areRiemannian manifoldunitarityconformal invarianceperturbation theoryPerturbation theoryquantum field theorybeta functions
+
+and
+
+The assumption that conformal invariance holds implies thatconformal invariance
+
+producing the corresponding equations of motion of low-energy physics. These conditions can only be satisfied perturbatively, but this has to hold at any order of perturbation theory. The first term in  is just the anomaly of the bosonic string theory in a flat spacetime. But here there are further terms that can grant a compensation of the anomaly also when , and from this cosmological models of a pre-big bang scenario can be constructed. Indeed, this low energy equations can be obtained from the following action:perturbation theorybosonic string theory
+
+where  is a constant that can always be changed by redefining the dilaton field. One can also rewrite this action in a more familiar form by redefining the fields (Einstein frame) as
+
+
+
+and using  one can write
+
+where
+
+This is the formula for the Einstein action describing a scalar field interacting with a gravitational field in D dimensions. Indeed, the following identity holds:
+
+where  is the Newton constant in D dimensions and  the corresponding Planck mass. When setting  in this action, the conditions for inflation are not fulfilled unless a potential or antisymmetric term is added to the string action,[3] in which case power-law inflation is possible.[3][3]Notes[edit]Notes[edit][edit]
+
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. 
+^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. 
+^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. 
+
+
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. 
+^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. 
+^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. 
+^ Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. ^^^Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U. Veneziano, G. (1991). "Scale factor duality for classical and quantum strings". Physics Letters B 265 (3–4): 287. Bibcode:1991PhLB..265..287V. doi:10.1016/0370-2693(91)90055-U.Veneziano, G.Physics Letters BPhysics Letters B265Bibcode1991PhLB..265..287Vdoi10.1016/0370-2693(91)90055-U  ^ Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. ^^^Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057. Friedan, D. (1980). "Nonlinear Models in 2+ε Dimensions" (PDF). Physical Review Letters 45 (13): 1057. Bibcode:1980PhRvL..45.1057F. doi:10.1103/PhysRevLett.45.1057.Friedan, D."Nonlinear Models in 2+ε Dimensions"(PDF)Physical Review LettersPhysical Review Letters45Bibcode1980PhRvL..45.1057Fdoi10.1103/PhysRevLett.45.1057  ^ a b Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. ^ a baaaabbbbEasther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247. Easther, R.; Maeda, Kei-ichi; Wands, D. (1996). "Tree-level string cosmology". Physical Review D 53 (8): 4247. arXiv:hep-th/9509074. Bibcode:1996PhRvD..53.4247E. doi:10.1103/PhysRevD.53.4247.Easther, R.Maeda, Kei-ichiWands, D.Physical Review DPhysical Review D53arXivhep-th/9509074Bibcode1996PhRvD..53.4247Edoi10.1103/PhysRevD.53.4247  References[edit]References[edit][edit]
+Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6. 
+Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4. 
+Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8. 
+Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6. Polchinski, Joseph (1998a). String Theory Vol. I: An Introduction to the Bosonic String. Cambridge University Press. ISBN 0-521-63303-6.Polchinski, JosephString Theory Vol. I: An Introduction to the Bosonic StringCambridge University PressISBN0-521-63303-6  Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4. Polchinski, Joseph (1998b). String Theory Vol. II: Superstring Theory and Beyond. Cambridge University Press. ISBN 0-521-63304-4.Polchinski, JosephString Theory Vol. II: Superstring Theory and BeyondCambridge University PressISBN0-521-63304-4  Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8. Lidsey, James D.; Wands, David; Copeland, E. J. (2000). "Superstring Cosmology". Physics Report 337 (4–5): 343. arXiv:hep-th/9909061. Bibcode:2000PhR...337..343L. doi:10.1016/S0370-1573(00)00064-8.Lidsey, James D.Wands, DavidCopeland, E. J.Physics Report337arXivhep-th/9909061Bibcode2000PhR...337..343Ldoi10.1016/S0370-1573(00)00064-8  External links[edit]External links[edit][edit]
+String cosmology on arxiv.org
+Maurizio Gasperini's homepage
+String cosmology on arxiv.orgString cosmology on arxiv.orgMaurizio Gasperini's homepageMaurizio Gasperini's homepage
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+
+
+v
+t
+e
+
+
+Major subfields of astronomy and astrophysics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeMajor subfields of astronomy and astrophysicsastronomyastrophysics
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+
+
+Astrobiology
+Astrochemistry
+Astrometry
+Astrophysics
+Cosmochemistry
+Cosmology
+Extragalactic astronomy
+Galactic astronomy
+Orbital mechanics
+Physical cosmology
+Planetary geology
+Planetary science
+Solar astronomy
+Stellar astronomy
+AstrobiologyAstrobiologyAstrochemistryAstrochemistryAstrometryAstrometryAstrophysicsAstrophysicsCosmochemistryCosmochemistryCosmologyCosmologyExtragalactic astronomyExtragalactic astronomyGalactic astronomyGalactic astronomyOrbital mechanicsOrbital mechanicsPhysical cosmologyPhysical cosmologyPlanetary geologyPlanetary geologyPlanetary sciencePlanetary scienceSolar astronomySolar astronomyStellar astronomyStellar astronomy
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_cosmology&oldid=666337214"					https://en.wikipedia.org/w/index.php?title=String_cosmology&oldid=666337214Categories: String theoryPhysical cosmologyGeneral relativityCategories: String theoryPhysical cosmologyGeneral relativityCategoriesString theoryPhysical cosmologyGeneral relativityString theoryString theoryPhysical cosmologyPhysical cosmologyGeneral relativityGeneral relativity
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةFrançaisTürkçe 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةFrançaisTürkçe 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةFrançaisTürkçe 
+Edit links 
+Languages
+
+العربيةFrançaisTürkçe 
+Edit links 
+العربيةFrançaisTürkçe العربيةالعربيةFrançaisFrançaisTürkçeTürkçeEdit linksEdit linksEdit links
+
+ This page was last modified on 10 June 2015, at 13:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 10 June 2015, at 13:41.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 10 June 2015, at 13:41.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

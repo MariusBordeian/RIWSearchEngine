@@ -1,0 +1,2107 @@
+Bosonic string theory - Wikipedia, the free encyclopedia
+
+
+
+
+Bosonic string theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Bosonic string theory is the original version of string theory, developed in the late 1960s. It is so called because it only contains bosons in the spectrum.
+In the 1980s, supersymmetry was discovered in the context of string theory, and a new version of string theory called superstring theory (supersymmetric string theory) became the real focus. Nevertheless, bosonic string theory remains a very useful model to understand many general features of perturbative string theory, and many theoretical difficulties of superstrings can actually already be found in the context of bosonic strings.
+
+
+
+Contents
+
+
+1 Problems
+2 Types of Bosonic strings
+3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+
+Problems[edit]
+Although bosonic string theory has many attractive features, it falls short as a viable physical model in two significant areas.
+First, it predicts only the existence of bosons whereas many physical particles are fermions.
+Second, it predicts the existence of a mode of the string with imaginary mass, implying that the theory has an instability to a process known as "tachyon condensation".
+In addition, bosonic string theory in a general spacetime dimension displays inconsistencies due to the conformal anomaly. But, as was first noticed by Claud Lovelace, in a spacetime of 26 dimensions (25 dimensions of space and one of time), the critical dimension for the theory, the anomaly cancels. This high dimensionality is not necessarily a problem for string theory, because it can be formulated in such a way that along the 22 excess dimensions spacetime is folded up to form a small torus or other compact manifold. This would leave only the familiar four dimensions of spacetime visible to low energy experiments. The existence of a critical dimension where the anomaly cancels is a general feature of all string theories.
+Types of Bosonic strings[edit]
+There are four possible bosonic string theories, depending on whether open strings are allowed and whether strings have a specified orientation. Recall that a theory of open strings also must include closed strings; open strings can be thought as having their endpoints fixed on a D25-brane that fills all of spacetime. A specific orientation of the string means that only interaction corresponding to an orientable worldsheet are allowed (e.g., two strings can only merge with equal orientation). A sketch of the spectra of the four possible theories is as follows:
+
+
+Bosonic String Theory
+Non-positive  states
+
+
+Open and closed, oriented
+tachyon, massless antisymmetric tensor, graviton, dilaton
+
+
+Open and closed, unoriented
+tachyon, graviton, dilaton
+
+
+Closed, oriented
+tachyon, U(1) vector boson, antisymmetric tensor, graviton, dilaton
+
+
+Closed, unoriented
+tachyon, graviton, dilaton
+
+
+Note that all four theories have a negative energy tachyon () and a massless graviton.
+The rest of this article applies to the closed, oriented theory, corresponding to borderless, orientable worldsheets.
+Mathematics[edit]
+Path integral perturbation theory[edit]
+Bosonic string theory can be said[1] to be defined by the path integral quantization of the Polyakov action:
+
+
+
+ is the field on the worldsheet describing the embedding of the string in 25+1 spacetime; in the Polyakov formulation,  is not to be understood as the induced metric from the embedding, but as an independent dynamical field.  is the metric on the target spacetime, which is usually taken to be the Minkowski metric in the perturbative theory. Under a Wick rotation, this is brought to a Euclidean metric . M is the worldsheet as a topological manifold parametrized by the  coordinates.  is the string tension and related to the Regge slope as .
+ has diffeomorphism and Weyl invariance. Weyl symmetry is broken upon quantization (Conformal anomaly) and therefore this action has to be supplemented with a counterterm, along with an hypothetical purely topological term, proportional to the Euler characteristic:
+
+
+
+The explicit breaking of Weyl invariance by the counterterm can be cancelled away in the critical dimension 26.
+Physical quantities are then constructed from the (Euclidean) partition function and N-point function:
+
+
+
+
+
+
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.
+
+
+The discrete sum is a sum over possible topologies, which for euclidean bosonic orientable closed strings are compact orientable Riemannian surfaces and are thus identified by a genus . A normalization factor  is introduced to compensate overcounting from symmetries. While the computation of the partition function correspond to the cosmological constant, the N-point function, including  vertex operators, describes the scattering amplitude of strings.
+The symmetry group of the action actually reduces drastically the integration space to a finite dimensional manifold. The  path-integral in the partition function is de facto a sum over possible Riemannian structures; however, quotienting with respect to Weyl transformations allows us to only consider conformal structures, that is, equivalence classes of metrics under the identifications of metrics related by
+
+
+
+Since the world-sheet is two dimensional, there is a 1-1 correspondence between conformal structures and complex structures. One still has to quotient away diffeomorphisms. This leaves us with an integration over the space of all possible complex structures modulo diffeomorphisms, which is simply the moduli space of the given topological surface, and is in fact a finite-dimensional complex manifold. The fundamental problem of perturbative bosonic strings therefore becomes the parametrization of Moduli space, which is non-trivial for genus .
+
+h = 0[edit]
+At tree-level, corresponding to genus 0, the cosmological constant vanishes: .
+The four-point function for the scattering of four tachyons is the Shapiro-Virasoro amplitude:
+
+
+
+Where  is the total momentum and , ,  are the Mandelstam variables.
+h = 1[edit]
+
+
+
+
+The shaded region is a possible fundamental domain for the modular group.
+
+
+Genus 1 is the torus, and corresponds to the one-loop level. The partition function amounts to:
+
+
+
+ is a complex number with positive imaginary part ; , holomorphic to the moduli space of the torus, is any fundamental domain for the modular group  acting on the upper half-plane, for example .  is the Dedekind eta function. The integrand is of course invariant under the modular group: the measure  is simply the Poincaré metric which has PSL(2,R) as isometry group; the rest of the integrand is also invariant by virtue of  and the fact that  is a modular form of weight 1/2.
+This integral diverges. This is due to the presence of the tachyon and is related to the instability of the perturbative vacuum.
+See also[edit]
+
+Nambu–Goto action
+Polyakov action
+
+Notes[edit]
+
+
+^ D'Hoker, Phong
+
+
+References[edit]
+D'Hoker, Eric and Phong, D. H. (Oct 1988). "The geometry of string perturbation theory,". Rev. Mod. Phys. (American Physical Society,) 60 (4): 917–1065. Bibcode:1988RvMP...60..917D. doi:10.1103/RevModPhys.60.917.  CS1 maint: Multiple names: authors list (link)
+Belavin, A.A. and Knizhnik, V.G. (Feb 1986). "Complex geometry and the theory of quantum strings,". ZhETF 91 (2): 364–390.  CS1 maint: Multiple names: authors list (link)
+External links[edit]
+
+How many string theories are there?
+PIRSA:C09001 - Introduction to the Bosonic String
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Bosonic_string_theory&oldid=702635663"					
+Categories: String theoryHidden categories: CS1 maint: Multiple names: authors list 
+
+
+Bosonic string theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Bosonic string theory is the original version of string theory, developed in the late 1960s. It is so called because it only contains bosons in the spectrum.
+In the 1980s, supersymmetry was discovered in the context of string theory, and a new version of string theory called superstring theory (supersymmetric string theory) became the real focus. Nevertheless, bosonic string theory remains a very useful model to understand many general features of perturbative string theory, and many theoretical difficulties of superstrings can actually already be found in the context of bosonic strings.
+
+
+
+Contents
+
+
+1 Problems
+2 Types of Bosonic strings
+3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+
+Problems[edit]
+Although bosonic string theory has many attractive features, it falls short as a viable physical model in two significant areas.
+First, it predicts only the existence of bosons whereas many physical particles are fermions.
+Second, it predicts the existence of a mode of the string with imaginary mass, implying that the theory has an instability to a process known as "tachyon condensation".
+In addition, bosonic string theory in a general spacetime dimension displays inconsistencies due to the conformal anomaly. But, as was first noticed by Claud Lovelace, in a spacetime of 26 dimensions (25 dimensions of space and one of time), the critical dimension for the theory, the anomaly cancels. This high dimensionality is not necessarily a problem for string theory, because it can be formulated in such a way that along the 22 excess dimensions spacetime is folded up to form a small torus or other compact manifold. This would leave only the familiar four dimensions of spacetime visible to low energy experiments. The existence of a critical dimension where the anomaly cancels is a general feature of all string theories.
+Types of Bosonic strings[edit]
+There are four possible bosonic string theories, depending on whether open strings are allowed and whether strings have a specified orientation. Recall that a theory of open strings also must include closed strings; open strings can be thought as having their endpoints fixed on a D25-brane that fills all of spacetime. A specific orientation of the string means that only interaction corresponding to an orientable worldsheet are allowed (e.g., two strings can only merge with equal orientation). A sketch of the spectra of the four possible theories is as follows:
+
+
+Bosonic String Theory
+Non-positive  states
+
+
+Open and closed, oriented
+tachyon, massless antisymmetric tensor, graviton, dilaton
+
+
+Open and closed, unoriented
+tachyon, graviton, dilaton
+
+
+Closed, oriented
+tachyon, U(1) vector boson, antisymmetric tensor, graviton, dilaton
+
+
+Closed, unoriented
+tachyon, graviton, dilaton
+
+
+Note that all four theories have a negative energy tachyon () and a massless graviton.
+The rest of this article applies to the closed, oriented theory, corresponding to borderless, orientable worldsheets.
+Mathematics[edit]
+Path integral perturbation theory[edit]
+Bosonic string theory can be said[1] to be defined by the path integral quantization of the Polyakov action:
+
+
+
+ is the field on the worldsheet describing the embedding of the string in 25+1 spacetime; in the Polyakov formulation,  is not to be understood as the induced metric from the embedding, but as an independent dynamical field.  is the metric on the target spacetime, which is usually taken to be the Minkowski metric in the perturbative theory. Under a Wick rotation, this is brought to a Euclidean metric . M is the worldsheet as a topological manifold parametrized by the  coordinates.  is the string tension and related to the Regge slope as .
+ has diffeomorphism and Weyl invariance. Weyl symmetry is broken upon quantization (Conformal anomaly) and therefore this action has to be supplemented with a counterterm, along with an hypothetical purely topological term, proportional to the Euler characteristic:
+
+
+
+The explicit breaking of Weyl invariance by the counterterm can be cancelled away in the critical dimension 26.
+Physical quantities are then constructed from the (Euclidean) partition function and N-point function:
+
+
+
+
+
+
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.
+
+
+The discrete sum is a sum over possible topologies, which for euclidean bosonic orientable closed strings are compact orientable Riemannian surfaces and are thus identified by a genus . A normalization factor  is introduced to compensate overcounting from symmetries. While the computation of the partition function correspond to the cosmological constant, the N-point function, including  vertex operators, describes the scattering amplitude of strings.
+The symmetry group of the action actually reduces drastically the integration space to a finite dimensional manifold. The  path-integral in the partition function is de facto a sum over possible Riemannian structures; however, quotienting with respect to Weyl transformations allows us to only consider conformal structures, that is, equivalence classes of metrics under the identifications of metrics related by
+
+
+
+Since the world-sheet is two dimensional, there is a 1-1 correspondence between conformal structures and complex structures. One still has to quotient away diffeomorphisms. This leaves us with an integration over the space of all possible complex structures modulo diffeomorphisms, which is simply the moduli space of the given topological surface, and is in fact a finite-dimensional complex manifold. The fundamental problem of perturbative bosonic strings therefore becomes the parametrization of Moduli space, which is non-trivial for genus .
+
+h = 0[edit]
+At tree-level, corresponding to genus 0, the cosmological constant vanishes: .
+The four-point function for the scattering of four tachyons is the Shapiro-Virasoro amplitude:
+
+
+
+Where  is the total momentum and , ,  are the Mandelstam variables.
+h = 1[edit]
+
+
+
+
+The shaded region is a possible fundamental domain for the modular group.
+
+
+Genus 1 is the torus, and corresponds to the one-loop level. The partition function amounts to:
+
+
+
+ is a complex number with positive imaginary part ; , holomorphic to the moduli space of the torus, is any fundamental domain for the modular group  acting on the upper half-plane, for example .  is the Dedekind eta function. The integrand is of course invariant under the modular group: the measure  is simply the Poincaré metric which has PSL(2,R) as isometry group; the rest of the integrand is also invariant by virtue of  and the fact that  is a modular form of weight 1/2.
+This integral diverges. This is due to the presence of the tachyon and is related to the instability of the perturbative vacuum.
+See also[edit]
+
+Nambu–Goto action
+Polyakov action
+
+Notes[edit]
+
+
+^ D'Hoker, Phong
+
+
+References[edit]
+D'Hoker, Eric and Phong, D. H. (Oct 1988). "The geometry of string perturbation theory,". Rev. Mod. Phys. (American Physical Society,) 60 (4): 917–1065. Bibcode:1988RvMP...60..917D. doi:10.1103/RevModPhys.60.917.  CS1 maint: Multiple names: authors list (link)
+Belavin, A.A. and Knizhnik, V.G. (Feb 1986). "Complex geometry and the theory of quantum strings,". ZhETF 91 (2): 364–390.  CS1 maint: Multiple names: authors list (link)
+External links[edit]
+
+How many string theories are there?
+PIRSA:C09001 - Introduction to the Bosonic String
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Bosonic_string_theory&oldid=702635663"					
+Categories: String theoryHidden categories: CS1 maint: Multiple names: authors list 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Bosonic string theory is the original version of string theory, developed in the late 1960s. It is so called because it only contains bosons in the spectrum.
+In the 1980s, supersymmetry was discovered in the context of string theory, and a new version of string theory called superstring theory (supersymmetric string theory) became the real focus. Nevertheless, bosonic string theory remains a very useful model to understand many general features of perturbative string theory, and many theoretical difficulties of superstrings can actually already be found in the context of bosonic strings.
+
+
+
+Contents
+
+
+1 Problems
+2 Types of Bosonic strings
+3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+
+Problems[edit]
+Although bosonic string theory has many attractive features, it falls short as a viable physical model in two significant areas.
+First, it predicts only the existence of bosons whereas many physical particles are fermions.
+Second, it predicts the existence of a mode of the string with imaginary mass, implying that the theory has an instability to a process known as "tachyon condensation".
+In addition, bosonic string theory in a general spacetime dimension displays inconsistencies due to the conformal anomaly. But, as was first noticed by Claud Lovelace, in a spacetime of 26 dimensions (25 dimensions of space and one of time), the critical dimension for the theory, the anomaly cancels. This high dimensionality is not necessarily a problem for string theory, because it can be formulated in such a way that along the 22 excess dimensions spacetime is folded up to form a small torus or other compact manifold. This would leave only the familiar four dimensions of spacetime visible to low energy experiments. The existence of a critical dimension where the anomaly cancels is a general feature of all string theories.
+Types of Bosonic strings[edit]
+There are four possible bosonic string theories, depending on whether open strings are allowed and whether strings have a specified orientation. Recall that a theory of open strings also must include closed strings; open strings can be thought as having their endpoints fixed on a D25-brane that fills all of spacetime. A specific orientation of the string means that only interaction corresponding to an orientable worldsheet are allowed (e.g., two strings can only merge with equal orientation). A sketch of the spectra of the four possible theories is as follows:
+
+
+Bosonic String Theory
+Non-positive  states
+
+
+Open and closed, oriented
+tachyon, massless antisymmetric tensor, graviton, dilaton
+
+
+Open and closed, unoriented
+tachyon, graviton, dilaton
+
+
+Closed, oriented
+tachyon, U(1) vector boson, antisymmetric tensor, graviton, dilaton
+
+
+Closed, unoriented
+tachyon, graviton, dilaton
+
+
+Note that all four theories have a negative energy tachyon () and a massless graviton.
+The rest of this article applies to the closed, oriented theory, corresponding to borderless, orientable worldsheets.
+Mathematics[edit]
+Path integral perturbation theory[edit]
+Bosonic string theory can be said[1] to be defined by the path integral quantization of the Polyakov action:
+
+
+
+ is the field on the worldsheet describing the embedding of the string in 25+1 spacetime; in the Polyakov formulation,  is not to be understood as the induced metric from the embedding, but as an independent dynamical field.  is the metric on the target spacetime, which is usually taken to be the Minkowski metric in the perturbative theory. Under a Wick rotation, this is brought to a Euclidean metric . M is the worldsheet as a topological manifold parametrized by the  coordinates.  is the string tension and related to the Regge slope as .
+ has diffeomorphism and Weyl invariance. Weyl symmetry is broken upon quantization (Conformal anomaly) and therefore this action has to be supplemented with a counterterm, along with an hypothetical purely topological term, proportional to the Euler characteristic:
+
+
+
+The explicit breaking of Weyl invariance by the counterterm can be cancelled away in the critical dimension 26.
+Physical quantities are then constructed from the (Euclidean) partition function and N-point function:
+
+
+
+
+
+
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.
+
+
+The discrete sum is a sum over possible topologies, which for euclidean bosonic orientable closed strings are compact orientable Riemannian surfaces and are thus identified by a genus . A normalization factor  is introduced to compensate overcounting from symmetries. While the computation of the partition function correspond to the cosmological constant, the N-point function, including  vertex operators, describes the scattering amplitude of strings.
+The symmetry group of the action actually reduces drastically the integration space to a finite dimensional manifold. The  path-integral in the partition function is de facto a sum over possible Riemannian structures; however, quotienting with respect to Weyl transformations allows us to only consider conformal structures, that is, equivalence classes of metrics under the identifications of metrics related by
+
+
+
+Since the world-sheet is two dimensional, there is a 1-1 correspondence between conformal structures and complex structures. One still has to quotient away diffeomorphisms. This leaves us with an integration over the space of all possible complex structures modulo diffeomorphisms, which is simply the moduli space of the given topological surface, and is in fact a finite-dimensional complex manifold. The fundamental problem of perturbative bosonic strings therefore becomes the parametrization of Moduli space, which is non-trivial for genus .
+
+h = 0[edit]
+At tree-level, corresponding to genus 0, the cosmological constant vanishes: .
+The four-point function for the scattering of four tachyons is the Shapiro-Virasoro amplitude:
+
+
+
+Where  is the total momentum and , ,  are the Mandelstam variables.
+h = 1[edit]
+
+
+
+
+The shaded region is a possible fundamental domain for the modular group.
+
+
+Genus 1 is the torus, and corresponds to the one-loop level. The partition function amounts to:
+
+
+
+ is a complex number with positive imaginary part ; , holomorphic to the moduli space of the torus, is any fundamental domain for the modular group  acting on the upper half-plane, for example .  is the Dedekind eta function. The integrand is of course invariant under the modular group: the measure  is simply the Poincaré metric which has PSL(2,R) as isometry group; the rest of the integrand is also invariant by virtue of  and the fact that  is a modular form of weight 1/2.
+This integral diverges. This is due to the presence of the tachyon and is related to the instability of the perturbative vacuum.
+See also[edit]
+
+Nambu–Goto action
+Polyakov action
+
+Notes[edit]
+
+
+^ D'Hoker, Phong
+
+
+References[edit]
+D'Hoker, Eric and Phong, D. H. (Oct 1988). "The geometry of string perturbation theory,". Rev. Mod. Phys. (American Physical Society,) 60 (4): 917–1065. Bibcode:1988RvMP...60..917D. doi:10.1103/RevModPhys.60.917.  CS1 maint: Multiple names: authors list (link)
+Belavin, A.A. and Knizhnik, V.G. (Feb 1986). "Complex geometry and the theory of quantum strings,". ZhETF 91 (2): 364–390.  CS1 maint: Multiple names: authors list (link)
+External links[edit]
+
+How many string theories are there?
+PIRSA:C09001 - Introduction to the Bosonic String
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeBosonic string theory is the original version of string theory, developed in the late 1960s. It is so called because it only contains bosons in the spectrum.Bosonic string theorystring theoryIn the 1980s, supersymmetry was discovered in the context of string theory, and a new version of string theory called superstring theory (supersymmetric string theory) became the real focus. Nevertheless, bosonic string theory remains a very useful model to understand many general features of perturbative string theory, and many theoretical difficulties of superstrings can actually already be found in the context of bosonic strings.supersymmetrysuperstring theoryperturbative
+
+Contents
+
+
+1 Problems
+2 Types of Bosonic strings
+3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+Contents
+Contents
+1 Problems
+2 Types of Bosonic strings
+3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+1 Problems1 Problems1Problems2 Types of Bosonic strings2 Types of Bosonic strings2Types of Bosonic strings3 Mathematics
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+
+3 Mathematics3Mathematics
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+
+3.1 Path integral perturbation theory
+
+3.1.1 h = 0
+3.1.2 h = 1
+
+3.1 Path integral perturbation theory3.1Path integral perturbation theory
+3.1.1 h = 0
+3.1.2 h = 1
+3.1.1 h = 03.1.1 h = 03.1.1h = 03.1.2 h = 13.1.2 h = 13.1.2h = 14 See also4 See also4See also5 Notes5 Notes5Notes6 References6 References6References7 External links7 External links7External linksProblems[edit]Problems[edit][edit]Although bosonic string theory has many attractive features, it falls short as a viable physical model in two significant areas.physical modelFirst, it predicts only the existence of bosons whereas many physical particles are fermions.bosonsfermionsSecond, it predicts the existence of a mode of the string with imaginary mass, implying that the theory has an instability to a process known as "tachyon condensation".imaginarytachyon condensationIn addition, bosonic string theory in a general spacetime dimension displays inconsistencies due to the conformal anomaly. But, as was first noticed by Claud Lovelace, in a spacetime of 26 dimensions (25 dimensions of space and one of time), the critical dimension for the theory, the anomaly cancels. This high dimensionality is not necessarily a problem for string theory, because it can be formulated in such a way that along the 22 excess dimensions spacetime is folded up to form a small torus or other compact manifold. This would leave only the familiar four dimensions of spacetime visible to low energy experiments. The existence of a critical dimension where the anomaly cancels is a general feature of all string theories.conformal anomalyClaud Lovelacecritical dimensiontorusTypes of Bosonic strings[edit]Types of Bosonic strings[edit][edit]There are four possible bosonic string theories, depending on whether open strings are allowed and whether strings have a specified orientation. Recall that a theory of open strings also must include closed strings; open strings can be thought as having their endpoints fixed on a D25-brane that fills all of spacetime. A specific orientation of the string means that only interaction corresponding to an orientable worldsheet are allowed (e.g., two strings can only merge with equal orientation). A sketch of the spectra of the four possible theories is as follows:open stringsorientationD25-braneorientableworldsheet
+
+Bosonic String Theory
+Non-positive  states
+
+
+Open and closed, oriented
+tachyon, massless antisymmetric tensor, graviton, dilaton
+
+
+Open and closed, unoriented
+tachyon, graviton, dilaton
+
+
+Closed, oriented
+tachyon, U(1) vector boson, antisymmetric tensor, graviton, dilaton
+
+
+Closed, unoriented
+tachyon, graviton, dilaton
+
+
+Bosonic String Theory
+Non-positive  states
+Bosonic String TheoryNon-positive  states
+Open and closed, oriented
+tachyon, massless antisymmetric tensor, graviton, dilaton
+Open and closed, orientedtachyon, massless antisymmetric tensor, graviton, dilatongravitondilaton
+Open and closed, unoriented
+tachyon, graviton, dilaton
+Open and closed, unorientedtachyon, graviton, dilaton
+Closed, oriented
+tachyon, U(1) vector boson, antisymmetric tensor, graviton, dilaton
+Closed, orientedtachyon, U(1) vector boson, antisymmetric tensor, graviton, dilatonU(1)vector boson
+Closed, unoriented
+tachyon, graviton, dilaton
+Closed, unorientedtachyon, graviton, dilatonNote that all four theories have a negative energy tachyon () and a massless graviton.The rest of this article applies to the closed, oriented theory, corresponding to borderless, orientable worldsheets.Mathematics[edit]Mathematics[edit][edit]Path integral perturbation theory[edit]Path integral perturbation theory[edit][edit]Bosonic string theory can be said[1] to be defined by the path integral quantization of the Polyakov action:[1][1]path integral quantizationPolyakov action
+
+ is the field on the worldsheet describing the embedding of the string in 25+1 spacetime; in the Polyakov formulation,  is not to be understood as the induced metric from the embedding, but as an independent dynamical field.  is the metric on the target spacetime, which is usually taken to be the Minkowski metric in the perturbative theory. Under a Wick rotation, this is brought to a Euclidean metric . M is the worldsheet as a topological manifold parametrized by the  coordinates.  is the string tension and related to the Regge slope as .worldsheetMinkowski metricWick rotationtopological manifold has diffeomorphism and Weyl invariance. Weyl symmetry is broken upon quantization (Conformal anomaly) and therefore this action has to be supplemented with a counterterm, along with an hypothetical purely topological term, proportional to the Euler characteristic:diffeomorphismWeyl invarianceConformal anomalyEuler characteristic
+
+The explicit breaking of Weyl invariance by the counterterm can be cancelled away in the critical dimension 26.critical dimensionPhysical quantities are then constructed from the (Euclidean) partition function and N-point function:partition functionN-point function
+
+
+
+
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.
+
+
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.
+
+
+The perturbative series is expressed as a sum over topologies, indexed by the genus.The discrete sum is a sum over possible topologies, which for euclidean bosonic orientable closed strings are compact orientable Riemannian surfaces and are thus identified by a genus . A normalization factor  is introduced to compensate overcounting from symmetries. While the computation of the partition function correspond to the cosmological constant, the N-point function, including  vertex operators, describes the scattering amplitude of strings.Riemannian surfacescosmological constantThe symmetry group of the action actually reduces drastically the integration space to a finite dimensional manifold. The  path-integral in the partition function is de facto a sum over possible Riemannian structures; however, quotienting with respect to Weyl transformations allows us to only consider conformal structures, that is, equivalence classes of metrics under the identifications of metrics related byde factoquotientingconformal structures
+
+Since the world-sheet is two dimensional, there is a 1-1 correspondence between conformal structures and complex structures. One still has to quotient away diffeomorphisms. This leaves us with an integration over the space of all possible complex structures modulo diffeomorphisms, which is simply the moduli space of the given topological surface, and is in fact a finite-dimensional complex manifold. The fundamental problem of perturbative bosonic strings therefore becomes the parametrization of Moduli space, which is non-trivial for genus .complex structuresmoduli spacecomplex manifoldh = 0[edit]h = 0[edit][edit]At tree-level, corresponding to genus 0, the cosmological constant vanishes: .The four-point function for the scattering of four tachyons is the Shapiro-Virasoro amplitude:
+
+Where  is the total momentum and , ,  are the Mandelstam variables.Mandelstam variablesh = 1[edit]h = 1[edit][edit]
+
+
+
+The shaded region is a possible fundamental domain for the modular group.
+
+
+
+
+The shaded region is a possible fundamental domain for the modular group.
+
+
+The shaded region is a possible fundamental domain for the modular group.Genus 1 is the torus, and corresponds to the one-loop level. The partition function amounts to:one-loop level
+
+ is a complex number with positive imaginary part ; , holomorphic to the moduli space of the torus, is any fundamental domain for the modular group  acting on the upper half-plane, for example .  is the Dedekind eta function. The integrand is of course invariant under the modular group: the measure  is simply the Poincaré metric which has PSL(2,R) as isometry group; the rest of the integrand is also invariant by virtue of  and the fact that  is a modular form of weight 1/2.fundamental domainmodular groupupper half-planeDedekind eta functionPoincaré metricPSL(2,R)modular formThis integral diverges. This is due to the presence of the tachyon and is related to the instability of the perturbative vacuum.See also[edit]See also[edit][edit]
+Nambu–Goto action
+Polyakov action
+Nambu–Goto actionNambu–Goto actionPolyakov actionPolyakov actionNotes[edit]Notes[edit][edit]
+
+^ D'Hoker, Phong
+
+
+^ D'Hoker, Phong
+^ D'Hoker, Phong^^^D'Hoker, PhongReferences[edit]References[edit][edit]D'Hoker, Eric and Phong, D. H. (Oct 1988). "The geometry of string perturbation theory,". Rev. Mod. Phys. (American Physical Society,) 60 (4): 917–1065. Bibcode:1988RvMP...60..917D. doi:10.1103/RevModPhys.60.917.  CS1 maint: Multiple names: authors list (link)D'Hoker, Eric and Phong, D. H. (Oct 1988). "The geometry of string perturbation theory,". Rev. Mod. Phys. (American Physical Society,) 60 (4): 917–1065. Bibcode:1988RvMP...60..917D. doi:10.1103/RevModPhys.60.917."The geometry of string perturbation theory,"Rev. Mod. Phys.60Bibcode1988RvMP...60..917Ddoi10.1103/RevModPhys.60.917  CS1 maint: Multiple names: authors list (link)linkBelavin, A.A. and Knizhnik, V.G. (Feb 1986). "Complex geometry and the theory of quantum strings,". ZhETF 91 (2): 364–390.  CS1 maint: Multiple names: authors list (link)Belavin, A.A. and Knizhnik, V.G. (Feb 1986). "Complex geometry and the theory of quantum strings,". ZhETF 91 (2): 364–390."Complex geometry and the theory of quantum strings,"ZhETF91  CS1 maint: Multiple names: authors list (link)linkExternal links[edit]External links[edit][edit]
+How many string theories are there?
+PIRSA:C09001 - Introduction to the Bosonic String
+How many string theories are there?How many string theories are there?PIRSA:C09001 - Introduction to the Bosonic StringPIRSA:C09001 - Introduction to the Bosonic String
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Bosonic_string_theory&oldid=702635663"					https://en.wikipedia.org/w/index.php?title=Bosonic_string_theory&oldid=702635663Categories: String theoryHidden categories: CS1 maint: Multiple names: authors listCategories: String theoryCategoriesString theoryString theoryString theoryHidden categories: CS1 maint: Multiple names: authors listCS1 maint: Multiple names: authors listCS1 maint: Multiple names: authors listCS1 maint: Multiple names: authors list
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяCatalàDeutschEspañolFrançais한국어ItalianoLietuviųPolskiPortuguêsРусскийSvenska中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةБеларускаяCatalàDeutschEspañolFrançais한국어ItalianoLietuviųPolskiPortuguêsРусскийSvenska中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةБеларускаяCatalàDeutschEspañolFrançais한국어ItalianoLietuviųPolskiPortuguêsРусскийSvenska中文 
+Edit links 
+Languages
+
+العربيةБеларускаяCatalàDeutschEspañolFrançais한국어ItalianoLietuviųPolskiPortuguêsРусскийSvenska中文 
+Edit links 
+العربيةБеларускаяCatalàDeutschEspañolFrançais한국어ItalianoLietuviųPolskiPortuguêsРусскийSvenska中文 العربيةالعربيةБеларускаяБеларускаяCatalàCatalàDeutschDeutschEspañolEspañolFrançaisFrançais한국어한국어ItalianoItalianoLietuviųLietuviųPolskiPolskiPortuguêsPortuguêsРусскийРусскийSvenskaSvenska中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 31 January 2016, at 20:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 31 January 2016, at 20:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 31 January 2016, at 20:13.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

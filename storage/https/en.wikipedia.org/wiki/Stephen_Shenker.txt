@@ -1,0 +1,915 @@
+Stephen Shenker - Wikipedia, the free encyclopedia
+
+
+
+
+Stephen Shenker
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Stephen Shenker
+
+
+
+
+
+Born
+1953[1]
+
+
+Nationality
+American
+
+
+Fields
+theoretical physics
+
+
+Institutions
+Stanford University
+Rutgers University
+University of Chicago
+
+
+Alma mater
+Harvard University (B.A.)
+Cornell University (Ph.D.)
+
+
+Doctoral advisor
+John Kogut
+
+
+Doctoral students
+Zongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho Yaida
+
+
+Known for
+string theory
+phase transitions
+
+
+Notable awards
+MacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)
+
+
+Stephen Hart Shenker (born 1953) is an American theoretical physicist who works on string theory. He is a professor at Stanford University and former director of the Stanford Institute for Theoretical Physics. His brother Scott Shenker is a computer scientist. His contributions to physics include:
+
+Basic results on the phase structure of gauge theories (with Eduardo Fradkin)
+Basic results on two dimensional conformal field theory and its relation to string theory (with Daniel Friedan, Emil Martinec, Zongan Qiu, and others)
+The nonperturbative formulation of matrix models of low-dimensional string theory, the first nonperturbative definitions of string theory (with Michael R. Douglas)
+The discovery of distinctively stringy nonperturbative effects in string theory, later understood to be caused by D-branes. These effects play a major role in string dynamics
+The discovery of Matrix Theory, the first nonperturbative definition of String/M theory in a physical number of dimensions. Matrix Theory (see Matrix string theory) is an example of a gauge/gravity duality and is now understood to be a special case of the AdS/CFT correspondence (with Tom Banks, Willy Fischler and Leonard Susskind)
+The discovery of the first distinct signature of the black hole singularity in AdS/CFT (with Lukasz Fidkowski, Veronika Hubeny and Matthew Kleban)
+
+References[edit]
+
+
+^ LCCN: Shenker, Stephen Hart
+
+
+External links[edit]
+
+home page of Stephen Shenker at Stanford
+home page of Stanford Institute for Theoretical Physics
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Stephen_Shenker&oldid=705974746"					
+Categories: Living peopleAmerican physicistsAmerican academicsStanford University Department of Physics facultyString theoristsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicists1953 birthsHarvard University alumniHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+
+
+Stephen Shenker
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Stephen Shenker
+
+
+
+
+
+Born
+1953[1]
+
+
+Nationality
+American
+
+
+Fields
+theoretical physics
+
+
+Institutions
+Stanford University
+Rutgers University
+University of Chicago
+
+
+Alma mater
+Harvard University (B.A.)
+Cornell University (Ph.D.)
+
+
+Doctoral advisor
+John Kogut
+
+
+Doctoral students
+Zongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho Yaida
+
+
+Known for
+string theory
+phase transitions
+
+
+Notable awards
+MacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)
+
+
+Stephen Hart Shenker (born 1953) is an American theoretical physicist who works on string theory. He is a professor at Stanford University and former director of the Stanford Institute for Theoretical Physics. His brother Scott Shenker is a computer scientist. His contributions to physics include:
+
+Basic results on the phase structure of gauge theories (with Eduardo Fradkin)
+Basic results on two dimensional conformal field theory and its relation to string theory (with Daniel Friedan, Emil Martinec, Zongan Qiu, and others)
+The nonperturbative formulation of matrix models of low-dimensional string theory, the first nonperturbative definitions of string theory (with Michael R. Douglas)
+The discovery of distinctively stringy nonperturbative effects in string theory, later understood to be caused by D-branes. These effects play a major role in string dynamics
+The discovery of Matrix Theory, the first nonperturbative definition of String/M theory in a physical number of dimensions. Matrix Theory (see Matrix string theory) is an example of a gauge/gravity duality and is now understood to be a special case of the AdS/CFT correspondence (with Tom Banks, Willy Fischler and Leonard Susskind)
+The discovery of the first distinct signature of the black hole singularity in AdS/CFT (with Lukasz Fidkowski, Veronika Hubeny and Matthew Kleban)
+
+References[edit]
+
+
+^ LCCN: Shenker, Stephen Hart
+
+
+External links[edit]
+
+home page of Stephen Shenker at Stanford
+home page of Stanford Institute for Theoretical Physics
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Stephen_Shenker&oldid=705974746"					
+Categories: Living peopleAmerican physicistsAmerican academicsStanford University Department of Physics facultyString theoristsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicists1953 birthsHarvard University alumniHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Stephen Shenker
+
+
+
+
+
+Born
+1953[1]
+
+
+Nationality
+American
+
+
+Fields
+theoretical physics
+
+
+Institutions
+Stanford University
+Rutgers University
+University of Chicago
+
+
+Alma mater
+Harvard University (B.A.)
+Cornell University (Ph.D.)
+
+
+Doctoral advisor
+John Kogut
+
+
+Doctoral students
+Zongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho Yaida
+
+
+Known for
+string theory
+phase transitions
+
+
+Notable awards
+MacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)
+
+
+Stephen Hart Shenker (born 1953) is an American theoretical physicist who works on string theory. He is a professor at Stanford University and former director of the Stanford Institute for Theoretical Physics. His brother Scott Shenker is a computer scientist. His contributions to physics include:
+
+Basic results on the phase structure of gauge theories (with Eduardo Fradkin)
+Basic results on two dimensional conformal field theory and its relation to string theory (with Daniel Friedan, Emil Martinec, Zongan Qiu, and others)
+The nonperturbative formulation of matrix models of low-dimensional string theory, the first nonperturbative definitions of string theory (with Michael R. Douglas)
+The discovery of distinctively stringy nonperturbative effects in string theory, later understood to be caused by D-branes. These effects play a major role in string dynamics
+The discovery of Matrix Theory, the first nonperturbative definition of String/M theory in a physical number of dimensions. Matrix Theory (see Matrix string theory) is an example of a gauge/gravity duality and is now understood to be a special case of the AdS/CFT correspondence (with Tom Banks, Willy Fischler and Leonard Susskind)
+The discovery of the first distinct signature of the black hole singularity in AdS/CFT (with Lukasz Fidkowski, Veronika Hubeny and Matthew Kleban)
+
+References[edit]
+
+
+^ LCCN: Shenker, Stephen Hart
+
+
+External links[edit]
+
+home page of Stephen Shenker at Stanford
+home page of Stanford Institute for Theoretical Physics
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stephen Shenker
+
+
+
+
+
+Born
+1953[1]
+
+
+Nationality
+American
+
+
+Fields
+theoretical physics
+
+
+Institutions
+Stanford University
+Rutgers University
+University of Chicago
+
+
+Alma mater
+Harvard University (B.A.)
+Cornell University (Ph.D.)
+
+
+Doctoral advisor
+John Kogut
+
+
+Doctoral students
+Zongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho Yaida
+
+
+Known for
+string theory
+phase transitions
+
+
+Notable awards
+MacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)
+
+
+Stephen Shenker
+Stephen ShenkerStephen Shenker
+
+
+Born
+1953[1]
+Born1953[1][1][1]
+Nationality
+American
+NationalityAmericanAmerican
+Fields
+theoretical physics
+Fieldstheoretical physicstheoretical physics
+Institutions
+Stanford University
+Rutgers University
+University of Chicago
+InstitutionsStanford University
+Rutgers University
+University of ChicagoStanford UniversityRutgers UniversityUniversity of Chicago
+Alma mater
+Harvard University (B.A.)
+Cornell University (Ph.D.)
+Alma materAlma materAlma materHarvard University (B.A.)
+Cornell University (Ph.D.)Harvard UniversityCornell University
+Doctoral advisor
+John Kogut
+Doctoral advisorDoctoral advisorJohn KogutJohn Kogut
+Doctoral students
+Zongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho Yaida
+Doctoral studentsZongan Qiu
+Joanne Cohn
+Jaume Gomis
+Matthew Kleban
+Lukasz Fidkowski
+Sho YaidaZongan QiuJoanne CohnJaume GomisMatthew KlebanLukasz FidkowskiSho Yaida
+Known for
+string theory
+phase transitions
+Known forstring theory
+phase transitionsstring theoryphase transitions
+Notable awards
+MacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)
+Notable awardsMacArthur Fellowship
+American Academy of Arts and Sciences
+Lars Onsager Prize (2010)MacArthur FellowshipAmerican Academy of Arts and SciencesLars Onsager Prize(2010)Stephen Hart Shenker (born 1953) is an American theoretical physicist who works on string theory. He is a professor at Stanford University and former director of the Stanford Institute for Theoretical Physics. His brother Scott Shenker is a computer scientist. His contributions to physics include:Stephen Hart ShenkerAmericantheoretical physiciststring theoryStanford UniversityStanford Institute for Theoretical PhysicsScott Shenker
+Basic results on the phase structure of gauge theories (with Eduardo Fradkin)
+Basic results on two dimensional conformal field theory and its relation to string theory (with Daniel Friedan, Emil Martinec, Zongan Qiu, and others)
+The nonperturbative formulation of matrix models of low-dimensional string theory, the first nonperturbative definitions of string theory (with Michael R. Douglas)
+The discovery of distinctively stringy nonperturbative effects in string theory, later understood to be caused by D-branes. These effects play a major role in string dynamics
+The discovery of Matrix Theory, the first nonperturbative definition of String/M theory in a physical number of dimensions. Matrix Theory (see Matrix string theory) is an example of a gauge/gravity duality and is now understood to be a special case of the AdS/CFT correspondence (with Tom Banks, Willy Fischler and Leonard Susskind)
+The discovery of the first distinct signature of the black hole singularity in AdS/CFT (with Lukasz Fidkowski, Veronika Hubeny and Matthew Kleban)
+Basic results on the phase structure of gauge theories (with Eduardo Fradkin)Eduardo FradkinBasic results on two dimensional conformal field theory and its relation to string theory (with Daniel Friedan, Emil Martinec, Zongan Qiu, and others)Daniel FriedanEmil MartinecZongan QiuThe nonperturbative formulation of matrix models of low-dimensional string theory, the first nonperturbative definitions of string theory (with Michael R. Douglas)Michael R. DouglasThe discovery of distinctively stringy nonperturbative effects in string theory, later understood to be caused by D-branes. These effects play a major role in string dynamicsD-branesThe discovery of Matrix Theory, the first nonperturbative definition of String/M theory in a physical number of dimensions. Matrix Theory (see Matrix string theory) is an example of a gauge/gravity duality and is now understood to be a special case of the AdS/CFT correspondence (with Tom Banks, Willy Fischler and Leonard Susskind)Matrix string theorygauge/gravity dualityAdS/CFTTom BanksWilly FischlerLeonard SusskindThe discovery of the first distinct signature of the black hole singularity in AdS/CFT (with Lukasz Fidkowski, Veronika Hubeny and Matthew Kleban)AdS/CFTLukasz FidkowskiVeronika HubenyMatthew KlebanReferences[edit]References[edit][edit]
+
+^ LCCN: Shenker, Stephen Hart
+
+
+^ LCCN: Shenker, Stephen Hart
+^ LCCN: Shenker, Stephen Hart^^^LCCN: Shenker, Stephen HartLCCN: Shenker, Stephen HartExternal links[edit]External links[edit][edit]
+home page of Stephen Shenker at Stanford
+home page of Stanford Institute for Theoretical Physics
+home page of Stephen Shenker at Stanfordhome page of Stephen Shenker at Stanfordhome page of Stanford Institute for Theoretical Physicshome page ofStanford Institute for Theoretical Physics
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+
+
+WorldCat Identities
+VIAF: 135298215
+LCCN: no2010175204
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 135298215VIAF135298215135298215LCCN: no2010175204LCCNno2010175204no2010175204
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Stephen_Shenker&oldid=705974746"					https://en.wikipedia.org/w/index.php?title=Stephen_Shenker&oldid=705974746Categories: Living peopleAmerican physicistsAmerican academicsStanford University Department of Physics facultyString theoristsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicists1953 birthsHarvard University alumniHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCategories: Living peopleAmerican physicistsAmerican academicsStanford University Department of Physics facultyString theoristsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicists1953 birthsHarvard University alumniCategoriesLiving peopleAmerican physicistsAmerican academicsStanford University Department of Physics facultyString theoristsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicists1953 birthsHarvard University alumniLiving peopleLiving peopleAmerican physicistsAmerican physicistsAmerican academicsAmerican academicsStanford University Department of Physics facultyStanford University Department of Physics facultyString theoristsString theoristsMacArthur FellowsMacArthur FellowsFellows of the American Physical SocietyFellows of the American Physical SocietyTheoretical physicistsTheoretical physicists1953 births1953 birthsHarvard University alumniHarvard University alumniHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+Deutschفارسی 
+Edit links 
+Languages
+
+Deutschفارسی 
+Edit links 
+Deutschفارسی DeutschDeutschفارسیفارسیEdit linksEdit linksEdit links
+
+ This page was last modified on 20 February 2016, at 17:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 20 February 2016, at 17:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 20 February 2016, at 17:57.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

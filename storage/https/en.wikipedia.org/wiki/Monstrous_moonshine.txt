@@ -1,0 +1,2108 @@
+Monstrous moonshine - Wikipedia, the free encyclopedia
+
+
+
+
+Monstrous moonshine
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In mathematics, monstrous moonshine, or moonshine theory, is a term devised by John Conway and Simon P. Norton in 1979, used to describe the unexpected connection between the monster group M and modular functions, in particular, the j function. It is now known that lying behind monstrous moonshine is a vertex operator algebra called the moonshine module or monster vertex algebra, constructed by Igor Frenkel, James Lepowsky, and Arne Meurman in 1988, having the monster group as symmetries. This vertex operator algebra is commonly interpreted as a structure underlying a conformal field theory, allowing physics to form a bridge between two mathematical areas. The conjectures made by Conway and Norton were proved by Richard Borcherds for the moonshine module in 1992 using the no-ghost theorem from string theory and the theory of vertex operator algebras and generalized Kac–Moody algebras.
+
+
+
+Contents
+
+
+1 History
+2 The monster module
+3 Borcherds' proof
+4 Generalized moonshine
+5 Conjectured relationship with quantum gravity
+6 Mathieu moonshine
+7 Origin of the term
+8 Notes
+9 References
+10 External links
+
+
+
+History[edit]
+In 1978, John McKay found that the first few terms in the Fourier expansion of the normalized J-invariant (sequence A014708 in OEIS),
+
+
+
+with  and τ as the half-period ratio could be expressed in terms of linear combinations of the dimensions of the irreducible representations of the monster group M (sequence A001379 in OEIS) with small non-negative coefficients. Let  = 1, 196883, 21296876, 842609326, 18538750076, 19360062527, 293553734298, ... then,
+
+
+
+(Since there can be several linear relations between the rn such as , the representation can be in more than one way.) McKay viewed this as evidence that there is a naturally occurring infinite-dimensional graded representation of M, whose graded dimension is given by the coefficients of J, and whose lower-weight pieces decompose into irreducible representations as above. After he informed John G. Thompson of this observation, Thompson suggested that because the graded dimension is just the graded trace of the identity element, the graded traces of nontrivial elements g of M on such a representation may be interesting as well.
+Conway and Norton computed the lower-order terms of such graded traces, now known as McKay–Thompson series Tg, and found that all of them appeared to be the expansions of Hauptmoduln. In other words, if Gg is the subgroup of SL2(R) which fixes Tg, then the quotient of the upper half of the complex plane by Gg is a sphere with a finite number of points removed, and furthermore, Tg generates the field of meromorphic functions on this sphere.
+Based on their computations, Conway and Norton produced a list of Hauptmoduln, and conjectured the existence of an infinite dimensional graded representation of M, whose graded traces Tg are the expansions of precisely the functions on their list.
+In 1980, A. Oliver L. Atkin, Paul Fong and Stephen D. Smith, produced strong computational evidence that such a graded representation exists, by decomposing a large number of coefficients of J into representations of M. A graded representation whose graded dimension is J, called the moonshine module, was explicitly constructed by Igor Frenkel, James Lepowsky, and Arne Meurman, giving an effective solution to the McKay–Thompson conjecture, and they also determined the graded traces for all elements in the centralizer of an involution of M, partially settling the Conway–Norton conjecture. Furthermore, they showed that the vector space they constructed, called the Moonshine Module , has the additional structure of a vertex operator algebra, whose automorphism group is precisely M.
+Borcherds proved the Conway–Norton conjecture for the Moonshine Module in 1992. He won the Fields Medal in 1998 in part for his solution of the conjecture.
+The monster module[edit]
+The Frenkel–Lepowsky–Meurman construction starts with two main tools:
+
+The construction of a lattice vertex operator algebra VL for an even lattice L of rank n. In physical terms, this is the chiral algebra for a bosonic string compactified on a torus Rn/L. It can be described roughly as the tensor product of the group ring of L with the oscillator representation in n dimensions (which is itself isomorphic to a polynomial ring in countably infinitely many generators). For the case in question, one sets L to be the Leech lattice, which has rank 24.
+The orbifold construction. In physical terms, this describes a bosonic string propagating on a quotient orbifold. The construction of Frenkel–Lepowsky–Meurman was the first time orbifolds appeared in conformal field theory. Attached to the –1 involution of the Leech lattice, there is an involution h of VL, and an irreducible h-twisted VLmodule, which inherits an involution lifting h. To get the Moonshine Module, one takes the fixed point subspace of h in the direct sum of VL and its twisted module.
+
+Frenkel, Lepowsky, and Meurman then showed that the automorphism group of the moonshine module, as a vertex operator algebra, is M. Furthermore, they determined that the graded traces of elements in the subgroup 21+24.Co1 match the functions predicted by Conway and Norton (Frenkel, Lepowsky & Meurman (1988)).
+Borcherds' proof[edit]
+Richard Borcherds' proof of the conjecture of Conway and Norton can be broken into the following major steps:
+
+One begins with a vertex operator algebra V with an invariant bilinear form, an action of M by automorphisms, and with known decomposition of the homogeneous spaces of seven lowest degrees into irreducible M-representations. This was provided by Frenkel–Lepowsky–Meurman's construction and analysis of the Moonshine Module.
+A Lie algebra , called the monster Lie algebra, is constructed from V using a quantization functor. It is a generalized Kac–Moody Lie algebra with a monster action by automorphisms. Using the Goddard–Thorn "no-ghost" theorem from string theory, the root multiplicities are found to be coefficients of J.
+One uses the Koike–Norton–Zagier infinite product identity to construct a generalized Kac–Moody Lie algebra by generators and relations. The identity is proved using the fact that Hecke operators applied to J yield polynomials in J.
+By comparing root multiplicities, one finds that the two Lie algebras are isomorphic, and in particular, the Weyl denominator formula for  is precisely the Koike–Norton–Zagier identity.
+Using Lie algebra homology and Adams operations, a twisted denominator identity is given for each element. These identities are related to the McKay–Thompson series Tg in much the same way that the Koike–Norton–Zagier identity is related to J.
+The twisted denominator identities imply recursion relations on the coefficients of Tg, and unpublished work of Koike showed that Conway and Norton's candidate functions satisfied these recursion relations. These relations are strong enough that one only needs to check that the first seven terms agree with the functions given by Conway and Norton. The lowest terms are given by the decomposition of the seven lowest degree homogeneous spaces given in the first step.
+
+Thus, the proof is completed (Borcherds (1992)). Borcherds was later quoted as saying "I was over the moon when I proved the moonshine conjecture", and "I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine."[1]
+More recent work has simplified and clarified the last steps of the proof. Jurisich (Jurisich (1998), Jurisich, Lepowsky & Wilson (1995)) found that the homology computation could be substantially shortened by replacing the usual triangular decomposition of the Monster Lie algebra with a decomposition into a sum of gl2 and two free Lie algebras. Cummins and Gannon showed that the recursion relations automatically imply the McKay Thompson series are either Hauptmoduln or terminate after at most 3 terms, thus eliminating the need for computation at the last step.
+Generalized moonshine[edit]
+Conway and Norton suggested in their 1979 paper that perhaps moonshine is not limited to the monster, but that similar phenomena may be found for other groups.[2]
+
+T1A and Monster M
+T2A and Baby Monster F2
+T2B and Conway groups
+T3A and Fischer groups Fi23, Fi24
+T3C and Thompson group Th = F3
+T4A and Conway groups
+T4A and McLaughlin group McL
+T5A and Harada–Norton group HN = F5
+T6A and Fischer group Fi22
+T6B and Suzuki group Suz
+T7A and Held group He = F7
+T10A and Higman–Sims group HS
+
+In 1980, Larissa Queen and others subsequently found that one can in fact construct the expansions of many Hauptmoduln (McKay-Thompson series Tg) from simple combinations of dimensions of sporadic groups. In 1987, Norton combined Queen's results with his own computations to formulate the Generalized Moonshine conjecture. This conjecture asserts that there is a rule that assigns to each element g of the monster, a graded vector space V(g), and to each commuting pair of elements (g,h) a holomorphic function f(g,h,τ) on the upper half-plane, such that:
+
+Each V(g) is a graded projective representation of the centralizer of g in M.
+Each f(g,h,τ) is either a constant function, or a Hauptmodul.
+Each f(g,h,τ) is invariant under simultaneous conjugation of g and h in M.
+For each (g,h), there is a lift of h to a linear transformation on V(g), such that the expansion of f(g,h,τ) is given by the graded trace.
+For any ,  is proportional to .
+f(g,h,τ) is proportional to j if and only if g = h = 1.
+
+This is a generalization of the Conway–Norton conjecture, because Borcherds's theorem concerns the case where g is set to the identity. To date, this conjecture is still open.
+Like the Conway–Norton conjecture, Generalized Moonshine also has an interpretation in physics, proposed by Dixon–Ginsparg–Harvey in 1988 (Dixon, Ginsparg & Harvey (1989)). They interpreted the vector spaces V(g) as twisted sectors of a conformal field theory with monster symmetry, and interpreted the functions f(g,h,τ) as genus one partition functions, where one forms a torus by gluing along twisted boundary conditions. In mathematical language, the twisted sectors are irreducible twisted modules, and the partition functions are assigned to elliptic curves with principal monster bundles, whose isomorphism type is described by monodromy along a basis of 1-cycles, i.e., a pair of commuting elements.
+Conjectured relationship with quantum gravity[edit]
+In 2007, E. Witten suggested that AdS/CFT correspondence yields a duality between pure quantum gravity in (2+1)-dimensional anti de Sitter space and extremal holomorphic CFTs. Pure gravity in 2+1 dimensions has no local degrees of freedom, but when the cosmological constant is negative, there is nontrivial content in the theory, due to the existence of BTZ black hole solutions. Extremal CFTs, introduced by G. Höhn, are distinguished by a lack of Virasoro primary fields in low energy, and the moonshine module is one example.
+Under Witten's proposal (Witten (2007)), gravity in AdS space with maximally negative cosmological constant is AdS/CFT dual to a holomorphic CFT with central charge c=24, and the partition function of the CFT is precisely j-744, i.e., the graded character of the moonshine module. By assuming Frenkel-Lepowsky-Meurman's conjecture that moonshine module is the unique holomorphic VOA with central charge 24 and character j-744, Witten concluded that pure gravity with maximally negative cosmological constant is dual to the monster CFT. Part of Witten's proposal is that Virasoro primary fields are dual to black-hole-creating operators, and as a consistency check, he found that in the large-mass limit, the Bekenstein-Hawking semiclassical entropy estimate for a given black hole mass agrees with the logarithm of the corresponding Virasoro primary multiplicity in the moonshine module. In the low-mass regime, there is a small quantum correction to the entropy, e.g., the lowest energy primary fields yield log(196883) ~ 12.19, while the Bekenstein–Hawking estimate gives 4π ~ 12.57.
+Later work has refined Witten's proposal. Witten had speculated that the extremal CFTs with larger cosmological constant may have monster symmetry much like the minimal case, but this was quickly ruled out by independent work of Gaiotto and Höhn. Work by Witten and Maloney (Maloney & Witten (2007)) suggested that pure quantum gravity may not satisfy some consistency checks related to its partition function, unless some subtle properties of complex saddles work out favorably. However, Li–Song–Strominger (Li, Song & Strominger (2008)) have suggested that a chiral quantum gravity theory proposed by Manschot in 2007 may have better stability properties, while being dual to the chiral part of the monster CFT, i.e., the monster vertex algebra. Duncan–Frenkel (Duncan & Frenkel (2009)) produced additional evidence for this duality by using Rademacher sums to produce the McKay–Thompson series as 2+1 dimensional gravity partition functions by a regularized sum over global torus-isogeny geometries. Furthermore, they conjectured the existence of a family of twisted chiral gravity theories parametrized by elements of the monster, suggesting a connection with generalized moonshine and gravitational instanton sums. At present, all of these ideas are still rather speculative, in part because 3d quantum gravity does not have a rigorous mathematical foundation.
+Mathieu moonshine[edit]
+In 2010, Tohru Eguchi, Hirosi Ooguri, and Yuji Tachikawa observed that the elliptic genus of a K3 surface can be decomposed into characters of the N=(4,4) superconformal algebra, such that the multiplicities of massive states appear to be simple combinations of irreducible representations of the Mathieu group M24. This suggests that there is a sigma-model conformal field theory with K3 target that carries M24 symmetry. However, by the Mukai–Kondo classification, there is no faithful action of this group on any K3 surface by symplectic automorphisms, and by work of Gaberdiel–Hohenegger–Volpato, there is no faithful action on any K3 sigma-model conformal field theory, so the appearance of an action on the underlying Hilbert space is still a mystery.
+By analogy with McKay–Thompson series, Cheng suggested that both the multiplicity functions and the graded traces of nontrivial elements of M24 form mock modular forms. In 2012, Gannon proved that all but the first of the multiplicities are non-negative integral combinations of representations of M24, and Gaberdiel–Persson–Ronellenfitsch–Volpato computed all analogues of generalized moonshine functions, strongly suggesting that some analogue of a holomorphic conformal field theory lies behind Mathieu moonshine. Also in 2012, Cheng, Duncan, and Harvey amassed numerical evidence of an umbral moonshine phenomenon where families of mock modular forms appear to be attached to Niemeier lattices. The special case of the A124 lattice yields Mathieu Moonshine, but in general the phenomenon does not yet have an interpretation in terms of geometry.
+Origin of the term[edit]
+The term "monstrous moonshine" was coined by Conway, who, when told by John McKay in the late 1970s that the coefficient of  (namely 196884) was precisely one more than the degree of the smallest faithful complex representation of the monster group (namely 196883), replied that this was "moonshine" (in the sense of being a crazy or foolish idea).[3] Thus, the term not only refers to the monster group M; it also refers to the perceived craziness of the intricate relationship between M and the theory of modular functions.
+The monster group was investigated in the 1970s by mathematicians Jean-Pierre Serre, Andrew Ogg and John G. Thompson; they studied the quotient of the hyperbolic plane by subgroups of SL2(R), particularly, the normalizer Γ0(p)+ of Γ0(p) in SL(2,R). They found that the Riemann surface resulting from taking the quotient of the hyperbolic plane by Γ0(p)+ has genus zero if and only if p is 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 47, 59 or 71. When Ogg heard about the monster group later on, and noticed that these were precisely the prime factors of the size of M, he published a paper offering a bottle of Jack Daniel's whiskey to anyone who could explain this fact (Ogg (1974)).
+Notes[edit]
+
+
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .
+^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf
+^ World Wide Words: Moonshine
+
+
+References[edit]
+
+
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. 
+Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. 
+Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 
+Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. 
+Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. 
+Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. 
+Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. 
+Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).
+Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 
+Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 
+Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) 
+Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 
+Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) 
+Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 
+Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 
+Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).
+Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318
+Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).
+Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7
+Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 
+
+
+External links[edit]
+
+Moonshine Bibliography at the Wayback Machine
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Monstrous_moonshine&oldid=717008380"					
+Categories: Moonshine theoryGroup theorySporadic groupsWords coined in the 1970sHidden categories: Wikipedia articles needing copy edit from April 2016All articles needing copy editCS1 French-language sources (fr) 
+
+
+Monstrous moonshine
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In mathematics, monstrous moonshine, or moonshine theory, is a term devised by John Conway and Simon P. Norton in 1979, used to describe the unexpected connection between the monster group M and modular functions, in particular, the j function. It is now known that lying behind monstrous moonshine is a vertex operator algebra called the moonshine module or monster vertex algebra, constructed by Igor Frenkel, James Lepowsky, and Arne Meurman in 1988, having the monster group as symmetries. This vertex operator algebra is commonly interpreted as a structure underlying a conformal field theory, allowing physics to form a bridge between two mathematical areas. The conjectures made by Conway and Norton were proved by Richard Borcherds for the moonshine module in 1992 using the no-ghost theorem from string theory and the theory of vertex operator algebras and generalized Kac–Moody algebras.
+
+
+
+Contents
+
+
+1 History
+2 The monster module
+3 Borcherds' proof
+4 Generalized moonshine
+5 Conjectured relationship with quantum gravity
+6 Mathieu moonshine
+7 Origin of the term
+8 Notes
+9 References
+10 External links
+
+
+
+History[edit]
+In 1978, John McKay found that the first few terms in the Fourier expansion of the normalized J-invariant (sequence A014708 in OEIS),
+
+
+
+with  and τ as the half-period ratio could be expressed in terms of linear combinations of the dimensions of the irreducible representations of the monster group M (sequence A001379 in OEIS) with small non-negative coefficients. Let  = 1, 196883, 21296876, 842609326, 18538750076, 19360062527, 293553734298, ... then,
+
+
+
+(Since there can be several linear relations between the rn such as , the representation can be in more than one way.) McKay viewed this as evidence that there is a naturally occurring infinite-dimensional graded representation of M, whose graded dimension is given by the coefficients of J, and whose lower-weight pieces decompose into irreducible representations as above. After he informed John G. Thompson of this observation, Thompson suggested that because the graded dimension is just the graded trace of the identity element, the graded traces of nontrivial elements g of M on such a representation may be interesting as well.
+Conway and Norton computed the lower-order terms of such graded traces, now known as McKay–Thompson series Tg, and found that all of them appeared to be the expansions of Hauptmoduln. In other words, if Gg is the subgroup of SL2(R) which fixes Tg, then the quotient of the upper half of the complex plane by Gg is a sphere with a finite number of points removed, and furthermore, Tg generates the field of meromorphic functions on this sphere.
+Based on their computations, Conway and Norton produced a list of Hauptmoduln, and conjectured the existence of an infinite dimensional graded representation of M, whose graded traces Tg are the expansions of precisely the functions on their list.
+In 1980, A. Oliver L. Atkin, Paul Fong and Stephen D. Smith, produced strong computational evidence that such a graded representation exists, by decomposing a large number of coefficients of J into representations of M. A graded representation whose graded dimension is J, called the moonshine module, was explicitly constructed by Igor Frenkel, James Lepowsky, and Arne Meurman, giving an effective solution to the McKay–Thompson conjecture, and they also determined the graded traces for all elements in the centralizer of an involution of M, partially settling the Conway–Norton conjecture. Furthermore, they showed that the vector space they constructed, called the Moonshine Module , has the additional structure of a vertex operator algebra, whose automorphism group is precisely M.
+Borcherds proved the Conway–Norton conjecture for the Moonshine Module in 1992. He won the Fields Medal in 1998 in part for his solution of the conjecture.
+The monster module[edit]
+The Frenkel–Lepowsky–Meurman construction starts with two main tools:
+
+The construction of a lattice vertex operator algebra VL for an even lattice L of rank n. In physical terms, this is the chiral algebra for a bosonic string compactified on a torus Rn/L. It can be described roughly as the tensor product of the group ring of L with the oscillator representation in n dimensions (which is itself isomorphic to a polynomial ring in countably infinitely many generators). For the case in question, one sets L to be the Leech lattice, which has rank 24.
+The orbifold construction. In physical terms, this describes a bosonic string propagating on a quotient orbifold. The construction of Frenkel–Lepowsky–Meurman was the first time orbifolds appeared in conformal field theory. Attached to the –1 involution of the Leech lattice, there is an involution h of VL, and an irreducible h-twisted VLmodule, which inherits an involution lifting h. To get the Moonshine Module, one takes the fixed point subspace of h in the direct sum of VL and its twisted module.
+
+Frenkel, Lepowsky, and Meurman then showed that the automorphism group of the moonshine module, as a vertex operator algebra, is M. Furthermore, they determined that the graded traces of elements in the subgroup 21+24.Co1 match the functions predicted by Conway and Norton (Frenkel, Lepowsky & Meurman (1988)).
+Borcherds' proof[edit]
+Richard Borcherds' proof of the conjecture of Conway and Norton can be broken into the following major steps:
+
+One begins with a vertex operator algebra V with an invariant bilinear form, an action of M by automorphisms, and with known decomposition of the homogeneous spaces of seven lowest degrees into irreducible M-representations. This was provided by Frenkel–Lepowsky–Meurman's construction and analysis of the Moonshine Module.
+A Lie algebra , called the monster Lie algebra, is constructed from V using a quantization functor. It is a generalized Kac–Moody Lie algebra with a monster action by automorphisms. Using the Goddard–Thorn "no-ghost" theorem from string theory, the root multiplicities are found to be coefficients of J.
+One uses the Koike–Norton–Zagier infinite product identity to construct a generalized Kac–Moody Lie algebra by generators and relations. The identity is proved using the fact that Hecke operators applied to J yield polynomials in J.
+By comparing root multiplicities, one finds that the two Lie algebras are isomorphic, and in particular, the Weyl denominator formula for  is precisely the Koike–Norton–Zagier identity.
+Using Lie algebra homology and Adams operations, a twisted denominator identity is given for each element. These identities are related to the McKay–Thompson series Tg in much the same way that the Koike–Norton–Zagier identity is related to J.
+The twisted denominator identities imply recursion relations on the coefficients of Tg, and unpublished work of Koike showed that Conway and Norton's candidate functions satisfied these recursion relations. These relations are strong enough that one only needs to check that the first seven terms agree with the functions given by Conway and Norton. The lowest terms are given by the decomposition of the seven lowest degree homogeneous spaces given in the first step.
+
+Thus, the proof is completed (Borcherds (1992)). Borcherds was later quoted as saying "I was over the moon when I proved the moonshine conjecture", and "I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine."[1]
+More recent work has simplified and clarified the last steps of the proof. Jurisich (Jurisich (1998), Jurisich, Lepowsky & Wilson (1995)) found that the homology computation could be substantially shortened by replacing the usual triangular decomposition of the Monster Lie algebra with a decomposition into a sum of gl2 and two free Lie algebras. Cummins and Gannon showed that the recursion relations automatically imply the McKay Thompson series are either Hauptmoduln or terminate after at most 3 terms, thus eliminating the need for computation at the last step.
+Generalized moonshine[edit]
+Conway and Norton suggested in their 1979 paper that perhaps moonshine is not limited to the monster, but that similar phenomena may be found for other groups.[2]
+
+T1A and Monster M
+T2A and Baby Monster F2
+T2B and Conway groups
+T3A and Fischer groups Fi23, Fi24
+T3C and Thompson group Th = F3
+T4A and Conway groups
+T4A and McLaughlin group McL
+T5A and Harada–Norton group HN = F5
+T6A and Fischer group Fi22
+T6B and Suzuki group Suz
+T7A and Held group He = F7
+T10A and Higman–Sims group HS
+
+In 1980, Larissa Queen and others subsequently found that one can in fact construct the expansions of many Hauptmoduln (McKay-Thompson series Tg) from simple combinations of dimensions of sporadic groups. In 1987, Norton combined Queen's results with his own computations to formulate the Generalized Moonshine conjecture. This conjecture asserts that there is a rule that assigns to each element g of the monster, a graded vector space V(g), and to each commuting pair of elements (g,h) a holomorphic function f(g,h,τ) on the upper half-plane, such that:
+
+Each V(g) is a graded projective representation of the centralizer of g in M.
+Each f(g,h,τ) is either a constant function, or a Hauptmodul.
+Each f(g,h,τ) is invariant under simultaneous conjugation of g and h in M.
+For each (g,h), there is a lift of h to a linear transformation on V(g), such that the expansion of f(g,h,τ) is given by the graded trace.
+For any ,  is proportional to .
+f(g,h,τ) is proportional to j if and only if g = h = 1.
+
+This is a generalization of the Conway–Norton conjecture, because Borcherds's theorem concerns the case where g is set to the identity. To date, this conjecture is still open.
+Like the Conway–Norton conjecture, Generalized Moonshine also has an interpretation in physics, proposed by Dixon–Ginsparg–Harvey in 1988 (Dixon, Ginsparg & Harvey (1989)). They interpreted the vector spaces V(g) as twisted sectors of a conformal field theory with monster symmetry, and interpreted the functions f(g,h,τ) as genus one partition functions, where one forms a torus by gluing along twisted boundary conditions. In mathematical language, the twisted sectors are irreducible twisted modules, and the partition functions are assigned to elliptic curves with principal monster bundles, whose isomorphism type is described by monodromy along a basis of 1-cycles, i.e., a pair of commuting elements.
+Conjectured relationship with quantum gravity[edit]
+In 2007, E. Witten suggested that AdS/CFT correspondence yields a duality between pure quantum gravity in (2+1)-dimensional anti de Sitter space and extremal holomorphic CFTs. Pure gravity in 2+1 dimensions has no local degrees of freedom, but when the cosmological constant is negative, there is nontrivial content in the theory, due to the existence of BTZ black hole solutions. Extremal CFTs, introduced by G. Höhn, are distinguished by a lack of Virasoro primary fields in low energy, and the moonshine module is one example.
+Under Witten's proposal (Witten (2007)), gravity in AdS space with maximally negative cosmological constant is AdS/CFT dual to a holomorphic CFT with central charge c=24, and the partition function of the CFT is precisely j-744, i.e., the graded character of the moonshine module. By assuming Frenkel-Lepowsky-Meurman's conjecture that moonshine module is the unique holomorphic VOA with central charge 24 and character j-744, Witten concluded that pure gravity with maximally negative cosmological constant is dual to the monster CFT. Part of Witten's proposal is that Virasoro primary fields are dual to black-hole-creating operators, and as a consistency check, he found that in the large-mass limit, the Bekenstein-Hawking semiclassical entropy estimate for a given black hole mass agrees with the logarithm of the corresponding Virasoro primary multiplicity in the moonshine module. In the low-mass regime, there is a small quantum correction to the entropy, e.g., the lowest energy primary fields yield log(196883) ~ 12.19, while the Bekenstein–Hawking estimate gives 4π ~ 12.57.
+Later work has refined Witten's proposal. Witten had speculated that the extremal CFTs with larger cosmological constant may have monster symmetry much like the minimal case, but this was quickly ruled out by independent work of Gaiotto and Höhn. Work by Witten and Maloney (Maloney & Witten (2007)) suggested that pure quantum gravity may not satisfy some consistency checks related to its partition function, unless some subtle properties of complex saddles work out favorably. However, Li–Song–Strominger (Li, Song & Strominger (2008)) have suggested that a chiral quantum gravity theory proposed by Manschot in 2007 may have better stability properties, while being dual to the chiral part of the monster CFT, i.e., the monster vertex algebra. Duncan–Frenkel (Duncan & Frenkel (2009)) produced additional evidence for this duality by using Rademacher sums to produce the McKay–Thompson series as 2+1 dimensional gravity partition functions by a regularized sum over global torus-isogeny geometries. Furthermore, they conjectured the existence of a family of twisted chiral gravity theories parametrized by elements of the monster, suggesting a connection with generalized moonshine and gravitational instanton sums. At present, all of these ideas are still rather speculative, in part because 3d quantum gravity does not have a rigorous mathematical foundation.
+Mathieu moonshine[edit]
+In 2010, Tohru Eguchi, Hirosi Ooguri, and Yuji Tachikawa observed that the elliptic genus of a K3 surface can be decomposed into characters of the N=(4,4) superconformal algebra, such that the multiplicities of massive states appear to be simple combinations of irreducible representations of the Mathieu group M24. This suggests that there is a sigma-model conformal field theory with K3 target that carries M24 symmetry. However, by the Mukai–Kondo classification, there is no faithful action of this group on any K3 surface by symplectic automorphisms, and by work of Gaberdiel–Hohenegger–Volpato, there is no faithful action on any K3 sigma-model conformal field theory, so the appearance of an action on the underlying Hilbert space is still a mystery.
+By analogy with McKay–Thompson series, Cheng suggested that both the multiplicity functions and the graded traces of nontrivial elements of M24 form mock modular forms. In 2012, Gannon proved that all but the first of the multiplicities are non-negative integral combinations of representations of M24, and Gaberdiel–Persson–Ronellenfitsch–Volpato computed all analogues of generalized moonshine functions, strongly suggesting that some analogue of a holomorphic conformal field theory lies behind Mathieu moonshine. Also in 2012, Cheng, Duncan, and Harvey amassed numerical evidence of an umbral moonshine phenomenon where families of mock modular forms appear to be attached to Niemeier lattices. The special case of the A124 lattice yields Mathieu Moonshine, but in general the phenomenon does not yet have an interpretation in terms of geometry.
+Origin of the term[edit]
+The term "monstrous moonshine" was coined by Conway, who, when told by John McKay in the late 1970s that the coefficient of  (namely 196884) was precisely one more than the degree of the smallest faithful complex representation of the monster group (namely 196883), replied that this was "moonshine" (in the sense of being a crazy or foolish idea).[3] Thus, the term not only refers to the monster group M; it also refers to the perceived craziness of the intricate relationship between M and the theory of modular functions.
+The monster group was investigated in the 1970s by mathematicians Jean-Pierre Serre, Andrew Ogg and John G. Thompson; they studied the quotient of the hyperbolic plane by subgroups of SL2(R), particularly, the normalizer Γ0(p)+ of Γ0(p) in SL(2,R). They found that the Riemann surface resulting from taking the quotient of the hyperbolic plane by Γ0(p)+ has genus zero if and only if p is 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 47, 59 or 71. When Ogg heard about the monster group later on, and noticed that these were precisely the prime factors of the size of M, he published a paper offering a bottle of Jack Daniel's whiskey to anyone who could explain this fact (Ogg (1974)).
+Notes[edit]
+
+
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .
+^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf
+^ World Wide Words: Moonshine
+
+
+References[edit]
+
+
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. 
+Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. 
+Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 
+Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. 
+Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. 
+Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. 
+Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. 
+Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).
+Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 
+Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 
+Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) 
+Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 
+Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) 
+Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 
+Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 
+Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).
+Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318
+Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).
+Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7
+Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 
+
+
+External links[edit]
+
+Moonshine Bibliography at the Wayback Machine
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Monstrous_moonshine&oldid=717008380"					
+Categories: Moonshine theoryGroup theorySporadic groupsWords coined in the 1970sHidden categories: Wikipedia articles needing copy edit from April 2016All articles needing copy editCS1 French-language sources (fr) 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In mathematics, monstrous moonshine, or moonshine theory, is a term devised by John Conway and Simon P. Norton in 1979, used to describe the unexpected connection between the monster group M and modular functions, in particular, the j function. It is now known that lying behind monstrous moonshine is a vertex operator algebra called the moonshine module or monster vertex algebra, constructed by Igor Frenkel, James Lepowsky, and Arne Meurman in 1988, having the monster group as symmetries. This vertex operator algebra is commonly interpreted as a structure underlying a conformal field theory, allowing physics to form a bridge between two mathematical areas. The conjectures made by Conway and Norton were proved by Richard Borcherds for the moonshine module in 1992 using the no-ghost theorem from string theory and the theory of vertex operator algebras and generalized Kac–Moody algebras.
+
+
+
+Contents
+
+
+1 History
+2 The monster module
+3 Borcherds' proof
+4 Generalized moonshine
+5 Conjectured relationship with quantum gravity
+6 Mathieu moonshine
+7 Origin of the term
+8 Notes
+9 References
+10 External links
+
+
+
+History[edit]
+In 1978, John McKay found that the first few terms in the Fourier expansion of the normalized J-invariant (sequence A014708 in OEIS),
+
+
+
+with  and τ as the half-period ratio could be expressed in terms of linear combinations of the dimensions of the irreducible representations of the monster group M (sequence A001379 in OEIS) with small non-negative coefficients. Let  = 1, 196883, 21296876, 842609326, 18538750076, 19360062527, 293553734298, ... then,
+
+
+
+(Since there can be several linear relations between the rn such as , the representation can be in more than one way.) McKay viewed this as evidence that there is a naturally occurring infinite-dimensional graded representation of M, whose graded dimension is given by the coefficients of J, and whose lower-weight pieces decompose into irreducible representations as above. After he informed John G. Thompson of this observation, Thompson suggested that because the graded dimension is just the graded trace of the identity element, the graded traces of nontrivial elements g of M on such a representation may be interesting as well.
+Conway and Norton computed the lower-order terms of such graded traces, now known as McKay–Thompson series Tg, and found that all of them appeared to be the expansions of Hauptmoduln. In other words, if Gg is the subgroup of SL2(R) which fixes Tg, then the quotient of the upper half of the complex plane by Gg is a sphere with a finite number of points removed, and furthermore, Tg generates the field of meromorphic functions on this sphere.
+Based on their computations, Conway and Norton produced a list of Hauptmoduln, and conjectured the existence of an infinite dimensional graded representation of M, whose graded traces Tg are the expansions of precisely the functions on their list.
+In 1980, A. Oliver L. Atkin, Paul Fong and Stephen D. Smith, produced strong computational evidence that such a graded representation exists, by decomposing a large number of coefficients of J into representations of M. A graded representation whose graded dimension is J, called the moonshine module, was explicitly constructed by Igor Frenkel, James Lepowsky, and Arne Meurman, giving an effective solution to the McKay–Thompson conjecture, and they also determined the graded traces for all elements in the centralizer of an involution of M, partially settling the Conway–Norton conjecture. Furthermore, they showed that the vector space they constructed, called the Moonshine Module , has the additional structure of a vertex operator algebra, whose automorphism group is precisely M.
+Borcherds proved the Conway–Norton conjecture for the Moonshine Module in 1992. He won the Fields Medal in 1998 in part for his solution of the conjecture.
+The monster module[edit]
+The Frenkel–Lepowsky–Meurman construction starts with two main tools:
+
+The construction of a lattice vertex operator algebra VL for an even lattice L of rank n. In physical terms, this is the chiral algebra for a bosonic string compactified on a torus Rn/L. It can be described roughly as the tensor product of the group ring of L with the oscillator representation in n dimensions (which is itself isomorphic to a polynomial ring in countably infinitely many generators). For the case in question, one sets L to be the Leech lattice, which has rank 24.
+The orbifold construction. In physical terms, this describes a bosonic string propagating on a quotient orbifold. The construction of Frenkel–Lepowsky–Meurman was the first time orbifolds appeared in conformal field theory. Attached to the –1 involution of the Leech lattice, there is an involution h of VL, and an irreducible h-twisted VLmodule, which inherits an involution lifting h. To get the Moonshine Module, one takes the fixed point subspace of h in the direct sum of VL and its twisted module.
+
+Frenkel, Lepowsky, and Meurman then showed that the automorphism group of the moonshine module, as a vertex operator algebra, is M. Furthermore, they determined that the graded traces of elements in the subgroup 21+24.Co1 match the functions predicted by Conway and Norton (Frenkel, Lepowsky & Meurman (1988)).
+Borcherds' proof[edit]
+Richard Borcherds' proof of the conjecture of Conway and Norton can be broken into the following major steps:
+
+One begins with a vertex operator algebra V with an invariant bilinear form, an action of M by automorphisms, and with known decomposition of the homogeneous spaces of seven lowest degrees into irreducible M-representations. This was provided by Frenkel–Lepowsky–Meurman's construction and analysis of the Moonshine Module.
+A Lie algebra , called the monster Lie algebra, is constructed from V using a quantization functor. It is a generalized Kac–Moody Lie algebra with a monster action by automorphisms. Using the Goddard–Thorn "no-ghost" theorem from string theory, the root multiplicities are found to be coefficients of J.
+One uses the Koike–Norton–Zagier infinite product identity to construct a generalized Kac–Moody Lie algebra by generators and relations. The identity is proved using the fact that Hecke operators applied to J yield polynomials in J.
+By comparing root multiplicities, one finds that the two Lie algebras are isomorphic, and in particular, the Weyl denominator formula for  is precisely the Koike–Norton–Zagier identity.
+Using Lie algebra homology and Adams operations, a twisted denominator identity is given for each element. These identities are related to the McKay–Thompson series Tg in much the same way that the Koike–Norton–Zagier identity is related to J.
+The twisted denominator identities imply recursion relations on the coefficients of Tg, and unpublished work of Koike showed that Conway and Norton's candidate functions satisfied these recursion relations. These relations are strong enough that one only needs to check that the first seven terms agree with the functions given by Conway and Norton. The lowest terms are given by the decomposition of the seven lowest degree homogeneous spaces given in the first step.
+
+Thus, the proof is completed (Borcherds (1992)). Borcherds was later quoted as saying "I was over the moon when I proved the moonshine conjecture", and "I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine."[1]
+More recent work has simplified and clarified the last steps of the proof. Jurisich (Jurisich (1998), Jurisich, Lepowsky & Wilson (1995)) found that the homology computation could be substantially shortened by replacing the usual triangular decomposition of the Monster Lie algebra with a decomposition into a sum of gl2 and two free Lie algebras. Cummins and Gannon showed that the recursion relations automatically imply the McKay Thompson series are either Hauptmoduln or terminate after at most 3 terms, thus eliminating the need for computation at the last step.
+Generalized moonshine[edit]
+Conway and Norton suggested in their 1979 paper that perhaps moonshine is not limited to the monster, but that similar phenomena may be found for other groups.[2]
+
+T1A and Monster M
+T2A and Baby Monster F2
+T2B and Conway groups
+T3A and Fischer groups Fi23, Fi24
+T3C and Thompson group Th = F3
+T4A and Conway groups
+T4A and McLaughlin group McL
+T5A and Harada–Norton group HN = F5
+T6A and Fischer group Fi22
+T6B and Suzuki group Suz
+T7A and Held group He = F7
+T10A and Higman–Sims group HS
+
+In 1980, Larissa Queen and others subsequently found that one can in fact construct the expansions of many Hauptmoduln (McKay-Thompson series Tg) from simple combinations of dimensions of sporadic groups. In 1987, Norton combined Queen's results with his own computations to formulate the Generalized Moonshine conjecture. This conjecture asserts that there is a rule that assigns to each element g of the monster, a graded vector space V(g), and to each commuting pair of elements (g,h) a holomorphic function f(g,h,τ) on the upper half-plane, such that:
+
+Each V(g) is a graded projective representation of the centralizer of g in M.
+Each f(g,h,τ) is either a constant function, or a Hauptmodul.
+Each f(g,h,τ) is invariant under simultaneous conjugation of g and h in M.
+For each (g,h), there is a lift of h to a linear transformation on V(g), such that the expansion of f(g,h,τ) is given by the graded trace.
+For any ,  is proportional to .
+f(g,h,τ) is proportional to j if and only if g = h = 1.
+
+This is a generalization of the Conway–Norton conjecture, because Borcherds's theorem concerns the case where g is set to the identity. To date, this conjecture is still open.
+Like the Conway–Norton conjecture, Generalized Moonshine also has an interpretation in physics, proposed by Dixon–Ginsparg–Harvey in 1988 (Dixon, Ginsparg & Harvey (1989)). They interpreted the vector spaces V(g) as twisted sectors of a conformal field theory with monster symmetry, and interpreted the functions f(g,h,τ) as genus one partition functions, where one forms a torus by gluing along twisted boundary conditions. In mathematical language, the twisted sectors are irreducible twisted modules, and the partition functions are assigned to elliptic curves with principal monster bundles, whose isomorphism type is described by monodromy along a basis of 1-cycles, i.e., a pair of commuting elements.
+Conjectured relationship with quantum gravity[edit]
+In 2007, E. Witten suggested that AdS/CFT correspondence yields a duality between pure quantum gravity in (2+1)-dimensional anti de Sitter space and extremal holomorphic CFTs. Pure gravity in 2+1 dimensions has no local degrees of freedom, but when the cosmological constant is negative, there is nontrivial content in the theory, due to the existence of BTZ black hole solutions. Extremal CFTs, introduced by G. Höhn, are distinguished by a lack of Virasoro primary fields in low energy, and the moonshine module is one example.
+Under Witten's proposal (Witten (2007)), gravity in AdS space with maximally negative cosmological constant is AdS/CFT dual to a holomorphic CFT with central charge c=24, and the partition function of the CFT is precisely j-744, i.e., the graded character of the moonshine module. By assuming Frenkel-Lepowsky-Meurman's conjecture that moonshine module is the unique holomorphic VOA with central charge 24 and character j-744, Witten concluded that pure gravity with maximally negative cosmological constant is dual to the monster CFT. Part of Witten's proposal is that Virasoro primary fields are dual to black-hole-creating operators, and as a consistency check, he found that in the large-mass limit, the Bekenstein-Hawking semiclassical entropy estimate for a given black hole mass agrees with the logarithm of the corresponding Virasoro primary multiplicity in the moonshine module. In the low-mass regime, there is a small quantum correction to the entropy, e.g., the lowest energy primary fields yield log(196883) ~ 12.19, while the Bekenstein–Hawking estimate gives 4π ~ 12.57.
+Later work has refined Witten's proposal. Witten had speculated that the extremal CFTs with larger cosmological constant may have monster symmetry much like the minimal case, but this was quickly ruled out by independent work of Gaiotto and Höhn. Work by Witten and Maloney (Maloney & Witten (2007)) suggested that pure quantum gravity may not satisfy some consistency checks related to its partition function, unless some subtle properties of complex saddles work out favorably. However, Li–Song–Strominger (Li, Song & Strominger (2008)) have suggested that a chiral quantum gravity theory proposed by Manschot in 2007 may have better stability properties, while being dual to the chiral part of the monster CFT, i.e., the monster vertex algebra. Duncan–Frenkel (Duncan & Frenkel (2009)) produced additional evidence for this duality by using Rademacher sums to produce the McKay–Thompson series as 2+1 dimensional gravity partition functions by a regularized sum over global torus-isogeny geometries. Furthermore, they conjectured the existence of a family of twisted chiral gravity theories parametrized by elements of the monster, suggesting a connection with generalized moonshine and gravitational instanton sums. At present, all of these ideas are still rather speculative, in part because 3d quantum gravity does not have a rigorous mathematical foundation.
+Mathieu moonshine[edit]
+In 2010, Tohru Eguchi, Hirosi Ooguri, and Yuji Tachikawa observed that the elliptic genus of a K3 surface can be decomposed into characters of the N=(4,4) superconformal algebra, such that the multiplicities of massive states appear to be simple combinations of irreducible representations of the Mathieu group M24. This suggests that there is a sigma-model conformal field theory with K3 target that carries M24 symmetry. However, by the Mukai–Kondo classification, there is no faithful action of this group on any K3 surface by symplectic automorphisms, and by work of Gaberdiel–Hohenegger–Volpato, there is no faithful action on any K3 sigma-model conformal field theory, so the appearance of an action on the underlying Hilbert space is still a mystery.
+By analogy with McKay–Thompson series, Cheng suggested that both the multiplicity functions and the graded traces of nontrivial elements of M24 form mock modular forms. In 2012, Gannon proved that all but the first of the multiplicities are non-negative integral combinations of representations of M24, and Gaberdiel–Persson–Ronellenfitsch–Volpato computed all analogues of generalized moonshine functions, strongly suggesting that some analogue of a holomorphic conformal field theory lies behind Mathieu moonshine. Also in 2012, Cheng, Duncan, and Harvey amassed numerical evidence of an umbral moonshine phenomenon where families of mock modular forms appear to be attached to Niemeier lattices. The special case of the A124 lattice yields Mathieu Moonshine, but in general the phenomenon does not yet have an interpretation in terms of geometry.
+Origin of the term[edit]
+The term "monstrous moonshine" was coined by Conway, who, when told by John McKay in the late 1970s that the coefficient of  (namely 196884) was precisely one more than the degree of the smallest faithful complex representation of the monster group (namely 196883), replied that this was "moonshine" (in the sense of being a crazy or foolish idea).[3] Thus, the term not only refers to the monster group M; it also refers to the perceived craziness of the intricate relationship between M and the theory of modular functions.
+The monster group was investigated in the 1970s by mathematicians Jean-Pierre Serre, Andrew Ogg and John G. Thompson; they studied the quotient of the hyperbolic plane by subgroups of SL2(R), particularly, the normalizer Γ0(p)+ of Γ0(p) in SL(2,R). They found that the Riemann surface resulting from taking the quotient of the hyperbolic plane by Γ0(p)+ has genus zero if and only if p is 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 47, 59 or 71. When Ogg heard about the monster group later on, and noticed that these were precisely the prime factors of the size of M, he published a paper offering a bottle of Jack Daniel's whiskey to anyone who could explain this fact (Ogg (1974)).
+Notes[edit]
+
+
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .
+^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf
+^ World Wide Words: Moonshine
+
+
+References[edit]
+
+
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. 
+Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. 
+Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 
+Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. 
+Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. 
+Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. 
+Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. 
+Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).
+Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 
+Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 
+Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) 
+Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 
+Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) 
+Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 
+Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 
+Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).
+Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318
+Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).
+Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7
+Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 
+
+
+External links[edit]
+
+Moonshine Bibliography at the Wayback Machine
+
+
+
+
+
+
+
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)
+
+
+
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)
+
+
+This article may require copy editing for a general audience. You can assist by editing it. (April 2016)This article may require copy editing for a general audience. You can assist by editing it. (April 2016)may require copy editing for a general audiencecopy editinga general audienceYou can assist by editing it.editing it(April 2016)(April 2016)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn mathematics, monstrous moonshine, or moonshine theory, is a term devised by John Conway and Simon P. Norton in 1979, used to describe the unexpected connection between the monster group M and modular functions, in particular, the j function. It is now known that lying behind monstrous moonshine is a vertex operator algebra called the moonshine module or monster vertex algebra, constructed by Igor Frenkel, James Lepowsky, and Arne Meurman in 1988, having the monster group as symmetries. This vertex operator algebra is commonly interpreted as a structure underlying a conformal field theory, allowing physics to form a bridge between two mathematical areas. The conjectures made by Conway and Norton were proved by Richard Borcherds for the moonshine module in 1992 using the no-ghost theorem from string theory and the theory of vertex operator algebras and generalized Kac–Moody algebras.mathematicsmonstrous moonshinemonstrous moonshinemoonshine theorymoonshine theoryJohn ConwaySimon P. Nortonmonster groupMmodular functionsj functionjvertex operator algebramoonshine modulemoonshine modulemonster vertex algebramonster vertex algebraIgor FrenkelJames LepowskyArne Meurmansymmetriesconformal field theoryRichard Borcherdsno-ghost theoremstring theoryvertex operator algebrasgeneralized Kac–Moody algebras
+
+Contents
+
+
+1 History
+2 The monster module
+3 Borcherds' proof
+4 Generalized moonshine
+5 Conjectured relationship with quantum gravity
+6 Mathieu moonshine
+7 Origin of the term
+8 Notes
+9 References
+10 External links
+
+
+Contents
+Contents
+1 History
+2 The monster module
+3 Borcherds' proof
+4 Generalized moonshine
+5 Conjectured relationship with quantum gravity
+6 Mathieu moonshine
+7 Origin of the term
+8 Notes
+9 References
+10 External links
+1 History1 History1History2 The monster module2 The monster module2The monster module3 Borcherds' proof3 Borcherds' proof3Borcherds' proof4 Generalized moonshine4 Generalized moonshine4Generalized moonshineGeneralized moonshine5 Conjectured relationship with quantum gravity5 Conjectured relationship with quantum gravity5Conjectured relationship with quantum gravity6 Mathieu moonshine6 Mathieu moonshine6Mathieu moonshine7 Origin of the term7 Origin of the term7Origin of the term8 Notes8 Notes8Notes9 References9 References9References10 External links10 External links10External linksHistory[edit]History[edit][edit]In 1978, John McKay found that the first few terms in the Fourier expansion of the normalized J-invariant (sequence A014708 in OEIS),John McKayFourier expansionJ-invariantA014708A014708OEIS
+
+with  and τ as the half-period ratio could be expressed in terms of linear combinations of the dimensions of the irreducible representations of the monster group M (sequence A001379 in OEIS) with small non-negative coefficients. Let  = 1, 196883, 21296876, 842609326, 18538750076, 19360062527, 293553734298, ... then,τhalf-period ratiolinear combinationsdimensionsirreducible representationsMA001379A001379OEIS
+
+(Since there can be several linear relations between the rn such as , the representation can be in more than one way.) McKay viewed this as evidence that there is a naturally occurring infinite-dimensional graded representation of M, whose graded dimension is given by the coefficients of J, and whose lower-weight pieces decompose into irreducible representations as above. After he informed John G. Thompson of this observation, Thompson suggested that because the graded dimension is just the graded trace of the identity element, the graded traces of nontrivial elements g of M on such a representation may be interesting as well.rngraded representationMgraded dimensionJJohn G. Thompsontraceidentity elementgMConway and Norton computed the lower-order terms of such graded traces, now known as McKay–Thompson series Tg, and found that all of them appeared to be the expansions of Hauptmoduln. In other words, if Gg is the subgroup of SL2(R) which fixes Tg, then the quotient of the upper half of the complex plane by Gg is a sphere with a finite number of points removed, and furthermore, Tg generates the field of meromorphic functions on this sphere.McKay–Thompson seriesTggHauptmodulnGggSL2(R)2RTggquotientupper halfcomplex planeGggsphereTggfieldmeromorphic functionsBased on their computations, Conway and Norton produced a list of Hauptmoduln, and conjectured the existence of an infinite dimensional graded representation of M, whose graded traces Tg are the expansions of precisely the functions on their list.MTggexpansionsIn 1980, A. Oliver L. Atkin, Paul Fong and Stephen D. Smith, produced strong computational evidence that such a graded representation exists, by decomposing a large number of coefficients of J into representations of M. A graded representation whose graded dimension is J, called the moonshine module, was explicitly constructed by Igor Frenkel, James Lepowsky, and Arne Meurman, giving an effective solution to the McKay–Thompson conjecture, and they also determined the graded traces for all elements in the centralizer of an involution of M, partially settling the Conway–Norton conjecture. Furthermore, they showed that the vector space they constructed, called the Moonshine Module , has the additional structure of a vertex operator algebra, whose automorphism group is precisely M.A. Oliver L. AtkinJMJIgor FrenkelJames LepowskyArne MeurmanMvector spacevertex operator algebraautomorphism groupMBorcherds proved the Conway–Norton conjecture for the Moonshine Module in 1992. He won the Fields Medal in 1998 in part for his solution of the conjecture.Fields MedalThe monster module[edit]The monster module[edit][edit]The Frenkel–Lepowsky–Meurman construction starts with two main tools:
+The construction of a lattice vertex operator algebra VL for an even lattice L of rank n. In physical terms, this is the chiral algebra for a bosonic string compactified on a torus Rn/L. It can be described roughly as the tensor product of the group ring of L with the oscillator representation in n dimensions (which is itself isomorphic to a polynomial ring in countably infinitely many generators). For the case in question, one sets L to be the Leech lattice, which has rank 24.
+The orbifold construction. In physical terms, this describes a bosonic string propagating on a quotient orbifold. The construction of Frenkel–Lepowsky–Meurman was the first time orbifolds appeared in conformal field theory. Attached to the –1 involution of the Leech lattice, there is an involution h of VL, and an irreducible h-twisted VLmodule, which inherits an involution lifting h. To get the Moonshine Module, one takes the fixed point subspace of h in the direct sum of VL and its twisted module.
+The construction of a lattice vertex operator algebra VL for an even lattice L of rank n. In physical terms, this is the chiral algebra for a bosonic string compactified on a torus Rn/L. It can be described roughly as the tensor product of the group ring of L with the oscillator representation in n dimensions (which is itself isomorphic to a polynomial ring in countably infinitely many generators). For the case in question, one sets L to be the Leech lattice, which has rank 24.VLLlatticeLnchiral algebrabosonic stringcompactifiedtorusRnnLtensor productgroup ringLnpolynomial ringcountably infinitelygeneratorsLLeech latticeThe orbifold construction. In physical terms, this describes a bosonic string propagating on a quotient orbifold. The construction of Frenkel–Lepowsky–Meurman was the first time orbifolds appeared in conformal field theory. Attached to the –1 involution of the Leech lattice, there is an involution h of VL, and an irreducible h-twisted VLmodule, which inherits an involution lifting h. To get the Moonshine Module, one takes the fixed point subspace of h in the direct sum of VL and its twisted module.orbifoldquotient orbifoldconformal field theory–1 involutionLeech latticehVLLhtwistedVLLhfixed point subspacehVLLtwisted moduleFrenkel, Lepowsky, and Meurman then showed that the automorphism group of the moonshine module, as a vertex operator algebra, is M. Furthermore, they determined that the graded traces of elements in the subgroup 21+24.Co1 match the functions predicted by Conway and Norton (Frenkel, Lepowsky & Meurman (1988)).M1+24Co1Frenkel, Lepowsky & Meurman (1988)Borcherds' proof[edit]Borcherds' proof[edit][edit]Richard Borcherds' proof of the conjecture of Conway and Norton can be broken into the following major steps:Richard Borcherds
+One begins with a vertex operator algebra V with an invariant bilinear form, an action of M by automorphisms, and with known decomposition of the homogeneous spaces of seven lowest degrees into irreducible M-representations. This was provided by Frenkel–Lepowsky–Meurman's construction and analysis of the Moonshine Module.
+A Lie algebra , called the monster Lie algebra, is constructed from V using a quantization functor. It is a generalized Kac–Moody Lie algebra with a monster action by automorphisms. Using the Goddard–Thorn "no-ghost" theorem from string theory, the root multiplicities are found to be coefficients of J.
+One uses the Koike–Norton–Zagier infinite product identity to construct a generalized Kac–Moody Lie algebra by generators and relations. The identity is proved using the fact that Hecke operators applied to J yield polynomials in J.
+By comparing root multiplicities, one finds that the two Lie algebras are isomorphic, and in particular, the Weyl denominator formula for  is precisely the Koike–Norton–Zagier identity.
+Using Lie algebra homology and Adams operations, a twisted denominator identity is given for each element. These identities are related to the McKay–Thompson series Tg in much the same way that the Koike–Norton–Zagier identity is related to J.
+The twisted denominator identities imply recursion relations on the coefficients of Tg, and unpublished work of Koike showed that Conway and Norton's candidate functions satisfied these recursion relations. These relations are strong enough that one only needs to check that the first seven terms agree with the functions given by Conway and Norton. The lowest terms are given by the decomposition of the seven lowest degree homogeneous spaces given in the first step.
+One begins with a vertex operator algebra V with an invariant bilinear form, an action of M by automorphisms, and with known decomposition of the homogeneous spaces of seven lowest degrees into irreducible M-representations. This was provided by Frenkel–Lepowsky–Meurman's construction and analysis of the Moonshine Module.VMMA Lie algebra , called the monster Lie algebra, is constructed from V using a quantization functor. It is a generalized Kac–Moody Lie algebra with a monster action by automorphisms. Using the Goddard–Thorn "no-ghost" theorem from string theory, the root multiplicities are found to be coefficients of J.Lie algebramonster Lie algebraVgeneralized Kac–Moody Lie algebraGoddard–Thorn "no-ghost" theoremstring theoryJOne uses the Koike–Norton–Zagier infinite product identity to construct a generalized Kac–Moody Lie algebra by generators and relations. The identity is proved using the fact that Hecke operators applied to J yield polynomials in J.Hecke operatorsJJBy comparing root multiplicities, one finds that the two Lie algebras are isomorphic, and in particular, the Weyl denominator formula for  is precisely the Koike–Norton–Zagier identity.Weyl denominator formulaUsing Lie algebra homology and Adams operations, a twisted denominator identity is given for each element. These identities are related to the McKay–Thompson series Tg in much the same way that the Koike–Norton–Zagier identity is related to J.Lie algebra homologyAdams operationsTgJThe twisted denominator identities imply recursion relations on the coefficients of Tg, and unpublished work of Koike showed that Conway and Norton's candidate functions satisfied these recursion relations. These relations are strong enough that one only needs to check that the first seven terms agree with the functions given by Conway and Norton. The lowest terms are given by the decomposition of the seven lowest degree homogeneous spaces given in the first step.TgThus, the proof is completed (Borcherds (1992)). Borcherds was later quoted as saying "I was over the moon when I proved the moonshine conjecture", and "I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine."[1]Borcherds (1992)I was over the moon when I proved the moonshine conjectureI sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.[1][1]More recent work has simplified and clarified the last steps of the proof. Jurisich (Jurisich (1998), Jurisich, Lepowsky & Wilson (1995)) found that the homology computation could be substantially shortened by replacing the usual triangular decomposition of the Monster Lie algebra with a decomposition into a sum of gl2 and two free Lie algebras. Cummins and Gannon showed that the recursion relations automatically imply the McKay Thompson series are either Hauptmoduln or terminate after at most 3 terms, thus eliminating the need for computation at the last step.Jurisich (1998)Jurisich, Lepowsky & Wilson (1995)gl2Generalized moonshine[edit]Generalized moonshineGeneralized moonshine[edit][edit]Conway and Norton suggested in their 1979 paper that perhaps moonshine is not limited to the monster, but that similar phenomena may be found for other groups.[2][2][2]
+T1A and Monster M
+T2A and Baby Monster F2
+T2B and Conway groups
+T3A and Fischer groups Fi23, Fi24
+T3C and Thompson group Th = F3
+T4A and Conway groups
+T4A and McLaughlin group McL
+T5A and Harada–Norton group HN = F5
+T6A and Fischer group Fi22
+T6B and Suzuki group Suz
+T7A and Held group He = F7
+T10A and Higman–Sims group HS
+T1A and Monster M1AMonsterMT2A and Baby Monster F22ABaby MonsterF2T2B and Conway groups2BConway groupsT3A and Fischer groups Fi23, Fi243AFischer groupsFi23Fi24T3C and Thompson group Th = F33CThompson groupTh = F3T4A and Conway groups4AConway groupsT4A and McLaughlin group McL4AMcLaughlin groupMcLT5A and Harada–Norton group HN = F55AHarada–Norton groupHN = F5T6A and Fischer group Fi226AFischer groupFi22T6B and Suzuki group Suz6BSuzuki groupSuzT7A and Held group He = F77AHeld groupHe = F7T10A and Higman–Sims group HS10AHigman–Sims groupHSIn 1980, Larissa Queen and others subsequently found that one can in fact construct the expansions of many Hauptmoduln (McKay-Thompson series Tg) from simple combinations of dimensions of sporadic groups. In 1987, Norton combined Queen's results with his own computations to formulate the Generalized Moonshine conjecture. This conjecture asserts that there is a rule that assigns to each element g of the monster, a graded vector space V(g), and to each commuting pair of elements (g,h) a holomorphic function f(g,h,τ) on the upper half-plane, such that:gsporadic groupsgVgghholomorphic functionfghupper half-plane
+Each V(g) is a graded projective representation of the centralizer of g in M.
+Each f(g,h,τ) is either a constant function, or a Hauptmodul.
+Each f(g,h,τ) is invariant under simultaneous conjugation of g and h in M.
+For each (g,h), there is a lift of h to a linear transformation on V(g), such that the expansion of f(g,h,τ) is given by the graded trace.
+For any ,  is proportional to .
+f(g,h,τ) is proportional to j if and only if g = h = 1.
+Each V(g) is a graded projective representation of the centralizer of g in M.VgcentralizergMEach f(g,h,τ) is either a constant function, or a Hauptmodul.fghEach f(g,h,τ) is invariant under simultaneous conjugation of g and h in M.fghconjugationghMFor each (g,h), there is a lift of h to a linear transformation on V(g), such that the expansion of f(g,h,τ) is given by the graded trace.ghhlinear transformationVgfghFor any ,  is proportional to .f(g,h,τ) is proportional to j if and only if g = h = 1.fghjghThis is a generalization of the Conway–Norton conjecture, because Borcherds's theorem concerns the case where g is set to the identity. To date, this conjecture is still open.gLike the Conway–Norton conjecture, Generalized Moonshine also has an interpretation in physics, proposed by Dixon–Ginsparg–Harvey in 1988 (Dixon, Ginsparg & Harvey (1989)). They interpreted the vector spaces V(g) as twisted sectors of a conformal field theory with monster symmetry, and interpreted the functions f(g,h,τ) as genus one partition functions, where one forms a torus by gluing along twisted boundary conditions. In mathematical language, the twisted sectors are irreducible twisted modules, and the partition functions are assigned to elliptic curves with principal monster bundles, whose isomorphism type is described by monodromy along a basis of 1-cycles, i.e., a pair of commuting elements.Dixon, Ginsparg & Harvey (1989)Vgfghgenuspartition functionsmonodromybasis1-cyclesConjectured relationship with quantum gravity[edit]Conjectured relationship with quantum gravity[edit][edit]In 2007, E. Witten suggested that AdS/CFT correspondence yields a duality between pure quantum gravity in (2+1)-dimensional anti de Sitter space and extremal holomorphic CFTs. Pure gravity in 2+1 dimensions has no local degrees of freedom, but when the cosmological constant is negative, there is nontrivial content in the theory, due to the existence of BTZ black hole solutions. Extremal CFTs, introduced by G. Höhn, are distinguished by a lack of Virasoro primary fields in low energy, and the moonshine module is one example.E. WittenAdS/CFT correspondenceanti de Sitter spaceBTZ black holeUnder Witten's proposal (Witten (2007)), gravity in AdS space with maximally negative cosmological constant is AdS/CFT dual to a holomorphic CFT with central charge c=24, and the partition function of the CFT is precisely j-744, i.e., the graded character of the moonshine module. By assuming Frenkel-Lepowsky-Meurman's conjecture that moonshine module is the unique holomorphic VOA with central charge 24 and character j-744, Witten concluded that pure gravity with maximally negative cosmological constant is dual to the monster CFT. Part of Witten's proposal is that Virasoro primary fields are dual to black-hole-creating operators, and as a consistency check, he found that in the large-mass limit, the Bekenstein-Hawking semiclassical entropy estimate for a given black hole mass agrees with the logarithm of the corresponding Virasoro primary multiplicity in the moonshine module. In the low-mass regime, there is a small quantum correction to the entropy, e.g., the lowest energy primary fields yield log(196883) ~ 12.19, while the Bekenstein–Hawking estimate gives 4π ~ 12.57.Witten (2007)c=24j-744j-744Bekenstein-HawkingLater work has refined Witten's proposal. Witten had speculated that the extremal CFTs with larger cosmological constant may have monster symmetry much like the minimal case, but this was quickly ruled out by independent work of Gaiotto and Höhn. Work by Witten and Maloney (Maloney & Witten (2007)) suggested that pure quantum gravity may not satisfy some consistency checks related to its partition function, unless some subtle properties of complex saddles work out favorably. However, Li–Song–Strominger (Li, Song & Strominger (2008)) have suggested that a chiral quantum gravity theory proposed by Manschot in 2007 may have better stability properties, while being dual to the chiral part of the monster CFT, i.e., the monster vertex algebra. Duncan–Frenkel (Duncan & Frenkel (2009)) produced additional evidence for this duality by using Rademacher sums to produce the McKay–Thompson series as 2+1 dimensional gravity partition functions by a regularized sum over global torus-isogeny geometries. Furthermore, they conjectured the existence of a family of twisted chiral gravity theories parametrized by elements of the monster, suggesting a connection with generalized moonshine and gravitational instanton sums. At present, all of these ideas are still rather speculative, in part because 3d quantum gravity does not have a rigorous mathematical foundation.Maloney & Witten (2007)Li, Song & Strominger (2008)Duncan & Frenkel (2009)Rademacher sumsMathieu moonshine[edit]Mathieu moonshine[edit][edit]In 2010, Tohru Eguchi, Hirosi Ooguri, and Yuji Tachikawa observed that the elliptic genus of a K3 surface can be decomposed into characters of the N=(4,4) superconformal algebra, such that the multiplicities of massive states appear to be simple combinations of irreducible representations of the Mathieu group M24. This suggests that there is a sigma-model conformal field theory with K3 target that carries M24 symmetry. However, by the Mukai–Kondo classification, there is no faithful action of this group on any K3 surface by symplectic automorphisms, and by work of Gaberdiel–Hohenegger–Volpato, there is no faithful action on any K3 sigma-model conformal field theory, so the appearance of an action on the underlying Hilbert space is still a mystery.K3 surfaceNsuperconformal algebramassive statesMathieu group M24conformal field theoryfaithful actionsymplectic automorphismsHilbert spaceBy analogy with McKay–Thompson series, Cheng suggested that both the multiplicity functions and the graded traces of nontrivial elements of M24 form mock modular forms. In 2012, Gannon proved that all but the first of the multiplicities are non-negative integral combinations of representations of M24, and Gaberdiel–Persson–Ronellenfitsch–Volpato computed all analogues of generalized moonshine functions, strongly suggesting that some analogue of a holomorphic conformal field theory lies behind Mathieu moonshine. Also in 2012, Cheng, Duncan, and Harvey amassed numerical evidence of an umbral moonshine phenomenon where families of mock modular forms appear to be attached to Niemeier lattices. The special case of the A124 lattice yields Mathieu Moonshine, but in general the phenomenon does not yet have an interpretation in terms of geometry.multiplicity functionsmock modular formsintegral combinationsHarveyumbral moonshineA124Origin of the term[edit]Origin of the term[edit][edit]The term "monstrous moonshine" was coined by Conway, who, when told by John McKay in the late 1970s that the coefficient of  (namely 196884) was precisely one more than the degree of the smallest faithful complex representation of the monster group (namely 196883), replied that this was "moonshine" (in the sense of being a crazy or foolish idea).[3] Thus, the term not only refers to the monster group M; it also refers to the perceived craziness of the intricate relationship between M and the theory of modular functions.John McKaymoonshine[3][3]MMThe monster group was investigated in the 1970s by mathematicians Jean-Pierre Serre, Andrew Ogg and John G. Thompson; they studied the quotient of the hyperbolic plane by subgroups of SL2(R), particularly, the normalizer Γ0(p)+ of Γ0(p) in SL(2,R). They found that the Riemann surface resulting from taking the quotient of the hyperbolic plane by Γ0(p)+ has genus zero if and only if p is 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 41, 47, 59 or 71. When Ogg heard about the monster group later on, and noticed that these were precisely the prime factors of the size of M, he published a paper offering a bottle of Jack Daniel's whiskey to anyone who could explain this fact (Ogg (1974)).mathematiciansJean-Pierre SerreAndrew OggJohn G. Thompsonquotienthyperbolic planesubgroups2Rnormalizer0p+Γ00pRRiemann surfacehyperbolic plane0p+genusif and only ifpprime factorsMJack Daniel'sOgg (1974)Notes[edit]Notes[edit][edit]
+
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .
+^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf
+^ World Wide Words: Moonshine
+
+
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .
+^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf
+^ World Wide Words: Moonshine
+^ Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .^^^Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327 .Roberts, Siobhan (2009), King of Infinite Space: Donald Coxeter, the Man Who Saved Geometry, Bloomsbury Publishing USA, p. 361, ISBN 9780802718327King of Infinite Space: Donald Coxeter, the Man Who Saved GeometryKing of Infinite Space: Donald Coxeter, the Man Who Saved GeometryISBN9780802718327  ^ Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf^^^Conway, J. and Norton, S. "Monstrous Moonshine", Table 2a, p.330, http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdfhttp://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.3704&rep=rep1&type=pdf^ World Wide Words: Moonshine^^^World Wide Words: MoonshineWorld Wide Words: MoonshineReferences[edit]References[edit][edit]
+
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. 
+Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. 
+Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 
+Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. 
+Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. 
+Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. 
+Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. 
+Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).
+Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 
+Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 
+Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) 
+Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 
+Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) 
+Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 
+Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 
+Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).
+Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318
+Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).
+Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7
+Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 
+
+
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. 
+Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. 
+Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 
+Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. 
+Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. 
+Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. 
+Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. 
+Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).
+Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 
+Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 
+Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) 
+Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 
+Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) 
+Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 
+Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 
+Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).
+Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318
+Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).
+Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7
+Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 
+Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399. Conway, John Horton; Norton, Simon P. (1979). "Monstrous Moonshine". Bull. London Math. Soc. 11 (3): 308–339. doi:10.1112/blms/11.3.308. MR 0554399.Bull. London Math. Soc.11doi10.1112/blms/11.3.308MR0554399  Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026. Frenkel, Igor B.; Lepowsky, James; Meurman, Arne (1988). Vertex Operator Algebras and the Monster. Pure and Applied Math. 134. Academic Press. MR 0996026.Vertex Operator Algebras and the Monster134MR0996026  Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696 Borcherds, Richard (1992), "Monstrous Moonshine and Monstrous Lie Superalgebras" (PDF), Invent. Math. 109: 405–444, doi:10.1007/bf01232032, MR 1172696"Monstrous Moonshine and Monstrous Lie Superalgebras"(PDF)Invent. Math.109doi10.1007/bf01232032MR1172696  Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266. Jurisich, Elizabeth (1998). "Generalized Kac–Moody Lie algebras, free Lie algebras, and the structure of the Monster Lie algebra". Jour. Pure and Appl. algebra 126: 233–266.Jour. Pure and Appl. algebra126  Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161. Jurisich, E.; Lepowsky, J.; Wilson, R.L. (1995). "Realizations of the Monster Lie Algebra". Selecta Math. New series 1: 129–161.Selecta Math. New series1  Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443. Cummins, C. J.; Gannon, T (1997). "Modular equations and the genus zero property of moonshine functions". Invent. Math. 129: 413–443.Invent. Math.129  Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600. Gannon, Terry (2006). "Monstrous Moonshine: The first twenty-five years". Bull. London Math. Soc. 38 (1): 1–33. arXiv:math.QA/0402345. doi:10.1112/S0024609305018217. MR 2201600.Bull. London Math. Soc.38arXivmath.QA/0402345doi10.1112/S0024609305018217MR2201600  Terry Gannon, Monstrous Moonshine and the Classification of Conformal Field Theories, reprinted in Conformal Field Theory, New Non-Perturbative Methods in String and Field Theory, (2000) Yavuz Nutku, Cihan Saclioglu, Teoman Turgut, eds. Perseus Publishing, Cambridge Mass. ISBN 0-7382-0204-5 (Provides introductory reviews to applications in physics).Monstrous Moonshine and the Classification of Conformal Field TheoriesConformal Field Theory, New Non-Perturbative Methods in String and Field TheoryISBN 0-7382-0204-5(Provides introductory reviews to applications in physics)Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3 Gannon, Terry (2006), Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and Physics, ISBN 0-521-83531-3Moonshine beyond the Monster: The Bridge Connecting Algebra, Modular Forms and PhysicsISBN0-521-83531-3  Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740 Dixon, L.; Ginsparg, P.; Harvey, J. (1989), "Beauty and the Beast: superconformal symmetry in a Monster module", Comm. Math. Phys. 119: 221–241, doi:10.1007/bf01217740Comm. Math. Phys.119doi10.1007/bf01217740  Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF) Witten, Edward (22 June 2007), Three-Dimensional Gravity Revisited (PDF)Witten, EdwardThree-Dimensional Gravity RevisitedThree-Dimensional Gravity Revisited(PDF)  Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754 Maloney, Alexander; Witten, Edward (2010), "Quantum Gravity Partition Functions In Three Dimensions", J. High Energy Phys. (2), arXiv:0712.0155, doi:10.1007/JHEP02(2010)029, MR 2672754J. High Energy Phys.arXiv0712.0155doi10.1007/JHEP02(2010)029MR2672754  Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF) Li, Wei; Song, Wei; Strominger, Andrew (21 July 2008), CHIRAL GRAVITY IN THREE　DIMENSIONS (PDF)CHIRAL GRAVITY IN THREE　DIMENSIONSCHIRAL GRAVITY IN THREE　DIMENSIONS(PDF)  Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529 Duncan, John F. R.; Frenkel, Igor B. (2012), Rademacher sums, moonshine and gravity, arXiv:0907.4529Rademacher sums, moonshine and gravityarXiv0907.4529  Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007 Maloney, Alexander; Song, Wei; Strominger, Andrew (2010), "Chiral gravity, log gravity, and extremal CFT" (PDF), Phys. Rev. D 81, doi:10.1103/physrevd.81.064007"Chiral gravity, log gravity, and extremal CFT"(PDF)Phys. Rev. D81doi10.1103/physrevd.81.064007  Koichiro Harada, Monster(1999) Iwanami Pub. ISBN 4-00-006055-4, (The first book about the Monster Group written in Japanese).Koichiro HaradaMonsterISBN 4-00-006055-4(The first book about the Monster Group written in Japanese)Koichiro Harada (2010) "Moonshine" of Finite Groups, European Mathematical Society ISBN 978-3-03719-090-6 MR 2722318"Moonshine" of Finite GroupsEuropean Mathematical SocietyISBN 978-3-03719-090-6MR2722318Mark Ronan, Symmetry and the Monster, Oxford University Press, 2006. ISBN 978-0-19-280723-6 (Concise introduction for the lay reader).Mark RonanSymmetry and the MonsterISBN 978-0-19-280723-6(Concise introduction for the lay reader)Marcus du Sautoy, Finding Moonshine, A Mathematician's Journey Through Symmetry. Fourth Estate, 2008 ISBN 0-00-721461-8, ISBN 978-0-00-721461-7Marcus du SautoyFinding MoonshineA Mathematician's Journey Through SymmetryISBN 0-00-721461-8ISBN 978-0-00-721461-7Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184 Ogg, Andrew P. (1974), "Automorphismes de courbes modulaires" (PDF), Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7 (in French), MR 0417184Ogg, Andrew P."Automorphismes de courbes modulaires"(PDF)Seminaire Delange-Pisot-Poitou. Theorie des nombres, tome 16, no. 1 (1974–1975), exp. no. 7MR0417184  External links[edit]External links[edit][edit]
+Moonshine Bibliography at the Wayback Machine
+Moonshine Bibliography at the Wayback MachineMoonshine BibliographyWayback Machine
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Monstrous_moonshine&oldid=717008380"					https://en.wikipedia.org/w/index.php?title=Monstrous_moonshine&oldid=717008380Categories: Moonshine theoryGroup theorySporadic groupsWords coined in the 1970sHidden categories: Wikipedia articles needing copy edit from April 2016All articles needing copy editCS1 French-language sources (fr)Categories: Moonshine theoryGroup theorySporadic groupsWords coined in the 1970sCategoriesMoonshine theoryGroup theorySporadic groupsWords coined in the 1970sMoonshine theoryMoonshine theoryGroup theoryGroup theorySporadic groupsSporadic groupsWords coined in the 1970sWords coined in the 1970sHidden categories: Wikipedia articles needing copy edit from April 2016All articles needing copy editCS1 French-language sources (fr)Wikipedia articles needing copy edit from April 2016All articles needing copy editCS1 French-language sources (fr)Wikipedia articles needing copy edit from April 2016Wikipedia articles needing copy edit from April 2016All articles needing copy editAll articles needing copy editCS1 French-language sources (fr)CS1 French-language sources (fr)
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+EspañolFrançais日本語PortuguêsTürkçe 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+EspañolFrançais日本語PortuguêsTürkçe 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+EspañolFrançais日本語PortuguêsTürkçe 
+Edit links 
+Languages
+
+EspañolFrançais日本語PortuguêsTürkçe 
+Edit links 
+EspañolFrançais日本語PortuguêsTürkçe EspañolEspañolFrançaisFrançais日本語日本語PortuguêsPortuguêsTürkçeTürkçeEdit linksEdit linksEdit links
+
+ This page was last modified on 25 April 2016, at 05:12.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 25 April 2016, at 05:12.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 25 April 2016, at 05:12.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

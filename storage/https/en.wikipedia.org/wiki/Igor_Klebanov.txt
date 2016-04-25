@@ -1,0 +1,775 @@
+Igor Klebanov - Wikipedia, the free encyclopedia
+
+
+
+
+Igor Klebanov
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Igor R. Klebanov (Russian: И́горь Романович Клеба́нов; 29 March 1962) is a theoretical physicist whose research is centered on relations between string theory and quantum gauge field theory. Since 1989, he has been a Professor at Princeton University where he is currently a Eugene Higgins Professor of Physics.[1]
+Born in the Soviet Union in 1962, he emigrated to the U.S. as a teenager. He received his undergraduate education at MIT (class of 1982), and his Ph.D. degree at Princeton University as a student of Curtis Callan in 1986. In his thesis he made advances in the Skyrme model of hadrons. Klebanov worked as a post-doc at SLAC. His main contributions to string theory are in Matrix model approaches to two-dimensional strings, in brane dynamics, and more recently in the gauge theory-gravity duality. His work in 1996-97 on relations between branes in supergravity and their gauge theory description anticipated the gauge theory-gravity correspondence.
+Klebanov's 1998 paper Gauge Theory Correlators from Non-Critical String Theory with his graduate student Gubser, and Polyakov, which made a precise statement of the AdS/CFT duality, is among the all-time top cited papers in high-energy physics (it has over 7800 citations according to Google Scholar). A series of papers by Klebanov and collaborators on D-branes on the conifold has led to discovery of cascading gauge theory. Its dual warped throat provides a geometric description of color confinement and chiral symmetry breaking; it has been used in model building for cosmology and particle physics. The relation between 3-dimensional critical O(N) model and bosonic higher-spin gauge theory in 4-dimensional AdS space has been called the Klebanov-Polyakov correspondence.
+Klebanov's Ph.D. students include Akikazu Hashimoto, Steven Gubser, Christopher Herzog, Anatoly Dymarsky, Marcus Benna, Arvind Murugan, and Benjamin Safdi. He also co-advised David Lowe, Juan Maldacena, Daniel Baumann, and Silviu Pufu.
+
+
+
+Contents
+
+
+1 Awards
+2 Works
+3 References
+4 External links
+
+
+
+Awards[edit]
+
+2010 Guggenheim Fellowship[2]
+2010 Princeton University Graduate Mentoring Award[3]
+2014 Tomassoni Prize[4]
+
+Works[edit]
+
+hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes ", High Energy Physics - Theory (hep-th) Igor R. Klebanov, 10 Feb 1997
+hep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory", High Energy Physics - Theory (hep-th) S.S. Gubser, I.R. Klebanov, A.M. Polyakov, 16 Feb 1998
+hep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities" High Energy Physics - Theory (hep-th); Igor R. Klebanov (Princeton), Matthew J. Strassler (IAS) 24 Jul 2000
+hep-th/0210114 "AdS Dual of the Critical O(N) Vector Model", High Energy Physics - Theory (hep-th) I.R. Klebanov, A.M. Polyakov, 13 Nov 2002
+"Some stringy aspects of the AdS/CFT duality", Strings 2002, Igor Klebanov
+Solving Quantum Field Theories via Curved Spacetimes, Physics Today, Igor Klebanov and Juan Maldacena.
+
+References[edit]
+
+
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/
+^ http://www.gf.org/fellows/16805-igor-klebanov
+^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories
+^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014
+
+
+External links[edit]
+
+List of his papers on Arxiv
+List of his papers on Google Scholar
+An interview on his most famous work
+List of most cited physicists in brane physics
+Igor R Klebanov", Scientific commons
+Igor Klebanov at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Igor_Klebanov&oldid=712923693"					
+Categories: American physicistsRussian physicistsLiving peopleString theoristsMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University facultyGuggenheim FellowsTheoretical physicistsFellows of the American Academy of Arts and SciencesHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+
+
+Igor Klebanov
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Igor R. Klebanov (Russian: И́горь Романович Клеба́нов; 29 March 1962) is a theoretical physicist whose research is centered on relations between string theory and quantum gauge field theory. Since 1989, he has been a Professor at Princeton University where he is currently a Eugene Higgins Professor of Physics.[1]
+Born in the Soviet Union in 1962, he emigrated to the U.S. as a teenager. He received his undergraduate education at MIT (class of 1982), and his Ph.D. degree at Princeton University as a student of Curtis Callan in 1986. In his thesis he made advances in the Skyrme model of hadrons. Klebanov worked as a post-doc at SLAC. His main contributions to string theory are in Matrix model approaches to two-dimensional strings, in brane dynamics, and more recently in the gauge theory-gravity duality. His work in 1996-97 on relations between branes in supergravity and their gauge theory description anticipated the gauge theory-gravity correspondence.
+Klebanov's 1998 paper Gauge Theory Correlators from Non-Critical String Theory with his graduate student Gubser, and Polyakov, which made a precise statement of the AdS/CFT duality, is among the all-time top cited papers in high-energy physics (it has over 7800 citations according to Google Scholar). A series of papers by Klebanov and collaborators on D-branes on the conifold has led to discovery of cascading gauge theory. Its dual warped throat provides a geometric description of color confinement and chiral symmetry breaking; it has been used in model building for cosmology and particle physics. The relation between 3-dimensional critical O(N) model and bosonic higher-spin gauge theory in 4-dimensional AdS space has been called the Klebanov-Polyakov correspondence.
+Klebanov's Ph.D. students include Akikazu Hashimoto, Steven Gubser, Christopher Herzog, Anatoly Dymarsky, Marcus Benna, Arvind Murugan, and Benjamin Safdi. He also co-advised David Lowe, Juan Maldacena, Daniel Baumann, and Silviu Pufu.
+
+
+
+Contents
+
+
+1 Awards
+2 Works
+3 References
+4 External links
+
+
+
+Awards[edit]
+
+2010 Guggenheim Fellowship[2]
+2010 Princeton University Graduate Mentoring Award[3]
+2014 Tomassoni Prize[4]
+
+Works[edit]
+
+hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes ", High Energy Physics - Theory (hep-th) Igor R. Klebanov, 10 Feb 1997
+hep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory", High Energy Physics - Theory (hep-th) S.S. Gubser, I.R. Klebanov, A.M. Polyakov, 16 Feb 1998
+hep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities" High Energy Physics - Theory (hep-th); Igor R. Klebanov (Princeton), Matthew J. Strassler (IAS) 24 Jul 2000
+hep-th/0210114 "AdS Dual of the Critical O(N) Vector Model", High Energy Physics - Theory (hep-th) I.R. Klebanov, A.M. Polyakov, 13 Nov 2002
+"Some stringy aspects of the AdS/CFT duality", Strings 2002, Igor Klebanov
+Solving Quantum Field Theories via Curved Spacetimes, Physics Today, Igor Klebanov and Juan Maldacena.
+
+References[edit]
+
+
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/
+^ http://www.gf.org/fellows/16805-igor-klebanov
+^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories
+^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014
+
+
+External links[edit]
+
+List of his papers on Arxiv
+List of his papers on Google Scholar
+An interview on his most famous work
+List of most cited physicists in brane physics
+Igor R Klebanov", Scientific commons
+Igor Klebanov at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Igor_Klebanov&oldid=712923693"					
+Categories: American physicistsRussian physicistsLiving peopleString theoristsMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University facultyGuggenheim FellowsTheoretical physicistsFellows of the American Academy of Arts and SciencesHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchIgor R. Klebanov (Russian: И́горь Романович Клеба́нов; 29 March 1962) is a theoretical physicist whose research is centered on relations between string theory and quantum gauge field theory. Since 1989, he has been a Professor at Princeton University where he is currently a Eugene Higgins Professor of Physics.[1]
+Born in the Soviet Union in 1962, he emigrated to the U.S. as a teenager. He received his undergraduate education at MIT (class of 1982), and his Ph.D. degree at Princeton University as a student of Curtis Callan in 1986. In his thesis he made advances in the Skyrme model of hadrons. Klebanov worked as a post-doc at SLAC. His main contributions to string theory are in Matrix model approaches to two-dimensional strings, in brane dynamics, and more recently in the gauge theory-gravity duality. His work in 1996-97 on relations between branes in supergravity and their gauge theory description anticipated the gauge theory-gravity correspondence.
+Klebanov's 1998 paper Gauge Theory Correlators from Non-Critical String Theory with his graduate student Gubser, and Polyakov, which made a precise statement of the AdS/CFT duality, is among the all-time top cited papers in high-energy physics (it has over 7800 citations according to Google Scholar). A series of papers by Klebanov and collaborators on D-branes on the conifold has led to discovery of cascading gauge theory. Its dual warped throat provides a geometric description of color confinement and chiral symmetry breaking; it has been used in model building for cosmology and particle physics. The relation between 3-dimensional critical O(N) model and bosonic higher-spin gauge theory in 4-dimensional AdS space has been called the Klebanov-Polyakov correspondence.
+Klebanov's Ph.D. students include Akikazu Hashimoto, Steven Gubser, Christopher Herzog, Anatoly Dymarsky, Marcus Benna, Arvind Murugan, and Benjamin Safdi. He also co-advised David Lowe, Juan Maldacena, Daniel Baumann, and Silviu Pufu.
+
+
+
+Contents
+
+
+1 Awards
+2 Works
+3 References
+4 External links
+
+
+
+Awards[edit]
+
+2010 Guggenheim Fellowship[2]
+2010 Princeton University Graduate Mentoring Award[3]
+2014 Tomassoni Prize[4]
+
+Works[edit]
+
+hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes ", High Energy Physics - Theory (hep-th) Igor R. Klebanov, 10 Feb 1997
+hep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory", High Energy Physics - Theory (hep-th) S.S. Gubser, I.R. Klebanov, A.M. Polyakov, 16 Feb 1998
+hep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities" High Energy Physics - Theory (hep-th); Igor R. Klebanov (Princeton), Matthew J. Strassler (IAS) 24 Jul 2000
+hep-th/0210114 "AdS Dual of the Critical O(N) Vector Model", High Energy Physics - Theory (hep-th) I.R. Klebanov, A.M. Polyakov, 13 Nov 2002
+"Some stringy aspects of the AdS/CFT duality", Strings 2002, Igor Klebanov
+Solving Quantum Field Theories via Curved Spacetimes, Physics Today, Igor Klebanov and Juan Maldacena.
+
+References[edit]
+
+
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/
+^ http://www.gf.org/fellows/16805-igor-klebanov
+^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories
+^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014
+
+
+External links[edit]
+
+List of his papers on Arxiv
+List of his papers on Google Scholar
+An interview on his most famous work
+List of most cited physicists in brane physics
+Igor R Klebanov", Scientific commons
+Igor Klebanov at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+
+
+
+
+Igor R. Klebanov (Russian: И́горь Романович Клеба́нов; 29 March 1962) is a theoretical physicist whose research is centered on relations between string theory and quantum gauge field theory. Since 1989, he has been a Professor at Princeton University where he is currently a Eugene Higgins Professor of Physics.[1]Igor R. KlebanovRussianИ́горь Романович Клеба́новtheoretical physiciststring theoryquantum gauge field theoryPrinceton University[1][1]Born in the Soviet Union in 1962, he emigrated to the U.S. as a teenager. He received his undergraduate education at MIT (class of 1982), and his Ph.D. degree at Princeton University as a student of Curtis Callan in 1986. In his thesis he made advances in the Skyrme model of hadrons. Klebanov worked as a post-doc at SLAC. His main contributions to string theory are in Matrix model approaches to two-dimensional strings, in brane dynamics, and more recently in the gauge theory-gravity duality. His work in 1996-97 on relations between branes in supergravity and their gauge theory description anticipated the gauge theory-gravity correspondence.Soviet UnionMITPrinceton UniversityCurtis CallanSkyrme modelhadronsSLACMatrix modelbranesupergravitygauge theoryKlebanov's 1998 paper Gauge Theory Correlators from Non-Critical String Theory with his graduate student Gubser, and Polyakov, which made a precise statement of the AdS/CFT duality, is among the all-time top cited papers in high-energy physics (it has over 7800 citations according to Google Scholar). A series of papers by Klebanov and collaborators on D-branes on the conifold has led to discovery of cascading gauge theory. Its dual warped throat provides a geometric description of color confinement and chiral symmetry breaking; it has been used in model building for cosmology and particle physics. The relation between 3-dimensional critical O(N) model and bosonic higher-spin gauge theory in 4-dimensional AdS space has been called the Klebanov-Polyakov correspondence.Gauge Theory Correlators from Non-Critical String TheoryGubserPolyakovAdS/CFTD-branesconifoldcascading gauge theorycolor confinementchiral symmetry breakingKlebanov's Ph.D. students include Akikazu Hashimoto, Steven Gubser, Christopher Herzog, Anatoly Dymarsky, Marcus Benna, Arvind Murugan, and Benjamin Safdi. He also co-advised David Lowe, Juan Maldacena, Daniel Baumann, and Silviu Pufu.Steven GubserJuan Maldacena
+
+Contents
+
+
+1 Awards
+2 Works
+3 References
+4 External links
+
+
+Contents
+Contents
+1 Awards
+2 Works
+3 References
+4 External links
+1 Awards1 Awards1Awards2 Works2 Works2Works3 References3 References3References4 External links4 External links4External linksAwards[edit]Awards[edit][edit]
+2010 Guggenheim Fellowship[2]
+2010 Princeton University Graduate Mentoring Award[3]
+2014 Tomassoni Prize[4]
+2010 Guggenheim Fellowship[2]2010 Guggenheim Fellowship[2][2]2010 Princeton University Graduate Mentoring Award[3][3][3]2014 Tomassoni Prize[4][4][4]Works[edit]Works[edit][edit]
+hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes ", High Energy Physics - Theory (hep-th) Igor R. Klebanov, 10 Feb 1997
+hep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory", High Energy Physics - Theory (hep-th) S.S. Gubser, I.R. Klebanov, A.M. Polyakov, 16 Feb 1998
+hep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities" High Energy Physics - Theory (hep-th); Igor R. Klebanov (Princeton), Matthew J. Strassler (IAS) 24 Jul 2000
+hep-th/0210114 "AdS Dual of the Critical O(N) Vector Model", High Energy Physics - Theory (hep-th) I.R. Klebanov, A.M. Polyakov, 13 Nov 2002
+"Some stringy aspects of the AdS/CFT duality", Strings 2002, Igor Klebanov
+Solving Quantum Field Theories via Curved Spacetimes, Physics Today, Igor Klebanov and Juan Maldacena.
+hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes ", High Energy Physics - Theory (hep-th) Igor R. Klebanov, 10 Feb 1997hep-th/9702076 "World Volume Approach to Absorption by Non-dilatonic Branes "High Energy Physics - Theoryhep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory", High Energy Physics - Theory (hep-th) S.S. Gubser, I.R. Klebanov, A.M. Polyakov, 16 Feb 1998hep-th/9802109 "Gauge Theory Correlators from Non-Critical String Theory"High Energy Physics - Theoryhep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities" High Energy Physics - Theory (hep-th); Igor R. Klebanov (Princeton), Matthew J. Strassler (IAS) 24 Jul 2000hep-th/0007191 "Supergravity and a Confining Gauge Theory: Duality Cascades and Chiral Symmetry Breaking-Resolution of Naked Singularities"High Energy Physics - Theoryhep-th/0210114 "AdS Dual of the Critical O(N) Vector Model", High Energy Physics - Theory (hep-th) I.R. Klebanov, A.M. Polyakov, 13 Nov 2002hep-th/0210114 "AdS Dual of the Critical O(N) Vector Model"High Energy Physics - Theory"Some stringy aspects of the AdS/CFT duality", Strings 2002, Igor Klebanov"Some stringy aspects of the AdS/CFT duality"StringsSolving Quantum Field Theories via Curved Spacetimes, Physics Today, Igor Klebanov and Juan Maldacena.Solving Quantum Field Theories via Curved SpacetimesPhysics Today,Physics TodayReferences[edit]References[edit][edit]
+
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/
+^ http://www.gf.org/fellows/16805-igor-klebanov
+^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories
+^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014
+
+
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/
+^ http://www.gf.org/fellows/16805-igor-klebanov
+^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories
+^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014
+^ https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/^^^https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/https://www.princeton.edu/physics/people/display_person.xml?netid=klebanov&display=faculty/^ http://www.gf.org/fellows/16805-igor-klebanov^^^http://www.gf.org/fellows/16805-igor-klebanovhttp://www.gf.org/fellows/16805-igor-klebanov^ http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories^^^http://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstorieshttp://www.princeton.edu./main/news/archive/S27/43/89Q62/index.xml?section=topstories^ http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014^^^http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014http://www.phys.uniroma1.it/fisica/archivionotizie/tomassoni-prize-2014External links[edit]External links[edit][edit]
+List of his papers on Arxiv
+List of his papers on Google Scholar
+An interview on his most famous work
+List of most cited physicists in brane physics
+Igor R Klebanov", Scientific commons
+Igor Klebanov at the Mathematics Genealogy Project
+List of his papers on ArxivList of his papers on ArxivList of his papers on Google ScholarList of his papers on Google ScholarAn interview on his most famous workAn interview on his most famous workList of most cited physicists in brane physicsList of most cited physicists in brane physicsIgor R Klebanov", Scientific commonsIgor R Klebanov"Scientific commonsIgor Klebanov at the Mathematics Genealogy ProjectIgor KlebanovMathematics Genealogy Project
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+
+
+WorldCat Identities
+VIAF: 23614409
+LCCN: n86022255
+MGP: 138000
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 23614409VIAF2361440923614409LCCN: n86022255LCCNn86022255n86022255MGP: 138000MGP138000138000
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Igor_Klebanov&oldid=712923693"					https://en.wikipedia.org/w/index.php?title=Igor_Klebanov&oldid=712923693Categories: American physicistsRussian physicistsLiving peopleString theoristsMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University facultyGuggenheim FellowsTheoretical physicistsFellows of the American Academy of Arts and SciencesHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersCategories: American physicistsRussian physicistsLiving peopleString theoristsMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University facultyGuggenheim FellowsTheoretical physicistsFellows of the American Academy of Arts and SciencesCategoriesAmerican physicistsRussian physicistsLiving peopleString theoristsMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University facultyGuggenheim FellowsTheoretical physicistsFellows of the American Academy of Arts and SciencesAmerican physicistsAmerican physicistsRussian physicistsRussian physicistsLiving peopleLiving peopleString theoristsString theoristsMassachusetts Institute of Technology alumniMassachusetts Institute of Technology alumniPrinceton University alumniPrinceton University alumniPrinceton University facultyPrinceton University facultyGuggenheim FellowsGuggenheim FellowsTheoretical physicistsTheoretical physicistsFellows of the American Academy of Arts and SciencesFellows of the American Academy of Arts and SciencesHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersArticles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersArticles containing Russian-language textArticles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+Deutschفارسی 
+Edit links 
+Languages
+
+Deutschفارسی 
+Edit links 
+Deutschفارسی DeutschDeutschفارسیفارسیEdit linksEdit linksEdit links
+
+ This page was last modified on 31 March 2016, at 21:35.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 31 March 2016, at 21:35.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 31 March 2016, at 21:35.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

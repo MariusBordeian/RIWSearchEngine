@@ -14,70 +14,102 @@ from urllib.request import urlopen
 # print line
 
 
-class Page(object):
-    def __init__(self, title):
-        self.title = title
+aROBOTS = 'robots'
+aLINKS = 'links'
 
 
-def main():
-    pages = []
-    if len(sys.argv) == 1:
-        pages.append("http://forum.xda-developers.com/usercp.php")
-    else:
-        pages = sys.argv[1:]
+def main(argv):
+	pages = []
+	v_return = []   # an array of maps (for each page passed a map is created)
+	if len(argv) > 0:
+		if isinstance(argv, list):
+			pages = argv
+		else:
+			pages = [argv]
+	else:
+		pages = sys.argv[1:]
 
-    for p in pages:
-        print("page : " + p + "\n")
-        page = {}
-        soup = BeautifulSoup(urlopen(p), "lxml")
+	for p in pages:
+		print("page : " + p + "\n")
+		comp = p.split('//')
+		path = comp[1] if len(comp) == 2 else comp[0]
+		index = path.index('/')
+		host = (comp[0] + '//' if len(comp) == 2 else '') + (comp[1][:index] if len(comp) == 2 else comp[0][:index])
+		page = {}
+		soup = BeautifulSoup(urlopen(p), "lxml")
+		page["content"] = str(soup).encode('utf-8')
+		title = soup.title.text
+		# print("Page Title : " + title)
+		page["title"] = title
 
-        title = soup.title.text
-        # print("Page Title : " + title)
-        page["title"] = title
+		meta_array = soup("meta")
+		# print(meta)
 
-        meta_array = soup("meta")
-        # print(meta)
+		meta_dictionary = {}
+		# print("\nmetas : ")
+		for m in meta_array:
+			name = m.get("name")
+			if name == "keywords" or name == "description" or name == "robots":
+				meta_dictionary[name] = m["content"]
+				# print("\t" + name + " : " + m["content"])
 
-        meta_dictionary = {}
-        # print("\nmetas : ")
-        for m in meta_array:
-            name = m.get("name")
-            if name == "keywords" or name == "description" or name == "robots":
-                meta_dictionary[name] = m["content"]
-                # print("\t" + name + " : " + m["content"])
+		page["meta"] = meta_dictionary
 
-        page["meta"] = meta_dictionary
+		links = []
+		# print("\nlinks : ")
+		ls = soup.find_all('a')
+		for link in ls:
+			href = link.get('href')
+			if href and '?' not in href:
+				if '#' not in href:
+					if 'http' in href[:4]:
+						links.append(href)
+						# print("\t" + href)
+					elif '//' in href[:2]:
+						links.append((host[:host.index(':')] if 'http' in host[:4] else 'http:') + href)
+					elif href[0] == '/':
+						links.append(host + href)
+					elif 'www' not in href[:3]:
+						links.append(host + '/' + href)
+				else:
+					href = href[:href.index('#')]
+					if href:
+						if 'http' in href[:4]:
+							links.append(href)
+						# print("\t" + href)
+						elif '//' in href[:2]:
+							links.append((host[:host.index(':')] if 'http' in host[:4] else 'http:') + href)
+						elif href[0] == '/':
+							links.append(host + href)
+						elif 'www' not in href[:3]:
+							links.append(host + '/' + href)
+		auxLinks = []
+		auxLinks = [item for item in links if item not in auxLinks]
+		page["a"] = auxLinks
 
-        links = []
-        # print("\nlinks : ")
-        ls = soup.find_all('a')
-        for link in ls:
-            href = link.get('href')
-            if href and '#' not in href and 'http' in href:
-                links.append(href)
-                # print("\t" + href)
+		text = ""
+		tags = soup.find_all()
+		for t in tags:
+			if not re.findall(re.compile("html|body|head|script|style"), t.name):
+				text += t.text
 
-        page["a"] = links
+		# print("page content : \n")
+		# print(text)
 
-        text = ""
-        tags = soup.find_all()
-        for t in tags:
-            if not re.findall(re.compile("html|body|head|script|style"), t.name):
-                text += t.text
+		page["text"] = text.encode('utf-8')     # json.JSONEncoder().encode(text)
+		"""
+		with open(title + '_page.json', 'w') as outfile:
+			json.dump(page, outfile)
+		"""
+		# print(page)
+		v_return.append(page)
 
-        # print("page content : \n")
-        # print(text)
-
-        page["text"] = json.JSONEncoder().encode(text)
-
-        with open(title + '_page.json', 'w') as outfile:
-            json.dump(page, outfile)
-
-    print("done :)")
+	# print("done :)")
+	return v_return
 
 
 if __name__ == "__main__":
-    main()
+	main(sys.argv[1:])
 
 """
 hints :

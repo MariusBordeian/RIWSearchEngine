@@ -1,0 +1,745 @@
+Charge (physics) - Wikipedia, the free encyclopedia
+
+
+
+
+Charge (physics)
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about charge in the most general physics sense.  For charge as relates to electrical phenomena, see electric charge.  For other uses of charge, see Charge.
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)
+
+
+In physics, a charge may refer to one of many different quantities, such as the electric charge in electromagnetism or the color charge in quantum chromodynamics. Charges correspond to the time-invariant generators of a symmetry group, and specifically, to the generators that commute with the Hamiltonian. Charges are often denoted by the letter Q, and so the invariance of the charge corresponds to the vanishing commutator , where H is the Hamiltonian. Thus, charges are associated with conserved quantum numbers; these are the eigenvalues q of the generator Q.
+
+
+
+Contents
+
+
+1 Abstract definition
+2 Examples
+3 Charge conjugation
+4 See also
+5 References
+
+
+
+Abstract definition[edit]
+Abstractly, a charge is any generator of a continuous symmetry of the physical system under study. When a physical system has a symmetry of some sort, Noether's theorem implies the existence of a conserved current. The thing that "flows" in the current is the "charge", the charge is the generator of the (local) symmetry group. This charge is sometimes called the Noether charge.
+Thus, for example, the electric charge is the generator of the U(1) symmetry of electromagnetism. The conserved current is the electric current.
+In the case of local, dynamical symmetries, associated with every charge is a gauge field; when quantized, the gauge field becomes a gauge boson. The charges of the theory "radiate" the gauge field. Thus, for example, the gauge field of electromagnetism is the electromagnetic field; and the gauge boson is the photon.
+The word "charge" is often used as a synonym for both the generator of a symmetry, and the conserved quantum number (eigenvalue) of the generator. Thus, letting the upper-case letter Q refer to the generator, one has that [Q, H] = 0 implies that the eigenvalues (lower-case) q are time-invariant: dq/dt = 0.
+So, for example, when the symmetry group is a Lie group, then the charge operators correspond to the simple roots of the root system of the Lie algebra; the discreteness of the root system accounting for the quantization of the charge. The simple roots are used, as all the other roots can be obtained as linear combinations of these. The general roots are often called raising and lowering operators, or ladder operators.
+The charge quantum numbers then correspond to the weights of the highest-weight modules of a given representation of the Lie algebra. So, for example, when a particle in a quantum field theory belongs to a symmetry, then it transforms according to a particular representation of that symmetry; the charge quantum number is then the weight of the representation.
+Examples[edit]
+Various charge quantum numbers have been introduced by theories of particle physics. These include the charges of the Standard Model:
+
+The color charge of quarks. The color charge generates the SU(3) color symmetry of quantum chromodynamics.
+The weak isospin quantum numbers of the electroweak interaction. It generates the SU(2) part of the electroweak SU(2) × U(1) symmetry. Weak isospin is a local symmetry, whose gauge bosons are the W and Z bosons.
+The electric charge for electromagnetic interactions. In mathematics texts, this is sometimes referred to as the -charge of a Lie algebra module.
+
+Charges of approximate symmetries:
+
+The strong isospin charges. The symmetry groups is SU(2) flavor symmetry; the gauge bosons are the pions. The pions are not elementary particles, and the symmetry is only approximate. It is a special case of flavor symmetry.
+Other quark-flavor charges, such as strangeness or charm. Together with the u–d isospin mentioned above, these generate the global SU(6) flavor symmetry of the fundamental particles; this symmetry is badly broken by the masses of the heavy quarks. Charges include the hypercharge, the X-charge and the weak hypercharge.
+
+Hypothetical charges of extensions to the Standard Model:
+
+The hypothetical magnetic charge is another charge in the theory of electromagnetism. Magnetic charges are not seen experimentally in laboratory experiments, but would be present for theories including magnetic monopoles.
+
+In supersymmetry:
+
+The supercharge refers to the generator that rotates the fermions into bosons, and vice versa, in the supersymmetry.
+
+In conformal field theory:
+
+The central charge of the Virasoro algebra, sometimes referred to as the conformal central charge or the conformal anomaly. Here, the term 'central' is used in the sense of the center in group theory: it is an operator that commutes with all the other operators in the algebra. The central charge is the eigenvalue of the central generator of the algebra; here, it is the energy-momentum tensor of the two-dimensional conformal field theory.[1]
+
+In gravitation:
+
+Eigenvalues of the energy-momentum tensor correspond to physical mass.
+
+Charge conjugation[edit]
+In the formalism of particle theories charge-like quantum numbers can sometimes be inverted by means of a charge conjugation operator called C. Chiral fermions often cannot. Charge conjugation simply means that a given symmetry group occurs in two inequivalent (but still isomorphic) group representations. It is usually the case that the two charge-conjugate representations are complex conjugate fundamental representations of the Lie group. Their product then forms the adjoint representation of the group.
+Thus, a common example is that the product of two charge-conjugate fundamental representations of SL(2,C) (the spinors) forms the adjoint rep of the Lorentz group SO(3,1); abstractly, one writes
+
+
+
+That is, the product of two (Lorentz) spinors is a (Lorentz) vector and a (Lorentz) scalar. Note that the complex Lie algebra sl(2,C) has a compact real form su(2) (in fact, all Lie algebras have a unique compact real form). The same decomposition holds for the compact form as well: the product of two spinors in su(2) being a vector in the rotation group O(3) and a singlet. The decomposition is given by the Clebsch-Gordan coefficients.
+A similar pheonomenon occurs in the compact group SU(3), where there are two charge-conjugate but inequivalent fundamental representations, dubbed  and , the number 3 denoting the dimension of the representation, and with the quarks transforming under  and the antiquarks transforming under . The Kronecker product of the two gives
+
+
+
+That is, an eight-dimensional representation, the octet of the eight-fold way, and a singlet. The decomposition of such products of representations into direct sums of irreducible representations can in general be written as
+
+
+
+for representations . The dimensions of the representations obey the "dimension sum rule":
+
+
+
+Here,  is the dimension of the representation , and the integers  being the Littlewood-Richardson coefficients. The decomposition of the representations is again given by the Clebsch-Gordan coefficients, this time in the general Lie-algebra setting
+See also[edit]
+
+Casimir operator
+
+References[edit]
+
+
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Charge_(physics)&oldid=714629444"					
+Categories: ElectromagnetismQuantum chromodynamicsPhysical quantitiesHidden categories: Articles needing additional references from October 2015All articles needing additional references 
+
+
+Charge (physics)
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about charge in the most general physics sense.  For charge as relates to electrical phenomena, see electric charge.  For other uses of charge, see Charge.
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)
+
+
+In physics, a charge may refer to one of many different quantities, such as the electric charge in electromagnetism or the color charge in quantum chromodynamics. Charges correspond to the time-invariant generators of a symmetry group, and specifically, to the generators that commute with the Hamiltonian. Charges are often denoted by the letter Q, and so the invariance of the charge corresponds to the vanishing commutator , where H is the Hamiltonian. Thus, charges are associated with conserved quantum numbers; these are the eigenvalues q of the generator Q.
+
+
+
+Contents
+
+
+1 Abstract definition
+2 Examples
+3 Charge conjugation
+4 See also
+5 References
+
+
+
+Abstract definition[edit]
+Abstractly, a charge is any generator of a continuous symmetry of the physical system under study. When a physical system has a symmetry of some sort, Noether's theorem implies the existence of a conserved current. The thing that "flows" in the current is the "charge", the charge is the generator of the (local) symmetry group. This charge is sometimes called the Noether charge.
+Thus, for example, the electric charge is the generator of the U(1) symmetry of electromagnetism. The conserved current is the electric current.
+In the case of local, dynamical symmetries, associated with every charge is a gauge field; when quantized, the gauge field becomes a gauge boson. The charges of the theory "radiate" the gauge field. Thus, for example, the gauge field of electromagnetism is the electromagnetic field; and the gauge boson is the photon.
+The word "charge" is often used as a synonym for both the generator of a symmetry, and the conserved quantum number (eigenvalue) of the generator. Thus, letting the upper-case letter Q refer to the generator, one has that [Q, H] = 0 implies that the eigenvalues (lower-case) q are time-invariant: dq/dt = 0.
+So, for example, when the symmetry group is a Lie group, then the charge operators correspond to the simple roots of the root system of the Lie algebra; the discreteness of the root system accounting for the quantization of the charge. The simple roots are used, as all the other roots can be obtained as linear combinations of these. The general roots are often called raising and lowering operators, or ladder operators.
+The charge quantum numbers then correspond to the weights of the highest-weight modules of a given representation of the Lie algebra. So, for example, when a particle in a quantum field theory belongs to a symmetry, then it transforms according to a particular representation of that symmetry; the charge quantum number is then the weight of the representation.
+Examples[edit]
+Various charge quantum numbers have been introduced by theories of particle physics. These include the charges of the Standard Model:
+
+The color charge of quarks. The color charge generates the SU(3) color symmetry of quantum chromodynamics.
+The weak isospin quantum numbers of the electroweak interaction. It generates the SU(2) part of the electroweak SU(2) × U(1) symmetry. Weak isospin is a local symmetry, whose gauge bosons are the W and Z bosons.
+The electric charge for electromagnetic interactions. In mathematics texts, this is sometimes referred to as the -charge of a Lie algebra module.
+
+Charges of approximate symmetries:
+
+The strong isospin charges. The symmetry groups is SU(2) flavor symmetry; the gauge bosons are the pions. The pions are not elementary particles, and the symmetry is only approximate. It is a special case of flavor symmetry.
+Other quark-flavor charges, such as strangeness or charm. Together with the u–d isospin mentioned above, these generate the global SU(6) flavor symmetry of the fundamental particles; this symmetry is badly broken by the masses of the heavy quarks. Charges include the hypercharge, the X-charge and the weak hypercharge.
+
+Hypothetical charges of extensions to the Standard Model:
+
+The hypothetical magnetic charge is another charge in the theory of electromagnetism. Magnetic charges are not seen experimentally in laboratory experiments, but would be present for theories including magnetic monopoles.
+
+In supersymmetry:
+
+The supercharge refers to the generator that rotates the fermions into bosons, and vice versa, in the supersymmetry.
+
+In conformal field theory:
+
+The central charge of the Virasoro algebra, sometimes referred to as the conformal central charge or the conformal anomaly. Here, the term 'central' is used in the sense of the center in group theory: it is an operator that commutes with all the other operators in the algebra. The central charge is the eigenvalue of the central generator of the algebra; here, it is the energy-momentum tensor of the two-dimensional conformal field theory.[1]
+
+In gravitation:
+
+Eigenvalues of the energy-momentum tensor correspond to physical mass.
+
+Charge conjugation[edit]
+In the formalism of particle theories charge-like quantum numbers can sometimes be inverted by means of a charge conjugation operator called C. Chiral fermions often cannot. Charge conjugation simply means that a given symmetry group occurs in two inequivalent (but still isomorphic) group representations. It is usually the case that the two charge-conjugate representations are complex conjugate fundamental representations of the Lie group. Their product then forms the adjoint representation of the group.
+Thus, a common example is that the product of two charge-conjugate fundamental representations of SL(2,C) (the spinors) forms the adjoint rep of the Lorentz group SO(3,1); abstractly, one writes
+
+
+
+That is, the product of two (Lorentz) spinors is a (Lorentz) vector and a (Lorentz) scalar. Note that the complex Lie algebra sl(2,C) has a compact real form su(2) (in fact, all Lie algebras have a unique compact real form). The same decomposition holds for the compact form as well: the product of two spinors in su(2) being a vector in the rotation group O(3) and a singlet. The decomposition is given by the Clebsch-Gordan coefficients.
+A similar pheonomenon occurs in the compact group SU(3), where there are two charge-conjugate but inequivalent fundamental representations, dubbed  and , the number 3 denoting the dimension of the representation, and with the quarks transforming under  and the antiquarks transforming under . The Kronecker product of the two gives
+
+
+
+That is, an eight-dimensional representation, the octet of the eight-fold way, and a singlet. The decomposition of such products of representations into direct sums of irreducible representations can in general be written as
+
+
+
+for representations . The dimensions of the representations obey the "dimension sum rule":
+
+
+
+Here,  is the dimension of the representation , and the integers  being the Littlewood-Richardson coefficients. The decomposition of the representations is again given by the Clebsch-Gordan coefficients, this time in the general Lie-algebra setting
+See also[edit]
+
+Casimir operator
+
+References[edit]
+
+
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Charge_(physics)&oldid=714629444"					
+Categories: ElectromagnetismQuantum chromodynamicsPhysical quantitiesHidden categories: Articles needing additional references from October 2015All articles needing additional references 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is about charge in the most general physics sense.  For charge as relates to electrical phenomena, see electric charge.  For other uses of charge, see Charge.
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)
+
+
+In physics, a charge may refer to one of many different quantities, such as the electric charge in electromagnetism or the color charge in quantum chromodynamics. Charges correspond to the time-invariant generators of a symmetry group, and specifically, to the generators that commute with the Hamiltonian. Charges are often denoted by the letter Q, and so the invariance of the charge corresponds to the vanishing commutator , where H is the Hamiltonian. Thus, charges are associated with conserved quantum numbers; these are the eigenvalues q of the generator Q.
+
+
+
+Contents
+
+
+1 Abstract definition
+2 Examples
+3 Charge conjugation
+4 See also
+5 References
+
+
+
+Abstract definition[edit]
+Abstractly, a charge is any generator of a continuous symmetry of the physical system under study. When a physical system has a symmetry of some sort, Noether's theorem implies the existence of a conserved current. The thing that "flows" in the current is the "charge", the charge is the generator of the (local) symmetry group. This charge is sometimes called the Noether charge.
+Thus, for example, the electric charge is the generator of the U(1) symmetry of electromagnetism. The conserved current is the electric current.
+In the case of local, dynamical symmetries, associated with every charge is a gauge field; when quantized, the gauge field becomes a gauge boson. The charges of the theory "radiate" the gauge field. Thus, for example, the gauge field of electromagnetism is the electromagnetic field; and the gauge boson is the photon.
+The word "charge" is often used as a synonym for both the generator of a symmetry, and the conserved quantum number (eigenvalue) of the generator. Thus, letting the upper-case letter Q refer to the generator, one has that [Q, H] = 0 implies that the eigenvalues (lower-case) q are time-invariant: dq/dt = 0.
+So, for example, when the symmetry group is a Lie group, then the charge operators correspond to the simple roots of the root system of the Lie algebra; the discreteness of the root system accounting for the quantization of the charge. The simple roots are used, as all the other roots can be obtained as linear combinations of these. The general roots are often called raising and lowering operators, or ladder operators.
+The charge quantum numbers then correspond to the weights of the highest-weight modules of a given representation of the Lie algebra. So, for example, when a particle in a quantum field theory belongs to a symmetry, then it transforms according to a particular representation of that symmetry; the charge quantum number is then the weight of the representation.
+Examples[edit]
+Various charge quantum numbers have been introduced by theories of particle physics. These include the charges of the Standard Model:
+
+The color charge of quarks. The color charge generates the SU(3) color symmetry of quantum chromodynamics.
+The weak isospin quantum numbers of the electroweak interaction. It generates the SU(2) part of the electroweak SU(2) × U(1) symmetry. Weak isospin is a local symmetry, whose gauge bosons are the W and Z bosons.
+The electric charge for electromagnetic interactions. In mathematics texts, this is sometimes referred to as the -charge of a Lie algebra module.
+
+Charges of approximate symmetries:
+
+The strong isospin charges. The symmetry groups is SU(2) flavor symmetry; the gauge bosons are the pions. The pions are not elementary particles, and the symmetry is only approximate. It is a special case of flavor symmetry.
+Other quark-flavor charges, such as strangeness or charm. Together with the u–d isospin mentioned above, these generate the global SU(6) flavor symmetry of the fundamental particles; this symmetry is badly broken by the masses of the heavy quarks. Charges include the hypercharge, the X-charge and the weak hypercharge.
+
+Hypothetical charges of extensions to the Standard Model:
+
+The hypothetical magnetic charge is another charge in the theory of electromagnetism. Magnetic charges are not seen experimentally in laboratory experiments, but would be present for theories including magnetic monopoles.
+
+In supersymmetry:
+
+The supercharge refers to the generator that rotates the fermions into bosons, and vice versa, in the supersymmetry.
+
+In conformal field theory:
+
+The central charge of the Virasoro algebra, sometimes referred to as the conformal central charge or the conformal anomaly. Here, the term 'central' is used in the sense of the center in group theory: it is an operator that commutes with all the other operators in the algebra. The central charge is the eigenvalue of the central generator of the algebra; here, it is the energy-momentum tensor of the two-dimensional conformal field theory.[1]
+
+In gravitation:
+
+Eigenvalues of the energy-momentum tensor correspond to physical mass.
+
+Charge conjugation[edit]
+In the formalism of particle theories charge-like quantum numbers can sometimes be inverted by means of a charge conjugation operator called C. Chiral fermions often cannot. Charge conjugation simply means that a given symmetry group occurs in two inequivalent (but still isomorphic) group representations. It is usually the case that the two charge-conjugate representations are complex conjugate fundamental representations of the Lie group. Their product then forms the adjoint representation of the group.
+Thus, a common example is that the product of two charge-conjugate fundamental representations of SL(2,C) (the spinors) forms the adjoint rep of the Lorentz group SO(3,1); abstractly, one writes
+
+
+
+That is, the product of two (Lorentz) spinors is a (Lorentz) vector and a (Lorentz) scalar. Note that the complex Lie algebra sl(2,C) has a compact real form su(2) (in fact, all Lie algebras have a unique compact real form). The same decomposition holds for the compact form as well: the product of two spinors in su(2) being a vector in the rotation group O(3) and a singlet. The decomposition is given by the Clebsch-Gordan coefficients.
+A similar pheonomenon occurs in the compact group SU(3), where there are two charge-conjugate but inequivalent fundamental representations, dubbed  and , the number 3 denoting the dimension of the representation, and with the quarks transforming under  and the antiquarks transforming under . The Kronecker product of the two gives
+
+
+
+That is, an eight-dimensional representation, the octet of the eight-fold way, and a singlet. The decomposition of such products of representations into direct sums of irreducible representations can in general be written as
+
+
+
+for representations . The dimensions of the representations obey the "dimension sum rule":
+
+
+
+Here,  is the dimension of the representation , and the integers  being the Littlewood-Richardson coefficients. The decomposition of the representations is again given by the Clebsch-Gordan coefficients, this time in the general Lie-algebra setting
+See also[edit]
+
+Casimir operator
+
+References[edit]
+
+
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X 
+
+
+
+
+
+This article is about charge in the most general physics sense.  For charge as relates to electrical phenomena, see electric charge.  For other uses of charge, see Charge.electric chargeCharge
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2015)needs additional citations for verificationverificationPlease help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.improve this articleadding citations to reliable sources(October 2015)(October 2015)In physics, a charge may refer to one of many different quantities, such as the electric charge in electromagnetism or the color charge in quantum chromodynamics. Charges correspond to the time-invariant generators of a symmetry group, and specifically, to the generators that commute with the Hamiltonian. Charges are often denoted by the letter Q, and so the invariance of the charge corresponds to the vanishing commutator , where H is the Hamiltonian. Thus, charges are associated with conserved quantum numbers; these are the eigenvalues q of the generator Q.physicschargeelectric chargeelectromagnetismcolor chargequantum chromodynamicsgeneratorssymmetry groupHamiltonianQcommutatorquantum numbersqQ
+
+Contents
+
+
+1 Abstract definition
+2 Examples
+3 Charge conjugation
+4 See also
+5 References
+
+
+Contents
+Contents
+1 Abstract definition
+2 Examples
+3 Charge conjugation
+4 See also
+5 References
+1 Abstract definition1 Abstract definition1Abstract definition2 Examples2 Examples2Examples3 Charge conjugation3 Charge conjugation3Charge conjugation4 See also4 See also4See also5 References5 References5ReferencesAbstract definition[edit]Abstract definition[edit][edit]Abstractly, a charge is any generator of a continuous symmetry of the physical system under study. When a physical system has a symmetry of some sort, Noether's theorem implies the existence of a conserved current. The thing that "flows" in the current is the "charge", the charge is the generator of the (local) symmetry group. This charge is sometimes called the Noether charge.continuous symmetryNoether's theoremconserved currentgenerator of the (local) symmetry groupNoether chargeThus, for example, the electric charge is the generator of the U(1) symmetry of electromagnetism. The conserved current is the electric current.electric chargeU(1)electromagnetismelectric currentIn the case of local, dynamical symmetries, associated with every charge is a gauge field; when quantized, the gauge field becomes a gauge boson. The charges of the theory "radiate" the gauge field. Thus, for example, the gauge field of electromagnetism is the electromagnetic field; and the gauge boson is the photon.gauge fieldgauge bosonelectromagnetic fieldphotonThe word "charge" is often used as a synonym for both the generator of a symmetry, and the conserved quantum number (eigenvalue) of the generator. Thus, letting the upper-case letter Q refer to the generator, one has that [Q, H] = 0 implies that the eigenvalues (lower-case) q are time-invariant: dq/dt = 0.[Q, H] = 0[Q, H]dq/dt = 0dq/dtdqdq/dt/dtSo, for example, when the symmetry group is a Lie group, then the charge operators correspond to the simple roots of the root system of the Lie algebra; the discreteness of the root system accounting for the quantization of the charge. The simple roots are used, as all the other roots can be obtained as linear combinations of these. The general roots are often called raising and lowering operators, or ladder operators.Lie grouproot systemLie algebradiscretenessladder operatorsThe charge quantum numbers then correspond to the weights of the highest-weight modules of a given representation of the Lie algebra. So, for example, when a particle in a quantum field theory belongs to a symmetry, then it transforms according to a particular representation of that symmetry; the charge quantum number is then the weight of the representation.highest-weight modulesrepresentationquantum field theoryExamples[edit]Examples[edit][edit]Various charge quantum numbers have been introduced by theories of particle physics. These include the charges of the Standard Model:particle physicsStandard Model
+The color charge of quarks. The color charge generates the SU(3) color symmetry of quantum chromodynamics.
+The weak isospin quantum numbers of the electroweak interaction. It generates the SU(2) part of the electroweak SU(2) × U(1) symmetry. Weak isospin is a local symmetry, whose gauge bosons are the W and Z bosons.
+The electric charge for electromagnetic interactions. In mathematics texts, this is sometimes referred to as the -charge of a Lie algebra module.
+The color charge of quarks. The color charge generates the SU(3) color symmetry of quantum chromodynamics.color chargequarksSU(3)quantum chromodynamicsThe weak isospin quantum numbers of the electroweak interaction. It generates the SU(2) part of the electroweak SU(2) × U(1) symmetry. Weak isospin is a local symmetry, whose gauge bosons are the W and Z bosons.weak isospinelectroweak interactionSU(2)gauge bosonsW and Z bosonsThe electric charge for electromagnetic interactions. In mathematics texts, this is sometimes referred to as the -charge of a Lie algebra module.electric chargeLie algebramoduleCharges of approximate symmetries:
+The strong isospin charges. The symmetry groups is SU(2) flavor symmetry; the gauge bosons are the pions. The pions are not elementary particles, and the symmetry is only approximate. It is a special case of flavor symmetry.
+Other quark-flavor charges, such as strangeness or charm. Together with the u–d isospin mentioned above, these generate the global SU(6) flavor symmetry of the fundamental particles; this symmetry is badly broken by the masses of the heavy quarks. Charges include the hypercharge, the X-charge and the weak hypercharge.
+The strong isospin charges. The symmetry groups is SU(2) flavor symmetry; the gauge bosons are the pions. The pions are not elementary particles, and the symmetry is only approximate. It is a special case of flavor symmetry.strong isospinSU(2)flavorpionselementary particlesOther quark-flavor charges, such as strangeness or charm. Together with the u–d isospin mentioned above, these generate the global SU(6) flavor symmetry of the fundamental particles; this symmetry is badly broken by the masses of the heavy quarks. Charges include the hypercharge, the X-charge and the weak hypercharge.quarkstrangenesscharmuuddSU(6)badly brokenhyperchargeX-chargeweak hyperchargeHypothetical charges of extensions to the Standard Model:
+The hypothetical magnetic charge is another charge in the theory of electromagnetism. Magnetic charges are not seen experimentally in laboratory experiments, but would be present for theories including magnetic monopoles.
+The hypothetical magnetic charge is another charge in the theory of electromagnetism. Magnetic charges are not seen experimentally in laboratory experiments, but would be present for theories including magnetic monopoles.magnetic chargemagnetic monopolesIn supersymmetry:supersymmetry
+The supercharge refers to the generator that rotates the fermions into bosons, and vice versa, in the supersymmetry.
+The supercharge refers to the generator that rotates the fermions into bosons, and vice versa, in the supersymmetry.superchargeIn conformal field theory:conformal field theory
+The central charge of the Virasoro algebra, sometimes referred to as the conformal central charge or the conformal anomaly. Here, the term 'central' is used in the sense of the center in group theory: it is an operator that commutes with all the other operators in the algebra. The central charge is the eigenvalue of the central generator of the algebra; here, it is the energy-momentum tensor of the two-dimensional conformal field theory.[1]
+The central charge of the Virasoro algebra, sometimes referred to as the conformal central charge or the conformal anomaly. Here, the term 'central' is used in the sense of the center in group theory: it is an operator that commutes with all the other operators in the algebra. The central charge is the eigenvalue of the central generator of the algebra; here, it is the energy-momentum tensor of the two-dimensional conformal field theory.[1]central chargeVirasoro algebraconformal central chargeconformal anomalycentercentral generatorenergy-momentum tensor[1][1]In gravitation:gravitation
+Eigenvalues of the energy-momentum tensor correspond to physical mass.
+Eigenvalues of the energy-momentum tensor correspond to physical mass.massCharge conjugation[edit]Charge conjugation[edit][edit]In the formalism of particle theories charge-like quantum numbers can sometimes be inverted by means of a charge conjugation operator called C. Chiral fermions often cannot. Charge conjugation simply means that a given symmetry group occurs in two inequivalent (but still isomorphic) group representations. It is usually the case that the two charge-conjugate representations are complex conjugate fundamental representations of the Lie group. Their product then forms the adjoint representation of the group.charge conjugationChiral fermionsisomorphicgroup representationscomplex conjugatefundamental representationsadjoint representationThus, a common example is that the product of two charge-conjugate fundamental representations of SL(2,C) (the spinors) forms the adjoint rep of the Lorentz group SO(3,1); abstractly, one writesproduct of two charge-conjugate fundamental representationsSL(2,C)spinorsLorentz group
+
+That is, the product of two (Lorentz) spinors is a (Lorentz) vector and a (Lorentz) scalar. Note that the complex Lie algebra sl(2,C) has a compact real form su(2) (in fact, all Lie algebras have a unique compact real form). The same decomposition holds for the compact form as well: the product of two spinors in su(2) being a vector in the rotation group O(3) and a singlet. The decomposition is given by the Clebsch-Gordan coefficients.compactreal formsu(2)rotation groupO(3)Clebsch-Gordan coefficientsA similar pheonomenon occurs in the compact group SU(3), where there are two charge-conjugate but inequivalent fundamental representations, dubbed  and , the number 3 denoting the dimension of the representation, and with the quarks transforming under  and the antiquarks transforming under . The Kronecker product of the two givesSU(3)
+
+That is, an eight-dimensional representation, the octet of the eight-fold way, and a singlet. The decomposition of such products of representations into direct sums of irreducible representations can in general be written aseight-fold waysinglet
+
+for representations . The dimensions of the representations obey the "dimension sum rule":
+
+Here,  is the dimension of the representation , and the integers  being the Littlewood-Richardson coefficients. The decomposition of the representations is again given by the Clebsch-Gordan coefficients, this time in the general Lie-algebra settingLittlewood-Richardson coefficientsSee also[edit]See also[edit][edit]
+Casimir operator
+Casimir operatorCasimir operatorReferences[edit]References[edit][edit]
+
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X 
+
+
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X 
+^ Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X ^^^Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-X Fuchs, Jurgen (1992), Affine Lie Algebras and Quantum Groups, Cambridge University Press, ISBN 0-521-48412-XAffine Lie Algebras and Quantum GroupsISBN0-521-48412-X  
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Charge_(physics)&oldid=714629444"					https://en.wikipedia.org/w/index.php?title=Charge_(physics)&oldid=714629444Categories: ElectromagnetismQuantum chromodynamicsPhysical quantitiesHidden categories: Articles needing additional references from October 2015All articles needing additional referencesCategories: ElectromagnetismQuantum chromodynamicsPhysical quantitiesCategoriesElectromagnetismQuantum chromodynamicsPhysical quantitiesElectromagnetismElectromagnetismQuantum chromodynamicsQuantum chromodynamicsPhysical quantitiesPhysical quantitiesHidden categories: Articles needing additional references from October 2015All articles needing additional referencesArticles needing additional references from October 2015All articles needing additional referencesArticles needing additional references from October 2015Articles needing additional references from October 2015All articles needing additional referencesAll articles needing additional references
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةCymraegDeutschEestiفارسیFrançaisIdoItalianoMagyarNederlands日本語PolskiPortuguêsРусский中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةCymraegDeutschEestiفارسیFrançaisIdoItalianoMagyarNederlands日本語PolskiPortuguêsРусский中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةCymraegDeutschEestiفارسیFrançaisIdoItalianoMagyarNederlands日本語PolskiPortuguêsРусский中文 
+Edit links 
+Languages
+
+العربيةCymraegDeutschEestiفارسیFrançaisIdoItalianoMagyarNederlands日本語PolskiPortuguêsРусский中文 
+Edit links 
+العربيةCymraegDeutschEestiفارسیFrançaisIdoItalianoMagyarNederlands日本語PolskiPortuguêsРусский中文 العربيةالعربيةCymraegCymraegDeutschDeutschEestiEestiفارسیفارسیFrançaisFrançaisIdoIdoItalianoItalianoMagyarMagyarNederlandsNederlands日本語日本語PolskiPolskiPortuguêsPortuguêsРусскийРусский中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 10 April 2016, at 22:36.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 10 April 2016, at 22:36.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 10 April 2016, at 22:36.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

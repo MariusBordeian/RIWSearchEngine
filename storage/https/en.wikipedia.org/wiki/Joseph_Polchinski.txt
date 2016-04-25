@@ -1,0 +1,935 @@
+Joseph Polchinski - Wikipedia, the free encyclopedia
+
+
+
+
+Joseph Polchinski
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Joseph Polchinski
+
+
+
+Joe Polchinski in Santa Barbara
+
+
+
+Born
+(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York
+
+
+Institutions
+University of California, Santa Barbara
+
+
+Doctoral advisor
+Stanley Mandelstam
+
+
+Known for
+D-branes
+
+
+Notable awards
+Dannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)
+
+
+Joseph Polchinski (born May 16, 1954) is an American theoretical physicist and string theorist. He graduated from Canyon del Oro High School in Tucson, Arizona in 1971, obtained his B.S. degree from Caltech in 1975, and his Ph.D. from the University of California, Berkeley in 1980 under the supervision of Stanley Mandelstam. After postdoctoral positions at SLAC (1980–82) and Harvard (1982–84) he was professor at the University of Texas at Austin from 1984 to 1992. Since 1992 he has been professor in the Physics Department of the University of California, Santa Barbara and a permanent member of the Kavli Institute for Theoretical Physics there.[1]
+Polchinski is the author of the two–volume textbook String Theory, published in 1998. Among his contributions to theoretical physics, D-branes are the best known. In 2008 he won the Dirac Medal for his work in superstring theory.[2]
+
+
+
+Contents
+
+
+1 Polchinski's paradox
+2 2012 paper on Black Holes
+3 Bibliography
+4 References
+5 External links
+
+
+
+Polchinski's paradox[edit]
+In 1990, commenting on the Novikov self-consistency principle (in relation to sending objects or people through a traversable wormhole into the past, and the time paradoxes that could result), Polchinski raised a potentially paradoxical situation involving a billiard ball sent through a wormhole which sends it back in time. In this scenario, the ball is fired into a wormhole at an angle such that, if it continues along that path, it will exit the wormhole in the past at just the right angle to collide with its earlier self, thereby knocking it off course and preventing it from entering the wormhole in the first place. Physicist Kip Thorne deemed this problem "Polchinski's paradox". Later students of the whimsical problem came up with solutions which managed to avoid any inconsistencies, by having the ball emerge from the future at a different angle than the one used to generate the paradox, and deliver its younger self a glancing blow instead of knocking it completely away from the wormhole, a blow which changes its trajectory in just the right way so that it will travel back in time with the angle required to deliver its younger self this glancing blow.[3]
+2012 paper on Black Holes[edit]
+Main article: Firewall (physics)
+In July 2012, Polchinski, together with two of his students — Ahmed Almheiri and James Sully — and fellow string theorist Donald Marolf at the University of California, Santa Barbara (UCSB), published a paper whose calculations about black hole radiation seemed to suggest that either Relativity Theory's equivalence principle is wrong, or else a key tenet of quantum mechanics is incorrect.[4]
+Bibliography[edit]
+
+Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6 
+Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4 
+
+References[edit]
+
+
+^ http://www.kitp.ucsb.edu/~joep/
+^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx
+^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. 
+^ Astrophysics: Fire in the hole!
+
+
+External links[edit]
+
+Personal website
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Joseph_Polchinski&oldid=703290569"					
+Categories: People from White Plains, New York1954 birthsLiving peopleString theoristsAmerican physicistsHarvard University staffCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyTheoretical physicistsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+
+
+Joseph Polchinski
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Joseph Polchinski
+
+
+
+Joe Polchinski in Santa Barbara
+
+
+
+Born
+(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York
+
+
+Institutions
+University of California, Santa Barbara
+
+
+Doctoral advisor
+Stanley Mandelstam
+
+
+Known for
+D-branes
+
+
+Notable awards
+Dannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)
+
+
+Joseph Polchinski (born May 16, 1954) is an American theoretical physicist and string theorist. He graduated from Canyon del Oro High School in Tucson, Arizona in 1971, obtained his B.S. degree from Caltech in 1975, and his Ph.D. from the University of California, Berkeley in 1980 under the supervision of Stanley Mandelstam. After postdoctoral positions at SLAC (1980–82) and Harvard (1982–84) he was professor at the University of Texas at Austin from 1984 to 1992. Since 1992 he has been professor in the Physics Department of the University of California, Santa Barbara and a permanent member of the Kavli Institute for Theoretical Physics there.[1]
+Polchinski is the author of the two–volume textbook String Theory, published in 1998. Among his contributions to theoretical physics, D-branes are the best known. In 2008 he won the Dirac Medal for his work in superstring theory.[2]
+
+
+
+Contents
+
+
+1 Polchinski's paradox
+2 2012 paper on Black Holes
+3 Bibliography
+4 References
+5 External links
+
+
+
+Polchinski's paradox[edit]
+In 1990, commenting on the Novikov self-consistency principle (in relation to sending objects or people through a traversable wormhole into the past, and the time paradoxes that could result), Polchinski raised a potentially paradoxical situation involving a billiard ball sent through a wormhole which sends it back in time. In this scenario, the ball is fired into a wormhole at an angle such that, if it continues along that path, it will exit the wormhole in the past at just the right angle to collide with its earlier self, thereby knocking it off course and preventing it from entering the wormhole in the first place. Physicist Kip Thorne deemed this problem "Polchinski's paradox". Later students of the whimsical problem came up with solutions which managed to avoid any inconsistencies, by having the ball emerge from the future at a different angle than the one used to generate the paradox, and deliver its younger self a glancing blow instead of knocking it completely away from the wormhole, a blow which changes its trajectory in just the right way so that it will travel back in time with the angle required to deliver its younger self this glancing blow.[3]
+2012 paper on Black Holes[edit]
+Main article: Firewall (physics)
+In July 2012, Polchinski, together with two of his students — Ahmed Almheiri and James Sully — and fellow string theorist Donald Marolf at the University of California, Santa Barbara (UCSB), published a paper whose calculations about black hole radiation seemed to suggest that either Relativity Theory's equivalence principle is wrong, or else a key tenet of quantum mechanics is incorrect.[4]
+Bibliography[edit]
+
+Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6 
+Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4 
+
+References[edit]
+
+
+^ http://www.kitp.ucsb.edu/~joep/
+^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx
+^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. 
+^ Astrophysics: Fire in the hole!
+
+
+External links[edit]
+
+Personal website
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Joseph_Polchinski&oldid=703290569"					
+Categories: People from White Plains, New York1954 birthsLiving peopleString theoristsAmerican physicistsHarvard University staffCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyTheoretical physicistsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Joseph Polchinski
+
+
+
+Joe Polchinski in Santa Barbara
+
+
+
+Born
+(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York
+
+
+Institutions
+University of California, Santa Barbara
+
+
+Doctoral advisor
+Stanley Mandelstam
+
+
+Known for
+D-branes
+
+
+Notable awards
+Dannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)
+
+
+Joseph Polchinski (born May 16, 1954) is an American theoretical physicist and string theorist. He graduated from Canyon del Oro High School in Tucson, Arizona in 1971, obtained his B.S. degree from Caltech in 1975, and his Ph.D. from the University of California, Berkeley in 1980 under the supervision of Stanley Mandelstam. After postdoctoral positions at SLAC (1980–82) and Harvard (1982–84) he was professor at the University of Texas at Austin from 1984 to 1992. Since 1992 he has been professor in the Physics Department of the University of California, Santa Barbara and a permanent member of the Kavli Institute for Theoretical Physics there.[1]
+Polchinski is the author of the two–volume textbook String Theory, published in 1998. Among his contributions to theoretical physics, D-branes are the best known. In 2008 he won the Dirac Medal for his work in superstring theory.[2]
+
+
+
+Contents
+
+
+1 Polchinski's paradox
+2 2012 paper on Black Holes
+3 Bibliography
+4 References
+5 External links
+
+
+
+Polchinski's paradox[edit]
+In 1990, commenting on the Novikov self-consistency principle (in relation to sending objects or people through a traversable wormhole into the past, and the time paradoxes that could result), Polchinski raised a potentially paradoxical situation involving a billiard ball sent through a wormhole which sends it back in time. In this scenario, the ball is fired into a wormhole at an angle such that, if it continues along that path, it will exit the wormhole in the past at just the right angle to collide with its earlier self, thereby knocking it off course and preventing it from entering the wormhole in the first place. Physicist Kip Thorne deemed this problem "Polchinski's paradox". Later students of the whimsical problem came up with solutions which managed to avoid any inconsistencies, by having the ball emerge from the future at a different angle than the one used to generate the paradox, and deliver its younger self a glancing blow instead of knocking it completely away from the wormhole, a blow which changes its trajectory in just the right way so that it will travel back in time with the angle required to deliver its younger self this glancing blow.[3]
+2012 paper on Black Holes[edit]
+Main article: Firewall (physics)
+In July 2012, Polchinski, together with two of his students — Ahmed Almheiri and James Sully — and fellow string theorist Donald Marolf at the University of California, Santa Barbara (UCSB), published a paper whose calculations about black hole radiation seemed to suggest that either Relativity Theory's equivalence principle is wrong, or else a key tenet of quantum mechanics is incorrect.[4]
+Bibliography[edit]
+
+Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6 
+Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4 
+
+References[edit]
+
+
+^ http://www.kitp.ucsb.edu/~joep/
+^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx
+^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. 
+^ Astrophysics: Fire in the hole!
+
+
+External links[edit]
+
+Personal website
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joseph Polchinski
+
+
+
+Joe Polchinski in Santa Barbara
+
+
+
+Born
+(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York
+
+
+Institutions
+University of California, Santa Barbara
+
+
+Doctoral advisor
+Stanley Mandelstam
+
+
+Known for
+D-branes
+
+
+Notable awards
+Dannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)
+
+
+Joseph Polchinski
+Joseph PolchinskiJoseph Polchinski
+
+Joe Polchinski in Santa Barbara
+
+
+Joe Polchinski in Santa Barbara
+Joe Polchinski in Santa Barbara
+Born
+(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York
+Born(1954-05-16) May 16, 1954 (age 61)
+White Plains, New York(1954-05-16)1954-05-16(age 61)White Plains
+Institutions
+University of California, Santa Barbara
+InstitutionsUniversity of California, Santa BarbaraUniversity of California, Santa Barbara
+Doctoral advisor
+Stanley Mandelstam
+Doctoral advisorDoctoral advisorStanley MandelstamStanley Mandelstam
+Known for
+D-branes
+Known forD-branesD-branes
+Notable awards
+Dannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)
+Notable awardsDannie Heineman Prize for Mathematical Physics (2007)
+Dirac Medal (2008)
+Physics Frontier Prize (2013)Dannie Heineman Prize for Mathematical PhysicsDirac MedalPhysics Frontier PrizeJoseph Polchinski (born May 16, 1954) is an American theoretical physicist and string theorist. He graduated from Canyon del Oro High School in Tucson, Arizona in 1971, obtained his B.S. degree from Caltech in 1975, and his Ph.D. from the University of California, Berkeley in 1980 under the supervision of Stanley Mandelstam. After postdoctoral positions at SLAC (1980–82) and Harvard (1982–84) he was professor at the University of Texas at Austin from 1984 to 1992. Since 1992 he has been professor in the Physics Department of the University of California, Santa Barbara and a permanent member of the Kavli Institute for Theoretical Physics there.[1]Joseph Polchinskitheoretical physiciststring theoristCanyon del Oro High SchoolCaltechUniversity of California, BerkeleyStanley MandelstamSLACUniversity of Texas at AustinPhysics Department of the University of California, Santa BarbaraKavli Institute for Theoretical Physics[1][1]Polchinski is the author of the two–volume textbook String Theory, published in 1998. Among his contributions to theoretical physics, D-branes are the best known. In 2008 he won the Dirac Medal for his work in superstring theory.[2]String Theorytheoretical physicsD-branesDirac Medalsuperstring theory[2][2]
+
+Contents
+
+
+1 Polchinski's paradox
+2 2012 paper on Black Holes
+3 Bibliography
+4 References
+5 External links
+
+
+Contents
+Contents
+1 Polchinski's paradox
+2 2012 paper on Black Holes
+3 Bibliography
+4 References
+5 External links
+1 Polchinski's paradox1 Polchinski's paradox1Polchinski's paradox2 2012 paper on Black Holes2 2012 paper on Black Holes22012 paper on Black Holes3 Bibliography3 Bibliography3Bibliography4 References4 References4References5 External links5 External links5External linksPolchinski's paradox[edit]Polchinski's paradox[edit][edit]In 1990, commenting on the Novikov self-consistency principle (in relation to sending objects or people through a traversable wormhole into the past, and the time paradoxes that could result), Polchinski raised a potentially paradoxical situation involving a billiard ball sent through a wormhole which sends it back in time. In this scenario, the ball is fired into a wormhole at an angle such that, if it continues along that path, it will exit the wormhole in the past at just the right angle to collide with its earlier self, thereby knocking it off course and preventing it from entering the wormhole in the first place. Physicist Kip Thorne deemed this problem "Polchinski's paradox". Later students of the whimsical problem came up with solutions which managed to avoid any inconsistencies, by having the ball emerge from the future at a different angle than the one used to generate the paradox, and deliver its younger self a glancing blow instead of knocking it completely away from the wormhole, a blow which changes its trajectory in just the right way so that it will travel back in time with the angle required to deliver its younger self this glancing blow.[3]Novikov self-consistency principletraversable wormholetime paradoxesbilliard ballwormholeKip Thorne[3][3]2012 paper on Black Holes[edit]2012 paper on Black Holes[edit][edit]Main article: Firewall (physics)Firewall (physics)In July 2012, Polchinski, together with two of his students — Ahmed Almheiri and James Sully — and fellow string theorist Donald Marolf at the University of California, Santa Barbara (UCSB), published a paper whose calculations about black hole radiation seemed to suggest that either Relativity Theory's equivalence principle is wrong, or else a key tenet of quantum mechanics is incorrect.[4]Donald Marolfblack hole radiation[4][4]Bibliography[edit]Bibliography[edit][edit]
+Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6 
+Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4 
+Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6 Polchinski, Joseph (1998a), String Theory Vol. I: An Introduction to the Bosonic String, Cambridge University Press, ISBN 0-521-63303-6String Theory Vol. I: An Introduction to the Bosonic StringCambridge University PressISBN0-521-63303-6  Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4 Polchinski, Joseph (1998b), String Theory Vol. II: Superstring Theory and Beyond, Cambridge University Press, ISBN 0-521-63304-4String Theory Vol. II: Superstring Theory and BeyondCambridge University PressISBN0-521-63304-4  References[edit]References[edit][edit]
+
+^ http://www.kitp.ucsb.edu/~joep/
+^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx
+^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. 
+^ Astrophysics: Fire in the hole!
+
+
+^ http://www.kitp.ucsb.edu/~joep/
+^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx
+^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. 
+^ Astrophysics: Fire in the hole!
+^ http://www.kitp.ucsb.edu/~joep/^^^http://www.kitp.ucsb.edu/~joep/http://www.kitp.ucsb.edu/~joep/^ http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx^^^http://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspxhttp://www.ictp.it/about-ictp/prizes-awards/the-dirac-medal/the-medallists-%281%29/dirac-medallists-2008.aspx^ Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. ^^^Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3. Thorne, Kip S. (1994). Black Holes and Time Warps. W. W. Norton. pp. 510–513. ISBN 0-393-31276-3.Thorne, Kip S.Black Holes and Time WarpsBlack Holes and Time WarpsISBN0-393-31276-3  ^ Astrophysics: Fire in the hole!^^^Astrophysics: Fire in the hole!Astrophysics: Fire in the hole!External links[edit]External links[edit][edit]
+Personal website
+Personal websitePersonal website
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+
+
+WorldCat Identities
+VIAF: 56840835
+LCCN: n87120768
+ISNI: 0000 0001 1027 3983
+GND: 13813247X
+SUDOC: 085084433
+BNF: cb14500472j (data)
+MGP: 45758
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 56840835VIAF5684083556840835LCCN: n87120768LCCNn87120768n87120768ISNI: 0000 0001 1027 3983ISNI0000 0001 1027 39830000 0001 1027 3983GND: 13813247XGND13813247X13813247XSUDOC: 085084433SUDOC085084433085084433BNF: cb14500472j (data)BNFcb14500472j (data)cb14500472j(data)MGP: 45758MGP4575845758
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Joseph_Polchinski&oldid=703290569"					https://en.wikipedia.org/w/index.php?title=Joseph_Polchinski&oldid=703290569Categories: People from White Plains, New York1954 birthsLiving peopleString theoristsAmerican physicistsHarvard University staffCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyTheoretical physicistsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersCategories: People from White Plains, New York1954 birthsLiving peopleString theoristsAmerican physicistsHarvard University staffCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyTheoretical physicistsCategoriesPeople from White Plains, New York1954 birthsLiving peopleString theoristsAmerican physicistsHarvard University staffCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyTheoretical physicistsPeople from White Plains, New YorkPeople from White Plains, New York1954 births1954 birthsLiving peopleLiving peopleString theoristsString theoristsAmerican physicistsAmerican physicistsHarvard University staffHarvard University staffCalifornia Institute of Technology alumniCalifornia Institute of Technology alumniUniversity of California, Berkeley alumniUniversity of California, Berkeley alumniUniversity of Texas at Austin facultyUniversity of Texas at Austin facultyUniversity of California, Santa Barbara facultyUniversity of California, Santa Barbara facultyTheoretical physicistsTheoretical physicistsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어ItalianoNederlands日本語PolskiPortuguêsSlovenčina 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어ItalianoNederlands日本語PolskiPortuguêsSlovenčina 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+বাংলাDeutschفارسیFrançais한국어ItalianoNederlands日本語PolskiPortuguêsSlovenčina 
+Edit links 
+Languages
+
+বাংলাDeutschفارسیFrançais한국어ItalianoNederlands日本語PolskiPortuguêsSlovenčina 
+Edit links 
+বাংলাDeutschفارسیFrançais한국어ItalianoNederlands日本語PolskiPortuguêsSlovenčina বাংলাবাংলাDeutschDeutschفارسیفارسیFrançaisFrançais한국어한국어ItalianoItalianoNederlandsNederlands日本語日本語PolskiPolskiPortuguêsPortuguêsSlovenčinaSlovenčinaEdit linksEdit linksEdit links
+
+ This page was last modified on 4 February 2016, at 16:59.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 4 February 2016, at 16:59.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 4 February 2016, at 16:59.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

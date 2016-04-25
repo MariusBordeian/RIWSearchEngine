@@ -1,0 +1,2073 @@
+S-duality - Wikipedia, the free encyclopedia
+
+
+
+
+S-duality
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about S-duality (strong–weak duality) in physics.  For the mathematical S-duality (Spanier–Whitehead duality), see S-duality (homotopy theory).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, S-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. S-duality is useful for doing calculations in theoretical physics because it relates a theory in which calculations are difficult to a theory in which they are easier.[1]
+In quantum field theory, S-duality generalizes a well known fact from classical electrodynamics, namely the invariance of Maxwell's equations under the interchange of electric and magnetic fields. One of the earliest known examples of S-duality in quantum field theory is Montonen–Olive duality which relates two versions of a quantum field theory called N = 4 supersymmetric Yang–Mills theory. Recent work of Anton Kapustin and Edward Witten suggests that Montonen–Olive duality is closely related to a research program in mathematics called the geometric Langlands program. Another realization of S-duality in quantum field theory is Seiberg duality, which relates two versions of a theory called N=1 supersymmetric Yang–Mills theory.
+There are also many examples of S-duality in string theory. The existence of these string dualities implies that seemingly different formulations of string theory are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.[2]
+
+
+
+Contents
+
+
+1 Overview
+2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+
+3 S-duality in string theory
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+In quantum field theory and string theory, a coupling constant is a number that controls the strength of interactions in the theory. For example, the strength of gravity is described by a number called Newton's constant, which appears in Newton's law of gravity and also in the equations of Albert Einstein's general theory of relativity. Similarly, the strength of the electromagnetic force is described by a coupling constant, which is related to the charge carried by a single proton.
+To compute observable quantities in quantum field theory or string theory, physicists typically apply the methods of perturbation theory. In perturbation theory, quantities called probability amplitudes, which determine the probability for various physical processes to occur, are expressed as sums of infinitely many terms, where each term is proportional to a power of the coupling constant :
+
+.
+
+In order for such an expression to make sense, the coupling constant must be less than 1 so that the higher powers of  become negligibly small and the sum is finite. If the coupling constant is not less than 1, then the terms of this sum will grow larger and larger, and the expression gives a meaningless infinite answer. In this case the theory is said to be strongly coupled, and one cannot use perturbation theory to make predictions.
+For certain theories, S-duality provides a way of doing computations at strong coupling by translating these computations into different computations in a weakly coupled theory. S-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+S-duality is useful because it relates a theory with coupling constant  to an equivalent theory with coupling constant . Thus it relates a strongly coupled theory (where the coupling constant  is much greater than 1) to a weakly coupled theory (where the coupling constant  is much less than 1 and computations are possible). For this reason, S-duality is called a strong-weak duality.
+S-duality in quantum field theory[edit]
+A symmetry of Maxwell's equations[edit]
+In classical physics, the behavior of the electric and magnetic field is described by a system of equations known as Maxwell's equations. Working in the language of vector calculus and assuming that no electric charges or currents are present, these equations can be written[3]
+
+
+
+Here  is a vector (or more precisely a vector field whose magnitude and direction may vary from point to point in space) representing the electric field,  is a vector representing the magnetic field,  is time, and  is the speed of light. The other symbols in these equations refer to the divergence and curl, which are concepts from vector calculus.
+An important property of these equations[4] is their invariance under the transformation that simultaneously replaces the electric field  by the magnetic field  and replaces  by :
+
+
+
+In other words, given a pair of electric and magnetic fields that solve Maxwell's equations, it is possible to describe a new physical setup in which these electric and magnetic fields are essentially interchanged, and the new fields will again give a solution of Maxwell's equations. This situation is the most basic manifestation of S-duality in quantum field theory.
+Montonen–Olive duality[edit]
+Main article: Montonen–Olive duality
+In quantum field theory, the electric and magnetic fields are unified into a single entity called the electromagnetic field, and this field is described by a special type of quantum field theory called a gauge theory or Yang–Mills theory. In a gauge theory, the physical fields have a high degree of symmetry which can be understood mathematically using the notion of a Lie group. This Lie group is known as the gauge group. The electromagnetic field is described by a very simple gauge theory corresponding to the abelian gauge group U(1), but there are other gauge theories with more complicated non-abelian gauge groups.[5]
+It is natural to ask whether there is an analog in gauge theory of the symmetry interchanging the electric and magnetic fields in Maxwell's equations. The answer was given in the late 1970s by Claus Montonen and David Olive,[6] building on earlier work of Peter Goddard, Jean Nuyts, and Olive.[7] Their work provides an example of S-duality now known as Montonen–Olive duality. Montonen–Olive duality applies to a very special type of gauge theory called N = 4 supersymmetric Yang–Mills theory, and it says that two such theories may be equivalent in a certain precise sense.[1] If one of the theories has a gauge group , then the dual theory has gauge group  where  denotes the Langlands dual group which is in general different from .[8]
+An important quantity in quantum field theory is complexified coupling constant. This is a complex number defined by the formula[9]
+
+
+
+where  is the theta angle, a quantity appearing in the Lagrangian that defines the theory,[9] and  is the coupling constant. For example, in the Yang–Mills theory that describes the electromagnetic field, this number  is simply the elementary charge  carried by a single proton.[1] In addition to exchanging the gauge groups of the two theories, Montonen–Olive duality transforms a theory with complexified coupling coupling constant  to a theory with complexified constant .[9]
+Relation to the Langlands program[edit]
+
+
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.
+
+
+Main article: Langlands program
+In mathematics, the classical Langlands correspondence is a collection of results and conjectures relating number theory to the branch of mathematics known as representation theory.[10] Formulated by Robert Langlands in the late 1960s, the Langlands correspondence is related to important conjectures in number theory such as the Taniyama-Shimura conjecture, which includes Fermat's last theorem as a special case.[10]
+In spite of its importance in number theory, establishing the Langlands correspondence in the number theoretic context has proved extremely difficult.[10] As a result, some mathematicians have worked on a related conjecture known as the geometric Langlands correspondence. This is a geometric reformulation of the classical Langlands correspondence which is obtained by replacing the number fields appearing in the original version by function fields and applying techniques from algebraic geometry.[10]
+In a paper from 2007, Anton Kapustin and Edward Witten suggested that the geometric Langlands correspondence can be viewed as a mathematical statement of Montonen–Olive duality.[11] Starting with two Yang–Mills theories related by S-duality, Kapustin and Witten showed that one can construct a pair of quantum field theories in two-dimensional spacetime. By analyzing what this dimensional reduction does to certain physical objects called D-branes, they showed that one can recover the mathematical ingredients of the geometric Langlands correspondence.[12] Their work shows that the Langlands correspondence is closely related to S-duality in quantum field theory, with possible applications in both subjects.[10]
+Seiberg duality[edit]
+Main article: Seiberg duality
+Another realization of S-duality in quantum field theory is Seiberg duality, first introduced by Nathan Seiberg around 1995.[13] Unlike Montonen–Olive duality, which relates two versions of the maximally supersymmetric gauge theory in four-dimensional spacetime, Seiberg duality relates less symmetric theories called N=1 supersymmetric gauge theories. The two N=1 theories appearing in Seiberg duality are not identical, but they give rise to the same physics at large distances. Like Montonen–Olive duality, Seiberg duality generalizes the symmetry of Maxwell's equations that interchanges electric and magnetic fields.
+S-duality in string theory[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is S-duality. The existence of S-duality in string theory was first proposed by Ashoke Sen in 1994.[14] It was shown that type IIB string theory with the coupling constant  is equivalent via S-duality to the same string theory with the coupling constant . Similarly, type I string theory with the coupling  is equivalent to the SO(32) heterotic string theory with the coupling constant .
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[15] Witten's proposal was based on the observation that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+See also[edit]
+
+T-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ a b c Frenkel 2009, p.2
+^ Zwiebach 2009, p.325
+^ Griffiths 1999, p.326
+^ Griffiths 1999, p.327
+^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.
+^ Montonen and Olive 1977
+^ Goddard, Nuyts, and Olive 1977
+^ Frenkel 2009, p.5
+^ a b c Frenkel 2009, p.12
+^ a b c d e Frenkel 2007
+^ Kapustin and Witten 2007
+^ Aspinwall et al. 2009, p.415
+^ Seiberg 1995
+^ Sen 1994
+^ Witten 1995
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F. 
+Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki. 
+Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8. 
+Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall. 
+Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1. 
+Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4. 
+Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8. 
+Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6. 
+Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=S-duality&oldid=709314225"					
+Categories: Quantum field theoryString theory 
+
+
+S-duality
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about S-duality (strong–weak duality) in physics.  For the mathematical S-duality (Spanier–Whitehead duality), see S-duality (homotopy theory).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, S-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. S-duality is useful for doing calculations in theoretical physics because it relates a theory in which calculations are difficult to a theory in which they are easier.[1]
+In quantum field theory, S-duality generalizes a well known fact from classical electrodynamics, namely the invariance of Maxwell's equations under the interchange of electric and magnetic fields. One of the earliest known examples of S-duality in quantum field theory is Montonen–Olive duality which relates two versions of a quantum field theory called N = 4 supersymmetric Yang–Mills theory. Recent work of Anton Kapustin and Edward Witten suggests that Montonen–Olive duality is closely related to a research program in mathematics called the geometric Langlands program. Another realization of S-duality in quantum field theory is Seiberg duality, which relates two versions of a theory called N=1 supersymmetric Yang–Mills theory.
+There are also many examples of S-duality in string theory. The existence of these string dualities implies that seemingly different formulations of string theory are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.[2]
+
+
+
+Contents
+
+
+1 Overview
+2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+
+3 S-duality in string theory
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+In quantum field theory and string theory, a coupling constant is a number that controls the strength of interactions in the theory. For example, the strength of gravity is described by a number called Newton's constant, which appears in Newton's law of gravity and also in the equations of Albert Einstein's general theory of relativity. Similarly, the strength of the electromagnetic force is described by a coupling constant, which is related to the charge carried by a single proton.
+To compute observable quantities in quantum field theory or string theory, physicists typically apply the methods of perturbation theory. In perturbation theory, quantities called probability amplitudes, which determine the probability for various physical processes to occur, are expressed as sums of infinitely many terms, where each term is proportional to a power of the coupling constant :
+
+.
+
+In order for such an expression to make sense, the coupling constant must be less than 1 so that the higher powers of  become negligibly small and the sum is finite. If the coupling constant is not less than 1, then the terms of this sum will grow larger and larger, and the expression gives a meaningless infinite answer. In this case the theory is said to be strongly coupled, and one cannot use perturbation theory to make predictions.
+For certain theories, S-duality provides a way of doing computations at strong coupling by translating these computations into different computations in a weakly coupled theory. S-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+S-duality is useful because it relates a theory with coupling constant  to an equivalent theory with coupling constant . Thus it relates a strongly coupled theory (where the coupling constant  is much greater than 1) to a weakly coupled theory (where the coupling constant  is much less than 1 and computations are possible). For this reason, S-duality is called a strong-weak duality.
+S-duality in quantum field theory[edit]
+A symmetry of Maxwell's equations[edit]
+In classical physics, the behavior of the electric and magnetic field is described by a system of equations known as Maxwell's equations. Working in the language of vector calculus and assuming that no electric charges or currents are present, these equations can be written[3]
+
+
+
+Here  is a vector (or more precisely a vector field whose magnitude and direction may vary from point to point in space) representing the electric field,  is a vector representing the magnetic field,  is time, and  is the speed of light. The other symbols in these equations refer to the divergence and curl, which are concepts from vector calculus.
+An important property of these equations[4] is their invariance under the transformation that simultaneously replaces the electric field  by the magnetic field  and replaces  by :
+
+
+
+In other words, given a pair of electric and magnetic fields that solve Maxwell's equations, it is possible to describe a new physical setup in which these electric and magnetic fields are essentially interchanged, and the new fields will again give a solution of Maxwell's equations. This situation is the most basic manifestation of S-duality in quantum field theory.
+Montonen–Olive duality[edit]
+Main article: Montonen–Olive duality
+In quantum field theory, the electric and magnetic fields are unified into a single entity called the electromagnetic field, and this field is described by a special type of quantum field theory called a gauge theory or Yang–Mills theory. In a gauge theory, the physical fields have a high degree of symmetry which can be understood mathematically using the notion of a Lie group. This Lie group is known as the gauge group. The electromagnetic field is described by a very simple gauge theory corresponding to the abelian gauge group U(1), but there are other gauge theories with more complicated non-abelian gauge groups.[5]
+It is natural to ask whether there is an analog in gauge theory of the symmetry interchanging the electric and magnetic fields in Maxwell's equations. The answer was given in the late 1970s by Claus Montonen and David Olive,[6] building on earlier work of Peter Goddard, Jean Nuyts, and Olive.[7] Their work provides an example of S-duality now known as Montonen–Olive duality. Montonen–Olive duality applies to a very special type of gauge theory called N = 4 supersymmetric Yang–Mills theory, and it says that two such theories may be equivalent in a certain precise sense.[1] If one of the theories has a gauge group , then the dual theory has gauge group  where  denotes the Langlands dual group which is in general different from .[8]
+An important quantity in quantum field theory is complexified coupling constant. This is a complex number defined by the formula[9]
+
+
+
+where  is the theta angle, a quantity appearing in the Lagrangian that defines the theory,[9] and  is the coupling constant. For example, in the Yang–Mills theory that describes the electromagnetic field, this number  is simply the elementary charge  carried by a single proton.[1] In addition to exchanging the gauge groups of the two theories, Montonen–Olive duality transforms a theory with complexified coupling coupling constant  to a theory with complexified constant .[9]
+Relation to the Langlands program[edit]
+
+
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.
+
+
+Main article: Langlands program
+In mathematics, the classical Langlands correspondence is a collection of results and conjectures relating number theory to the branch of mathematics known as representation theory.[10] Formulated by Robert Langlands in the late 1960s, the Langlands correspondence is related to important conjectures in number theory such as the Taniyama-Shimura conjecture, which includes Fermat's last theorem as a special case.[10]
+In spite of its importance in number theory, establishing the Langlands correspondence in the number theoretic context has proved extremely difficult.[10] As a result, some mathematicians have worked on a related conjecture known as the geometric Langlands correspondence. This is a geometric reformulation of the classical Langlands correspondence which is obtained by replacing the number fields appearing in the original version by function fields and applying techniques from algebraic geometry.[10]
+In a paper from 2007, Anton Kapustin and Edward Witten suggested that the geometric Langlands correspondence can be viewed as a mathematical statement of Montonen–Olive duality.[11] Starting with two Yang–Mills theories related by S-duality, Kapustin and Witten showed that one can construct a pair of quantum field theories in two-dimensional spacetime. By analyzing what this dimensional reduction does to certain physical objects called D-branes, they showed that one can recover the mathematical ingredients of the geometric Langlands correspondence.[12] Their work shows that the Langlands correspondence is closely related to S-duality in quantum field theory, with possible applications in both subjects.[10]
+Seiberg duality[edit]
+Main article: Seiberg duality
+Another realization of S-duality in quantum field theory is Seiberg duality, first introduced by Nathan Seiberg around 1995.[13] Unlike Montonen–Olive duality, which relates two versions of the maximally supersymmetric gauge theory in four-dimensional spacetime, Seiberg duality relates less symmetric theories called N=1 supersymmetric gauge theories. The two N=1 theories appearing in Seiberg duality are not identical, but they give rise to the same physics at large distances. Like Montonen–Olive duality, Seiberg duality generalizes the symmetry of Maxwell's equations that interchanges electric and magnetic fields.
+S-duality in string theory[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is S-duality. The existence of S-duality in string theory was first proposed by Ashoke Sen in 1994.[14] It was shown that type IIB string theory with the coupling constant  is equivalent via S-duality to the same string theory with the coupling constant . Similarly, type I string theory with the coupling  is equivalent to the SO(32) heterotic string theory with the coupling constant .
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[15] Witten's proposal was based on the observation that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+See also[edit]
+
+T-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ a b c Frenkel 2009, p.2
+^ Zwiebach 2009, p.325
+^ Griffiths 1999, p.326
+^ Griffiths 1999, p.327
+^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.
+^ Montonen and Olive 1977
+^ Goddard, Nuyts, and Olive 1977
+^ Frenkel 2009, p.5
+^ a b c Frenkel 2009, p.12
+^ a b c d e Frenkel 2007
+^ Kapustin and Witten 2007
+^ Aspinwall et al. 2009, p.415
+^ Seiberg 1995
+^ Sen 1994
+^ Witten 1995
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F. 
+Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki. 
+Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8. 
+Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall. 
+Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1. 
+Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4. 
+Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8. 
+Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6. 
+Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=S-duality&oldid=709314225"					
+Categories: Quantum field theoryString theory 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is about S-duality (strong–weak duality) in physics.  For the mathematical S-duality (Spanier–Whitehead duality), see S-duality (homotopy theory).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, S-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. S-duality is useful for doing calculations in theoretical physics because it relates a theory in which calculations are difficult to a theory in which they are easier.[1]
+In quantum field theory, S-duality generalizes a well known fact from classical electrodynamics, namely the invariance of Maxwell's equations under the interchange of electric and magnetic fields. One of the earliest known examples of S-duality in quantum field theory is Montonen–Olive duality which relates two versions of a quantum field theory called N = 4 supersymmetric Yang–Mills theory. Recent work of Anton Kapustin and Edward Witten suggests that Montonen–Olive duality is closely related to a research program in mathematics called the geometric Langlands program. Another realization of S-duality in quantum field theory is Seiberg duality, which relates two versions of a theory called N=1 supersymmetric Yang–Mills theory.
+There are also many examples of S-duality in string theory. The existence of these string dualities implies that seemingly different formulations of string theory are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.[2]
+
+
+
+Contents
+
+
+1 Overview
+2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+
+3 S-duality in string theory
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+In quantum field theory and string theory, a coupling constant is a number that controls the strength of interactions in the theory. For example, the strength of gravity is described by a number called Newton's constant, which appears in Newton's law of gravity and also in the equations of Albert Einstein's general theory of relativity. Similarly, the strength of the electromagnetic force is described by a coupling constant, which is related to the charge carried by a single proton.
+To compute observable quantities in quantum field theory or string theory, physicists typically apply the methods of perturbation theory. In perturbation theory, quantities called probability amplitudes, which determine the probability for various physical processes to occur, are expressed as sums of infinitely many terms, where each term is proportional to a power of the coupling constant :
+
+.
+
+In order for such an expression to make sense, the coupling constant must be less than 1 so that the higher powers of  become negligibly small and the sum is finite. If the coupling constant is not less than 1, then the terms of this sum will grow larger and larger, and the expression gives a meaningless infinite answer. In this case the theory is said to be strongly coupled, and one cannot use perturbation theory to make predictions.
+For certain theories, S-duality provides a way of doing computations at strong coupling by translating these computations into different computations in a weakly coupled theory. S-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+S-duality is useful because it relates a theory with coupling constant  to an equivalent theory with coupling constant . Thus it relates a strongly coupled theory (where the coupling constant  is much greater than 1) to a weakly coupled theory (where the coupling constant  is much less than 1 and computations are possible). For this reason, S-duality is called a strong-weak duality.
+S-duality in quantum field theory[edit]
+A symmetry of Maxwell's equations[edit]
+In classical physics, the behavior of the electric and magnetic field is described by a system of equations known as Maxwell's equations. Working in the language of vector calculus and assuming that no electric charges or currents are present, these equations can be written[3]
+
+
+
+Here  is a vector (or more precisely a vector field whose magnitude and direction may vary from point to point in space) representing the electric field,  is a vector representing the magnetic field,  is time, and  is the speed of light. The other symbols in these equations refer to the divergence and curl, which are concepts from vector calculus.
+An important property of these equations[4] is their invariance under the transformation that simultaneously replaces the electric field  by the magnetic field  and replaces  by :
+
+
+
+In other words, given a pair of electric and magnetic fields that solve Maxwell's equations, it is possible to describe a new physical setup in which these electric and magnetic fields are essentially interchanged, and the new fields will again give a solution of Maxwell's equations. This situation is the most basic manifestation of S-duality in quantum field theory.
+Montonen–Olive duality[edit]
+Main article: Montonen–Olive duality
+In quantum field theory, the electric and magnetic fields are unified into a single entity called the electromagnetic field, and this field is described by a special type of quantum field theory called a gauge theory or Yang–Mills theory. In a gauge theory, the physical fields have a high degree of symmetry which can be understood mathematically using the notion of a Lie group. This Lie group is known as the gauge group. The electromagnetic field is described by a very simple gauge theory corresponding to the abelian gauge group U(1), but there are other gauge theories with more complicated non-abelian gauge groups.[5]
+It is natural to ask whether there is an analog in gauge theory of the symmetry interchanging the electric and magnetic fields in Maxwell's equations. The answer was given in the late 1970s by Claus Montonen and David Olive,[6] building on earlier work of Peter Goddard, Jean Nuyts, and Olive.[7] Their work provides an example of S-duality now known as Montonen–Olive duality. Montonen–Olive duality applies to a very special type of gauge theory called N = 4 supersymmetric Yang–Mills theory, and it says that two such theories may be equivalent in a certain precise sense.[1] If one of the theories has a gauge group , then the dual theory has gauge group  where  denotes the Langlands dual group which is in general different from .[8]
+An important quantity in quantum field theory is complexified coupling constant. This is a complex number defined by the formula[9]
+
+
+
+where  is the theta angle, a quantity appearing in the Lagrangian that defines the theory,[9] and  is the coupling constant. For example, in the Yang–Mills theory that describes the electromagnetic field, this number  is simply the elementary charge  carried by a single proton.[1] In addition to exchanging the gauge groups of the two theories, Montonen–Olive duality transforms a theory with complexified coupling coupling constant  to a theory with complexified constant .[9]
+Relation to the Langlands program[edit]
+
+
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.
+
+
+Main article: Langlands program
+In mathematics, the classical Langlands correspondence is a collection of results and conjectures relating number theory to the branch of mathematics known as representation theory.[10] Formulated by Robert Langlands in the late 1960s, the Langlands correspondence is related to important conjectures in number theory such as the Taniyama-Shimura conjecture, which includes Fermat's last theorem as a special case.[10]
+In spite of its importance in number theory, establishing the Langlands correspondence in the number theoretic context has proved extremely difficult.[10] As a result, some mathematicians have worked on a related conjecture known as the geometric Langlands correspondence. This is a geometric reformulation of the classical Langlands correspondence which is obtained by replacing the number fields appearing in the original version by function fields and applying techniques from algebraic geometry.[10]
+In a paper from 2007, Anton Kapustin and Edward Witten suggested that the geometric Langlands correspondence can be viewed as a mathematical statement of Montonen–Olive duality.[11] Starting with two Yang–Mills theories related by S-duality, Kapustin and Witten showed that one can construct a pair of quantum field theories in two-dimensional spacetime. By analyzing what this dimensional reduction does to certain physical objects called D-branes, they showed that one can recover the mathematical ingredients of the geometric Langlands correspondence.[12] Their work shows that the Langlands correspondence is closely related to S-duality in quantum field theory, with possible applications in both subjects.[10]
+Seiberg duality[edit]
+Main article: Seiberg duality
+Another realization of S-duality in quantum field theory is Seiberg duality, first introduced by Nathan Seiberg around 1995.[13] Unlike Montonen–Olive duality, which relates two versions of the maximally supersymmetric gauge theory in four-dimensional spacetime, Seiberg duality relates less symmetric theories called N=1 supersymmetric gauge theories. The two N=1 theories appearing in Seiberg duality are not identical, but they give rise to the same physics at large distances. Like Montonen–Olive duality, Seiberg duality generalizes the symmetry of Maxwell's equations that interchanges electric and magnetic fields.
+S-duality in string theory[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is S-duality. The existence of S-duality in string theory was first proposed by Ashoke Sen in 1994.[14] It was shown that type IIB string theory with the coupling constant  is equivalent via S-duality to the same string theory with the coupling constant . Similarly, type I string theory with the coupling  is equivalent to the SO(32) heterotic string theory with the coupling constant .
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[15] Witten's proposal was based on the observation that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+See also[edit]
+
+T-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ a b c Frenkel 2009, p.2
+^ Zwiebach 2009, p.325
+^ Griffiths 1999, p.326
+^ Griffiths 1999, p.327
+^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.
+^ Montonen and Olive 1977
+^ Goddard, Nuyts, and Olive 1977
+^ Frenkel 2009, p.5
+^ a b c Frenkel 2009, p.12
+^ a b c d e Frenkel 2007
+^ Kapustin and Witten 2007
+^ Aspinwall et al. 2009, p.415
+^ Seiberg 1995
+^ Sen 1994
+^ Witten 1995
+
+
+References[edit]
+
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F. 
+Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki. 
+Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8. 
+Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall. 
+Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1. 
+Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4. 
+Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8. 
+Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6. 
+Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9. 
+
+
+
+
+This article is about S-duality (strong–weak duality) in physics.  For the mathematical S-duality (Spanier–Whitehead duality), see S-duality (homotopy theory).S-duality (homotopy theory)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn theoretical physics, S-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. S-duality is useful for doing calculations in theoretical physics because it relates a theory in which calculations are difficult to a theory in which they are easier.[1]theoretical physicsS-dualityquantum field theoriesstring theories[1][1]In quantum field theory, S-duality generalizes a well known fact from classical electrodynamics, namely the invariance of Maxwell's equations under the interchange of electric and magnetic fields. One of the earliest known examples of S-duality in quantum field theory is Montonen–Olive duality which relates two versions of a quantum field theory called N = 4 supersymmetric Yang–Mills theory. Recent work of Anton Kapustin and Edward Witten suggests that Montonen–Olive duality is closely related to a research program in mathematics called the geometric Langlands program. Another realization of S-duality in quantum field theory is Seiberg duality, which relates two versions of a theory called N=1 supersymmetric Yang–Mills theory.classical electrodynamicsinvarianceMaxwell's equationselectricmagnetic fieldsMontonen–Olive dualityN = 4 supersymmetric Yang–Mills theoryAnton KapustinEdward Wittengeometric Langlands programSeiberg dualityN=1 supersymmetric Yang–Mills theoryThere are also many examples of S-duality in string theory. The existence of these string dualities implies that seemingly different formulations of string theory are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.[2]string dualitiessuperstring theoriesM-theory[2][2]
+
+Contents
+
+
+1 Overview
+2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+
+3 S-duality in string theory
+4 See also
+5 Notes
+6 References
+
+
+Contents
+Contents
+1 Overview
+2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+
+3 S-duality in string theory
+4 See also
+5 Notes
+6 References
+1 Overview1 Overview1Overview2 S-duality in quantum field theory
+
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+
+2 S-duality in quantum field theory2S-duality in quantum field theory
+2.1 A symmetry of Maxwell's equations
+2.2 Montonen–Olive duality
+2.3 Relation to the Langlands program
+2.4 Seiberg duality
+2.1 A symmetry of Maxwell's equations2.1 A symmetry of Maxwell's equations2.1A symmetry of Maxwell's equations2.2 Montonen–Olive duality2.2 Montonen–Olive duality2.2Montonen–Olive duality2.3 Relation to the Langlands program2.3 Relation to the Langlands program2.3Relation to the Langlands program2.4 Seiberg duality2.4 Seiberg duality2.4Seiberg duality3 S-duality in string theory3 S-duality in string theory3S-duality in string theory4 See also4 See also4See also5 Notes5 Notes5Notes6 References6 References6ReferencesOverview[edit]Overview[edit][edit]In quantum field theory and string theory, a coupling constant is a number that controls the strength of interactions in the theory. For example, the strength of gravity is described by a number called Newton's constant, which appears in Newton's law of gravity and also in the equations of Albert Einstein's general theory of relativity. Similarly, the strength of the electromagnetic force is described by a coupling constant, which is related to the charge carried by a single proton.coupling constantgravityNewton's constantNewton's law of gravityAlbert Einsteingeneral theory of relativityelectromagnetic forceprotonTo compute observable quantities in quantum field theory or string theory, physicists typically apply the methods of perturbation theory. In perturbation theory, quantities called probability amplitudes, which determine the probability for various physical processes to occur, are expressed as sums of infinitely many terms, where each term is proportional to a power of the coupling constant :perturbation theoryprobability amplitudessums of infinitely many termspower
+.
+.In order for such an expression to make sense, the coupling constant must be less than 1 so that the higher powers of  become negligibly small and the sum is finite. If the coupling constant is not less than 1, then the terms of this sum will grow larger and larger, and the expression gives a meaningless infinite answer. In this case the theory is said to be strongly coupled, and one cannot use perturbation theory to make predictions.strongly coupledFor certain theories, S-duality provides a way of doing computations at strong coupling by translating these computations into different computations in a weakly coupled theory. S-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.dualitydualityphysical systemsdualS-duality is useful because it relates a theory with coupling constant  to an equivalent theory with coupling constant . Thus it relates a strongly coupled theory (where the coupling constant  is much greater than 1) to a weakly coupled theory (where the coupling constant  is much less than 1 and computations are possible). For this reason, S-duality is called a strong-weak duality.strong-weak dualityS-duality in quantum field theory[edit]S-duality in quantum field theory[edit][edit]A symmetry of Maxwell's equations[edit]A symmetry of Maxwell's equations[edit][edit]In classical physics, the behavior of the electric and magnetic field is described by a system of equations known as Maxwell's equations. Working in the language of vector calculus and assuming that no electric charges or currents are present, these equations can be written[3]classical physicselectricmagnetic fieldMaxwell's equationsvector calculuselectric chargescurrents[3][3]
+
+Here  is a vector (or more precisely a vector field whose magnitude and direction may vary from point to point in space) representing the electric field,  is a vector representing the magnetic field,  is time, and  is the speed of light. The other symbols in these equations refer to the divergence and curl, which are concepts from vector calculus.vectorvector fieldvector fieldspeed of lightdivergencecurlAn important property of these equations[4] is their invariance under the transformation that simultaneously replaces the electric field  by the magnetic field  and replaces  by :[4][4]invariance
+
+In other words, given a pair of electric and magnetic fields that solve Maxwell's equations, it is possible to describe a new physical setup in which these electric and magnetic fields are essentially interchanged, and the new fields will again give a solution of Maxwell's equations. This situation is the most basic manifestation of S-duality in quantum field theory.solveMontonen–Olive duality[edit]Montonen–Olive duality[edit][edit]Main article: Montonen–Olive dualityMontonen–Olive dualityIn quantum field theory, the electric and magnetic fields are unified into a single entity called the electromagnetic field, and this field is described by a special type of quantum field theory called a gauge theory or Yang–Mills theory. In a gauge theory, the physical fields have a high degree of symmetry which can be understood mathematically using the notion of a Lie group. This Lie group is known as the gauge group. The electromagnetic field is described by a very simple gauge theory corresponding to the abelian gauge group U(1), but there are other gauge theories with more complicated non-abelian gauge groups.[5]electromagnetic fieldfieldgauge theoryYang–Mills theorysymmetryLie groupgauge groupabelianU(1)non-abelian gauge groups[5][5]It is natural to ask whether there is an analog in gauge theory of the symmetry interchanging the electric and magnetic fields in Maxwell's equations. The answer was given in the late 1970s by Claus Montonen and David Olive,[6] building on earlier work of Peter Goddard, Jean Nuyts, and Olive.[7] Their work provides an example of S-duality now known as Montonen–Olive duality. Montonen–Olive duality applies to a very special type of gauge theory called N = 4 supersymmetric Yang–Mills theory, and it says that two such theories may be equivalent in a certain precise sense.[1] If one of the theories has a gauge group , then the dual theory has gauge group  where  denotes the Langlands dual group which is in general different from .[8]Claus MontonenDavid Olive[6][6]Peter GoddardJean Nuyts[7][7]Montonen–Olive dualityN = 4 supersymmetric Yang–Mills theory[1][1]Langlands dual group[8][8]An important quantity in quantum field theory is complexified coupling constant. This is a complex number defined by the formula[9]complex number[9][9]
+
+where  is the theta angle, a quantity appearing in the Lagrangian that defines the theory,[9] and  is the coupling constant. For example, in the Yang–Mills theory that describes the electromagnetic field, this number  is simply the elementary charge  carried by a single proton.[1] In addition to exchanging the gauge groups of the two theories, Montonen–Olive duality transforms a theory with complexified coupling coupling constant  to a theory with complexified constant .[9]theta angleLagrangian[9][9]elementary charge[1][1][9][9]Relation to the Langlands program[edit]Relation to the Langlands program[edit][edit]
+
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.
+
+
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.
+
+
+The geometric Langlands correspondence is a relationship between abstract geometric objects associated to an algebraic curve such as the elliptic curves illustrated above.geometric Langlands correspondencealgebraic curveelliptic curvesMain article: Langlands programLanglands programIn mathematics, the classical Langlands correspondence is a collection of results and conjectures relating number theory to the branch of mathematics known as representation theory.[10] Formulated by Robert Langlands in the late 1960s, the Langlands correspondence is related to important conjectures in number theory such as the Taniyama-Shimura conjecture, which includes Fermat's last theorem as a special case.[10]Langlands correspondencenumber theoryrepresentation theory[10][10]Robert LanglandsTaniyama-Shimura conjectureFermat's last theorem[10][10]In spite of its importance in number theory, establishing the Langlands correspondence in the number theoretic context has proved extremely difficult.[10] As a result, some mathematicians have worked on a related conjecture known as the geometric Langlands correspondence. This is a geometric reformulation of the classical Langlands correspondence which is obtained by replacing the number fields appearing in the original version by function fields and applying techniques from algebraic geometry.[10][10][10]geometric Langlands correspondencenumber fieldsfunction fieldsalgebraic geometry[10][10]In a paper from 2007, Anton Kapustin and Edward Witten suggested that the geometric Langlands correspondence can be viewed as a mathematical statement of Montonen–Olive duality.[11] Starting with two Yang–Mills theories related by S-duality, Kapustin and Witten showed that one can construct a pair of quantum field theories in two-dimensional spacetime. By analyzing what this dimensional reduction does to certain physical objects called D-branes, they showed that one can recover the mathematical ingredients of the geometric Langlands correspondence.[12] Their work shows that the Langlands correspondence is closely related to S-duality in quantum field theory, with possible applications in both subjects.[10]Anton KapustinEdward Witten[11][11]spacetimedimensional reductionD-branes[12][12][10][10]Seiberg duality[edit]Seiberg duality[edit][edit]Main article: Seiberg dualitySeiberg dualityAnother realization of S-duality in quantum field theory is Seiberg duality, first introduced by Nathan Seiberg around 1995.[13] Unlike Montonen–Olive duality, which relates two versions of the maximally supersymmetric gauge theory in four-dimensional spacetime, Seiberg duality relates less symmetric theories called N=1 supersymmetric gauge theories. The two N=1 theories appearing in Seiberg duality are not identical, but they give rise to the same physics at large distances. Like Montonen–Olive duality, Seiberg duality generalizes the symmetry of Maxwell's equations that interchanges electric and magnetic fields.Seiberg dualityNathan Seiberg[13][13]N=1 supersymmetric gauge theoriesS-duality in string theory[edit]S-duality in string theory[edit][edit]
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.T-dualityUp until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.string theorytype Itype IIAtype IIBheterotic stringSO(32)E8×E888In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is S-duality. The existence of S-duality in string theory was first proposed by Ashoke Sen in 1994.[14] It was shown that type IIB string theory with the coupling constant  is equivalent via S-duality to the same string theory with the coupling constant . Similarly, type I string theory with the coupling  is equivalent to the SO(32) heterotic string theory with the coupling constant .Ashoke Sen[14][14]type IIB string theorytype I string theorySO(32)The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[15] Witten's proposal was based on the observation that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.University of Southern CaliforniaM-theory[15][15]88supergravitysecond superstring revolutionSee also[edit]See also[edit][edit]
+T-duality
+Mirror symmetry
+AdS/CFT correspondence
+T-dualityT-dualityMirror symmetryMirror symmetryAdS/CFT correspondenceAdS/CFT correspondenceNotes[edit]Notes[edit][edit]
+
+^ a b c Frenkel 2009, p.2
+^ Zwiebach 2009, p.325
+^ Griffiths 1999, p.326
+^ Griffiths 1999, p.327
+^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.
+^ Montonen and Olive 1977
+^ Goddard, Nuyts, and Olive 1977
+^ Frenkel 2009, p.5
+^ a b c Frenkel 2009, p.12
+^ a b c d e Frenkel 2007
+^ Kapustin and Witten 2007
+^ Aspinwall et al. 2009, p.415
+^ Seiberg 1995
+^ Sen 1994
+^ Witten 1995
+
+
+^ a b c Frenkel 2009, p.2
+^ Zwiebach 2009, p.325
+^ Griffiths 1999, p.326
+^ Griffiths 1999, p.327
+^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.
+^ Montonen and Olive 1977
+^ Goddard, Nuyts, and Olive 1977
+^ Frenkel 2009, p.5
+^ a b c Frenkel 2009, p.12
+^ a b c d e Frenkel 2007
+^ Kapustin and Witten 2007
+^ Aspinwall et al. 2009, p.415
+^ Seiberg 1995
+^ Sen 1994
+^ Witten 1995
+^ a b c Frenkel 2009, p.2^ a b caaaabbbbccccFrenkel 2009, p.2^ Zwiebach 2009, p.325^^^Zwiebach 2009, p.325^ Griffiths 1999, p.326^^^Griffiths 1999, p.326^ Griffiths 1999, p.327^^^Griffiths 1999, p.327^ For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.^^^For an introduction to quantum field theory in general including the basics of gauge theory, see Zee 2010.^ Montonen and Olive 1977^^^Montonen and Olive 1977^ Goddard, Nuyts, and Olive 1977^^^Goddard, Nuyts, and Olive 1977^ Frenkel 2009, p.5^^^Frenkel 2009, p.5^ a b c Frenkel 2009, p.12^ a b caaaabbbbccccFrenkel 2009, p.12^ a b c d e Frenkel 2007^ a b c d eaaaabbbbccccddddeeeeFrenkel 2007^ Kapustin and Witten 2007^^^Kapustin and Witten 2007^ Aspinwall et al. 2009, p.415^^^Aspinwall et al. 2009, p.415^ Seiberg 1995^^^Seiberg 1995^ Sen 1994^^^Sen 1994^ Witten 1995^^^Witten 1995References[edit]References[edit][edit]
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. 
+Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F. 
+Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki. 
+Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8. 
+Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall. 
+Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1. 
+Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4. 
+Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8. 
+Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6. 
+Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9. 
+Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8. Aspinwall, Paul; Bridgeland, Tom; Craw, Alastair; Douglas, Michael; Gross, Mark; Kapustin, Anton; Moore, Gregory; Segal, Graeme; Szendröi, Balázs; Wilson, P.M.H., eds. (2009). Dirichlet Branes and Mirror Symmetry. American Mathematical Society. ISBN 978-0-8218-3848-8.Dirichlet Branes and Mirror SymmetryISBN978-0-8218-3848-8  Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F. Frenkel, Edward (2007). "Lectures on the Langlands program and conformal field theory". Frontiers in number theory, physics, and geometry II (Springer): 387–533. arXiv:hep-th/0512172. Bibcode:2005hep.th...12172F.Frontiers in number theory, physics, and geometry IIarXivhep-th/0512172Bibcode2005hep.th...12172F  Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki. Frenkel, Edward (2009). "Gauge theory and Langlands duality". Seminaire Bourbaki.Seminaire Bourbaki  Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8. Goddard, Peter; Nuyts, Jean; Olive, David (1977). "Gauge theories and magnetic charge". Nuclear Physics B 125 (1): 1–28. Bibcode:1977NuPhB.125....1G. doi:10.1016/0550-3213(77)90221-8.Nuclear Physics B125Bibcode1977NuPhB.125....1Gdoi10.1016/0550-3213(77)90221-8  Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall. Griffiths, David (1999). Introduction to Electrodynamics. New Jersey: Prentice-Hall.Introduction to Electrodynamics  Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1. Kapustin, Anton; Witten, Edward (2007). "Electric-magnetic duality and the geometric Langlands program". Communications in Number Theory and Physics 1 (1): 1–236. arXiv:hep-th/0604151. Bibcode:2007CNTP....1....1K. doi:10.4310/cntp.2007.v1.n1.a1.Communications in Number Theory and Physics1arXivhep-th/0604151Bibcode2007CNTP....1....1Kdoi10.4310/cntp.2007.v1.n1.a1  Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4. Montonen, Claus; Olive, David (1977). "Magnetic monopoles as gauge particles?". Physics Letters B 72 (1): 117–120. Bibcode:1977PhLB...72..117M. doi:10.1016/0370-2693(77)90076-4.Physics Letters B72Bibcode1977PhLB...72..117Mdoi10.1016/0370-2693(77)90076-4  Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8. Seiberg, Nathan (1995). "Electric-magnetic duality in supersymmetric non-Abelian gauge theories". Nuclear Physics B 435 (1): 129–146. arXiv:hep-th/9411149. Bibcode:1995NuPhB.435..129S. doi:10.1016/0550-3213(94)00023-8.Nuclear Physics B435arXivhep-th/9411149Bibcode1995NuPhB.435..129Sdoi10.1016/0550-3213(94)00023-8  Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497. Sen, Ashoke (1994). "Strong-weak coupling duality in four-dimensional string theory". International Journal of Modern Physics A 9 (21): 3707–3750. arXiv:hep-th/9402002. Bibcode:1994IJMPA...9.3707S. doi:10.1142/S0217751X94001497.International Journal of Modern Physics A9arXivhep-th/9402002Bibcode1994IJMPA...9.3707Sdoi10.1142/S0217751X94001497  Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific.Proceedings of Strings '95: Future Perspectives in String Theory  Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O.Nuclear Physics B443arXivhep-th/9503124Bibcode1995NuPhB.443...85Wdoi10.1016/0550-3213(95)00158-O  Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6. Zee, Anthony (2010). Quantum Field Theory in a Nutshell (2nd ed.). Princeton University Press. ISBN 978-0-691-14034-6.Quantum Field Theory in a NutshellISBN978-0-691-14034-6  Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9. Zwiebach, Barton (2009). A First Course in String Theory. Cambridge University Press. ISBN 978-0-521-88032-9.A First Course in String TheoryISBN978-0-521-88032-9  
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=S-duality&oldid=709314225"					https://en.wikipedia.org/w/index.php?title=S-duality&oldid=709314225Categories: Quantum field theoryString theoryCategories: Quantum field theoryString theoryCategoriesQuantum field theoryString theoryQuantum field theoryQuantum field theoryString theoryString theory
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañol한국어Italiano日本語Svenska中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañol한국어Italiano日本語Svenska中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschEspañol한국어Italiano日本語Svenska中文 
+Edit links 
+Languages
+
+DeutschEspañol한국어Italiano日本語Svenska中文 
+Edit links 
+DeutschEspañol한국어Italiano日本語Svenska中文 DeutschDeutschEspañolEspañol한국어한국어ItalianoItaliano日本語日本語SvenskaSvenska中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 10 March 2016, at 07:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 10 March 2016, at 07:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 10 March 2016, at 07:02.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

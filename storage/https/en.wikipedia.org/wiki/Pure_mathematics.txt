@@ -1,0 +1,1958 @@
+Pure mathematics - Wikipedia, the free encyclopedia
+
+
+
+
+Pure mathematics
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.
+
+
+Broadly speaking, pure mathematics is mathematics that studies entirely abstract concepts. This was a recognizable category of mathematical activity from the nineteenth century onwards,[1] at variance with the trend towards meeting the needs of navigation, astronomy, physics, economics, engineering, and so on.
+Another insightful view put forth is that pure mathematics is not necessarily applied mathematics: it is possible to study abstract entities with respect to their intrinsic nature, and not be concerned with how they manifest in the real world.[2] Even though the pure and applied viewpoints are distinct philosophical positions, in practice there is much overlap in the activity of pure and applied mathematicians.
+To develop accurate models for describing the real world, many applied mathematicians draw on tools and techniques that are often considered to be "pure" mathematics. On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+
+2 Generality and abstraction
+3 Purism
+4 Subfields
+5 See also
+6 Notes
+7 External links
+
+
+
+History[edit]
+Ancient Greece[edit]
+Ancient Greek mathematicians were among the earliest to make a distinction between pure and applied mathematics. Plato helped to create the gap between "arithmetic", now called number theory, and "logistic", now called arithmetic. Plato regarded logistic (arithmetic) as appropriate for businessmen and men of war who "must learn the art of numbers or [they] will not know how to array [their] troops" and arithmetic (number theory) as appropriate for philosophers "because [they have] to arise out of the sea of change and lay hold of true being."[3] Euclid of Alexandria, when asked by one of his students of what use was the study of geometry, asked his slave to give the student threepence, "since he must make gain of what he learns."[4] The Greek mathematician Apollonius of Perga was asked about the usefulness of some of his theorems in Book IV of Conics to which he proudly asserted,[5]
+
+They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason.
+
+And since many of his results were not applicable to the science or engineering of his day, Apollonius further argued in the preface of the fifth book of Conics that the subject is one of those that "...seem worthy of study for their own sake."[5]
+19th century[edit]
+The term itself is enshrined in the full title of the Sadleirian Chair, founded (as a professorship) in the mid-nineteenth century. The idea of a separate discipline of pure mathematics may have emerged at that time. The generation of Gauss made no sweeping distinction of the kind, between pure and applied. In the following years, specialisation and professionalisation (particularly in the Weierstrass approach to mathematical analysis) started to make a rift more apparent.
+20th century[edit]
+At the start of the twentieth century mathematicians took up the axiomatic method, strongly influenced by David Hilbert's example. The logical formulation of pure mathematics suggested by Bertrand Russell in terms of a quantifier structure of propositions seemed more and more plausible, as large parts of mathematics became axiomatised and thus subject to the simple criteria of rigorous proof.
+In fact in an axiomatic setting rigorous adds nothing to the idea of proof. Pure mathematics, according to a view that can be ascribed to the Bourbaki group, is what is proved. Pure mathematician became a recognized vocation, achievable through training.
+The case was made that pure mathematics is useful in engineering education:[6]
+
+There is a training in habits of thought, points of view, and intellectual comprehension of ordinary engineering problems, which only the study of higher mathematics can give.
+
+Generality and abstraction[edit]
+One central concept in pure mathematics is the idea of generality; pure mathematics often exhibits a trend towards increased generality.
+
+Generalizing theorems or mathematical structures can lead to deeper understanding of the original theorems or structures
+Generality can simplify the presentation of material, resulting in shorter proofs or arguments that are easier to follow.
+One can use generality to avoid duplication of effort, proving a general result instead of having to prove separate cases independently, or using results from other areas of mathematics.
+Generality can facilitate connections between different branches of mathematics. Category theory is one area of mathematics dedicated to exploring this commonality of structure as it plays out in some areas of math.
+
+Generality's impact on intuition is both dependent on the subject and a matter of personal preference or learning style. Often generality is seen as a hindrance to intuition, although it can certainly function as an aid to it, especially when it provides analogies to material for which one already has good intuition.
+As a prime example of generality, the Erlangen program involved an expansion of geometry to accommodate non-Euclidean geometries as well as the field of topology, and other forms of geometry, by viewing geometry as the study of a space together with a group of transformations. The study of numbers, called algebra at the beginning undergraduate level, extends to abstract algebra at a more advanced level; and the study of functions, called calculus at the college freshman level becomes mathematical analysis and functional analysis at a more advanced level. Each of these branches of more abstract mathematics have many sub-specialties, and there are in fact many connections between pure mathematics and applied mathematics disciplines. A steep rise in abstraction was seen mid 20th century.
+In practice, however, these developments led to a sharp divergence from physics, particularly from 1950 to 1983. Later this was criticised, for example by Vladimir Arnold, as too much Hilbert, not enough Poincaré. The point does not yet seem to be settled, in that string theory pulls one way, while discrete mathematics pulls back towards proof as central.
+Purism[edit]
+Mathematicians have always had differing opinions regarding the distinction between pure and applied mathematics. One of the most famous (but perhaps misunderstood) modern examples of this debate can be found in G.H. Hardy's A Mathematician's Apology.
+It is widely believed that Hardy considered applied mathematics to be ugly and dull. Although it is true that Hardy preferred pure mathematics, which he often compared to painting and poetry, Hardy saw the distinction between pure and applied mathematics to be simply that applied mathematics sought to express physical truth in a mathematical framework, whereas pure mathematics expressed truths that were independent of the physical world. Hardy made a separate distinction in mathematics between what he called "real" mathematics, "which has permanent aesthetic value", and "the dull and elementary parts of mathematics" that have practical use.
+Hardy considered some physicists, such as Einstein and Dirac, to be among the "real" mathematicians, but at the time that he was writing the Apology he also considered general relativity and quantum mechanics to be "useless", which allowed him to hold the opinion that only "dull" mathematics was useful. Moreover, Hardy briefly admitted that—just as the application of matrix theory and group theory to physics had come unexpectedly—the time may come where some kinds of beautiful, "real" mathematics may be useful as well.
+Another insightful view is offered by Magid:
+
+I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and noncommutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a noncommutative ring is a not necessarily commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean not necessarily applied mathematics… [emphasis added][2]
+
+Subfields[edit]
+Analysis is concerned with the properties of functions. It deals with concepts such as continuity, limits, differentiation and integration, thus providing a rigorous foundation for the calculus of infinitesimals introduced by Newton and Leibniz in the 17th century. Real analysis studies functions of real numbers, while complex analysis extends the aforementioned concepts to functions of complex numbers. Functional analysis is a branch of analysis that studies infinite-dimensional vector spaces and views functions as points in these spaces.
+Abstract algebra is not to be confused with the manipulation of formulae that is covered in secondary education. It studies sets together with binary operations defined on them. Sets and their binary operations may be classified according to their properties: for instance, if an operation is associative on a set that contains an identity element and inverses for each member of the set, the set and operation is considered to be a group. Other structures include rings, fields, vector spaces and lattices.
+Geometry is the study of shapes and space, in particular, groups of transformations that act on spaces. For example, projective geometry is about the group of projective transformations that act on the real projective plane, whereas inversive geometry is concerned with the group of inversive transformations acting on the extended complex plane.
+Number theory is the theory of the positive integers. It is based on ideas such as divisibility and congruence. Its fundamental theorem states that each positive integer has a unique prime factorization. In some ways it is the most accessible discipline in pure mathematics for the general public: for instance the Goldbach conjecture is easily stated (but is yet to be proved or disproved). In other ways it is the least accessible discipline; for example, Wiles' proof that Fermat's equation has no nontrivial solutions requires understanding automorphic forms, which though intrinsic to nature have not found a place in physics or the general public discourse.
+Topology is a modern extension of Geometry. Rather than focusing on the sizes of objects and their precise measurement, topology involves the properties of spaces or objects that are preserved under smooth operations such as bending or twisting (but not, for example, tearing or shearing). Topology's subfields interact with other branches of pure math: traditional topology uses ideas from analysis, such as metric spaces, and algebraic topology relies on ideas from combinatorics in addition to those of analysis.
+See also[edit]
+
+Applied mathematics
+Logic
+Metalogic
+Metamathematics
+
+Notes[edit]
+
+^ Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. 
+^ a b Andy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]
+^ Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." 
+^ Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." 
+^ a b Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. 
+^ A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.
+
+External links[edit]
+
+What is Pure Mathematics? Department of Pure Mathematics, University of Waterloo
+What is Pure Mathematics? by Professor P.J. Giblin The University of Liverpool
+The Principles of Mathematics by Bertrand Russell
+How to Become a Pure Mathematician (or Statistician), a list of undergraduate and basic graduate textbooks and lecture notes, with several comments and links to solutions, companion sites, data sets, errata pages, etc.
+Pure Mathematics Learning Resources
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pure_mathematics&oldid=704465333"					
+Categories: Mathematical terminologyMathematical science occupations 
+
+
+Pure mathematics
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.
+
+
+Broadly speaking, pure mathematics is mathematics that studies entirely abstract concepts. This was a recognizable category of mathematical activity from the nineteenth century onwards,[1] at variance with the trend towards meeting the needs of navigation, astronomy, physics, economics, engineering, and so on.
+Another insightful view put forth is that pure mathematics is not necessarily applied mathematics: it is possible to study abstract entities with respect to their intrinsic nature, and not be concerned with how they manifest in the real world.[2] Even though the pure and applied viewpoints are distinct philosophical positions, in practice there is much overlap in the activity of pure and applied mathematicians.
+To develop accurate models for describing the real world, many applied mathematicians draw on tools and techniques that are often considered to be "pure" mathematics. On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+
+2 Generality and abstraction
+3 Purism
+4 Subfields
+5 See also
+6 Notes
+7 External links
+
+
+
+History[edit]
+Ancient Greece[edit]
+Ancient Greek mathematicians were among the earliest to make a distinction between pure and applied mathematics. Plato helped to create the gap between "arithmetic", now called number theory, and "logistic", now called arithmetic. Plato regarded logistic (arithmetic) as appropriate for businessmen and men of war who "must learn the art of numbers or [they] will not know how to array [their] troops" and arithmetic (number theory) as appropriate for philosophers "because [they have] to arise out of the sea of change and lay hold of true being."[3] Euclid of Alexandria, when asked by one of his students of what use was the study of geometry, asked his slave to give the student threepence, "since he must make gain of what he learns."[4] The Greek mathematician Apollonius of Perga was asked about the usefulness of some of his theorems in Book IV of Conics to which he proudly asserted,[5]
+
+They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason.
+
+And since many of his results were not applicable to the science or engineering of his day, Apollonius further argued in the preface of the fifth book of Conics that the subject is one of those that "...seem worthy of study for their own sake."[5]
+19th century[edit]
+The term itself is enshrined in the full title of the Sadleirian Chair, founded (as a professorship) in the mid-nineteenth century. The idea of a separate discipline of pure mathematics may have emerged at that time. The generation of Gauss made no sweeping distinction of the kind, between pure and applied. In the following years, specialisation and professionalisation (particularly in the Weierstrass approach to mathematical analysis) started to make a rift more apparent.
+20th century[edit]
+At the start of the twentieth century mathematicians took up the axiomatic method, strongly influenced by David Hilbert's example. The logical formulation of pure mathematics suggested by Bertrand Russell in terms of a quantifier structure of propositions seemed more and more plausible, as large parts of mathematics became axiomatised and thus subject to the simple criteria of rigorous proof.
+In fact in an axiomatic setting rigorous adds nothing to the idea of proof. Pure mathematics, according to a view that can be ascribed to the Bourbaki group, is what is proved. Pure mathematician became a recognized vocation, achievable through training.
+The case was made that pure mathematics is useful in engineering education:[6]
+
+There is a training in habits of thought, points of view, and intellectual comprehension of ordinary engineering problems, which only the study of higher mathematics can give.
+
+Generality and abstraction[edit]
+One central concept in pure mathematics is the idea of generality; pure mathematics often exhibits a trend towards increased generality.
+
+Generalizing theorems or mathematical structures can lead to deeper understanding of the original theorems or structures
+Generality can simplify the presentation of material, resulting in shorter proofs or arguments that are easier to follow.
+One can use generality to avoid duplication of effort, proving a general result instead of having to prove separate cases independently, or using results from other areas of mathematics.
+Generality can facilitate connections between different branches of mathematics. Category theory is one area of mathematics dedicated to exploring this commonality of structure as it plays out in some areas of math.
+
+Generality's impact on intuition is both dependent on the subject and a matter of personal preference or learning style. Often generality is seen as a hindrance to intuition, although it can certainly function as an aid to it, especially when it provides analogies to material for which one already has good intuition.
+As a prime example of generality, the Erlangen program involved an expansion of geometry to accommodate non-Euclidean geometries as well as the field of topology, and other forms of geometry, by viewing geometry as the study of a space together with a group of transformations. The study of numbers, called algebra at the beginning undergraduate level, extends to abstract algebra at a more advanced level; and the study of functions, called calculus at the college freshman level becomes mathematical analysis and functional analysis at a more advanced level. Each of these branches of more abstract mathematics have many sub-specialties, and there are in fact many connections between pure mathematics and applied mathematics disciplines. A steep rise in abstraction was seen mid 20th century.
+In practice, however, these developments led to a sharp divergence from physics, particularly from 1950 to 1983. Later this was criticised, for example by Vladimir Arnold, as too much Hilbert, not enough Poincaré. The point does not yet seem to be settled, in that string theory pulls one way, while discrete mathematics pulls back towards proof as central.
+Purism[edit]
+Mathematicians have always had differing opinions regarding the distinction between pure and applied mathematics. One of the most famous (but perhaps misunderstood) modern examples of this debate can be found in G.H. Hardy's A Mathematician's Apology.
+It is widely believed that Hardy considered applied mathematics to be ugly and dull. Although it is true that Hardy preferred pure mathematics, which he often compared to painting and poetry, Hardy saw the distinction between pure and applied mathematics to be simply that applied mathematics sought to express physical truth in a mathematical framework, whereas pure mathematics expressed truths that were independent of the physical world. Hardy made a separate distinction in mathematics between what he called "real" mathematics, "which has permanent aesthetic value", and "the dull and elementary parts of mathematics" that have practical use.
+Hardy considered some physicists, such as Einstein and Dirac, to be among the "real" mathematicians, but at the time that he was writing the Apology he also considered general relativity and quantum mechanics to be "useless", which allowed him to hold the opinion that only "dull" mathematics was useful. Moreover, Hardy briefly admitted that—just as the application of matrix theory and group theory to physics had come unexpectedly—the time may come where some kinds of beautiful, "real" mathematics may be useful as well.
+Another insightful view is offered by Magid:
+
+I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and noncommutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a noncommutative ring is a not necessarily commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean not necessarily applied mathematics… [emphasis added][2]
+
+Subfields[edit]
+Analysis is concerned with the properties of functions. It deals with concepts such as continuity, limits, differentiation and integration, thus providing a rigorous foundation for the calculus of infinitesimals introduced by Newton and Leibniz in the 17th century. Real analysis studies functions of real numbers, while complex analysis extends the aforementioned concepts to functions of complex numbers. Functional analysis is a branch of analysis that studies infinite-dimensional vector spaces and views functions as points in these spaces.
+Abstract algebra is not to be confused with the manipulation of formulae that is covered in secondary education. It studies sets together with binary operations defined on them. Sets and their binary operations may be classified according to their properties: for instance, if an operation is associative on a set that contains an identity element and inverses for each member of the set, the set and operation is considered to be a group. Other structures include rings, fields, vector spaces and lattices.
+Geometry is the study of shapes and space, in particular, groups of transformations that act on spaces. For example, projective geometry is about the group of projective transformations that act on the real projective plane, whereas inversive geometry is concerned with the group of inversive transformations acting on the extended complex plane.
+Number theory is the theory of the positive integers. It is based on ideas such as divisibility and congruence. Its fundamental theorem states that each positive integer has a unique prime factorization. In some ways it is the most accessible discipline in pure mathematics for the general public: for instance the Goldbach conjecture is easily stated (but is yet to be proved or disproved). In other ways it is the least accessible discipline; for example, Wiles' proof that Fermat's equation has no nontrivial solutions requires understanding automorphic forms, which though intrinsic to nature have not found a place in physics or the general public discourse.
+Topology is a modern extension of Geometry. Rather than focusing on the sizes of objects and their precise measurement, topology involves the properties of spaces or objects that are preserved under smooth operations such as bending or twisting (but not, for example, tearing or shearing). Topology's subfields interact with other branches of pure math: traditional topology uses ideas from analysis, such as metric spaces, and algebraic topology relies on ideas from combinatorics in addition to those of analysis.
+See also[edit]
+
+Applied mathematics
+Logic
+Metalogic
+Metamathematics
+
+Notes[edit]
+
+^ Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. 
+^ a b Andy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]
+^ Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." 
+^ Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." 
+^ a b Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. 
+^ A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.
+
+External links[edit]
+
+What is Pure Mathematics? Department of Pure Mathematics, University of Waterloo
+What is Pure Mathematics? by Professor P.J. Giblin The University of Liverpool
+The Principles of Mathematics by Bertrand Russell
+How to Become a Pure Mathematician (or Statistician), a list of undergraduate and basic graduate textbooks and lecture notes, with several comments and links to solutions, companion sites, data sets, errata pages, etc.
+Pure Mathematics Learning Resources
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pure_mathematics&oldid=704465333"					
+Categories: Mathematical terminologyMathematical science occupations 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.
+
+
+Broadly speaking, pure mathematics is mathematics that studies entirely abstract concepts. This was a recognizable category of mathematical activity from the nineteenth century onwards,[1] at variance with the trend towards meeting the needs of navigation, astronomy, physics, economics, engineering, and so on.
+Another insightful view put forth is that pure mathematics is not necessarily applied mathematics: it is possible to study abstract entities with respect to their intrinsic nature, and not be concerned with how they manifest in the real world.[2] Even though the pure and applied viewpoints are distinct philosophical positions, in practice there is much overlap in the activity of pure and applied mathematicians.
+To develop accurate models for describing the real world, many applied mathematicians draw on tools and techniques that are often considered to be "pure" mathematics. On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+
+2 Generality and abstraction
+3 Purism
+4 Subfields
+5 See also
+6 Notes
+7 External links
+
+
+
+History[edit]
+Ancient Greece[edit]
+Ancient Greek mathematicians were among the earliest to make a distinction between pure and applied mathematics. Plato helped to create the gap between "arithmetic", now called number theory, and "logistic", now called arithmetic. Plato regarded logistic (arithmetic) as appropriate for businessmen and men of war who "must learn the art of numbers or [they] will not know how to array [their] troops" and arithmetic (number theory) as appropriate for philosophers "because [they have] to arise out of the sea of change and lay hold of true being."[3] Euclid of Alexandria, when asked by one of his students of what use was the study of geometry, asked his slave to give the student threepence, "since he must make gain of what he learns."[4] The Greek mathematician Apollonius of Perga was asked about the usefulness of some of his theorems in Book IV of Conics to which he proudly asserted,[5]
+
+They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason.
+
+And since many of his results were not applicable to the science or engineering of his day, Apollonius further argued in the preface of the fifth book of Conics that the subject is one of those that "...seem worthy of study for their own sake."[5]
+19th century[edit]
+The term itself is enshrined in the full title of the Sadleirian Chair, founded (as a professorship) in the mid-nineteenth century. The idea of a separate discipline of pure mathematics may have emerged at that time. The generation of Gauss made no sweeping distinction of the kind, between pure and applied. In the following years, specialisation and professionalisation (particularly in the Weierstrass approach to mathematical analysis) started to make a rift more apparent.
+20th century[edit]
+At the start of the twentieth century mathematicians took up the axiomatic method, strongly influenced by David Hilbert's example. The logical formulation of pure mathematics suggested by Bertrand Russell in terms of a quantifier structure of propositions seemed more and more plausible, as large parts of mathematics became axiomatised and thus subject to the simple criteria of rigorous proof.
+In fact in an axiomatic setting rigorous adds nothing to the idea of proof. Pure mathematics, according to a view that can be ascribed to the Bourbaki group, is what is proved. Pure mathematician became a recognized vocation, achievable through training.
+The case was made that pure mathematics is useful in engineering education:[6]
+
+There is a training in habits of thought, points of view, and intellectual comprehension of ordinary engineering problems, which only the study of higher mathematics can give.
+
+Generality and abstraction[edit]
+One central concept in pure mathematics is the idea of generality; pure mathematics often exhibits a trend towards increased generality.
+
+Generalizing theorems or mathematical structures can lead to deeper understanding of the original theorems or structures
+Generality can simplify the presentation of material, resulting in shorter proofs or arguments that are easier to follow.
+One can use generality to avoid duplication of effort, proving a general result instead of having to prove separate cases independently, or using results from other areas of mathematics.
+Generality can facilitate connections between different branches of mathematics. Category theory is one area of mathematics dedicated to exploring this commonality of structure as it plays out in some areas of math.
+
+Generality's impact on intuition is both dependent on the subject and a matter of personal preference or learning style. Often generality is seen as a hindrance to intuition, although it can certainly function as an aid to it, especially when it provides analogies to material for which one already has good intuition.
+As a prime example of generality, the Erlangen program involved an expansion of geometry to accommodate non-Euclidean geometries as well as the field of topology, and other forms of geometry, by viewing geometry as the study of a space together with a group of transformations. The study of numbers, called algebra at the beginning undergraduate level, extends to abstract algebra at a more advanced level; and the study of functions, called calculus at the college freshman level becomes mathematical analysis and functional analysis at a more advanced level. Each of these branches of more abstract mathematics have many sub-specialties, and there are in fact many connections between pure mathematics and applied mathematics disciplines. A steep rise in abstraction was seen mid 20th century.
+In practice, however, these developments led to a sharp divergence from physics, particularly from 1950 to 1983. Later this was criticised, for example by Vladimir Arnold, as too much Hilbert, not enough Poincaré. The point does not yet seem to be settled, in that string theory pulls one way, while discrete mathematics pulls back towards proof as central.
+Purism[edit]
+Mathematicians have always had differing opinions regarding the distinction between pure and applied mathematics. One of the most famous (but perhaps misunderstood) modern examples of this debate can be found in G.H. Hardy's A Mathematician's Apology.
+It is widely believed that Hardy considered applied mathematics to be ugly and dull. Although it is true that Hardy preferred pure mathematics, which he often compared to painting and poetry, Hardy saw the distinction between pure and applied mathematics to be simply that applied mathematics sought to express physical truth in a mathematical framework, whereas pure mathematics expressed truths that were independent of the physical world. Hardy made a separate distinction in mathematics between what he called "real" mathematics, "which has permanent aesthetic value", and "the dull and elementary parts of mathematics" that have practical use.
+Hardy considered some physicists, such as Einstein and Dirac, to be among the "real" mathematicians, but at the time that he was writing the Apology he also considered general relativity and quantum mechanics to be "useless", which allowed him to hold the opinion that only "dull" mathematics was useful. Moreover, Hardy briefly admitted that—just as the application of matrix theory and group theory to physics had come unexpectedly—the time may come where some kinds of beautiful, "real" mathematics may be useful as well.
+Another insightful view is offered by Magid:
+
+I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and noncommutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a noncommutative ring is a not necessarily commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean not necessarily applied mathematics… [emphasis added][2]
+
+Subfields[edit]
+Analysis is concerned with the properties of functions. It deals with concepts such as continuity, limits, differentiation and integration, thus providing a rigorous foundation for the calculus of infinitesimals introduced by Newton and Leibniz in the 17th century. Real analysis studies functions of real numbers, while complex analysis extends the aforementioned concepts to functions of complex numbers. Functional analysis is a branch of analysis that studies infinite-dimensional vector spaces and views functions as points in these spaces.
+Abstract algebra is not to be confused with the manipulation of formulae that is covered in secondary education. It studies sets together with binary operations defined on them. Sets and their binary operations may be classified according to their properties: for instance, if an operation is associative on a set that contains an identity element and inverses for each member of the set, the set and operation is considered to be a group. Other structures include rings, fields, vector spaces and lattices.
+Geometry is the study of shapes and space, in particular, groups of transformations that act on spaces. For example, projective geometry is about the group of projective transformations that act on the real projective plane, whereas inversive geometry is concerned with the group of inversive transformations acting on the extended complex plane.
+Number theory is the theory of the positive integers. It is based on ideas such as divisibility and congruence. Its fundamental theorem states that each positive integer has a unique prime factorization. In some ways it is the most accessible discipline in pure mathematics for the general public: for instance the Goldbach conjecture is easily stated (but is yet to be proved or disproved). In other ways it is the least accessible discipline; for example, Wiles' proof that Fermat's equation has no nontrivial solutions requires understanding automorphic forms, which though intrinsic to nature have not found a place in physics or the general public discourse.
+Topology is a modern extension of Geometry. Rather than focusing on the sizes of objects and their precise measurement, topology involves the properties of spaces or objects that are preserved under smooth operations such as bending or twisting (but not, for example, tearing or shearing). Topology's subfields interact with other branches of pure math: traditional topology uses ideas from analysis, such as metric spaces, and algebraic topology relies on ideas from combinatorics in addition to those of analysis.
+See also[edit]
+
+Applied mathematics
+Logic
+Metalogic
+Metamathematics
+
+Notes[edit]
+
+^ Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. 
+^ a b Andy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]
+^ Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." 
+^ Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." 
+^ a b Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. 
+^ A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.
+
+External links[edit]
+
+What is Pure Mathematics? Department of Pure Mathematics, University of Waterloo
+What is Pure Mathematics? by Professor P.J. Giblin The University of Liverpool
+The Principles of Mathematics by Bertrand Russell
+How to Become a Pure Mathematician (or Statistician), a list of undergraduate and basic graduate textbooks and lecture notes, with several comments and links to solutions, companion sites, data sets, errata pages, etc.
+Pure Mathematics Learning Resources
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.
+
+
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.
+
+
+An illustration of the Banach–Tarski paradox, a famous result in pure mathematics. Although it is proven that it is possible to convert one sphere into two using nothing but cuts and rotations, the transformation involves objects that cannot exist in the physical world.Banach–Tarski paradoxBroadly speaking, pure mathematics is mathematics that studies entirely abstract concepts. This was a recognizable category of mathematical activity from the nineteenth century onwards,[1] at variance with the trend towards meeting the needs of navigation, astronomy, physics, economics, engineering, and so on.pure mathematicsmathematicsconcepts[1][1]navigationastronomyphysicseconomicsengineeringAnother insightful view put forth is that pure mathematics is not necessarily applied mathematics: it is possible to study abstract entities with respect to their intrinsic nature, and not be concerned with how they manifest in the real world.[2] Even though the pure and applied viewpoints are distinct philosophical positions, in practice there is much overlap in the activity of pure and applied mathematicians.pure mathematics is not necessarily applied mathematicsapplied mathematics[2][2]To develop accurate models for describing the real world, many applied mathematicians draw on tools and techniques that are often considered to be "pure" mathematics. On the other hand, many pure mathematicians draw on natural and social phenomena as inspiration for their abstract research.
+
+Contents
+
+
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+
+2 Generality and abstraction
+3 Purism
+4 Subfields
+5 See also
+6 Notes
+7 External links
+
+
+Contents
+Contents
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+
+2 Generality and abstraction
+3 Purism
+4 Subfields
+5 See also
+6 Notes
+7 External links
+1 History
+
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+
+1 History1History
+1.1 Ancient Greece
+1.2 19th century
+1.3 20th century
+1.1 Ancient Greece1.1 Ancient Greece1.1Ancient Greece1.2 19th century1.2 19th century1.219th century1.3 20th century1.3 20th century1.320th century2 Generality and abstraction2 Generality and abstraction2Generality and abstraction3 Purism3 Purism3Purism4 Subfields4 Subfields4Subfields5 See also5 See also5See also6 Notes6 Notes6Notes7 External links7 External links7External linksHistory[edit]History[edit][edit]Ancient Greece[edit]Ancient Greece[edit][edit]Ancient Greek mathematicians were among the earliest to make a distinction between pure and applied mathematics. Plato helped to create the gap between "arithmetic", now called number theory, and "logistic", now called arithmetic. Plato regarded logistic (arithmetic) as appropriate for businessmen and men of war who "must learn the art of numbers or [they] will not know how to array [their] troops" and arithmetic (number theory) as appropriate for philosophers "because [they have] to arise out of the sea of change and lay hold of true being."[3] Euclid of Alexandria, when asked by one of his students of what use was the study of geometry, asked his slave to give the student threepence, "since he must make gain of what he learns."[4] The Greek mathematician Apollonius of Perga was asked about the usefulness of some of his theorems in Book IV of Conics to which he proudly asserted,[5]Platonumber theoryarithmetic[3][3]Euclid of Alexandria[4][4]Apollonius of PergaConics[5][5]
+They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason.
+They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason.And since many of his results were not applicable to the science or engineering of his day, Apollonius further argued in the preface of the fifth book of Conics that the subject is one of those that "...seem worthy of study for their own sake."[5]Conics[5][5]19th century[edit]19th century[edit][edit]The term itself is enshrined in the full title of the Sadleirian Chair, founded (as a professorship) in the mid-nineteenth century. The idea of a separate discipline of pure mathematics may have emerged at that time. The generation of Gauss made no sweeping distinction of the kind, between pure and applied. In the following years, specialisation and professionalisation (particularly in the Weierstrass approach to mathematical analysis) started to make a rift more apparent.Sadleirian ChairpureGausspureappliedWeierstrassmathematical analysis20th century[edit]20th century[edit][edit]At the start of the twentieth century mathematicians took up the axiomatic method, strongly influenced by David Hilbert's example. The logical formulation of pure mathematics suggested by Bertrand Russell in terms of a quantifier structure of propositions seemed more and more plausible, as large parts of mathematics became axiomatised and thus subject to the simple criteria of rigorous proof.axiomatic methodDavid Hilbertpure mathematicsBertrand Russellquantifierpropositionsrigorous proofrigorous proofIn fact in an axiomatic setting rigorous adds nothing to the idea of proof. Pure mathematics, according to a view that can be ascribed to the Bourbaki group, is what is proved. Pure mathematician became a recognized vocation, achievable through training.rigorousproofBourbakiPure mathematicianThe case was made that pure mathematics is useful in engineering education:[6]engineering education[6][6]
+There is a training in habits of thought, points of view, and intellectual comprehension of ordinary engineering problems, which only the study of higher mathematics can give.
+There is a training in habits of thought, points of view, and intellectual comprehension of ordinary engineering problems, which only the study of higher mathematics can give.Generality and abstraction[edit]Generality and abstraction[edit][edit]One central concept in pure mathematics is the idea of generality; pure mathematics often exhibits a trend towards increased generality.
+Generalizing theorems or mathematical structures can lead to deeper understanding of the original theorems or structures
+Generality can simplify the presentation of material, resulting in shorter proofs or arguments that are easier to follow.
+One can use generality to avoid duplication of effort, proving a general result instead of having to prove separate cases independently, or using results from other areas of mathematics.
+Generality can facilitate connections between different branches of mathematics. Category theory is one area of mathematics dedicated to exploring this commonality of structure as it plays out in some areas of math.
+Generalizing theorems or mathematical structures can lead to deeper understanding of the original theorems or structuresGenerality can simplify the presentation of material, resulting in shorter proofs or arguments that are easier to follow.One can use generality to avoid duplication of effort, proving a general result instead of having to prove separate cases independently, or using results from other areas of mathematics.Generality can facilitate connections between different branches of mathematics. Category theory is one area of mathematics dedicated to exploring this commonality of structure as it plays out in some areas of math.Category theoryGenerality's impact on intuition is both dependent on the subject and a matter of personal preference or learning style. Often generality is seen as a hindrance to intuition, although it can certainly function as an aid to it, especially when it provides analogies to material for which one already has good intuition.intuitionAs a prime example of generality, the Erlangen program involved an expansion of geometry to accommodate non-Euclidean geometries as well as the field of topology, and other forms of geometry, by viewing geometry as the study of a space together with a group of transformations. The study of numbers, called algebra at the beginning undergraduate level, extends to abstract algebra at a more advanced level; and the study of functions, called calculus at the college freshman level becomes mathematical analysis and functional analysis at a more advanced level. Each of these branches of more abstract mathematics have many sub-specialties, and there are in fact many connections between pure mathematics and applied mathematics disciplines. A steep rise in abstraction was seen mid 20th century.Erlangen programgeometrynon-Euclidean geometriestopologygroupnumbersalgebraabstract algebrafunctionscalculusmathematical analysisfunctional analysisabstractabstractionIn practice, however, these developments led to a sharp divergence from physics, particularly from 1950 to 1983. Later this was criticised, for example by Vladimir Arnold, as too much Hilbert, not enough Poincaré. The point does not yet seem to be settled, in that string theory pulls one way, while discrete mathematics pulls back towards proof as central.physicsVladimir ArnoldHilbertPoincaréstring theorydiscrete mathematicsPurism[edit]Purism[edit][edit]Mathematicians have always had differing opinions regarding the distinction between pure and applied mathematics. One of the most famous (but perhaps misunderstood) modern examples of this debate can be found in G.H. Hardy's A Mathematician's Apology.G.H. HardyA Mathematician's ApologyA Mathematician's ApologyIt is widely believed that Hardy considered applied mathematics to be ugly and dull. Although it is true that Hardy preferred pure mathematics, which he often compared to painting and poetry, Hardy saw the distinction between pure and applied mathematics to be simply that applied mathematics sought to express physical truth in a mathematical framework, whereas pure mathematics expressed truths that were independent of the physical world. Hardy made a separate distinction in mathematics between what he called "real" mathematics, "which has permanent aesthetic value", and "the dull and elementary parts of mathematics" that have practical use.paintingpoetryphysicalHardy considered some physicists, such as Einstein and Dirac, to be among the "real" mathematicians, but at the time that he was writing the Apology he also considered general relativity and quantum mechanics to be "useless", which allowed him to hold the opinion that only "dull" mathematics was useful. Moreover, Hardy briefly admitted that—just as the application of matrix theory and group theory to physics had come unexpectedly—the time may come where some kinds of beautiful, "real" mathematics may be useful as well.EinsteinDiracApologygeneral relativityquantum mechanicsAnother insightful view is offered by Magid:
+I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and noncommutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a noncommutative ring is a not necessarily commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean not necessarily applied mathematics… [emphasis added][2]
+I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and noncommutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a noncommutative ring is a not necessarily commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean not necessarily applied mathematics… [emphasis added][2]mean not necessarily applied mathematics[2][2]Subfields[edit]Subfields[edit][edit]Analysis is concerned with the properties of functions. It deals with concepts such as continuity, limits, differentiation and integration, thus providing a rigorous foundation for the calculus of infinitesimals introduced by Newton and Leibniz in the 17th century. Real analysis studies functions of real numbers, while complex analysis extends the aforementioned concepts to functions of complex numbers. Functional analysis is a branch of analysis that studies infinite-dimensional vector spaces and views functions as points in these spaces.AnalysiscontinuitylimitsdifferentiationintegrationcalculusReal analysiscomplex analysisFunctional analysisAbstract algebra is not to be confused with the manipulation of formulae that is covered in secondary education. It studies sets together with binary operations defined on them. Sets and their binary operations may be classified according to their properties: for instance, if an operation is associative on a set that contains an identity element and inverses for each member of the set, the set and operation is considered to be a group. Other structures include rings, fields, vector spaces and lattices.Abstract algebrasetsbinary operationsassociativegroupringsfieldsvector spaceslatticesGeometry is the study of shapes and space, in particular, groups of transformations that act on spaces. For example, projective geometry is about the group of projective transformations that act on the real projective plane, whereas inversive geometry is concerned with the group of inversive transformations acting on the extended complex plane.Geometryprojective geometryinversive geometryNumber theory is the theory of the positive integers. It is based on ideas such as divisibility and congruence. Its fundamental theorem states that each positive integer has a unique prime factorization. In some ways it is the most accessible discipline in pure mathematics for the general public: for instance the Goldbach conjecture is easily stated (but is yet to be proved or disproved). In other ways it is the least accessible discipline; for example, Wiles' proof that Fermat's equation has no nontrivial solutions requires understanding automorphic forms, which though intrinsic to nature have not found a place in physics or the general public discourse.Number theoryintegerscongruencefundamental theoremGoldbach conjectureautomorphic formsTopology is a modern extension of Geometry. Rather than focusing on the sizes of objects and their precise measurement, topology involves the properties of spaces or objects that are preserved under smooth operations such as bending or twisting (but not, for example, tearing or shearing). Topology's subfields interact with other branches of pure math: traditional topology uses ideas from analysis, such as metric spaces, and algebraic topology relies on ideas from combinatorics in addition to those of analysis.Topologyanalysisalgebraic topologycombinatoricsSee also[edit]See also[edit][edit]
+Applied mathematics
+Logic
+Metalogic
+Metamathematics
+Applied mathematicsApplied mathematicsLogicLogicMetalogicMetalogicMetamathematicsMetamathematicsNotes[edit]Notes[edit][edit]
+^ Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. 
+^ a b Andy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]
+^ Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." 
+^ Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." 
+^ a b Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. 
+^ A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.
+^ Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. ^^^Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015. Piaggio, H. "Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy". MacTutor History of Mathematics archive. St. Andrews University. Retrieved 12 July 2015."Three Sadleirian Professors: A.R. Forsyth, E.W. Hobson and G.H. Hardy"MacTutor History of Mathematics archive. Retrieved 12 July 201512 July  ^ a b Andy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]^ a baaaabbbbAndy Magid, Letter from the Editor, in Notices of the AMS, November 2005, American Mathematical Society, p.1173. [1]Notices of the AMS[1]^ Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." ^^^Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being." Boyer, Carl B. (1991). "The age of Plato and Aristotle". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 86. ISBN 0-471-54397-7. Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being."Boyer, Carl B.A History of MathematicsISBN0-471-54397-7Plato is important in the history of mathematics largely for his role as inspirer and director of others, and perhaps to him is due the sharp distinction in ancient Greece between arithmetic (in the sense of the theory of numbers) and logistic (the technique of computation). Plato regarded logistic as appropriate for the businessman and for the man of war, who "must learn the art of numbers or he will not know how to array his troops." The philosopher, on the other hand, must be an arithmetician "because he has to arise out of the sea of change and lay hold of true being."  ^ Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." ^^^Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns." Boyer, Carl B. (1991). "Euclid of Alexandria". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 101. ISBN 0-471-54397-7. Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns."Boyer, Carl B.A History of MathematicsISBN0-471-54397-7Evidently Euclid did not stress the practical aspects of his subject, for there is a tale told of him that when one of his students asked of what use was the study of geometry, Euclid asked his slave to give the student threepence, "since he must make gain of what he learns."  ^ a b Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. ^ a baaaabbbbBoyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics. Boyer, Carl B. (1991). "Apollonius of Perga". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 152. ISBN 0-471-54397-7. It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics.Boyer, Carl B.A History of MathematicsISBN0-471-54397-7It is in connection with the theorems in this book that Apollonius makes a statement implying that in his day, as in ours, there were narrow-minded opponents of pure mathematics who pejoratively inquired about the usefulness of such results. The author proudly asserted: "They are worthy of acceptance for the sake of the demonstrations themselves, in the same way as we accept many other things in mathematics for this and for no other reason." (Heath 1961, p.lxxiv).
+The preface to Book V, relating to maximum and minimum straight lines drawn to a conic, again argues that the subject is one of those that seem "worthy of study for their own sake." While one must admire the author for his lofty intellectual attitude, it may be pertinently pointed out that s day was beautiful theory, with no prospect of applicability to the science or engineering of his time, has since become fundamental in such fields as terrestrial dynamics and celestial mechanics.  ^ A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.^^^A. S. Hathaway (1901) "Pure mathematics for engineering students", Bulletin of the American Mathematical Society 7(6):266–71.A. S. Hathaway"Pure mathematics for engineering students"Bulletin of the American Mathematical SocietyExternal links[edit]External links[edit][edit]
+What is Pure Mathematics? Department of Pure Mathematics, University of Waterloo
+What is Pure Mathematics? by Professor P.J. Giblin The University of Liverpool
+The Principles of Mathematics by Bertrand Russell
+How to Become a Pure Mathematician (or Statistician), a list of undergraduate and basic graduate textbooks and lecture notes, with several comments and links to solutions, companion sites, data sets, errata pages, etc.
+Pure Mathematics Learning Resources
+What is Pure Mathematics? Department of Pure Mathematics, University of WaterlooWhat is Pure Mathematics? Department of Pure Mathematics, University of WaterlooWhat is Pure Mathematics?What is Pure Mathematics? by Professor P.J. Giblin The University of LiverpoolWhat is Pure Mathematics? by Professor P.J. Giblin The University of LiverpoolWhat is Pure Mathematics?The Principles of Mathematics by Bertrand RussellThe Principles of Mathematics by Bertrand RussellThe Principles of MathematicsHow to Become a Pure Mathematician (or Statistician), a list of undergraduate and basic graduate textbooks and lecture notes, with several comments and links to solutions, companion sites, data sets, errata pages, etc.How to Become a Pure Mathematician (or Statistician)Pure Mathematics Learning ResourcesPure Mathematics Learning Resources
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+
+
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+
+
+v
+t
+e
+
+
+Areas of mathematics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeAreas of mathematicsAreas of mathematics
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+
+
+outline
+topic lists
+
+
+
+
+outline
+topic lists
+
+
+outline
+topic lists
+outlineoutlinetopic liststopic lists
+
+
+Areas
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+Areas
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+
+
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+
+Arithmetic / Number theory
+Calculus / Analysis
+Category theory
+Combinatorics
+Computation
+Control theory
+Differential equations / Dynamical systems
+Functional analysis
+Game theory
+Geometry
+
+discrete
+algebraic
+differential
+finite
+
+
+Graph theory
+Information theory
+Lie theory
+Mathematical art
+Mathematical logic
+Mathematical physics
+Mathematical statistics
+Numerical analysis
+Optimization
+Probability
+Representation theory
+Set theory
+Statistics
+Topology
+Trigonometry
+Algebra
+
+elementary
+linear
+multilinear
+abstract
+
+Algebra
+elementary
+linear
+multilinear
+abstract
+elementaryelementarylinearlinearmultilinearmultilinearabstractabstractArithmetic / Number theoryArithmeticNumber theoryCalculus / AnalysisCalculusAnalysisCategory theoryCategory theoryCombinatoricsCombinatoricsComputationComputationControl theoryControl theoryDifferential equations / Dynamical systemsDifferential equationsDynamical systemsFunctional analysisFunctional analysisGame theoryGame theoryGeometry
+
+discrete
+algebraic
+differential
+finite
+
+Geometry
+discrete
+algebraic
+differential
+finite
+discretediscretealgebraicalgebraicdifferentialdifferentialfinitefiniteGraph theoryGraph theoryInformation theoryInformation theoryLie theoryLie theoryMathematical artMathematical artMathematical logicMathematical logicMathematical physicsMathematical physicsMathematical statisticsMathematical statisticsNumerical analysisNumerical analysisOptimizationOptimizationProbabilityProbabilityRepresentation theoryRepresentation theorySet theorySet theoryStatisticsStatisticsTopologyTopologyTrigonometryTrigonometry
+
+
+Divisions
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+Divisions
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+
+
+Pure
+Applied
+Discrete
+Computational
+Meta-
+PurePureAppliedAppliedDiscreteDiscreteComputationalComputationalMeta-Meta-
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+
+
+  Category
+  Portal
+ Commons
+  WikiProject
+  CategoryCategoryCategory  PortalPortalPortal CommonsCommonsCommons  WikiProjectWikiProjectWikiProject
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pure_mathematics&oldid=704465333"					https://en.wikipedia.org/w/index.php?title=Pure_mathematics&oldid=704465333Categories: Mathematical terminologyMathematical science occupationsCategories: Mathematical terminologyMathematical science occupationsCategoriesMathematical terminologyMathematical science occupationsMathematical terminologyMathematical terminologyMathematical science occupationsMathematical science occupations
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikiquote 
+
+
+
+Languages
+
+
+العربيةCatalàČeštinaCymraegEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიBahasa MelayuNederlands日本語Norsk bokmålNovialPolskiPortuguêsRomânăРусскийSimple EnglishTagalogไทยTürkçeУкраїнськаاردوVolapük中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikiquote 
+
+
+
+Languages
+
+
+العربيةCatalàČeštinaCymraegEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიBahasa MelayuNederlands日本語Norsk bokmålNovialPolskiPortuguêsRomânăРусскийSimple EnglishTagalogไทยTürkçeУкраїнськаاردوVolapük中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikiquote 
+
+In other projects
+
+Wikiquote 
+
+Wikiquote WikiquoteWikiquote
+Languages
+
+
+العربيةCatalàČeštinaCymraegEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიBahasa MelayuNederlands日本語Norsk bokmålNovialPolskiPortuguêsRomânăРусскийSimple EnglishTagalogไทยTürkçeУкраїнськаاردوVolapük中文 
+Edit links 
+Languages
+
+العربيةCatalàČeštinaCymraegEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიBahasa MelayuNederlands日本語Norsk bokmålNovialPolskiPortuguêsRomânăРусскийSimple EnglishTagalogไทยTürkçeУкраїнськаاردوVolapük中文 
+Edit links 
+العربيةCatalàČeštinaCymraegEestiΕλληνικάEspañolEsperantoفارسیFrançaisGalego한국어Հայերենहिन्दीIdoBahasa IndonesiaInterlinguaItalianoעבריתქართულიBahasa MelayuNederlands日本語Norsk bokmålNovialPolskiPortuguêsRomânăРусскийSimple EnglishTagalogไทยTürkçeУкраїнськаاردوVolapük中文 العربيةالعربيةCatalàCatalàČeštinaČeštinaCymraegCymraegEestiEestiΕλληνικάΕλληνικάEspañolEspañolEsperantoEsperantoفارسیفارسیFrançaisFrançaisGalegoGalego한국어한국어ՀայերենՀայերենहिन्दीहिन्दीIdoIdoBahasa IndonesiaBahasa IndonesiaInterlinguaInterlinguaItalianoItalianoעבריתעבריתქართულიქართულიBahasa MelayuBahasa MelayuNederlandsNederlands日本語日本語Norsk bokmålNorsk bokmålNovialNovialPolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийSimple EnglishSimple EnglishTagalogTagalogไทยไทยTürkçeTürkçeУкраїнськаУкраїнськаاردواردوVolapükVolapük中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 11 February 2016, at 19:33.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 11 February 2016, at 19:33.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 11 February 2016, at 19:33.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

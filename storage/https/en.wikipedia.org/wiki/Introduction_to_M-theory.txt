@@ -1,0 +1,1818 @@
+Introduction to M-theory - Wikipedia, the free encyclopedia
+
+
+
+
+Introduction to M-theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is a non-technical introduction to the subject. For the main encyclopedia article, see M-theory.
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In non-technical terms, M-theory presents an idea about the basic substance of the universe. So far no experimental evidence exists showing that M-theory is a description of the real world. Interest in this theory is mainly driven by mathematical elegance.
+
+
+
+Contents
+
+
+1 Background
+2 Status
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Background[edit]
+In the early years of the 20th century, the atom – long believed to be the smallest building-block of matter – was proven to consist of even smaller components called protons, neutrons and electrons, which are known as subatomic particles. Starting in the 1960s, other subatomic particles began being discovered. In the 1970s, it was discovered that protons and neutrons (and other hadrons) are themselves made up of smaller particles called quarks. The Standard Model is the set of rules that describes the interactions of these particles.
+In the 1980s, a new mathematical model of theoretical physics, called string theory, emerged. It showed how all the particles and all of the forms of energy in the universe could be constructed by hypothetical one-dimensional "strings", infinitesimal building-blocks that have only the dimension of length, but not height or width.
+However, to make string theory mathematically consistent, the universe the strings exist in must have ten dimensions. This contradicts the experience that our real universe has four dimensions: three space dimensions (height, width, and length) and one time dimension. To "save" their theory, string theorists therefore added the explanation that the additional six dimensions exist but cannot be detected directly; this was explained by sophisticated mathematical objects called Calabi–Yau manifolds. The number of dimensions was later increased to 11 based on various interpretations of the 10-dimensional theory that led to five partial theories, as described below. Supergravity theory also played a significant part in establishing the necessity of the 11th dimension.
+These "strings" vibrate in multiple dimensions, and depending on how they vibrate, they might be seen in three-dimensional space as matter, light or gravity. It is the vibration of the string which determines whether it appears to be matter or energy, and every form of matter or energy is the result of the vibration of strings.
+String theory, as mentioned above, ran into a problem: another version of the equations was discovered, then another, and then another. Eventually, five major string theories were developed. The main differences between the theories were principally the number of dimensions in which the strings developed, and their characteristics (some were open loops, some were closed loops, etc.). Furthermore, all these theories appeared to be workable. Scientists were not comfortable with five seemingly contradictory sets of equations to describe the same thing.
+In 1994, Edward Witten of the Institute for Advanced Study and other researchers suggested that the five different versions of string theory might be describing the same thing seen from different perspectives. They proposed a unifying theory called "M-theory", in which the "M" is not specifically defined but is generally understood to stand for "membrane". The words "matrix", "master", "mother", "monster", "mystery" and "magic" have also been claimed. M-theory brought all of the string theories together. It did this by asserting that strings are really one-dimensional slices of a two-dimensional membrane vibrating in 11-dimensional space.
+Status[edit]
+M-theory is not complete, but the underlying structure of the mathematics has been established and is in agreement with all the string theories. Furthermore, it has passed many tests of internal mathematical consistency.
+However, so far no experimental support of the M-theory exists. Some physicists are skeptical that this approach will ever lead to a physical theory describing our real world due to fundamental issues.[1]
+Nevertheless, some cosmologists are drawn to M-theory because of its mathematical elegance and relative simplicity, triggering the hope that the simplicity is a reason why it may describe our world. Physicist and author Michio Kaku has remarked that M-theory may present us with a "Theory of Everything" which is so concise that its underlying formula would fit on a T-shirt.[2] Stephen Hawking originally believed that M-theory may be the ultimate theory but later suggested that the search for understanding of mathematics and physics will never be complete.[3] However, Hawking later changed his mind and stated, "M-theory is the only candidate for a complete theory of the universe."[4] Hawking and Leonard Mlodinow, in the popular-science book The Grand Design, take a philosophical position to support a view of the universe as a multiverse, and define it in the book as model-dependent realism which along with a sum-over-histories approach (see Path integral formulation of Quantum mechanics) to the universe as a whole, is used to claim that M-theory is the only candidate for a complete theory of the universe, mainly due to lack of viable alternatives.
+See also[edit]
+
+Superstring theory
+
+References[edit]
+
+
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski
+^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. 
+^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. 
+^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. 
+
+
+Further reading[edit]
+
+Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1. 
+Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3. 
+Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256. 
+Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6. 
+Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7. 
+Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6. 
+
+External links[edit]
+
+The Elegant Universe - A Three-Hour miniseries with Brian Greene by NOVA (original PBS Broadcast Dates: October 28, 8-10 p.m. and November 4, 8-9 p.m., 2003). Various images, texts, videos and animations explaining string theory and M-theory.
+Superstringtheory.com - The "Official String Theory Web Site", created by Patricia Schwarz. Excellent references on string theory and M-theory for the layperson and expert.
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Introduction_to_M-theory&oldid=712212487"					
+Categories: Theoretical physicsPhysical cosmologyString theoryHidden categories: Articles lacking in-text citations from August 2013All articles lacking in-text citations 
+
+
+Introduction to M-theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is a non-technical introduction to the subject. For the main encyclopedia article, see M-theory.
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In non-technical terms, M-theory presents an idea about the basic substance of the universe. So far no experimental evidence exists showing that M-theory is a description of the real world. Interest in this theory is mainly driven by mathematical elegance.
+
+
+
+Contents
+
+
+1 Background
+2 Status
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Background[edit]
+In the early years of the 20th century, the atom – long believed to be the smallest building-block of matter – was proven to consist of even smaller components called protons, neutrons and electrons, which are known as subatomic particles. Starting in the 1960s, other subatomic particles began being discovered. In the 1970s, it was discovered that protons and neutrons (and other hadrons) are themselves made up of smaller particles called quarks. The Standard Model is the set of rules that describes the interactions of these particles.
+In the 1980s, a new mathematical model of theoretical physics, called string theory, emerged. It showed how all the particles and all of the forms of energy in the universe could be constructed by hypothetical one-dimensional "strings", infinitesimal building-blocks that have only the dimension of length, but not height or width.
+However, to make string theory mathematically consistent, the universe the strings exist in must have ten dimensions. This contradicts the experience that our real universe has four dimensions: three space dimensions (height, width, and length) and one time dimension. To "save" their theory, string theorists therefore added the explanation that the additional six dimensions exist but cannot be detected directly; this was explained by sophisticated mathematical objects called Calabi–Yau manifolds. The number of dimensions was later increased to 11 based on various interpretations of the 10-dimensional theory that led to five partial theories, as described below. Supergravity theory also played a significant part in establishing the necessity of the 11th dimension.
+These "strings" vibrate in multiple dimensions, and depending on how they vibrate, they might be seen in three-dimensional space as matter, light or gravity. It is the vibration of the string which determines whether it appears to be matter or energy, and every form of matter or energy is the result of the vibration of strings.
+String theory, as mentioned above, ran into a problem: another version of the equations was discovered, then another, and then another. Eventually, five major string theories were developed. The main differences between the theories were principally the number of dimensions in which the strings developed, and their characteristics (some were open loops, some were closed loops, etc.). Furthermore, all these theories appeared to be workable. Scientists were not comfortable with five seemingly contradictory sets of equations to describe the same thing.
+In 1994, Edward Witten of the Institute for Advanced Study and other researchers suggested that the five different versions of string theory might be describing the same thing seen from different perspectives. They proposed a unifying theory called "M-theory", in which the "M" is not specifically defined but is generally understood to stand for "membrane". The words "matrix", "master", "mother", "monster", "mystery" and "magic" have also been claimed. M-theory brought all of the string theories together. It did this by asserting that strings are really one-dimensional slices of a two-dimensional membrane vibrating in 11-dimensional space.
+Status[edit]
+M-theory is not complete, but the underlying structure of the mathematics has been established and is in agreement with all the string theories. Furthermore, it has passed many tests of internal mathematical consistency.
+However, so far no experimental support of the M-theory exists. Some physicists are skeptical that this approach will ever lead to a physical theory describing our real world due to fundamental issues.[1]
+Nevertheless, some cosmologists are drawn to M-theory because of its mathematical elegance and relative simplicity, triggering the hope that the simplicity is a reason why it may describe our world. Physicist and author Michio Kaku has remarked that M-theory may present us with a "Theory of Everything" which is so concise that its underlying formula would fit on a T-shirt.[2] Stephen Hawking originally believed that M-theory may be the ultimate theory but later suggested that the search for understanding of mathematics and physics will never be complete.[3] However, Hawking later changed his mind and stated, "M-theory is the only candidate for a complete theory of the universe."[4] Hawking and Leonard Mlodinow, in the popular-science book The Grand Design, take a philosophical position to support a view of the universe as a multiverse, and define it in the book as model-dependent realism which along with a sum-over-histories approach (see Path integral formulation of Quantum mechanics) to the universe as a whole, is used to claim that M-theory is the only candidate for a complete theory of the universe, mainly due to lack of viable alternatives.
+See also[edit]
+
+Superstring theory
+
+References[edit]
+
+
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski
+^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. 
+^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. 
+^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. 
+
+
+Further reading[edit]
+
+Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1. 
+Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3. 
+Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256. 
+Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6. 
+Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7. 
+Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6. 
+
+External links[edit]
+
+The Elegant Universe - A Three-Hour miniseries with Brian Greene by NOVA (original PBS Broadcast Dates: October 28, 8-10 p.m. and November 4, 8-9 p.m., 2003). Various images, texts, videos and animations explaining string theory and M-theory.
+Superstringtheory.com - The "Official String Theory Web Site", created by Patricia Schwarz. Excellent references on string theory and M-theory for the layperson and expert.
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Introduction_to_M-theory&oldid=712212487"					
+Categories: Theoretical physicsPhysical cosmologyString theoryHidden categories: Articles lacking in-text citations from August 2013All articles lacking in-text citations 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is a non-technical introduction to the subject. For the main encyclopedia article, see M-theory.
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In non-technical terms, M-theory presents an idea about the basic substance of the universe. So far no experimental evidence exists showing that M-theory is a description of the real world. Interest in this theory is mainly driven by mathematical elegance.
+
+
+
+Contents
+
+
+1 Background
+2 Status
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Background[edit]
+In the early years of the 20th century, the atom – long believed to be the smallest building-block of matter – was proven to consist of even smaller components called protons, neutrons and electrons, which are known as subatomic particles. Starting in the 1960s, other subatomic particles began being discovered. In the 1970s, it was discovered that protons and neutrons (and other hadrons) are themselves made up of smaller particles called quarks. The Standard Model is the set of rules that describes the interactions of these particles.
+In the 1980s, a new mathematical model of theoretical physics, called string theory, emerged. It showed how all the particles and all of the forms of energy in the universe could be constructed by hypothetical one-dimensional "strings", infinitesimal building-blocks that have only the dimension of length, but not height or width.
+However, to make string theory mathematically consistent, the universe the strings exist in must have ten dimensions. This contradicts the experience that our real universe has four dimensions: three space dimensions (height, width, and length) and one time dimension. To "save" their theory, string theorists therefore added the explanation that the additional six dimensions exist but cannot be detected directly; this was explained by sophisticated mathematical objects called Calabi–Yau manifolds. The number of dimensions was later increased to 11 based on various interpretations of the 10-dimensional theory that led to five partial theories, as described below. Supergravity theory also played a significant part in establishing the necessity of the 11th dimension.
+These "strings" vibrate in multiple dimensions, and depending on how they vibrate, they might be seen in three-dimensional space as matter, light or gravity. It is the vibration of the string which determines whether it appears to be matter or energy, and every form of matter or energy is the result of the vibration of strings.
+String theory, as mentioned above, ran into a problem: another version of the equations was discovered, then another, and then another. Eventually, five major string theories were developed. The main differences between the theories were principally the number of dimensions in which the strings developed, and their characteristics (some were open loops, some were closed loops, etc.). Furthermore, all these theories appeared to be workable. Scientists were not comfortable with five seemingly contradictory sets of equations to describe the same thing.
+In 1994, Edward Witten of the Institute for Advanced Study and other researchers suggested that the five different versions of string theory might be describing the same thing seen from different perspectives. They proposed a unifying theory called "M-theory", in which the "M" is not specifically defined but is generally understood to stand for "membrane". The words "matrix", "master", "mother", "monster", "mystery" and "magic" have also been claimed. M-theory brought all of the string theories together. It did this by asserting that strings are really one-dimensional slices of a two-dimensional membrane vibrating in 11-dimensional space.
+Status[edit]
+M-theory is not complete, but the underlying structure of the mathematics has been established and is in agreement with all the string theories. Furthermore, it has passed many tests of internal mathematical consistency.
+However, so far no experimental support of the M-theory exists. Some physicists are skeptical that this approach will ever lead to a physical theory describing our real world due to fundamental issues.[1]
+Nevertheless, some cosmologists are drawn to M-theory because of its mathematical elegance and relative simplicity, triggering the hope that the simplicity is a reason why it may describe our world. Physicist and author Michio Kaku has remarked that M-theory may present us with a "Theory of Everything" which is so concise that its underlying formula would fit on a T-shirt.[2] Stephen Hawking originally believed that M-theory may be the ultimate theory but later suggested that the search for understanding of mathematics and physics will never be complete.[3] However, Hawking later changed his mind and stated, "M-theory is the only candidate for a complete theory of the universe."[4] Hawking and Leonard Mlodinow, in the popular-science book The Grand Design, take a philosophical position to support a view of the universe as a multiverse, and define it in the book as model-dependent realism which along with a sum-over-histories approach (see Path integral formulation of Quantum mechanics) to the universe as a whole, is used to claim that M-theory is the only candidate for a complete theory of the universe, mainly due to lack of viable alternatives.
+See also[edit]
+
+Superstring theory
+
+References[edit]
+
+
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski
+^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. 
+^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. 
+^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. 
+
+
+Further reading[edit]
+
+Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1. 
+Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3. 
+Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256. 
+Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6. 
+Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7. 
+Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6. 
+
+External links[edit]
+
+The Elegant Universe - A Three-Hour miniseries with Brian Greene by NOVA (original PBS Broadcast Dates: October 28, 8-10 p.m. and November 4, 8-9 p.m., 2003). Various images, texts, videos and animations explaining string theory and M-theory.
+Superstringtheory.com - The "Official String Theory Web Site", created by Patricia Schwarz. Excellent references on string theory and M-theory for the layperson and expert.
+
+
+
+
+This article is a non-technical introduction to the subject. For the main encyclopedia article, see M-theory.M-theory
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (August 2013)list of referencesits sources remain unclearinsufficient inline citationsinline citationsPlease help to improve this article by introducing more precise citations.improveintroducing(August 2013)(August 2013)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn non-technical terms, M-theory presents an idea about the basic substance of the universe. So far no experimental evidence exists showing that M-theory is a description of the real world. Interest in this theory is mainly driven by mathematical elegance.M-theoryuniversemathematical elegance
+
+Contents
+
+
+1 Background
+2 Status
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+Contents
+Contents
+1 Background
+2 Status
+3 See also
+4 References
+5 Further reading
+6 External links
+1 Background1 Background1Background2 Status2 Status2Status3 See also3 See also3See also4 References4 References4References5 Further reading5 Further reading5Further reading6 External links6 External links6External linksBackground[edit]Background[edit][edit]In the early years of the 20th century, the atom – long believed to be the smallest building-block of matter – was proven to consist of even smaller components called protons, neutrons and electrons, which are known as subatomic particles. Starting in the 1960s, other subatomic particles began being discovered. In the 1970s, it was discovered that protons and neutrons (and other hadrons) are themselves made up of smaller particles called quarks. The Standard Model is the set of rules that describes the interactions of these particles.atommatterprotonsneutronselectronssubatomic particleshadronsquarksStandard ModelIn the 1980s, a new mathematical model of theoretical physics, called string theory, emerged. It showed how all the particles and all of the forms of energy in the universe could be constructed by hypothetical one-dimensional "strings", infinitesimal building-blocks that have only the dimension of length, but not height or width.theoretical physicsstring theoryHowever, to make string theory mathematically consistent, the universe the strings exist in must have ten dimensions. This contradicts the experience that our real universe has four dimensions: three space dimensions (height, width, and length) and one time dimension. To "save" their theory, string theorists therefore added the explanation that the additional six dimensions exist but cannot be detected directly; this was explained by sophisticated mathematical objects called Calabi–Yau manifolds. The number of dimensions was later increased to 11 based on various interpretations of the 10-dimensional theory that led to five partial theories, as described below. Supergravity theory also played a significant part in establishing the necessity of the 11th dimension.dimensionsCalabi–Yau manifoldsSupergravityThese "strings" vibrate in multiple dimensions, and depending on how they vibrate, they might be seen in three-dimensional space as matter, light or gravity. It is the vibration of the string which determines whether it appears to be matter or energy, and every form of matter or energy is the result of the vibration of strings.String theory, as mentioned above, ran into a problem: another version of the equations was discovered, then another, and then another. Eventually, five major string theories were developed. The main differences between the theories were principally the number of dimensions in which the strings developed, and their characteristics (some were open loops, some were closed loops, etc.). Furthermore, all these theories appeared to be workable. Scientists were not comfortable with five seemingly contradictory sets of equations to describe the same thing.In 1994, Edward Witten of the Institute for Advanced Study and other researchers suggested that the five different versions of string theory might be describing the same thing seen from different perspectives. They proposed a unifying theory called "M-theory", in which the "M" is not specifically defined but is generally understood to stand for "membrane". The words "matrix", "master", "mother", "monster", "mystery" and "magic" have also been claimed. M-theory brought all of the string theories together. It did this by asserting that strings are really one-dimensional slices of a two-dimensional membrane vibrating in 11-dimensional space.Edward WittenInstitute for Advanced StudysuggestedStatus[edit]Status[edit][edit]M-theory is not complete, but the underlying structure of the mathematics has been established and is in agreement with all the string theories. Furthermore, it has passed many tests of internal mathematical consistency.However, so far no experimental support of the M-theory exists. Some physicists are skeptical that this approach will ever lead to a physical theory describing our real world due to fundamental issues.[1][1][1]Nevertheless, some cosmologists are drawn to M-theory because of its mathematical elegance and relative simplicity, triggering the hope that the simplicity is a reason why it may describe our world. Physicist and author Michio Kaku has remarked that M-theory may present us with a "Theory of Everything" which is so concise that its underlying formula would fit on a T-shirt.[2] Stephen Hawking originally believed that M-theory may be the ultimate theory but later suggested that the search for understanding of mathematics and physics will never be complete.[3] However, Hawking later changed his mind and stated, "M-theory is the only candidate for a complete theory of the universe."[4] Hawking and Leonard Mlodinow, in the popular-science book The Grand Design, take a philosophical position to support a view of the universe as a multiverse, and define it in the book as model-dependent realism which along with a sum-over-histories approach (see Path integral formulation of Quantum mechanics) to the universe as a whole, is used to claim that M-theory is the only candidate for a complete theory of the universe, mainly due to lack of viable alternatives.cosmologistsMichio KakuTheory of Everything[2][2]Stephen Hawkingnever be complete[3][3]only[4][4]Leonard MlodinowThe Grand DesignThe Grand Designmultiversemodel-dependent realismPath integral formulationQuantum mechanicsSee also[edit]See also[edit][edit]
+Superstring theory
+Superstring theorySuperstring theoryReferences[edit]References[edit][edit]
+
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski
+^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. 
+^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. 
+^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. 
+
+
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski
+^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. 
+^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. 
+^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. 
+^ Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski^^^Lee Smolin, April 2007:[1] Response to review of The Trouble with Physics by Joe Polchinski[1]^ Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. ^^^Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06. Kaku, M. "M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-06.Kaku, M"M-Theory: The Mother of all SuperStrings". Retrieved 2013-08-062013-08-06  ^ Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. ^^^Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06. Hawking, S. (3 October 2003). "Gödel and the end of physics". Retrieved 2013-08-06.Hawking, S."Gödel and the end of physics". Retrieved 2013-08-062013-08-06  ^ Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. ^^^Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X. Hawking, Stephen (2010). The Grand Design. Bantam Books. ISBN 055338466X.The Grand DesignISBN055338466X  Further reading[edit]Further reading[edit][edit]
+Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1. 
+Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3. 
+Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256. 
+Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6. 
+Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7. 
+Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6. 
+Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1. Greene, B. (1999). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. W.W. Norton. ISBN 0-375-70811-1.Greene, B.The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate TheoryThe Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate TheoryW.W. NortonISBN0-375-70811-1  Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3. Greene, B. (2004). The Fabric of the Cosmos: Space, Time, and the Texture of Reality. Alfred A. Knopf. ISBN 0-375-41288-3.The Fabric of the Cosmos: Space, Time, and the Texture of RealityThe Fabric of the Cosmos: Space, Time, and the Texture of RealityAlfred A. KnopfISBN0-375-41288-3  Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256. Miemic, A.; Schnakenburg, I. (2006). "Basics of M-theory". Fortschritte der Physik 54 (1): 5–72. arXiv:hep-th/0509137. Bibcode:2006ForPh..54....5M. doi:10.1002/prop.200510256.Fortschritte der PhysikFortschritte der Physik54arXivhep-th/0509137Bibcode2006ForPh..54....5Mdoi10.1002/prop.200510256  Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6. Musser, G. (2008). The Complete Idiot's Guide to String Theory. Alpha Books. ISBN 978-1-59257-702-6.Musser, G.The Complete Idiot's Guide to String TheoryAlpha BooksISBN978-1-59257-702-6  Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7. Smolin, L. (2006). The Trouble with Physics. Houghton Mifflin. ISBN 978-0-618-55105-7.Smolin, L.The Trouble with PhysicsThe Trouble with PhysicsHoughton MifflinISBN978-0-618-55105-7  Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6. Woit, P. (2006). Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of Physics. Basic Books. ISBN 0-465-09275-6.Woit, P.Not Even Wrong: The Failure of String Theory and the Continuing Challenge to Unify the Laws of PhysicsBasic BooksISBN0-465-09275-6  External links[edit]External links[edit][edit]
+The Elegant Universe - A Three-Hour miniseries with Brian Greene by NOVA (original PBS Broadcast Dates: October 28, 8-10 p.m. and November 4, 8-9 p.m., 2003). Various images, texts, videos and animations explaining string theory and M-theory.
+Superstringtheory.com - The "Official String Theory Web Site", created by Patricia Schwarz. Excellent references on string theory and M-theory for the layperson and expert.
+The Elegant Universe - A Three-Hour miniseries with Brian Greene by NOVA (original PBS Broadcast Dates: October 28, 8-10 p.m. and November 4, 8-9 p.m., 2003). Various images, texts, videos and animations explaining string theory and M-theory.The Elegant UniverseBrian GreeneSuperstringtheory.com - The "Official String Theory Web Site", created by Patricia Schwarz. Excellent references on string theory and M-theory for the layperson and expert.Superstringtheory.com
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Introduction_to_M-theory&oldid=712212487"					https://en.wikipedia.org/w/index.php?title=Introduction_to_M-theory&oldid=712212487Categories: Theoretical physicsPhysical cosmologyString theoryHidden categories: Articles lacking in-text citations from August 2013All articles lacking in-text citationsCategories: Theoretical physicsPhysical cosmologyString theoryCategoriesTheoretical physicsPhysical cosmologyString theoryTheoretical physicsTheoretical physicsPhysical cosmologyPhysical cosmologyString theoryString theoryHidden categories: Articles lacking in-text citations from August 2013All articles lacking in-text citationsArticles lacking in-text citations from August 2013All articles lacking in-text citationsArticles lacking in-text citations from August 2013Articles lacking in-text citations from August 2013All articles lacking in-text citationsAll articles lacking in-text citations
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةEspañolFrançaisItalianoLatina 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةEspañolFrançaisItalianoLatina 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+العربيةEspañolFrançaisItalianoLatina 
+Edit links 
+Languages
+
+العربيةEspañolFrançaisItalianoLatina 
+Edit links 
+العربيةEspañolFrançaisItalianoLatina العربيةالعربيةEspañolEspañolFrançaisFrançaisItalianoItalianoLatinaLatinaEdit linksEdit linksEdit links
+
+ This page was last modified on 27 March 2016, at 18:44.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 27 March 2016, at 18:44.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 27 March 2016, at 18:44.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

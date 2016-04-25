@@ -1,0 +1,1153 @@
+Nathan Seiberg - Wikipedia, the free encyclopedia
+
+
+
+
+Nathan Seiberg
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Atle Selberg.
+
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)
+
+
+
+
+Nathan Seiberg
+
+
+
+Nathan Seiberg at Harvard University
+
+
+
+Born
+(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel
+
+
+Nationality
+Israeli American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Weizmann Institute of Science, Tel-Aviv University
+
+
+Doctoral advisor
+Haim Harari
+
+
+Doctoral students
+Shiraz Minwalla
+
+
+Known for
+Seiberg–Witten invariant
+Seiberg duality
+
+
+Notable awards
+MacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)
+
+
+Nathan "Nati" Seiberg (/ˈsaɪbərɡ/; born September 22, 1956) is an Israeli American theoretical physicist who works on string theory. He is currently a professor at the Institute for Advanced Study in Princeton, New Jersey, USA.
+
+
+
+Contents
+
+
+1 Research
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Research[edit]
+His contributions to mathematical physics include:
+
+Mathematical foundations of rational 2-dimensional CFTs (with G. Moore).
+Discovery of some of the first examples of "Seiberg Duals", numerous and ever growing disparate theories that are dynamically equivalent to another at low energy
+papers from the early 1990s about the application of holomorphy to calculations in gauge theories with supersymmetry, including a solution of N=1 four-dimensional gauge theories such as SQCD. He later used renormalization group methods to obtain a 3d Seiberg dual for his 4D SQCD
+articles about the strong-weak duality (S-duality) in the context of supersymmetric gauge theories
+papers about the complete solution of N=2 supersymmetric gauge theories in four and three dimensions
+a paper on Matrix theory and M theory in the discrete Light-Cone Quantization
+his and Edward Witten's analysis of the appearance of non-commutative geometry in theories containing open strings, and an identification of a low energy limit of open string dynamics as a noncommutative quantum field theory
+OM-theory (with Andrew Strominger and Shiraz Minwalla)
+
+Honors and awards[edit]
+He was recipient of a 1996 MacArthur Fellowship[1] and the Dannie Heineman Prize for Mathematical Physics in 1998.[2] In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[3]
+See also[edit]
+
+Seiberg–Witten theory
+
+References[edit]
+
+
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .
+^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Nathan Seiberg's web page at the Institute
+Nathan Seiberg at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+
+
+
+
+ 
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nathan_Seiberg&oldid=703291240"					
+Categories: 1956 birthsInstitute for Advanced Study facultyLiving peopleString theoristsAmerican physicistsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicistsAmerican physicist stubsHidden categories: Articles needing cleanup from November 2009All pages needing cleanupArticles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersAll stub articles 
+
+
+Nathan Seiberg
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Atle Selberg.
+
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)
+
+
+
+
+Nathan Seiberg
+
+
+
+Nathan Seiberg at Harvard University
+
+
+
+Born
+(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel
+
+
+Nationality
+Israeli American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Weizmann Institute of Science, Tel-Aviv University
+
+
+Doctoral advisor
+Haim Harari
+
+
+Doctoral students
+Shiraz Minwalla
+
+
+Known for
+Seiberg–Witten invariant
+Seiberg duality
+
+
+Notable awards
+MacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)
+
+
+Nathan "Nati" Seiberg (/ˈsaɪbərɡ/; born September 22, 1956) is an Israeli American theoretical physicist who works on string theory. He is currently a professor at the Institute for Advanced Study in Princeton, New Jersey, USA.
+
+
+
+Contents
+
+
+1 Research
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Research[edit]
+His contributions to mathematical physics include:
+
+Mathematical foundations of rational 2-dimensional CFTs (with G. Moore).
+Discovery of some of the first examples of "Seiberg Duals", numerous and ever growing disparate theories that are dynamically equivalent to another at low energy
+papers from the early 1990s about the application of holomorphy to calculations in gauge theories with supersymmetry, including a solution of N=1 four-dimensional gauge theories such as SQCD. He later used renormalization group methods to obtain a 3d Seiberg dual for his 4D SQCD
+articles about the strong-weak duality (S-duality) in the context of supersymmetric gauge theories
+papers about the complete solution of N=2 supersymmetric gauge theories in four and three dimensions
+a paper on Matrix theory and M theory in the discrete Light-Cone Quantization
+his and Edward Witten's analysis of the appearance of non-commutative geometry in theories containing open strings, and an identification of a low energy limit of open string dynamics as a noncommutative quantum field theory
+OM-theory (with Andrew Strominger and Shiraz Minwalla)
+
+Honors and awards[edit]
+He was recipient of a 1996 MacArthur Fellowship[1] and the Dannie Heineman Prize for Mathematical Physics in 1998.[2] In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[3]
+See also[edit]
+
+Seiberg–Witten theory
+
+References[edit]
+
+
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .
+^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Nathan Seiberg's web page at the Institute
+Nathan Seiberg at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+
+
+
+
+ 
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nathan_Seiberg&oldid=703291240"					
+Categories: 1956 birthsInstitute for Advanced Study facultyLiving peopleString theoristsAmerican physicistsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicistsAmerican physicist stubsHidden categories: Articles needing cleanup from November 2009All pages needing cleanupArticles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersAll stub articles 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchNot to be confused with Atle Selberg.
+
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)
+
+
+
+
+Nathan Seiberg
+
+
+
+Nathan Seiberg at Harvard University
+
+
+
+Born
+(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel
+
+
+Nationality
+Israeli American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Weizmann Institute of Science, Tel-Aviv University
+
+
+Doctoral advisor
+Haim Harari
+
+
+Doctoral students
+Shiraz Minwalla
+
+
+Known for
+Seiberg–Witten invariant
+Seiberg duality
+
+
+Notable awards
+MacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)
+
+
+Nathan "Nati" Seiberg (/ˈsaɪbərɡ/; born September 22, 1956) is an Israeli American theoretical physicist who works on string theory. He is currently a professor at the Institute for Advanced Study in Princeton, New Jersey, USA.
+
+
+
+Contents
+
+
+1 Research
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Research[edit]
+His contributions to mathematical physics include:
+
+Mathematical foundations of rational 2-dimensional CFTs (with G. Moore).
+Discovery of some of the first examples of "Seiberg Duals", numerous and ever growing disparate theories that are dynamically equivalent to another at low energy
+papers from the early 1990s about the application of holomorphy to calculations in gauge theories with supersymmetry, including a solution of N=1 four-dimensional gauge theories such as SQCD. He later used renormalization group methods to obtain a 3d Seiberg dual for his 4D SQCD
+articles about the strong-weak duality (S-duality) in the context of supersymmetric gauge theories
+papers about the complete solution of N=2 supersymmetric gauge theories in four and three dimensions
+a paper on Matrix theory and M theory in the discrete Light-Cone Quantization
+his and Edward Witten's analysis of the appearance of non-commutative geometry in theories containing open strings, and an identification of a low energy limit of open string dynamics as a noncommutative quantum field theory
+OM-theory (with Andrew Strominger and Shiraz Minwalla)
+
+Honors and awards[edit]
+He was recipient of a 1996 MacArthur Fellowship[1] and the Dannie Heineman Prize for Mathematical Physics in 1998.[2] In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[3]
+See also[edit]
+
+Seiberg–Witten theory
+
+References[edit]
+
+
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .
+^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+External links[edit]
+
+Nathan Seiberg's web page at the Institute
+Nathan Seiberg at the Mathematics Genealogy Project
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+
+
+
+
+ 
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+Not to be confused with Atle Selberg.Atle Selberg
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)
+
+
+
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)
+
+
+This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (November 2009)is in a list format that may be better presented using prose.proseYou can help by converting this article to prose, if appropriate. Editing help is available.appropriateEditing help(November 2009)(November 2009)
+
+Nathan Seiberg
+
+
+
+Nathan Seiberg at Harvard University
+
+
+
+Born
+(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel
+
+
+Nationality
+Israeli American
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Institute for Advanced Study
+
+
+Alma mater
+Weizmann Institute of Science, Tel-Aviv University
+
+
+Doctoral advisor
+Haim Harari
+
+
+Doctoral students
+Shiraz Minwalla
+
+
+Known for
+Seiberg–Witten invariant
+Seiberg duality
+
+
+Notable awards
+MacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)
+
+
+Nathan Seiberg
+Nathan SeibergNathan Seiberg
+
+Nathan Seiberg at Harvard University
+
+
+Nathan Seiberg at Harvard University
+Nathan Seiberg at Harvard University
+Born
+(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel
+Born(1956-09-22) September 22, 1956 (age 59)
+Tel Aviv, Israel(1956-09-22)1956-09-22(age 59)Tel AvivIsrael
+Nationality
+Israeli American
+NationalityIsraeli AmericanIsraeli American
+Fields
+Theoretical physics
+FieldsTheoretical physicsTheoretical physics
+Institutions
+Institute for Advanced Study
+InstitutionsInstitute for Advanced StudyInstitute for Advanced Study
+Alma mater
+Weizmann Institute of Science, Tel-Aviv University
+Alma materAlma materAlma materWeizmann Institute of Science, Tel-Aviv UniversityWeizmann Institute of ScienceTel-Aviv University
+Doctoral advisor
+Haim Harari
+Doctoral advisorDoctoral advisorHaim HarariHaim Harari
+Doctoral students
+Shiraz Minwalla
+Doctoral studentsShiraz MinwallaShiraz Minwalla
+Known for
+Seiberg–Witten invariant
+Seiberg duality
+Known forSeiberg–Witten invariant
+Seiberg dualitySeiberg–Witten invariantSeiberg duality
+Notable awards
+MacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)
+Notable awardsMacArthur Fellow
+Heineman Prize (1998)
+Fundamental Physics Prize (2012)MacArthur FellowHeineman Prize(1998)Fundamental Physics Prize(2012)Nathan "Nati" Seiberg (/ˈsaɪbərɡ/; born September 22, 1956) is an Israeli American theoretical physicist who works on string theory. He is currently a professor at the Institute for Advanced Study in Princeton, New Jersey, USA.NathanNatiSeiberg/ˈsaɪbərɡ//ˈsaɪbərɡ//ˈsaɪbərɡ/ˈsaɪbərɡˈsaɪbərɡIsraeli Americantheoretical physiciststring theoryInstitute for Advanced Study
+
+Contents
+
+
+1 Research
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+Contents
+Contents
+1 Research
+2 Honors and awards
+3 See also
+4 References
+5 External links
+1 Research1 Research1Research2 Honors and awards2 Honors and awards2Honors and awards3 See also3 See also3See also4 References4 References4References5 External links5 External links5External linksResearch[edit]Research[edit][edit]His contributions to mathematical physics include:
+Mathematical foundations of rational 2-dimensional CFTs (with G. Moore).
+Discovery of some of the first examples of "Seiberg Duals", numerous and ever growing disparate theories that are dynamically equivalent to another at low energy
+papers from the early 1990s about the application of holomorphy to calculations in gauge theories with supersymmetry, including a solution of N=1 four-dimensional gauge theories such as SQCD. He later used renormalization group methods to obtain a 3d Seiberg dual for his 4D SQCD
+articles about the strong-weak duality (S-duality) in the context of supersymmetric gauge theories
+papers about the complete solution of N=2 supersymmetric gauge theories in four and three dimensions
+a paper on Matrix theory and M theory in the discrete Light-Cone Quantization
+his and Edward Witten's analysis of the appearance of non-commutative geometry in theories containing open strings, and an identification of a low energy limit of open string dynamics as a noncommutative quantum field theory
+OM-theory (with Andrew Strominger and Shiraz Minwalla)
+Mathematical foundations of rational 2-dimensional CFTs (with G. Moore).Discovery of some of the first examples of "Seiberg Duals", numerous and ever growing disparate theories that are dynamically equivalent to another at low energypapers from the early 1990s about the application of holomorphy to calculations in gauge theories with supersymmetry, including a solution of N=1 four-dimensional gauge theories such as SQCD. He later used renormalization group methods to obtain a 3d Seiberg dual for his 4D SQCDgauge theoriesarticles about the strong-weak duality (S-duality) in the context of supersymmetric gauge theoriesS-dualitypapers about the complete solution of N=2 supersymmetric gauge theories in four and three dimensionsa paper on Matrix theory and M theory in the discrete Light-Cone QuantizationMatrix theoryhis and Edward Witten's analysis of the appearance of non-commutative geometry in theories containing open strings, and an identification of a low energy limit of open string dynamics as a noncommutative quantum field theoryEdward Wittennon-commutative geometryopen stringsnoncommutative quantum field theoryOM-theory (with Andrew Strominger and Shiraz Minwalla)Andrew StromingerShiraz MinwallaHonors and awards[edit]Honors and awards[edit][edit]He was recipient of a 1996 MacArthur Fellowship[1] and the Dannie Heineman Prize for Mathematical Physics in 1998.[2] In July 2012, he was an inaugural awardee of the Fundamental Physics Prize, the creation of physicist and internet entrepreneur, Yuri Milner.[3]MacArthur Fellowship[1][1]Dannie Heineman Prize for Mathematical Physics[2][2]Fundamental Physics PrizeYuri Milner[3][3]See also[edit]See also[edit][edit]
+Seiberg–Witten theory
+Seiberg–Witten theorySeiberg–Witten theoryReferences[edit]References[edit][edit]
+
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .
+^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+
+
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .
+^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .
+^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012
+^ "Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. .^^^"Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20. ."Array of Contemporary American Physicists: Nathan Seiberg". American Institute of Physics. Retrieved 2011-07-20."Array of Contemporary American Physicists: Nathan Seiberg"American Institute of Physics. Retrieved 2011-07-202011-07-20  ^ "Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. .^^^"Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20. ."Heineman Prize: Nathan Seiberg". American Physical Society. Retrieved 2011-07-20."Heineman Prize: Nathan Seiberg"American Physical Society. Retrieved 2011-07-202011-07-20  ^ New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012^^^New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field, FPP, accessed 1 August 2012New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the fieldExternal links[edit]External links[edit][edit]
+Nathan Seiberg's web page at the Institute
+Nathan Seiberg at the Mathematics Genealogy Project
+Nathan Seiberg's web page at the InstituteNathan Seiberg's web page at the InstituteNathan Seiberg at the Mathematics Genealogy ProjectNathan SeibergMathematics Genealogy Project
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+
+
+WorldCat Identities
+VIAF: 48851667
+LCCN: no98111331
+MGP: 152217
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 48851667VIAF4885166748851667LCCN: no98111331LCCNno98111331no98111331MGP: 152217MGP152217152217
+
+ 
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+ 
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+ This article about an American physicist is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+This article about an American physicist is a stub. You can help Wikipedia by expanding it.stubexpanding it
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nathan_Seiberg&oldid=703291240"					https://en.wikipedia.org/w/index.php?title=Nathan_Seiberg&oldid=703291240Categories: 1956 birthsInstitute for Advanced Study facultyLiving peopleString theoristsAmerican physicistsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicistsAmerican physicist stubsHidden categories: Articles needing cleanup from November 2009All pages needing cleanupArticles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersAll stub articlesCategories: 1956 birthsInstitute for Advanced Study facultyLiving peopleString theoristsAmerican physicistsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicistsAmerican physicist stubsCategories1956 birthsInstitute for Advanced Study facultyLiving peopleString theoristsAmerican physicistsMacArthur FellowsFellows of the American Physical SocietyTheoretical physicistsAmerican physicist stubs1956 births1956 birthsInstitute for Advanced Study facultyInstitute for Advanced Study facultyLiving peopleLiving peopleString theoristsString theoristsAmerican physicistsAmerican physicistsMacArthur FellowsMacArthur FellowsFellows of the American Physical SocietyFellows of the American Physical SocietyTheoretical physicistsTheoretical physicistsAmerican physicist stubsAmerican physicist stubsHidden categories: Articles needing cleanup from November 2009All pages needing cleanupArticles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersAll stub articlesArticles needing cleanup from November 2009All pages needing cleanupArticles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersAll stub articlesArticles needing cleanup from November 2009Articles needing cleanup from November 2009All pages needing cleanupAll pages needing cleanupArticles with sections that need to be turned into prose from November 2009Articles with sections that need to be turned into prose from November 2009Wikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersAll stub articlesAll stub articles
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+DeutschفارسیFrançais한국어עברית日本語PortuguêsРусский 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+DeutschفارسیFrançais한국어עברית日本語PortuguêsРусский 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia Commons 
+
+In other projects
+
+Wikimedia Commons 
+
+Wikimedia Commons Wikimedia CommonsWikimedia Commons
+Languages
+
+
+DeutschفارسیFrançais한국어עברית日本語PortuguêsРусский 
+Edit links 
+Languages
+
+DeutschفارسیFrançais한국어עברית日本語PortuguêsРусский 
+Edit links 
+DeutschفارسیFrançais한국어עברית日本語PortuguêsРусский DeutschDeutschفارسیفارسیFrançaisFrançais한국어한국어עבריתעברית日本語日本語PortuguêsPortuguêsРусскийРусскийEdit linksEdit linksEdit links
+
+ This page was last modified on 4 February 2016, at 17:03.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 4 February 2016, at 17:03.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 4 February 2016, at 17:03.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

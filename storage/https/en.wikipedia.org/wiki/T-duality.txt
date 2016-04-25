@@ -1,0 +1,2186 @@
+T-duality - Wikipedia, the free encyclopedia
+
+
+
+
+T-duality
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, T-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. In the simplest example of this relationship, one of the theories describes strings propagating in an imaginary spacetime shaped like a circle of some radius , while the other theory describes strings propagating on a spacetime shaped like a circle of radius . The two theories are equivalent in the sense that all observable quantities in one description are identified with quantities in the dual description. For example, momentum in one description takes discrete values and is equal to the number of times the string winds around the circle in the dual description.
+The idea of T-duality can be extended to more complicated theories, including superstring theories. The existence of these dualities implies that seemingly different superstring theories are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.
+In general, T-duality relates two theories with different spacetime geometries. In this way, T-duality suggests a possible scenario in which the classical notions of geometry break down in a theory of Planck scale physics.[1] The geometric relationships suggested by T-duality are also important in pure mathematics. Indeed, according to the SYZ conjecture of Andrew Strominger, Shing-Tung Yau, and Eric Zaslow, T-duality is closely related to another duality called mirror symmetry, which has important applications in a branch of mathematics called enumerative algebraic geometry.
+
+
+
+Contents
+
+
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+
+2 Superstrings
+3 Mirror symmetry
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+Strings and duality[edit]
+T-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+Like many of the dualities studied in theoretical physics, T-duality was discovered in the context of string theory.[2] In string theory, particles are modeled not as zero-dimensional points but as one-dimensional extended objects called strings. The physics of strings can be studied in various numbers of dimensions. In addition to three familiar dimensions from everyday experience (up/down, left/right, forward/backward), string theories may include one or more compact dimensions which are curled up into circles.
+A standard analogy for this is to consider multidimensional object such as a garden hose.[3] If the hose is viewed from a sufficient distance, it appears to have only one dimension, its length. However, as one approaches the hose, one discovers that it contains a second dimension, its circumference. Thus, an ant crawling inside it would move in two dimensions. Such extra dimensions are important in T-duality, which relates a theory in which strings propagate on a circle of some radius  to a theory in which strings propagate on a circle of radius .
+Winding numbers[edit]
+Main article: Winding number
+In mathematics, the winding number of a curve in the plane around a given point is an integer representing the total number of times that curve travels counterclockwise around the point. The notion of winding number is important in the mathematical description of T-duality where it is used to measure the winding of strings around compact extra dimensions.
+For example, the image below shows several examples of curves in the plane, illustrated in red. Each curve is assumed to be closed, meaning it has no endpoints, and is allowed to intersect itself. Each curve has an orientation given by the arrows in the picture. In each situation, there is a distinguished point in the plane, illustrated in black. The winding number of the curve around this distinguished point is equal to the total number of counterclockwise turns that the curve makes around this point.
+
+
+
+    
+    
+    
+
+
+
+
+−2
+−1
+0
+
+
+
+
+    
+    
+    
+
+
+
+
+1
+2
+3
+
+
+
+When counting the total number of turns, counterclockwise turns count as positive, while clockwise turns counts as negative. For example, if the curve first circles the origin four times counterclockwise, and then circles the origin once clockwise, then the total winding number of the curve is three. According to this scheme, a curve that does not travel around the distinguished point at all has winding number zero, while a curve that travels clockwise around the point has negative winding number. Therefore, the winding number of a curve may be any integer. The pictures above show curves with winding numbers between −2 and 3:
+Quantized momenta[edit]
+The simplest theories in which T-duality arises are two-dimensional sigma models with circular target spaces. These are simple quantum field theories that describe propagation of strings in an imaginary spacetime shaped like a circle. The strings can thus be modeled as curves in the plane that are confined to lie in a circle, say of radius , about the origin. In what follows, the strings are assumed to be closed (that is, without endpoints).
+Denote this circle by . One can think of this circle as a copy of the real line with two points identified if they differ by a multiple of the circle's circumference . It follows that the state of a string at any given time can be represented as a function  of a single real parameter . Such a function can be expanded in a Fourier series as
+
+.
+
+Here  denotes the winding number of the string around the circle, and the constant mode  of the Fourier series has been singled out. Since this expression represents the configuration of a string at a fixed time, all coefficients ( and the ) are also functions of time.
+Let  denote the time derivative of the constant mode . This represents a type of momentum in the theory. One can show, using the fact that the strings considered here are closed, that this momentum can only take on discrete values of the form  for some integer . In more physical language, one says that the momentum spectrum is quantized.
+An equivalence of theories[edit]
+In the situation described above, the total energy, or Hamiltonian, of the string is given by the expression
+
+.
+
+Since the momenta of the theory are quantized, the first two terms in this formula are , and this expression is unchanged when one simultaneously replaces the radius  by  and exchanges the winding number  and the integer . The summation in the expression for  is similarly unaffected by these changes, so the total energy is unchanged. In fact, this equivalence of Hamiltonians descends to an equivalence of two quantum mechanical theories: One of these theories describes strings propagating on a circle of radius , while the other describes string propagating in a circle of radius  with momentum and winding numbers interchanged. This equivalence of theories is the simplest manifestation of T-duality.
+Superstrings[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is T-duality. For example, it was shown that type IIA string theory is equivalent to type IIB string theory via T-duality and also that the two versions of heterotic string theory are related by T-duality.
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[4] Witten's proposal was based on the observation that different superstring theories are linked by dualities and the fact that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+Mirror symmetry[edit]
+Main article: Mirror symmetry (string theory)
+
+
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.
+
+
+In string theory and algebraic geometry, the term "mirror symmetry" refers to a phenomenon involving complicated shapes called Calabi-Yau manifolds. These manifolds provide an interesting geometry on which strings can propagate, and the resulting theories may have applications in particle physics.[5] In the late 1980s, it was noticed that such a Calabi-Yau manifold does not uniquely determine the physics of the theory. Instead, one finds that there are two Calabi-Yau manifolds that give rise to the same physics.[6] These manifolds are said to be "mirror" to one another. This mirror duality is an important computational tool in string theory, and it has allowed mathematicians to solve difficult problems in enumerative geometry.[7]
+
+
+
+
+A torus is the cartesian product of two circles.
+
+
+One approach to understanding mirror symmetry is the SYZ conjecture, which was suggested by Andrew Strominger, Shing-Tung Yau, and Eric Zaslow in 1996.[8] According to the SYZ conjecture, mirror symmetry can be understood by dividing a complicated Calabi-Yau manifold into simpler pieces and considering the effects of T-duality on these pieces.[9]
+The simplest example of a Calabi-Yau manifold is a torus (a surface shaped like a donut). Such a surface can be viewed as the product of two circles. This means that the torus can be viewed as the union of a collection of longitudinal circles (such as the red circle in the image). There is an auxiliary space which says how these circles are organized, and this space is itself a circle (the pink circle). This space is said to parametrize the longitudinal circles on the torus. In this case, mirror symmetry is equivalent to T-duality acting on the longitudinal circles, changing their radii from  to .
+The SYZ conjecture generalizes this idea to the more complicated case of six-dimensional Calabi-Yau manifolds like the one illustrated above. As in the case of a torus, one can divide a six-dimensional Calabi-Yau manifold into simpler pieces, which in this case are 3-tori (three-dimensional objects which generalize the notion of a torus) parametrized by a 3-sphere (a three-dimensional generalization of a sphere).[10] T-duality can be extended from circles to the three-dimensional tori appearing in this decomposition, and the SYZ conjecture states that mirror symmetry is equivalent to the simultaneous application of T-duality to these three-dimensional tori.[11] In this way, the SYZ conjecture provides a geometric picture of how mirror symmetry acts on a Calabi-Yau manifold.
+See also[edit]
+
+S-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ Seiberg 2006
+^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.
+^ This analogy is used for example in Greene 2000, p.186
+^ Witten 1995
+^ Candelas et al. 1985
+^ Dixon 1988; Lerche, Vafa, and Warner 1989
+^ Zaslow 2008
+^ Strominger, Yau, and Zaslow 1996
+^ Yau and Nadis 2010, p.174
+^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.
+^ Yau and Nadis 2010, p.178
+
+
+References[edit]
+
+Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9. 
+Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0. 
+Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4. 
+Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234. 
+Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=T-duality&oldid=709314218"					
+Categories: Quantum field theoryString theory 
+
+
+T-duality
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, T-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. In the simplest example of this relationship, one of the theories describes strings propagating in an imaginary spacetime shaped like a circle of some radius , while the other theory describes strings propagating on a spacetime shaped like a circle of radius . The two theories are equivalent in the sense that all observable quantities in one description are identified with quantities in the dual description. For example, momentum in one description takes discrete values and is equal to the number of times the string winds around the circle in the dual description.
+The idea of T-duality can be extended to more complicated theories, including superstring theories. The existence of these dualities implies that seemingly different superstring theories are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.
+In general, T-duality relates two theories with different spacetime geometries. In this way, T-duality suggests a possible scenario in which the classical notions of geometry break down in a theory of Planck scale physics.[1] The geometric relationships suggested by T-duality are also important in pure mathematics. Indeed, according to the SYZ conjecture of Andrew Strominger, Shing-Tung Yau, and Eric Zaslow, T-duality is closely related to another duality called mirror symmetry, which has important applications in a branch of mathematics called enumerative algebraic geometry.
+
+
+
+Contents
+
+
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+
+2 Superstrings
+3 Mirror symmetry
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+Strings and duality[edit]
+T-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+Like many of the dualities studied in theoretical physics, T-duality was discovered in the context of string theory.[2] In string theory, particles are modeled not as zero-dimensional points but as one-dimensional extended objects called strings. The physics of strings can be studied in various numbers of dimensions. In addition to three familiar dimensions from everyday experience (up/down, left/right, forward/backward), string theories may include one or more compact dimensions which are curled up into circles.
+A standard analogy for this is to consider multidimensional object such as a garden hose.[3] If the hose is viewed from a sufficient distance, it appears to have only one dimension, its length. However, as one approaches the hose, one discovers that it contains a second dimension, its circumference. Thus, an ant crawling inside it would move in two dimensions. Such extra dimensions are important in T-duality, which relates a theory in which strings propagate on a circle of some radius  to a theory in which strings propagate on a circle of radius .
+Winding numbers[edit]
+Main article: Winding number
+In mathematics, the winding number of a curve in the plane around a given point is an integer representing the total number of times that curve travels counterclockwise around the point. The notion of winding number is important in the mathematical description of T-duality where it is used to measure the winding of strings around compact extra dimensions.
+For example, the image below shows several examples of curves in the plane, illustrated in red. Each curve is assumed to be closed, meaning it has no endpoints, and is allowed to intersect itself. Each curve has an orientation given by the arrows in the picture. In each situation, there is a distinguished point in the plane, illustrated in black. The winding number of the curve around this distinguished point is equal to the total number of counterclockwise turns that the curve makes around this point.
+
+
+
+    
+    
+    
+
+
+
+
+−2
+−1
+0
+
+
+
+
+    
+    
+    
+
+
+
+
+1
+2
+3
+
+
+
+When counting the total number of turns, counterclockwise turns count as positive, while clockwise turns counts as negative. For example, if the curve first circles the origin four times counterclockwise, and then circles the origin once clockwise, then the total winding number of the curve is three. According to this scheme, a curve that does not travel around the distinguished point at all has winding number zero, while a curve that travels clockwise around the point has negative winding number. Therefore, the winding number of a curve may be any integer. The pictures above show curves with winding numbers between −2 and 3:
+Quantized momenta[edit]
+The simplest theories in which T-duality arises are two-dimensional sigma models with circular target spaces. These are simple quantum field theories that describe propagation of strings in an imaginary spacetime shaped like a circle. The strings can thus be modeled as curves in the plane that are confined to lie in a circle, say of radius , about the origin. In what follows, the strings are assumed to be closed (that is, without endpoints).
+Denote this circle by . One can think of this circle as a copy of the real line with two points identified if they differ by a multiple of the circle's circumference . It follows that the state of a string at any given time can be represented as a function  of a single real parameter . Such a function can be expanded in a Fourier series as
+
+.
+
+Here  denotes the winding number of the string around the circle, and the constant mode  of the Fourier series has been singled out. Since this expression represents the configuration of a string at a fixed time, all coefficients ( and the ) are also functions of time.
+Let  denote the time derivative of the constant mode . This represents a type of momentum in the theory. One can show, using the fact that the strings considered here are closed, that this momentum can only take on discrete values of the form  for some integer . In more physical language, one says that the momentum spectrum is quantized.
+An equivalence of theories[edit]
+In the situation described above, the total energy, or Hamiltonian, of the string is given by the expression
+
+.
+
+Since the momenta of the theory are quantized, the first two terms in this formula are , and this expression is unchanged when one simultaneously replaces the radius  by  and exchanges the winding number  and the integer . The summation in the expression for  is similarly unaffected by these changes, so the total energy is unchanged. In fact, this equivalence of Hamiltonians descends to an equivalence of two quantum mechanical theories: One of these theories describes strings propagating on a circle of radius , while the other describes string propagating in a circle of radius  with momentum and winding numbers interchanged. This equivalence of theories is the simplest manifestation of T-duality.
+Superstrings[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is T-duality. For example, it was shown that type IIA string theory is equivalent to type IIB string theory via T-duality and also that the two versions of heterotic string theory are related by T-duality.
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[4] Witten's proposal was based on the observation that different superstring theories are linked by dualities and the fact that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+Mirror symmetry[edit]
+Main article: Mirror symmetry (string theory)
+
+
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.
+
+
+In string theory and algebraic geometry, the term "mirror symmetry" refers to a phenomenon involving complicated shapes called Calabi-Yau manifolds. These manifolds provide an interesting geometry on which strings can propagate, and the resulting theories may have applications in particle physics.[5] In the late 1980s, it was noticed that such a Calabi-Yau manifold does not uniquely determine the physics of the theory. Instead, one finds that there are two Calabi-Yau manifolds that give rise to the same physics.[6] These manifolds are said to be "mirror" to one another. This mirror duality is an important computational tool in string theory, and it has allowed mathematicians to solve difficult problems in enumerative geometry.[7]
+
+
+
+
+A torus is the cartesian product of two circles.
+
+
+One approach to understanding mirror symmetry is the SYZ conjecture, which was suggested by Andrew Strominger, Shing-Tung Yau, and Eric Zaslow in 1996.[8] According to the SYZ conjecture, mirror symmetry can be understood by dividing a complicated Calabi-Yau manifold into simpler pieces and considering the effects of T-duality on these pieces.[9]
+The simplest example of a Calabi-Yau manifold is a torus (a surface shaped like a donut). Such a surface can be viewed as the product of two circles. This means that the torus can be viewed as the union of a collection of longitudinal circles (such as the red circle in the image). There is an auxiliary space which says how these circles are organized, and this space is itself a circle (the pink circle). This space is said to parametrize the longitudinal circles on the torus. In this case, mirror symmetry is equivalent to T-duality acting on the longitudinal circles, changing their radii from  to .
+The SYZ conjecture generalizes this idea to the more complicated case of six-dimensional Calabi-Yau manifolds like the one illustrated above. As in the case of a torus, one can divide a six-dimensional Calabi-Yau manifold into simpler pieces, which in this case are 3-tori (three-dimensional objects which generalize the notion of a torus) parametrized by a 3-sphere (a three-dimensional generalization of a sphere).[10] T-duality can be extended from circles to the three-dimensional tori appearing in this decomposition, and the SYZ conjecture states that mirror symmetry is equivalent to the simultaneous application of T-duality to these three-dimensional tori.[11] In this way, the SYZ conjecture provides a geometric picture of how mirror symmetry acts on a Calabi-Yau manifold.
+See also[edit]
+
+S-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ Seiberg 2006
+^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.
+^ This analogy is used for example in Greene 2000, p.186
+^ Witten 1995
+^ Candelas et al. 1985
+^ Dixon 1988; Lerche, Vafa, and Warner 1989
+^ Zaslow 2008
+^ Strominger, Yau, and Zaslow 1996
+^ Yau and Nadis 2010, p.174
+^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.
+^ Yau and Nadis 2010, p.178
+
+
+References[edit]
+
+Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9. 
+Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0. 
+Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4. 
+Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234. 
+Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=T-duality&oldid=709314218"					
+Categories: Quantum field theoryString theory 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In theoretical physics, T-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. In the simplest example of this relationship, one of the theories describes strings propagating in an imaginary spacetime shaped like a circle of some radius , while the other theory describes strings propagating on a spacetime shaped like a circle of radius . The two theories are equivalent in the sense that all observable quantities in one description are identified with quantities in the dual description. For example, momentum in one description takes discrete values and is equal to the number of times the string winds around the circle in the dual description.
+The idea of T-duality can be extended to more complicated theories, including superstring theories. The existence of these dualities implies that seemingly different superstring theories are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.
+In general, T-duality relates two theories with different spacetime geometries. In this way, T-duality suggests a possible scenario in which the classical notions of geometry break down in a theory of Planck scale physics.[1] The geometric relationships suggested by T-duality are also important in pure mathematics. Indeed, according to the SYZ conjecture of Andrew Strominger, Shing-Tung Yau, and Eric Zaslow, T-duality is closely related to another duality called mirror symmetry, which has important applications in a branch of mathematics called enumerative algebraic geometry.
+
+
+
+Contents
+
+
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+
+2 Superstrings
+3 Mirror symmetry
+4 See also
+5 Notes
+6 References
+
+
+
+Overview[edit]
+Strings and duality[edit]
+T-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.
+Like many of the dualities studied in theoretical physics, T-duality was discovered in the context of string theory.[2] In string theory, particles are modeled not as zero-dimensional points but as one-dimensional extended objects called strings. The physics of strings can be studied in various numbers of dimensions. In addition to three familiar dimensions from everyday experience (up/down, left/right, forward/backward), string theories may include one or more compact dimensions which are curled up into circles.
+A standard analogy for this is to consider multidimensional object such as a garden hose.[3] If the hose is viewed from a sufficient distance, it appears to have only one dimension, its length. However, as one approaches the hose, one discovers that it contains a second dimension, its circumference. Thus, an ant crawling inside it would move in two dimensions. Such extra dimensions are important in T-duality, which relates a theory in which strings propagate on a circle of some radius  to a theory in which strings propagate on a circle of radius .
+Winding numbers[edit]
+Main article: Winding number
+In mathematics, the winding number of a curve in the plane around a given point is an integer representing the total number of times that curve travels counterclockwise around the point. The notion of winding number is important in the mathematical description of T-duality where it is used to measure the winding of strings around compact extra dimensions.
+For example, the image below shows several examples of curves in the plane, illustrated in red. Each curve is assumed to be closed, meaning it has no endpoints, and is allowed to intersect itself. Each curve has an orientation given by the arrows in the picture. In each situation, there is a distinguished point in the plane, illustrated in black. The winding number of the curve around this distinguished point is equal to the total number of counterclockwise turns that the curve makes around this point.
+
+
+
+    
+    
+    
+
+
+
+
+−2
+−1
+0
+
+
+
+
+    
+    
+    
+
+
+
+
+1
+2
+3
+
+
+
+When counting the total number of turns, counterclockwise turns count as positive, while clockwise turns counts as negative. For example, if the curve first circles the origin four times counterclockwise, and then circles the origin once clockwise, then the total winding number of the curve is three. According to this scheme, a curve that does not travel around the distinguished point at all has winding number zero, while a curve that travels clockwise around the point has negative winding number. Therefore, the winding number of a curve may be any integer. The pictures above show curves with winding numbers between −2 and 3:
+Quantized momenta[edit]
+The simplest theories in which T-duality arises are two-dimensional sigma models with circular target spaces. These are simple quantum field theories that describe propagation of strings in an imaginary spacetime shaped like a circle. The strings can thus be modeled as curves in the plane that are confined to lie in a circle, say of radius , about the origin. In what follows, the strings are assumed to be closed (that is, without endpoints).
+Denote this circle by . One can think of this circle as a copy of the real line with two points identified if they differ by a multiple of the circle's circumference . It follows that the state of a string at any given time can be represented as a function  of a single real parameter . Such a function can be expanded in a Fourier series as
+
+.
+
+Here  denotes the winding number of the string around the circle, and the constant mode  of the Fourier series has been singled out. Since this expression represents the configuration of a string at a fixed time, all coefficients ( and the ) are also functions of time.
+Let  denote the time derivative of the constant mode . This represents a type of momentum in the theory. One can show, using the fact that the strings considered here are closed, that this momentum can only take on discrete values of the form  for some integer . In more physical language, one says that the momentum spectrum is quantized.
+An equivalence of theories[edit]
+In the situation described above, the total energy, or Hamiltonian, of the string is given by the expression
+
+.
+
+Since the momenta of the theory are quantized, the first two terms in this formula are , and this expression is unchanged when one simultaneously replaces the radius  by  and exchanges the winding number  and the integer . The summation in the expression for  is similarly unaffected by these changes, so the total energy is unchanged. In fact, this equivalence of Hamiltonians descends to an equivalence of two quantum mechanical theories: One of these theories describes strings propagating on a circle of radius , while the other describes string propagating in a circle of radius  with momentum and winding numbers interchanged. This equivalence of theories is the simplest manifestation of T-duality.
+Superstrings[edit]
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+Up until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.
+In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is T-duality. For example, it was shown that type IIA string theory is equivalent to type IIB string theory via T-duality and also that the two versions of heterotic string theory are related by T-duality.
+The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[4] Witten's proposal was based on the observation that different superstring theories are linked by dualities and the fact that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.
+Mirror symmetry[edit]
+Main article: Mirror symmetry (string theory)
+
+
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.
+
+
+In string theory and algebraic geometry, the term "mirror symmetry" refers to a phenomenon involving complicated shapes called Calabi-Yau manifolds. These manifolds provide an interesting geometry on which strings can propagate, and the resulting theories may have applications in particle physics.[5] In the late 1980s, it was noticed that such a Calabi-Yau manifold does not uniquely determine the physics of the theory. Instead, one finds that there are two Calabi-Yau manifolds that give rise to the same physics.[6] These manifolds are said to be "mirror" to one another. This mirror duality is an important computational tool in string theory, and it has allowed mathematicians to solve difficult problems in enumerative geometry.[7]
+
+
+
+
+A torus is the cartesian product of two circles.
+
+
+One approach to understanding mirror symmetry is the SYZ conjecture, which was suggested by Andrew Strominger, Shing-Tung Yau, and Eric Zaslow in 1996.[8] According to the SYZ conjecture, mirror symmetry can be understood by dividing a complicated Calabi-Yau manifold into simpler pieces and considering the effects of T-duality on these pieces.[9]
+The simplest example of a Calabi-Yau manifold is a torus (a surface shaped like a donut). Such a surface can be viewed as the product of two circles. This means that the torus can be viewed as the union of a collection of longitudinal circles (such as the red circle in the image). There is an auxiliary space which says how these circles are organized, and this space is itself a circle (the pink circle). This space is said to parametrize the longitudinal circles on the torus. In this case, mirror symmetry is equivalent to T-duality acting on the longitudinal circles, changing their radii from  to .
+The SYZ conjecture generalizes this idea to the more complicated case of six-dimensional Calabi-Yau manifolds like the one illustrated above. As in the case of a torus, one can divide a six-dimensional Calabi-Yau manifold into simpler pieces, which in this case are 3-tori (three-dimensional objects which generalize the notion of a torus) parametrized by a 3-sphere (a three-dimensional generalization of a sphere).[10] T-duality can be extended from circles to the three-dimensional tori appearing in this decomposition, and the SYZ conjecture states that mirror symmetry is equivalent to the simultaneous application of T-duality to these three-dimensional tori.[11] In this way, the SYZ conjecture provides a geometric picture of how mirror symmetry acts on a Calabi-Yau manifold.
+See also[edit]
+
+S-duality
+Mirror symmetry
+AdS/CFT correspondence
+
+Notes[edit]
+
+
+^ Seiberg 2006
+^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.
+^ This analogy is used for example in Greene 2000, p.186
+^ Witten 1995
+^ Candelas et al. 1985
+^ Dixon 1988; Lerche, Vafa, and Warner 1989
+^ Zaslow 2008
+^ Strominger, Yau, and Zaslow 1996
+^ Yau and Nadis 2010, p.174
+^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.
+^ Yau and Nadis 2010, p.178
+
+
+References[edit]
+
+Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9. 
+Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0. 
+Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4. 
+Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234. 
+Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn theoretical physics, T-duality is an equivalence of two physical theories, which may be either quantum field theories or string theories. In the simplest example of this relationship, one of the theories describes strings propagating in an imaginary spacetime shaped like a circle of some radius , while the other theory describes strings propagating on a spacetime shaped like a circle of radius . The two theories are equivalent in the sense that all observable quantities in one description are identified with quantities in the dual description. For example, momentum in one description takes discrete values and is equal to the number of times the string winds around the circle in the dual description.theoretical physicsT-dualityquantum field theoriesstring theoriesstringsspacetimemomentumwindsThe idea of T-duality can be extended to more complicated theories, including superstring theories. The existence of these dualities implies that seemingly different superstring theories are actually physically equivalent. This led to the realization, in the mid-1990s, that all of the five consistent superstring theories are just different limiting cases of a single eleven-dimensional theory called M-theory.superstring theoriesM-theoryIn general, T-duality relates two theories with different spacetime geometries. In this way, T-duality suggests a possible scenario in which the classical notions of geometry break down in a theory of Planck scale physics.[1] The geometric relationships suggested by T-duality are also important in pure mathematics. Indeed, according to the SYZ conjecture of Andrew Strominger, Shing-Tung Yau, and Eric Zaslow, T-duality is closely related to another duality called mirror symmetry, which has important applications in a branch of mathematics called enumerative algebraic geometry.Planck scale[1][1]pure mathematicsSYZ conjectureAndrew StromingerShing-Tung YauEric Zaslowmirror symmetryenumerative algebraic geometry
+
+Contents
+
+
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+
+2 Superstrings
+3 Mirror symmetry
+4 See also
+5 Notes
+6 References
+
+
+Contents
+Contents
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+
+2 Superstrings
+3 Mirror symmetry
+4 See also
+5 Notes
+6 References
+1 Overview
+
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+
+1 Overview1Overview
+1.1 Strings and duality
+1.2 Winding numbers
+1.3 Quantized momenta
+1.4 An equivalence of theories
+1.1 Strings and duality1.1 Strings and duality1.1Strings and duality1.2 Winding numbers1.2 Winding numbers1.2Winding numbers1.3 Quantized momenta1.3 Quantized momenta1.3Quantized momenta1.4 An equivalence of theories1.4 An equivalence of theories1.4An equivalence of theories2 Superstrings2 Superstrings2Superstrings3 Mirror symmetry3 Mirror symmetry3Mirror symmetry4 See also4 See also4See also5 Notes5 Notes5Notes6 References6 References6ReferencesOverview[edit]Overview[edit][edit]Strings and duality[edit]Strings and duality[edit][edit]T-duality is a particular example of a general notion of duality in physics. The term duality refers to a situation where two seemingly different physical systems turn out to be equivalent in a nontrivial way. If two theories are related by a duality, it means that one theory can be transformed in some way so that it ends up looking just like the other theory. The two theories are then said to be dual to one another under the transformation. Put differently, the two theories are mathematically different descriptions of the same phenomena.dualitydualityphysical systemsdualLike many of the dualities studied in theoretical physics, T-duality was discovered in the context of string theory.[2] In string theory, particles are modeled not as zero-dimensional points but as one-dimensional extended objects called strings. The physics of strings can be studied in various numbers of dimensions. In addition to three familiar dimensions from everyday experience (up/down, left/right, forward/backward), string theories may include one or more compact dimensions which are curled up into circles.string theory[2][2]stringscompact dimensionsA standard analogy for this is to consider multidimensional object such as a garden hose.[3] If the hose is viewed from a sufficient distance, it appears to have only one dimension, its length. However, as one approaches the hose, one discovers that it contains a second dimension, its circumference. Thus, an ant crawling inside it would move in two dimensions. Such extra dimensions are important in T-duality, which relates a theory in which strings propagate on a circle of some radius  to a theory in which strings propagate on a circle of radius .[3][3]Winding numbers[edit]Winding numbers[edit][edit]Main article: Winding numberWinding numberIn mathematics, the winding number of a curve in the plane around a given point is an integer representing the total number of times that curve travels counterclockwise around the point. The notion of winding number is important in the mathematical description of T-duality where it is used to measure the winding of strings around compact extra dimensions.winding numbercurveplanepointintegercompactextra dimensionsFor example, the image below shows several examples of curves in the plane, illustrated in red. Each curve is assumed to be closed, meaning it has no endpoints, and is allowed to intersect itself. Each curve has an orientation given by the arrows in the picture. In each situation, there is a distinguished point in the plane, illustrated in black. The winding number of the curve around this distinguished point is equal to the total number of counterclockwise turns that the curve makes around this point.closedorientationwinding numberturns
+
+
+    
+    
+    
+
+
+
+
+−2
+−1
+0
+
+
+
+
+    
+    
+    
+
+
+
+
+1
+2
+3
+
+
+
+
+    
+    
+    
+
+            
+
+−2
+−1
+0
+
+−2−10
+
+    
+    
+    
+
+            
+
+1
+2
+3
+
+123When counting the total number of turns, counterclockwise turns count as positive, while clockwise turns counts as negative. For example, if the curve first circles the origin four times counterclockwise, and then circles the origin once clockwise, then the total winding number of the curve is three. According to this scheme, a curve that does not travel around the distinguished point at all has winding number zero, while a curve that travels clockwise around the point has negative winding number. Therefore, the winding number of a curve may be any integer. The pictures above show curves with winding numbers between −2 and 3:negativeQuantized momenta[edit]Quantized momenta[edit][edit]The simplest theories in which T-duality arises are two-dimensional sigma models with circular target spaces. These are simple quantum field theories that describe propagation of strings in an imaginary spacetime shaped like a circle. The strings can thus be modeled as curves in the plane that are confined to lie in a circle, say of radius , about the origin. In what follows, the strings are assumed to be closed (that is, without endpoints).two-dimensionalsigma modelsoriginDenote this circle by . One can think of this circle as a copy of the real line with two points identified if they differ by a multiple of the circle's circumference . It follows that the state of a string at any given time can be represented as a function  of a single real parameter . Such a function can be expanded in a Fourier series asreal lineidentifiedFourier series
+.
+.Here  denotes the winding number of the string around the circle, and the constant mode  of the Fourier series has been singled out. Since this expression represents the configuration of a string at a fixed time, all coefficients ( and the ) are also functions of time.Let  denote the time derivative of the constant mode . This represents a type of momentum in the theory. One can show, using the fact that the strings considered here are closed, that this momentum can only take on discrete values of the form  for some integer . In more physical language, one says that the momentum spectrum is quantized.momentumquantizedAn equivalence of theories[edit]An equivalence of theories[edit][edit]In the situation described above, the total energy, or Hamiltonian, of the string is given by the expressionHamiltonian
+.
+.Since the momenta of the theory are quantized, the first two terms in this formula are , and this expression is unchanged when one simultaneously replaces the radius  by  and exchanges the winding number  and the integer . The summation in the expression for  is similarly unaffected by these changes, so the total energy is unchanged. In fact, this equivalence of Hamiltonians descends to an equivalence of two quantum mechanical theories: One of these theories describes strings propagating on a circle of radius , while the other describes string propagating in a circle of radius  with momentum and winding numbers interchanged. This equivalence of theories is the simplest manifestation of T-duality.Superstrings[edit]Superstrings[edit][edit]
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.
+
+
+A diagram of string theory dualities. Yellow lines indicate S-duality. Blue lines indicate T-duality.S-dualityUp until the mid 1990s, physicists working on string theory believed there were five distinct versions of the theory: type I, type IIA, type IIB, and the two flavors of heterotic string theory (SO(32) and E8×E8). The different theories allow different types of strings, and the particles that arise at low energies exhibit different symmetries.type Itype IIAtype IIBheterotic stringSO(32)E8×E888In the mid 1990s, physicists noticed that these five string theories are actually related by highly nontrivial dualities. One of these dualities is T-duality. For example, it was shown that type IIA string theory is equivalent to type IIB string theory via T-duality and also that the two versions of heterotic string theory are related by T-duality.The existence of these dualities showed that the five string theories were in fact not all distinct theories. In 1995, at the string theory conference at University of Southern California, Edward Witten made the surprising suggestion that all five of these theories were just different limits of a single theory now known as M-theory.[4] Witten's proposal was based on the observation that different superstring theories are linked by dualities and the fact that type IIA and E8×E8 heterotic string theories are closely related to a gravitational theory called eleven-dimensional supergravity. His announcement led to a flurry of work now known as the second superstring revolution.University of Southern CaliforniaEdward WittenM-theory[4][4]88supergravitysecond superstring revolutionMirror symmetry[edit]Mirror symmetry[edit][edit]Main article: Mirror symmetry (string theory)Mirror symmetry (string theory)
+
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.
+
+
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.
+
+
+A hypersurface of a six-dimensional Calabi–Yau manifold.Calabi–Yau manifoldIn string theory and algebraic geometry, the term "mirror symmetry" refers to a phenomenon involving complicated shapes called Calabi-Yau manifolds. These manifolds provide an interesting geometry on which strings can propagate, and the resulting theories may have applications in particle physics.[5] In the late 1980s, it was noticed that such a Calabi-Yau manifold does not uniquely determine the physics of the theory. Instead, one finds that there are two Calabi-Yau manifolds that give rise to the same physics.[6] These manifolds are said to be "mirror" to one another. This mirror duality is an important computational tool in string theory, and it has allowed mathematicians to solve difficult problems in enumerative geometry.[7]algebraic geometrymirror symmetryCalabi-Yau manifoldsparticle physics[5][5]two[6][6]enumerative geometry[7][7]
+
+
+
+A torus is the cartesian product of two circles.
+
+
+
+
+A torus is the cartesian product of two circles.
+
+
+A torus is the cartesian product of two circles.toruscartesian productOne approach to understanding mirror symmetry is the SYZ conjecture, which was suggested by Andrew Strominger, Shing-Tung Yau, and Eric Zaslow in 1996.[8] According to the SYZ conjecture, mirror symmetry can be understood by dividing a complicated Calabi-Yau manifold into simpler pieces and considering the effects of T-duality on these pieces.[9]SYZ conjectureAndrew StromingerShing-Tung YauEric Zaslow[8][8][9][9]The simplest example of a Calabi-Yau manifold is a torus (a surface shaped like a donut). Such a surface can be viewed as the product of two circles. This means that the torus can be viewed as the union of a collection of longitudinal circles (such as the red circle in the image). There is an auxiliary space which says how these circles are organized, and this space is itself a circle (the pink circle). This space is said to parametrize the longitudinal circles on the torus. In this case, mirror symmetry is equivalent to T-duality acting on the longitudinal circles, changing their radii from  to .torusproductunionparametrizeThe SYZ conjecture generalizes this idea to the more complicated case of six-dimensional Calabi-Yau manifolds like the one illustrated above. As in the case of a torus, one can divide a six-dimensional Calabi-Yau manifold into simpler pieces, which in this case are 3-tori (three-dimensional objects which generalize the notion of a torus) parametrized by a 3-sphere (a three-dimensional generalization of a sphere).[10] T-duality can be extended from circles to the three-dimensional tori appearing in this decomposition, and the SYZ conjecture states that mirror symmetry is equivalent to the simultaneous application of T-duality to these three-dimensional tori.[11] In this way, the SYZ conjecture provides a geometric picture of how mirror symmetry acts on a Calabi-Yau manifold.3-tori3-sphere[10][10][11][11]See also[edit]See also[edit][edit]
+S-duality
+Mirror symmetry
+AdS/CFT correspondence
+S-dualityS-dualityMirror symmetryMirror symmetryAdS/CFT correspondenceAdS/CFT correspondenceNotes[edit]Notes[edit][edit]
+
+^ Seiberg 2006
+^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.
+^ This analogy is used for example in Greene 2000, p.186
+^ Witten 1995
+^ Candelas et al. 1985
+^ Dixon 1988; Lerche, Vafa, and Warner 1989
+^ Zaslow 2008
+^ Strominger, Yau, and Zaslow 1996
+^ Yau and Nadis 2010, p.174
+^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.
+^ Yau and Nadis 2010, p.178
+
+
+^ Seiberg 2006
+^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.
+^ This analogy is used for example in Greene 2000, p.186
+^ Witten 1995
+^ Candelas et al. 1985
+^ Dixon 1988; Lerche, Vafa, and Warner 1989
+^ Zaslow 2008
+^ Strominger, Yau, and Zaslow 1996
+^ Yau and Nadis 2010, p.174
+^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.
+^ Yau and Nadis 2010, p.178
+^ Seiberg 2006^^^Seiberg 2006^ Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.^^^Other dualities that arise in string theory are S-duality, U-duality, mirror symmetry, and the AdS/CFT correspondence.S-dualityU-dualitymirror symmetryAdS/CFT correspondence^ This analogy is used for example in Greene 2000, p.186^^^This analogy is used for example in Greene 2000, p.186^ Witten 1995^^^Witten 1995^ Candelas et al. 1985^^^Candelas et al. 1985^ Dixon 1988; Lerche, Vafa, and Warner 1989^^^Dixon 1988; Lerche, Vafa, and Warner 1989^ Zaslow 2008^^^Zaslow 2008^ Strominger, Yau, and Zaslow 1996^^^Strominger, Yau, and Zaslow 1996^ Yau and Nadis 2010, p.174^^^Yau and Nadis 2010, p.174^ More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.^^^More precisely, there is a 3-torus associated to every point on the three-sphere except at certain bad points, which correspond to singular tori. See Yau and Nadis 2010, pp.176–7.^ Yau and Nadis 2010, p.178^^^Yau and Nadis 2010, p.178References[edit]References[edit][edit]
+Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9. 
+Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126. 
+Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0. 
+Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4. 
+Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234. 
+Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8. 
+Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. 
+Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. 
+Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. 
+Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. 
+Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9. Candelas, Philip; Horowitz, Gary; Strominger, Andrew; Witten, Edward (1985). "Vacuum configurations for superstrings". Nuclear Physics B 258: 46–74. Bibcode:1985NuPhB.258...46C. doi:10.1016/0550-3213(85)90602-9.Nuclear Physics B258Bibcode1985NuPhB.258...46Cdoi10.1016/0550-3213(85)90602-9  Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126. Dixon, Lance (1988). "Some world-sheet properties of superstring compactifications, on orbifolds and otherwise". ICTP Ser. Theoret. Phys. 4: 67–126.ICTP Ser. Theoret. Phys.4  Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0. Greene, Brian (2000). The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory. Random House. ISBN 978-0-9650888-0-0.The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate TheoryISBN978-0-9650888-0-0  Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4. Lerche, Wolfgang; Vafa, Cumrun; Warner, Nicholas (1989). "Chiral rings in  superconformal theories". Nuclear Physics B 324 (2): 427–474. Bibcode:1989NuPhB.324..427L. doi:10.1016/0550-3213(89)90474-4.Nuclear Physics B324Bibcode1989NuPhB.324..427Ldoi10.1016/0550-3213(89)90474-4  Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234. Seiberg, Nathan (2006). "Emergent Spacetime". arXiv:hep-th/0601234.arXivhep-th/0601234  Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8. Strominger, Andrew; Yau, Shing-Tung; Zaslow, Eric (1996). "Mirror symmetry is T-duality". Nuclear Physics B 479 (1): 243–259. arXiv:hep-th/9606040. Bibcode:1996NuPhB.479..243S. doi:10.1016/0550-3213(96)00434-8.Nuclear Physics B479arXivhep-th/9606040Bibcode1996NuPhB.479..243Sdoi10.1016/0550-3213(96)00434-8  Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific. Witten, Edward (March 13–18, 1995). "Some problems of strong and weak coupling". Proceedings of Strings '95: Future Perspectives in String Theory. World Scientific.Proceedings of Strings '95: Future Perspectives in String Theory  Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O. Witten, Edward (1995). "String theory dynamics in various dimensions". Nuclear Physics B 443 (1): 85–126. arXiv:hep-th/9503124. Bibcode:1995NuPhB.443...85W. doi:10.1016/0550-3213(95)00158-O.Nuclear Physics B443arXivhep-th/9503124Bibcode1995NuPhB.443...85Wdoi10.1016/0550-3213(95)00158-O  Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2. Yau, Shing-Tung; Nadis, Steve (2010). The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions. Basic Books. ISBN 978-0-465-02023-2.The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden DimensionsISBN978-0-465-02023-2  Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2. Zaslow, Eric (2008). "Mirror Symmetry". In Gowers, Timothy. The Princeton Companion to Mathematics. ISBN 978-0-691-11880-2.The Princeton Companion to MathematicsThe Princeton Companion to MathematicsISBN978-0-691-11880-2  
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=T-duality&oldid=709314218"					https://en.wikipedia.org/w/index.php?title=T-duality&oldid=709314218Categories: Quantum field theoryString theoryCategories: Quantum field theoryString theoryCategoriesQuantum field theoryString theoryQuantum field theoryQuantum field theoryString theoryString theory
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolFrançais한국어ItalianoLietuvių日本語РусскийSvenska粵語中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolFrançais한국어ItalianoLietuvių日本語РусскийSvenska粵語中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschEspañolFrançais한국어ItalianoLietuvių日本語РусскийSvenska粵語中文 
+Edit links 
+Languages
+
+DeutschEspañolFrançais한국어ItalianoLietuvių日本語РусскийSvenska粵語中文 
+Edit links 
+DeutschEspañolFrançais한국어ItalianoLietuvių日本語РусскийSvenska粵語中文 DeutschDeutschEspañolEspañolFrançaisFrançais한국어한국어ItalianoItalianoLietuviųLietuvių日本語日本語РусскийРусскийSvenskaSvenska粵語粵語中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 10 March 2016, at 07:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 10 March 2016, at 07:02.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 10 March 2016, at 07:02.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

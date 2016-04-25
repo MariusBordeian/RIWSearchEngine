@@ -1,0 +1,1844 @@
+String theory landscape - Wikipedia, the free encyclopedia
+
+
+
+
+String theory landscape
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The string theory landscape refers to the huge number of possible false vacua in string theory.[1] The large number of theoretically allowed configurations has prompted suggestions that certain physical mysteries, particularly relating to the fine-tuning of constants like the cosmological constant or the Higgs boson mass, may be explained not by a physical mechanism but by assuming that many different vacua are physically realized.[2] The anthropic landscape thus refers to the collection of those portions of the landscape that are suitable for supporting intelligent life, an application of the anthropic principle that selects a subset of the otherwise possible configurations.
+In string theory the number of false vacua is thought to be somewhere between 1010 to 10100.[1] The large number of possibilities arises from different choices of Calabi–Yau manifolds and different values of generalized magnetic fluxes over different homology cycles. If one assumes that there is no structure in the space of vacua, the problem of finding one with a sufficiently small cosmological constant is NP complete,[3] being a version of the subset sum problem.
+
+
+
+Contents
+
+
+1 Anthropic principle
+2 Bayesian probability
+3 Simplified approaches
+4 Criticism
+5 See also
+6 References
+7 External links
+
+
+
+Anthropic principle[edit]
+Main article: Anthropic principle
+The idea of the string theory landscape has been used to propose a concrete implementation of the anthropic principle, the idea that fundamental constants may have the values they have not for fundamental physical reasons, but rather because such values are necessary for life (and hence intelligent observers to measure the constants). In 1987, Steven Weinberg proposed that the observed value of the cosmological constant was so small because it is impossible for life to occur in a universe with a much larger cosmological constant.[4] In order to implement this idea in a concrete physical theory, it is necessary to postulate a multiverse in which fundamental physical parameters can take different values. This has been realized in the context of eternal inflation.
+Bayesian probability[edit]
+Main article: Bayesian probability
+Some physicists, starting with Weinberg, have proposed that Bayesian probability can be used to compute probability distributions for fundamental physical parameters, where the probability  of observing some fundamental parameters  is given by,
+
+
+
+where  is the prior probability, from fundamental theory, of the parameters  and  is the anthropic selection function, determined by the number of "observers" that would occur in the universe with parameters . These probabilistic arguments are the most controversial aspect of the landscape. Technical criticisms of these proposals have pointed out that:
+
+The function  is completely unknown in string theory and may be impossible to define or interpret in any sensible probabilistic way.
+The function  is completely unknown, since so little is known about the origin of life. Simplified criteria (such as the number of galaxies) must be used as a proxy for the number of observers. Moreover, it may never be possible to compute it for parameters radically different from those of the observable universe.
+
+(Interpreting probability in a context where it is only possible to draw one sample from a distribution is problematic in frequentist probability but not in Bayesian probability, which is not defined in terms of the frequency of repeated events.)
+Various physicists have tried to address these objections, and the ideas remain extremely controversial both within and outside the string theory community. These ideas have been reviewed by Carroll.[5]
+Simplified approaches[edit]
+Tegmark et al. have recently considered these objections and proposed a simplified anthropic scenario for axion dark matter in which they argue that the first two of these problems do not apply.[6]
+Vilenkin and collaborators have proposed a consistent way to define the probabilities for a given vacuum.[7]
+A problem with many of the simplified approaches people[who?] have tried is that they "predict" a cosmological constant that is too large by a factor of 10–1000 (depending on one's assumptions) and hence suggest that the cosmic acceleration should be much more rapid than is observed.[8][9][10]
+Criticism[edit]
+Although few dispute the idea that string theory appears to have an unimaginably large number of metastable vacua, the existence - meaning and scientific relevance of the anthropic landscape - remain highly controversial. Prominent proponents of the idea include Andrei Linde, Sir Martin Rees and especially Leonard Susskind, who advocate it as a solution to the cosmological-constant problem. Opponents, such as David Gross, suggest that the idea is inherently unscientific, unfalsifiable or premature. A famous debate on the anthropic landscape of string theory is the Smolin–Susskind debate on the merits of the landscape.
+The term "landscape" comes from evolutionary biology (see Fitness landscape) and was first applied to cosmology by Lee Smolin in his book.[11] It was first used in the context of string theory by Susskind.
+There are several popular books about the anthropic principle in cosmology.[12] The authors of two physics blogs are opposed to this use of the anthropic principle.[13]
+See also[edit]
+
+Extra dimensions
+Compactification
+
+References[edit]
+
+
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).
+^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.
+^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. 
+^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).
+^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.
+^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].
+^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. 
+^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). 
+^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). 
+^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). 
+^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)
+^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).
+^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.
+
+
+External links[edit]
+
+String landscape; moduli stabilization; flux vacua; flux compactification on arxiv.org
+Cvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_theory_landscape&oldid=707702367"					
+Categories: Physical cosmologyString theoryHidden categories: Pages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016 
+
+
+String theory landscape
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The string theory landscape refers to the huge number of possible false vacua in string theory.[1] The large number of theoretically allowed configurations has prompted suggestions that certain physical mysteries, particularly relating to the fine-tuning of constants like the cosmological constant or the Higgs boson mass, may be explained not by a physical mechanism but by assuming that many different vacua are physically realized.[2] The anthropic landscape thus refers to the collection of those portions of the landscape that are suitable for supporting intelligent life, an application of the anthropic principle that selects a subset of the otherwise possible configurations.
+In string theory the number of false vacua is thought to be somewhere between 1010 to 10100.[1] The large number of possibilities arises from different choices of Calabi–Yau manifolds and different values of generalized magnetic fluxes over different homology cycles. If one assumes that there is no structure in the space of vacua, the problem of finding one with a sufficiently small cosmological constant is NP complete,[3] being a version of the subset sum problem.
+
+
+
+Contents
+
+
+1 Anthropic principle
+2 Bayesian probability
+3 Simplified approaches
+4 Criticism
+5 See also
+6 References
+7 External links
+
+
+
+Anthropic principle[edit]
+Main article: Anthropic principle
+The idea of the string theory landscape has been used to propose a concrete implementation of the anthropic principle, the idea that fundamental constants may have the values they have not for fundamental physical reasons, but rather because such values are necessary for life (and hence intelligent observers to measure the constants). In 1987, Steven Weinberg proposed that the observed value of the cosmological constant was so small because it is impossible for life to occur in a universe with a much larger cosmological constant.[4] In order to implement this idea in a concrete physical theory, it is necessary to postulate a multiverse in which fundamental physical parameters can take different values. This has been realized in the context of eternal inflation.
+Bayesian probability[edit]
+Main article: Bayesian probability
+Some physicists, starting with Weinberg, have proposed that Bayesian probability can be used to compute probability distributions for fundamental physical parameters, where the probability  of observing some fundamental parameters  is given by,
+
+
+
+where  is the prior probability, from fundamental theory, of the parameters  and  is the anthropic selection function, determined by the number of "observers" that would occur in the universe with parameters . These probabilistic arguments are the most controversial aspect of the landscape. Technical criticisms of these proposals have pointed out that:
+
+The function  is completely unknown in string theory and may be impossible to define or interpret in any sensible probabilistic way.
+The function  is completely unknown, since so little is known about the origin of life. Simplified criteria (such as the number of galaxies) must be used as a proxy for the number of observers. Moreover, it may never be possible to compute it for parameters radically different from those of the observable universe.
+
+(Interpreting probability in a context where it is only possible to draw one sample from a distribution is problematic in frequentist probability but not in Bayesian probability, which is not defined in terms of the frequency of repeated events.)
+Various physicists have tried to address these objections, and the ideas remain extremely controversial both within and outside the string theory community. These ideas have been reviewed by Carroll.[5]
+Simplified approaches[edit]
+Tegmark et al. have recently considered these objections and proposed a simplified anthropic scenario for axion dark matter in which they argue that the first two of these problems do not apply.[6]
+Vilenkin and collaborators have proposed a consistent way to define the probabilities for a given vacuum.[7]
+A problem with many of the simplified approaches people[who?] have tried is that they "predict" a cosmological constant that is too large by a factor of 10–1000 (depending on one's assumptions) and hence suggest that the cosmic acceleration should be much more rapid than is observed.[8][9][10]
+Criticism[edit]
+Although few dispute the idea that string theory appears to have an unimaginably large number of metastable vacua, the existence - meaning and scientific relevance of the anthropic landscape - remain highly controversial. Prominent proponents of the idea include Andrei Linde, Sir Martin Rees and especially Leonard Susskind, who advocate it as a solution to the cosmological-constant problem. Opponents, such as David Gross, suggest that the idea is inherently unscientific, unfalsifiable or premature. A famous debate on the anthropic landscape of string theory is the Smolin–Susskind debate on the merits of the landscape.
+The term "landscape" comes from evolutionary biology (see Fitness landscape) and was first applied to cosmology by Lee Smolin in his book.[11] It was first used in the context of string theory by Susskind.
+There are several popular books about the anthropic principle in cosmology.[12] The authors of two physics blogs are opposed to this use of the anthropic principle.[13]
+See also[edit]
+
+Extra dimensions
+Compactification
+
+References[edit]
+
+
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).
+^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.
+^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. 
+^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).
+^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.
+^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].
+^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. 
+^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). 
+^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). 
+^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). 
+^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)
+^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).
+^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.
+
+
+External links[edit]
+
+String landscape; moduli stabilization; flux vacua; flux compactification on arxiv.org
+Cvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_theory_landscape&oldid=707702367"					
+Categories: Physical cosmologyString theoryHidden categories: Pages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The string theory landscape refers to the huge number of possible false vacua in string theory.[1] The large number of theoretically allowed configurations has prompted suggestions that certain physical mysteries, particularly relating to the fine-tuning of constants like the cosmological constant or the Higgs boson mass, may be explained not by a physical mechanism but by assuming that many different vacua are physically realized.[2] The anthropic landscape thus refers to the collection of those portions of the landscape that are suitable for supporting intelligent life, an application of the anthropic principle that selects a subset of the otherwise possible configurations.
+In string theory the number of false vacua is thought to be somewhere between 1010 to 10100.[1] The large number of possibilities arises from different choices of Calabi–Yau manifolds and different values of generalized magnetic fluxes over different homology cycles. If one assumes that there is no structure in the space of vacua, the problem of finding one with a sufficiently small cosmological constant is NP complete,[3] being a version of the subset sum problem.
+
+
+
+Contents
+
+
+1 Anthropic principle
+2 Bayesian probability
+3 Simplified approaches
+4 Criticism
+5 See also
+6 References
+7 External links
+
+
+
+Anthropic principle[edit]
+Main article: Anthropic principle
+The idea of the string theory landscape has been used to propose a concrete implementation of the anthropic principle, the idea that fundamental constants may have the values they have not for fundamental physical reasons, but rather because such values are necessary for life (and hence intelligent observers to measure the constants). In 1987, Steven Weinberg proposed that the observed value of the cosmological constant was so small because it is impossible for life to occur in a universe with a much larger cosmological constant.[4] In order to implement this idea in a concrete physical theory, it is necessary to postulate a multiverse in which fundamental physical parameters can take different values. This has been realized in the context of eternal inflation.
+Bayesian probability[edit]
+Main article: Bayesian probability
+Some physicists, starting with Weinberg, have proposed that Bayesian probability can be used to compute probability distributions for fundamental physical parameters, where the probability  of observing some fundamental parameters  is given by,
+
+
+
+where  is the prior probability, from fundamental theory, of the parameters  and  is the anthropic selection function, determined by the number of "observers" that would occur in the universe with parameters . These probabilistic arguments are the most controversial aspect of the landscape. Technical criticisms of these proposals have pointed out that:
+
+The function  is completely unknown in string theory and may be impossible to define or interpret in any sensible probabilistic way.
+The function  is completely unknown, since so little is known about the origin of life. Simplified criteria (such as the number of galaxies) must be used as a proxy for the number of observers. Moreover, it may never be possible to compute it for parameters radically different from those of the observable universe.
+
+(Interpreting probability in a context where it is only possible to draw one sample from a distribution is problematic in frequentist probability but not in Bayesian probability, which is not defined in terms of the frequency of repeated events.)
+Various physicists have tried to address these objections, and the ideas remain extremely controversial both within and outside the string theory community. These ideas have been reviewed by Carroll.[5]
+Simplified approaches[edit]
+Tegmark et al. have recently considered these objections and proposed a simplified anthropic scenario for axion dark matter in which they argue that the first two of these problems do not apply.[6]
+Vilenkin and collaborators have proposed a consistent way to define the probabilities for a given vacuum.[7]
+A problem with many of the simplified approaches people[who?] have tried is that they "predict" a cosmological constant that is too large by a factor of 10–1000 (depending on one's assumptions) and hence suggest that the cosmic acceleration should be much more rapid than is observed.[8][9][10]
+Criticism[edit]
+Although few dispute the idea that string theory appears to have an unimaginably large number of metastable vacua, the existence - meaning and scientific relevance of the anthropic landscape - remain highly controversial. Prominent proponents of the idea include Andrei Linde, Sir Martin Rees and especially Leonard Susskind, who advocate it as a solution to the cosmological-constant problem. Opponents, such as David Gross, suggest that the idea is inherently unscientific, unfalsifiable or premature. A famous debate on the anthropic landscape of string theory is the Smolin–Susskind debate on the merits of the landscape.
+The term "landscape" comes from evolutionary biology (see Fitness landscape) and was first applied to cosmology by Lee Smolin in his book.[11] It was first used in the context of string theory by Susskind.
+There are several popular books about the anthropic principle in cosmology.[12] The authors of two physics blogs are opposed to this use of the anthropic principle.[13]
+See also[edit]
+
+Extra dimensions
+Compactification
+
+References[edit]
+
+
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).
+^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.
+^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. 
+^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).
+^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.
+^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].
+^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. 
+^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). 
+^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). 
+^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). 
+^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)
+^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).
+^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.
+
+
+External links[edit]
+
+String landscape; moduli stabilization; flux vacua; flux compactification on arxiv.org
+Cvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093. 
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeThe string theory landscape refers to the huge number of possible false vacua in string theory.[1] The large number of theoretically allowed configurations has prompted suggestions that certain physical mysteries, particularly relating to the fine-tuning of constants like the cosmological constant or the Higgs boson mass, may be explained not by a physical mechanism but by assuming that many different vacua are physically realized.[2] The anthropic landscape thus refers to the collection of those portions of the landscape that are suitable for supporting intelligent life, an application of the anthropic principle that selects a subset of the otherwise possible configurations.string theory landscapefalse vacuastring theory[1][1]fine-tuningcosmological constantHiggs boson[2][2]anthropic landscapeanthropic principleIn string theory the number of false vacua is thought to be somewhere between 1010 to 10100.[1] The large number of possibilities arises from different choices of Calabi–Yau manifolds and different values of generalized magnetic fluxes over different homology cycles. If one assumes that there is no structure in the space of vacua, the problem of finding one with a sufficiently small cosmological constant is NP complete,[3] being a version of the subset sum problem.10100[1][1]Calabi–Yau manifoldsmagnetic fluxeshomologyNP complete[3][3]subset sum problem
+
+Contents
+
+
+1 Anthropic principle
+2 Bayesian probability
+3 Simplified approaches
+4 Criticism
+5 See also
+6 References
+7 External links
+
+
+Contents
+Contents
+1 Anthropic principle
+2 Bayesian probability
+3 Simplified approaches
+4 Criticism
+5 See also
+6 References
+7 External links
+1 Anthropic principle1 Anthropic principle1Anthropic principle2 Bayesian probability2 Bayesian probability2Bayesian probability3 Simplified approaches3 Simplified approaches3Simplified approaches4 Criticism4 Criticism4Criticism5 See also5 See also5See also6 References6 References6References7 External links7 External links7External linksAnthropic principle[edit]Anthropic principle[edit][edit]Main article: Anthropic principleAnthropic principleThe idea of the string theory landscape has been used to propose a concrete implementation of the anthropic principle, the idea that fundamental constants may have the values they have not for fundamental physical reasons, but rather because such values are necessary for life (and hence intelligent observers to measure the constants). In 1987, Steven Weinberg proposed that the observed value of the cosmological constant was so small because it is impossible for life to occur in a universe with a much larger cosmological constant.[4] In order to implement this idea in a concrete physical theory, it is necessary to postulate a multiverse in which fundamental physical parameters can take different values. This has been realized in the context of eternal inflation.anthropic principleSteven Weinbergcosmological constant[4][4]multiverseeternal inflationBayesian probability[edit]Bayesian probability[edit][edit]Main article: Bayesian probabilityBayesian probabilitySome physicists, starting with Weinberg, have proposed that Bayesian probability can be used to compute probability distributions for fundamental physical parameters, where the probability  of observing some fundamental parameters  is given by,Bayesian probability
+
+where  is the prior probability, from fundamental theory, of the parameters  and  is the anthropic selection function, determined by the number of "observers" that would occur in the universe with parameters . These probabilistic arguments are the most controversial aspect of the landscape. Technical criticisms of these proposals have pointed out that:
+The function  is completely unknown in string theory and may be impossible to define or interpret in any sensible probabilistic way.
+The function  is completely unknown, since so little is known about the origin of life. Simplified criteria (such as the number of galaxies) must be used as a proxy for the number of observers. Moreover, it may never be possible to compute it for parameters radically different from those of the observable universe.
+The function  is completely unknown in string theory and may be impossible to define or interpret in any sensible probabilistic way.The function  is completely unknown, since so little is known about the origin of life. Simplified criteria (such as the number of galaxies) must be used as a proxy for the number of observers. Moreover, it may never be possible to compute it for parameters radically different from those of the observable universe.(Interpreting probability in a context where it is only possible to draw one sample from a distribution is problematic in frequentist probability but not in Bayesian probability, which is not defined in terms of the frequency of repeated events.)sampledistributionfrequentist probabilityVarious physicists have tried to address these objections, and the ideas remain extremely controversial both within and outside the string theory community. These ideas have been reviewed by Carroll.[5][5][5]Simplified approaches[edit]Simplified approaches[edit][edit]Tegmark et al. have recently considered these objections and proposed a simplified anthropic scenario for axion dark matter in which they argue that the first two of these problems do not apply.[6]Tegmarket al.axiondark matter[6][6]Vilenkin and collaborators have proposed a consistent way to define the probabilities for a given vacuum.[7][7][7]A problem with many of the simplified approaches people[who?] have tried is that they "predict" a cosmological constant that is too large by a factor of 10–1000 (depending on one's assumptions) and hence suggest that the cosmic acceleration should be much more rapid than is observed.[8][9][10][who?]who?who?who?[8][8][9][9][10][10]Criticism[edit]Criticism[edit][edit]Although few dispute the idea that string theory appears to have an unimaginably large number of metastable vacua, the existence - meaning and scientific relevance of the anthropic landscape - remain highly controversial. Prominent proponents of the idea include Andrei Linde, Sir Martin Rees and especially Leonard Susskind, who advocate it as a solution to the cosmological-constant problem. Opponents, such as David Gross, suggest that the idea is inherently unscientific, unfalsifiable or premature. A famous debate on the anthropic landscape of string theory is the Smolin–Susskind debate on the merits of the landscape.Andrei LindeSir Martin ReesLeonard Susskindcosmological-constantDavid GrossSmolin–Susskind debateThe term "landscape" comes from evolutionary biology (see Fitness landscape) and was first applied to cosmology by Lee Smolin in his book.[11] It was first used in the context of string theory by Susskind.evolutionary biologyFitness landscapeFitness landscapeLee Smolin[11][11]There are several popular books about the anthropic principle in cosmology.[12] The authors of two physics blogs are opposed to this use of the anthropic principle.[13][12][12][13][13]See also[edit]See also[edit][edit]
+Extra dimensions
+Compactification
+Extra dimensionsExtra dimensionsCompactificationCompactificationReferences[edit]References[edit][edit]
+
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).
+^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.
+^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. 
+^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).
+^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.
+^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].
+^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. 
+^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). 
+^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). 
+^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). 
+^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)
+^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).
+^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.
+
+
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).
+^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.
+^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. 
+^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).
+^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.
+^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].
+^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. 
+^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). 
+^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). 
+^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). 
+^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)
+^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).
+^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.
+^ a b The most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).^ a baaaabbbbThe most commonly quoted number is of the order 10500. See M. Douglas, "The statistics of string / M theory vacua", JHEP 0305, 46 (2003). arXiv:hep-th/0303194; S. Ashok and M. Douglas, "Counting flux vacua", JHEP 0401, 060 (2004).500M. DouglasJHEP0305arXivhep-th/0303194JHEP0401^ L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.^^^L. Susskind, "The anthropic landscape of string theory", arXiv:hep-th/0302219.arXivhep-th/0302219^ Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. ^^^Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013. Frederik Denef; Douglas, Michael R. (2006). "Computational complexity of the landscape". Annals of Physics 322 (5): 1096–1142. arXiv:hep-th/0602072. Bibcode:2007AnPhy.322.1096D. doi:10.1016/j.aop.2006.07.013.Annals of Physics322arXivhep-th/0602072Bibcode2007AnPhy.322.1096Ddoi10.1016/j.aop.2006.07.013  ^ S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).^^^S. Weinberg, "Anthropic bound on the cosmological constant", Phys. Rev. Lett. 59, 2607 (1987).Phys. Rev. Lett.59^ S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.^^^S. M. Carroll, "Is our universe natural?", arXiv:hep-th/0512148.arXivhep-th/0512148^ M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].^^^M. Tegmark, A. Aguirre, M. Rees and F. Wilczek, "Dimensionless constants, cosmology and other dark matters", arXiv:astro-ph/0511774. F. Wilczek, "Enlightenment, knowledge, ignorance, temptation", arXiv:hep-ph/0512187. See also the discussion at [1].arXivastro-ph/0511774arXivhep-ph/0512187[1]^ See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. ^^^See, e.g. Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22. e.g.Alexander Vilenkin (2006). "A measure of the multiverse". Journal of Physics A: Mathematical and Theoretical 40 (25): 6777–6785. arXiv:hep-th/0609193. Bibcode:2007JPhA...40.6777V. doi:10.1088/1751-8113/40/25/S22.Journal of Physics A: Mathematical and Theoretical40arXivhep-th/0609193Bibcode2007JPhA...40.6777Vdoi10.1088/1751-8113/40/25/S22  ^ Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). ^^^Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help)). Abraham Loeb (2006). "An observational test for the anthropic origin of the cosmological constant". JCAP 0605: 009. (subscription required (help))."An observational test for the anthropic origin of the cosmological constant"JCAP0605(subscription required (help))help  ^ Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). ^^^Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help)). Jaume Garriga & Alexander Vilenkin (2006). "Anthropic prediction for Lambda and the Q catastrophe". Prog. Theor.Phys. Suppl. 163: 245–57. arXiv:hep-th/0508005. Bibcode:2006PThPS.163..245G. doi:10.1143/PTPS.163.245. (subscription required (help))."Anthropic prediction for Lambda and the Q catastrophe"Prog. Theor.Phys. Suppl.163arXivhep-th/0508005Bibcode2006PThPS.163..245Gdoi10.1143/PTPS.163.245(subscription required (help))help  ^ Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). ^^^Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help)). Delia Schwartz-Perlov & Alexander Vilenkin (2006). "Probabilities in the Bousso-Polchinski multiverse". JCAP 0606: 010. (subscription required (help))."Probabilities in the Bousso-Polchinski multiverse"JCAP0606(subscription required (help))help  ^ L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)^^^L. Smolin, "Did the universe evolve?", Classical and Quantum Gravity 9, 173–191 (1992). L. Smolin, The Life of the Cosmos (Oxford, 1997)Classical and Quantum Gravity9The Life of the CosmosThe Life of the Cosmos^ L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).^^^L. Susskind, The cosmic landscape: string theory and the illusion of intelligent design (Little, Brown, 2005). M. J. Rees, Just six numbers: the deep forces that shape the universe (Basic Books, 2001). R. Bousso and J. Polchinski, "The string theory landscape", Sci. Am. 291, 60–69 (2004).The cosmic landscape: string theory and the illusion of intelligent designJust six numbers: the deep forces that shape the universeSci. Am.291^ Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.^^^Lubos Motl's blog criticized the anthropic principle and Peter Woit's blog frequently attacks the anthropic string landscape.Lubos MotlPeter WoitblogExternal links[edit]External links[edit][edit]
+String landscape; moduli stabilization; flux vacua; flux compactification on arxiv.org
+Cvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093. 
+String landscape; moduli stabilization; flux vacua; flux compactification on arxiv.orgString landscape; moduli stabilization; flux vacua; flux compactificationarxiv.orgCvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093. Cvetič, Mirjam; García-Etxebarria, Iñaki; Halverson, James (March 2011). "On the computation of non-perturbative effective potentials in the string theory landscape". Fortschritte der Physik 59 (3-4): 243–283. doi:10.1002/prop.201000093."On the computation of non-perturbative effective potentials in the string theory landscape"Fortschritte der Physik59doi10.1002/prop.201000093  
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_theory_landscape&oldid=707702367"					https://en.wikipedia.org/w/index.php?title=String_theory_landscape&oldid=707702367Categories: Physical cosmologyString theoryHidden categories: Pages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016Categories: Physical cosmologyString theoryCategoriesPhysical cosmologyString theoryPhysical cosmologyPhysical cosmologyString theoryString theoryHidden categories: Pages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016Pages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016Pages containing links to subscription-only contentPages containing links to subscription-only contentAll articles with specifically marked weasel-worded phrasesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2016Articles with specifically marked weasel-worded phrases from March 2016
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяРусский中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяРусский中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+БеларускаяРусский中文 
+Edit links 
+Languages
+
+БеларускаяРусский中文 
+Edit links 
+БеларускаяРусский中文 БеларускаяБеларускаяРусскийРусский中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 1 March 2016, at 08:51.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 1 March 2016, at 08:51.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 1 March 2016, at 08:51.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

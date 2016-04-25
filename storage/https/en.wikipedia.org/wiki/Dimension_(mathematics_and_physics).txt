@@ -1,0 +1,9342 @@
+Dimension - Wikipedia, the free encyclopedia
+
+
+
+
+Dimension
+
+From Wikipedia, the free encyclopedia
+  (Redirected from Dimension (mathematics and physics))
+
+					Jump to:					navigation, 					search
+
+This article is about the dimension of a space.  For the dimension of an object, see size.  For the dimension of a quantity, see Dimensional analysis.  For other uses, see Dimension (disambiguation).
+
+
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.
+
+
+
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+
+In physics and mathematics, the dimension of a mathematical space (or object) is informally defined as the minimum number of coordinates needed to specify any point within it.[1][2] Thus a line has a dimension of one because only one coordinate is needed to specify a point on it – for example, the point at 5 on a number line. A surface such as a plane or the surface of a cylinder or sphere has a dimension of two because two coordinates are needed to specify a point on it – for example, both a latitude and longitude are required to locate a point on the surface of a sphere. The inside of a cube, a cylinder or a sphere is three-dimensional because three coordinates are needed to locate a point within these spaces.
+In classical mechanics, space and time are different categories and refer to absolute space and time. That conception of the world is a four-dimensional space but not the one that was found necessary to describe electromagnetism. The four dimensions of spacetime consist of events that are not absolutely defined spatially and temporally, but rather are known relative to the motion of an observer. Minkowski space first approximates the universe without gravity; the pseudo-Riemannian manifolds of general relativity describe spacetime with matter and gravity. Ten dimensions are used to describe string theory, and the state-space of quantum mechanics is an infinite-dimensional function space.
+The concept of dimension is not restricted to physical objects. High-dimensional spaces frequently occur in mathematics and the sciences. They may be parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space we live in.
+
+
+
+Contents
+
+
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+
+2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+
+3 Networks and dimension
+4 In literature
+5 In philosophy
+6 More dimensions
+7 See also
+
+7.1 Topics by dimension
+
+
+8 References
+9 Further reading
+10 External links
+
+
+
+In mathematics[edit]
+In mathematics, the dimension of an object is an intrinsic property independent of the space in which the object is embedded. For example, a point on the unit circle in the plane can be specified by two Cartesian coordinates, but a single polar coordinate (the angle) would be sufficient, so the circle is 1-dimensional even though it exists in the 2-dimensional plane. This intrinsic notion of dimension is one of the chief ways the mathematical notion of dimension differs from its common usages.
+The dimension of Euclidean n-space En is n. When trying to generalize to other types of spaces, one is faced with the question "what makes En n-dimensional?" One answer is that to cover a fixed ball in En by small balls of radius ε, one needs on the order of ε−n such small balls. This observation leads to the definition of the Minkowski dimension and its more sophisticated variant, the Hausdorff dimension, but there are also other answers to that question. For example, the boundary of a ball in En looks locally like En-1 and this leads to the notion of the inductive dimension. While these notions agree on En , they turn out to be different when one looks at more general spaces.
+A tesseract is an example of a four-dimensional object. Whereas outside mathematics the use of the term "dimension" is as in: "A tesseract has four dimensions", mathematicians usually express this as: "The tesseract has dimension 4", or: "The dimension of the tesseract is 4".
+Although the notion of higher dimensions goes back to René Descartes, substantial development of a higher-dimensional geometry only began in the 19th century, via the work of Arthur Cayley, William Rowan Hamilton, Ludwig Schläfli and Bernhard Riemann. Riemann's 1854 Habilitationsschrift, Schläfli's 1852 Theorie der vielfachen Kontinuität, Hamilton's 1843 discovery of the quaternions and the construction of the Cayley algebra marked the beginning of higher-dimensional geometry.
+The rest of this section examines some of the more important mathematical definitions of the dimensions.
+Complex dimension[edit]
+Main article: Complex dimension
+A complex number (x + iy) has a real part x and an imaginary part iy whose magnitude is y. A single complex coordinate system may be applied to an object having two real dimensions. For example, an ordinary two-dimensional spherical surface, when given a complex metric, becomes a Riemann sphere of one complex dimension.[3] Complex dimensions appear in the study of complex manifolds and algebraic varieties.
+Dimension of a vector space[edit]
+Main article: Dimension (vector space)
+The dimension of a vector space is the number of vectors in any basis for the space, i.e. the number of coordinates necessary to specify any vector. This notion of dimension (the cardinality of a basis) is often referred to as the Hamel dimension or algebraic dimension to distinguish it from other notions of dimension.
+Manifolds[edit]
+A connected topological manifold is locally homeomorphic to Euclidean n-space, and the number n is called the manifold's dimension. One can show that this yields a uniquely defined dimension for every connected topological manifold.
+For connected differentiable manifolds, the dimension is also the dimension of the tangent vector space at any point.
+In geometric topology, the theory of manifolds is characterized by the way dimensions 1 and 2 are relatively elementary, the high-dimensional cases n > 4 are simplified by having extra space in which to "work"; and the cases n = 3 and 4 are in some senses the most difficult. This state of affairs was highly marked in the various cases of the Poincaré conjecture, where four different proof methods are applied.
+Varieties[edit]
+Main article: Dimension of an algebraic variety
+The dimension of an algebraic variety may be defined in various equivalent ways. The most intuitive way is probably the dimension of the tangent space at any regular point. Another intuitive way is to define the dimension as the number of hyperplanes that are needed in order to have an intersection with the variety that is reduced to a finite number of points (dimension zero). This definition is based on the fact that the intersection of a variety with a hyperplane reduces the dimension by one unless if the hyperplane contains the variety.
+An algebraic set being a finite union of algebraic varieties, its dimension is the maximum of the dimensions of its components. It is equal to the maximal length of the chains  of sub-varieties of the given algebraic set (the length of such a chain is the number of "").
+Each variety can be considered as an algebraic stack, and its dimension as variety agrees with its dimension as stack. There are however many stacks which do not correspond to varieties, and some of these have negative dimension. Specifically, if V is a variety of dimension m and G is an algebraic group of dimension n acting on V, then the quotient stack [V/G] has dimension m−n.[4]
+Krull dimension[edit]
+Main article: Krull dimension
+The Krull dimension of a commutative ring is the maximal length of chains of prime ideals in it, a chain of length n being a sequence  of prime ideals related by inclusion. It is strongly related to the dimension of an algebraic variety, because of the natural correspondence between sub-varieties and prime ideals of the ring of the polynomials on the variety.
+For an algebra over a field, the dimension as vector space is finite if and only if its Krull dimension is 0.
+Lebesgue covering dimension[edit]
+Main article: Lebesgue covering dimension
+For any normal topological space X, the Lebesgue covering dimension of X is defined to be n if n is the smallest integer for which the following holds: any open cover has an open refinement (a second open cover where each element is a subset of an element in the first cover) such that no point is included in more than n + 1 elements. In this case dim X = n. For X a manifold, this coincides with the dimension mentioned above. If no such integer n exists, then the dimension of X is said to be infinite, and one writes dim X = ∞. Moreover, X has dimension −1, i.e. dim X = −1 if and only if X is empty. This definition of covering dimension can be extended from the class of normal spaces to all Tychonoff spaces merely by replacing the term "open" in the definition by the term "functionally open".
+Inductive dimension[edit]
+Main article: Inductive dimension
+An inductive definition of dimension can be created as follows. Consider a discrete set of points (such as a finite collection of points) to be 0-dimensional. By dragging a 0-dimensional object in some direction, one obtains a 1-dimensional object. By dragging a 1-dimensional object in a new direction, one obtains a 2-dimensional object. In general one obtains an (n + 1)-dimensional object by dragging an n-dimensional object in a new direction.
+The inductive dimension of a topological space may refer to the small inductive dimension or the large inductive dimension, and is based on the analogy that (n + 1)-dimensional balls have n-dimensional boundaries, permitting an inductive definition based on the dimension of the boundaries of open sets.
+Hausdorff dimension[edit]
+Main article: Hausdorff dimension
+For structurally complicated sets, especially fractals, the Hausdorff dimension is useful. The Hausdorff dimension is defined for all metric spaces and, unlike the dimensions considered above, can also attain non-integer real values.[5] The box dimension or Minkowski dimension is a variant of the same idea. In general, there exist more definitions of fractal dimensions that work for highly irregular sets and attain non-integer positive real values. Fractals have been found useful to describe many natural objects and phenomena.[6][page needed][7][page needed]
+Hilbert spaces[edit]
+Every Hilbert space admits an orthonormal basis, and any two such bases for a particular space have the same cardinality. This cardinality is called the dimension of the Hilbert space. This dimension is finite if and only if the space's Hamel dimension is finite, and in this case the above dimensions coincide.
+In physics[edit]
+Spatial dimensions[edit]
+Classical physics theories describe three physical dimensions: from a particular point in space, the basic directions in which we can move are up/down, left/right, and forward/backward. Movement in any other direction can be expressed in terms of just these three. Moving down is the same as moving up a negative distance. Moving diagonally upward and forward is just as the name of the direction implies; i.e., moving in a linear combination of up and forward. In its simplest form: a line describes one dimension, a plane describes two dimensions, and a cube describes three dimensions. (See Space and Cartesian coordinate system.)
+
+
+
+Number of
+dimensions
+
+Example co-ordinate systems
+
+
+1
+
+
+
+
+Number line
+
+Angle
+
+
+
+
+
+2
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+
+
+3
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+
+
+Time[edit]
+A temporal dimension is a dimension of time. Time is often referred to as the "fourth dimension" for this reason, but that is not to imply that it is a spatial dimension. A temporal dimension is one way to measure physical change. It is perceived differently from the three spatial dimensions in that there is only one of it, and that we cannot move freely in time but subjectively move in one direction.
+The equations used in physics to model reality do not treat time in the same way that humans commonly perceive it. The equations of classical mechanics are symmetric with respect to time, and equations of quantum mechanics are typically symmetric if both time and other quantities (such as charge and parity) are reversed. In these models, the perception of time flowing in one direction is an artifact of the laws of thermodynamics (we perceive time as flowing in the direction of increasing entropy).
+The best-known treatment of time as a dimension is Poincaré and Einstein's special relativity (and extended to general relativity), which treats perceived space and time as components of a four-dimensional manifold, known as spacetime, and in the special, flat case as Minkowski space.
+Additional dimensions[edit]
+In physics, three dimensions of space and one of time is the accepted norm. However, there are theories that attempt to unify the four fundamental forces by introducing extra dimensions. Most notably, superstring theory requires 10 spacetime dimensions, and originates from a more fundamental 11-dimensional theory tentatively called M-theory which subsumes five previously distinct superstring theories. To date, no experimental or observational evidence is available to confirm the existence of these extra dimensions. If extra dimensions exist, they must be hidden from us by some physical mechanism. One well-studied possibility is that the extra dimensions may be "curled up" at such tiny scales as to be effectively invisible to current experiments. Limits on the size and other properties of extra dimensions are set by particle experiments[clarification needed] such as those at the Large Hadron Collider.[8]
+At the level of quantum field theory, Kaluza–Klein theory unifies gravity with gauge interactions, based on the realization that gravity propagating in small, compact extra dimensions is equivalent to gauge interactions at long distances. In particular when the geometry of the extra dimensions is trivial, it reproduces electromagnetism. However at sufficiently high energies or short distances, this setup still suffers from the same pathologies that famously obstruct direct attempts to describe quantum gravity. Therefore, these models still require a UV completion, of the kind that string theory is intended to provide. In particular, superstring theory requires six compact dimensions forming a Calabi–Yau manifold. Thus Kaluza-Klein theory may be considered either as an incomplete description on its own, or as a subset of string theory model building.
+In addition to small and curled up extra dimensions, there may be extra dimensions that instead aren't apparent because the matter associated with our visible universe is localized on a (3 + 1)-dimensional subspace. Thus the extra dimensions need not be small and compact but may be large extra dimensions. D-branes are dynamical extended objects of various dimensionalities predicted by string theory that could play this role. They have the property that open string excitations, which are associated with gauge interactions, are confined to the brane by their endpoints, whereas the closed strings that mediate the gravitational interaction are free to propagate into the whole spacetime, or "the bulk". This could be related to why gravity is exponentially weaker than the other forces, as it effectively dilutes itself as it propagates into a higher-dimensional volume.
+Some aspects of brane physics have been applied to cosmology. For example, brane gas cosmology[9][10] attempts to explain why there are three dimensions of space using topological and thermodynamic considerations. According to this idea it would be because three is the largest number of spatial dimensions where strings can generically intersect. If initially there are lots of windings of strings around compact dimensions, space could only expand to macroscopic sizes once these windings are eliminated, which requires oppositely wound strings to find each other and annihilate. But strings can only find each other to annihilate at a meaningful rate in three dimensions, so it follows that only three dimensions of space are allowed to grow large given this kind of initial configuration.
+Extra dimensions are said to be universal if all fields are equally free to propagate within them.
+Networks and dimension[edit]
+Some complex networks are characterized by fractal dimensions.[11] The concept of dimension can be generalized to include networks embedded in space.[12] The dimension characterize their spatial constraints.
+In literature[edit]
+Main article: Fourth dimension in literature
+Science fiction texts often mention the concept of "dimension" when referring to parallel or alternate universes or other imagined planes of existence. This usage is derived from the idea that to travel to parallel/alternate universes/planes of existence one must travel in a direction/dimension besides the standard ones. In effect, the other universes/planes are just a small distance away from our own, but the distance is in a fourth (or higher) spatial (or non-spatial) dimension, not the standard ones.
+One of the most heralded science fiction stories regarding true geometric dimensionality, and often recommended as a starting point for those just starting to investigate such matters, is the 1884 novella Flatland by Edwin A. Abbott. Isaac Asimov, in his foreword to the Signet Classics 1984 edition, described Flatland as "The best introduction one can find into the manner of perceiving dimensions."
+The idea of other dimensions was incorporated into many early science fiction stories, appearing prominently, for example, in Miles J. Breuer's The Appendix and the Spectacles (1928) and Murray Leinster's The Fifth-Dimension Catapult (1931); and appeared irregularly in science fiction by the 1940s. Classic stories involving other dimensions include Robert A. Heinlein's —And He Built a Crooked House (1941), in which a California architect designs a house based on a three-dimensional projection of a tesseract; and Alan E. Nourse's Tiger by the Tail and The Universe Between (both 1951). Another reference is Madeleine L'Engle's novel A Wrinkle In Time (1962), which uses the fifth dimension as a way for "tesseracting the universe" or "folding" space in order to move across it quickly. The fourth and fifth dimensions were also a key component of the book The Boy Who Reversed Himself by William Sleator.
+In philosophy[edit]
+Immanuel Kant, in 1783, wrote: "That everywhere space (which is not itself the boundary of another space) has three dimensions and that space in general cannot have more dimensions is based on the proposition that not more than three lines can intersect at right angles in one point. This proposition cannot at all be shown from concepts, but rests immediately on intuition and indeed on pure intuition a priori because it is apodictically (demonstrably) certain."[13]
+"Space has Four Dimensions" is a short story published in 1846 by German philosopher and experimental psychologist Gustav Fechner under the pseudonym "Dr. Mises". The protagonist in the tale is a shadow who is aware of and able to communicate with other shadows, but who is trapped on a two-dimensional surface. According to Fechner, this "shadow-man" would conceive of the third dimension as being one of time.[14] The story bears a strong similarity to the "Allegory of the Cave" presented in Plato's The Republic (c. 380 BC).
+Simon Newcomb wrote an article for the Bulletin of the American Mathematical Society in 1898 entitled "The Philosophy of Hyperspace".[15] Linda Dalrymple Henderson coined the term "hyperspace philosophy", used to describe writing that uses higher dimensions to explore metaphysical themes, in her 1983 thesis about the fourth dimension in early-twentieth-century art.[16] Examples of "hyperspace philosophers" include Charles Howard Hinton, the first writer, in 1888, to use the word "tesseract";[17] and the Russian esotericist P. D. Ouspensky.
+More dimensions[edit]
+
+
+Geometry
+
+
+
+Projecting a sphere to a plane.
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+
+
+Geometers
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+Degrees of freedom in mechanics / physics and chemistry / statistics
+
+
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+
+
+See also[edit]
+
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+
+
+Topics by dimension[edit]
+
+Zero
+
+Point
+Zero-dimensional space
+Integer
+
+
+One
+
+Line
+Curve
+Graph (combinatorics)
+Real number
+
+
+Two
+
+Complex number
+Cartesian coordinate system
+List of uniform tilings
+Surface
+
+
+
+Three
+
+Platonic solid
+Stereoscopy (3-D imaging)
+3-manifold
+Knots
+
+
+Four
+
+Spacetime
+Fourth spatial dimension
+Convex regular 4-polytope
+Quaternion
+4-manifold
+Fourth dimension in art
+Fourth dimension in literature
+
+
+
+Higher dimensions
+ in mathematics
+
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+in physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+
+
+Infinite
+
+Hilbert space
+Function space
+
+
+
+
+References[edit]
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+
+
+
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. 
+^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. 
+^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.
+^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 
+^ Fractal Dimension, Boston University Department of Mathematics and Statistics
+^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. 
+^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. 
+^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)
+^ Brandenberger, R., Vafa, C., Superstrings in the early universe
+^ Scott Watson, Brane Gas Cosmology (pdf).
+^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. 
+^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. 
+^ Prolegomena, § 12
+^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. 
+^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. 
+^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. 
+^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .
+
+
+Further reading[edit]
+
+Katta G Murty, "Systems of Simultaneous Linear Equations" (Chapter 1 of Computational and Algorithmic Linear Algebra and n-Dimensional Geometry, World Scientific Publishing: 2014 (ISBN 978-981-4366-62-5).
+Edwin A. Abbott, Flatland: A Romance of Many Dimensions (1884) (Public domain: Online version with ASCII approximation of illustrations at Project Gutenberg).
+Thomas Banchoff, Beyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second Edition, W. H. Freeman and Company: 1996.
+Clifford A. Pickover, Surfing through Hyperspace: Understanding Higher Universes in Six Easy Lessons, Oxford University Press: 1999.
+Rudy Rucker, The Fourth Dimension, Houghton-Mifflin: 1984.
+Kaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1. 
+Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952. 
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Dimension
+
+
+
+
+
+Wikimedia Commons has media related to Dimensions.
+
+
+
+Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dimension&oldid=716605628"					
+Categories: DimensionConcepts in physicsAbstract algebraGeometric measurementMathematical conceptsHidden categories: Wikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010All articles needing additional referencesCommons category without a link on Wikidata 
+
+
+Dimension
+From Wikipedia, the free encyclopedia
+  (Redirected from Dimension (mathematics and physics))
+
+					Jump to:					navigation, 					search
+
+This article is about the dimension of a space.  For the dimension of an object, see size.  For the dimension of a quantity, see Dimensional analysis.  For other uses, see Dimension (disambiguation).
+
+
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.
+
+
+
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+
+In physics and mathematics, the dimension of a mathematical space (or object) is informally defined as the minimum number of coordinates needed to specify any point within it.[1][2] Thus a line has a dimension of one because only one coordinate is needed to specify a point on it – for example, the point at 5 on a number line. A surface such as a plane or the surface of a cylinder or sphere has a dimension of two because two coordinates are needed to specify a point on it – for example, both a latitude and longitude are required to locate a point on the surface of a sphere. The inside of a cube, a cylinder or a sphere is three-dimensional because three coordinates are needed to locate a point within these spaces.
+In classical mechanics, space and time are different categories and refer to absolute space and time. That conception of the world is a four-dimensional space but not the one that was found necessary to describe electromagnetism. The four dimensions of spacetime consist of events that are not absolutely defined spatially and temporally, but rather are known relative to the motion of an observer. Minkowski space first approximates the universe without gravity; the pseudo-Riemannian manifolds of general relativity describe spacetime with matter and gravity. Ten dimensions are used to describe string theory, and the state-space of quantum mechanics is an infinite-dimensional function space.
+The concept of dimension is not restricted to physical objects. High-dimensional spaces frequently occur in mathematics and the sciences. They may be parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space we live in.
+
+
+
+Contents
+
+
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+
+2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+
+3 Networks and dimension
+4 In literature
+5 In philosophy
+6 More dimensions
+7 See also
+
+7.1 Topics by dimension
+
+
+8 References
+9 Further reading
+10 External links
+
+
+
+In mathematics[edit]
+In mathematics, the dimension of an object is an intrinsic property independent of the space in which the object is embedded. For example, a point on the unit circle in the plane can be specified by two Cartesian coordinates, but a single polar coordinate (the angle) would be sufficient, so the circle is 1-dimensional even though it exists in the 2-dimensional plane. This intrinsic notion of dimension is one of the chief ways the mathematical notion of dimension differs from its common usages.
+The dimension of Euclidean n-space En is n. When trying to generalize to other types of spaces, one is faced with the question "what makes En n-dimensional?" One answer is that to cover a fixed ball in En by small balls of radius ε, one needs on the order of ε−n such small balls. This observation leads to the definition of the Minkowski dimension and its more sophisticated variant, the Hausdorff dimension, but there are also other answers to that question. For example, the boundary of a ball in En looks locally like En-1 and this leads to the notion of the inductive dimension. While these notions agree on En , they turn out to be different when one looks at more general spaces.
+A tesseract is an example of a four-dimensional object. Whereas outside mathematics the use of the term "dimension" is as in: "A tesseract has four dimensions", mathematicians usually express this as: "The tesseract has dimension 4", or: "The dimension of the tesseract is 4".
+Although the notion of higher dimensions goes back to René Descartes, substantial development of a higher-dimensional geometry only began in the 19th century, via the work of Arthur Cayley, William Rowan Hamilton, Ludwig Schläfli and Bernhard Riemann. Riemann's 1854 Habilitationsschrift, Schläfli's 1852 Theorie der vielfachen Kontinuität, Hamilton's 1843 discovery of the quaternions and the construction of the Cayley algebra marked the beginning of higher-dimensional geometry.
+The rest of this section examines some of the more important mathematical definitions of the dimensions.
+Complex dimension[edit]
+Main article: Complex dimension
+A complex number (x + iy) has a real part x and an imaginary part iy whose magnitude is y. A single complex coordinate system may be applied to an object having two real dimensions. For example, an ordinary two-dimensional spherical surface, when given a complex metric, becomes a Riemann sphere of one complex dimension.[3] Complex dimensions appear in the study of complex manifolds and algebraic varieties.
+Dimension of a vector space[edit]
+Main article: Dimension (vector space)
+The dimension of a vector space is the number of vectors in any basis for the space, i.e. the number of coordinates necessary to specify any vector. This notion of dimension (the cardinality of a basis) is often referred to as the Hamel dimension or algebraic dimension to distinguish it from other notions of dimension.
+Manifolds[edit]
+A connected topological manifold is locally homeomorphic to Euclidean n-space, and the number n is called the manifold's dimension. One can show that this yields a uniquely defined dimension for every connected topological manifold.
+For connected differentiable manifolds, the dimension is also the dimension of the tangent vector space at any point.
+In geometric topology, the theory of manifolds is characterized by the way dimensions 1 and 2 are relatively elementary, the high-dimensional cases n > 4 are simplified by having extra space in which to "work"; and the cases n = 3 and 4 are in some senses the most difficult. This state of affairs was highly marked in the various cases of the Poincaré conjecture, where four different proof methods are applied.
+Varieties[edit]
+Main article: Dimension of an algebraic variety
+The dimension of an algebraic variety may be defined in various equivalent ways. The most intuitive way is probably the dimension of the tangent space at any regular point. Another intuitive way is to define the dimension as the number of hyperplanes that are needed in order to have an intersection with the variety that is reduced to a finite number of points (dimension zero). This definition is based on the fact that the intersection of a variety with a hyperplane reduces the dimension by one unless if the hyperplane contains the variety.
+An algebraic set being a finite union of algebraic varieties, its dimension is the maximum of the dimensions of its components. It is equal to the maximal length of the chains  of sub-varieties of the given algebraic set (the length of such a chain is the number of "").
+Each variety can be considered as an algebraic stack, and its dimension as variety agrees with its dimension as stack. There are however many stacks which do not correspond to varieties, and some of these have negative dimension. Specifically, if V is a variety of dimension m and G is an algebraic group of dimension n acting on V, then the quotient stack [V/G] has dimension m−n.[4]
+Krull dimension[edit]
+Main article: Krull dimension
+The Krull dimension of a commutative ring is the maximal length of chains of prime ideals in it, a chain of length n being a sequence  of prime ideals related by inclusion. It is strongly related to the dimension of an algebraic variety, because of the natural correspondence between sub-varieties and prime ideals of the ring of the polynomials on the variety.
+For an algebra over a field, the dimension as vector space is finite if and only if its Krull dimension is 0.
+Lebesgue covering dimension[edit]
+Main article: Lebesgue covering dimension
+For any normal topological space X, the Lebesgue covering dimension of X is defined to be n if n is the smallest integer for which the following holds: any open cover has an open refinement (a second open cover where each element is a subset of an element in the first cover) such that no point is included in more than n + 1 elements. In this case dim X = n. For X a manifold, this coincides with the dimension mentioned above. If no such integer n exists, then the dimension of X is said to be infinite, and one writes dim X = ∞. Moreover, X has dimension −1, i.e. dim X = −1 if and only if X is empty. This definition of covering dimension can be extended from the class of normal spaces to all Tychonoff spaces merely by replacing the term "open" in the definition by the term "functionally open".
+Inductive dimension[edit]
+Main article: Inductive dimension
+An inductive definition of dimension can be created as follows. Consider a discrete set of points (such as a finite collection of points) to be 0-dimensional. By dragging a 0-dimensional object in some direction, one obtains a 1-dimensional object. By dragging a 1-dimensional object in a new direction, one obtains a 2-dimensional object. In general one obtains an (n + 1)-dimensional object by dragging an n-dimensional object in a new direction.
+The inductive dimension of a topological space may refer to the small inductive dimension or the large inductive dimension, and is based on the analogy that (n + 1)-dimensional balls have n-dimensional boundaries, permitting an inductive definition based on the dimension of the boundaries of open sets.
+Hausdorff dimension[edit]
+Main article: Hausdorff dimension
+For structurally complicated sets, especially fractals, the Hausdorff dimension is useful. The Hausdorff dimension is defined for all metric spaces and, unlike the dimensions considered above, can also attain non-integer real values.[5] The box dimension or Minkowski dimension is a variant of the same idea. In general, there exist more definitions of fractal dimensions that work for highly irregular sets and attain non-integer positive real values. Fractals have been found useful to describe many natural objects and phenomena.[6][page needed][7][page needed]
+Hilbert spaces[edit]
+Every Hilbert space admits an orthonormal basis, and any two such bases for a particular space have the same cardinality. This cardinality is called the dimension of the Hilbert space. This dimension is finite if and only if the space's Hamel dimension is finite, and in this case the above dimensions coincide.
+In physics[edit]
+Spatial dimensions[edit]
+Classical physics theories describe three physical dimensions: from a particular point in space, the basic directions in which we can move are up/down, left/right, and forward/backward. Movement in any other direction can be expressed in terms of just these three. Moving down is the same as moving up a negative distance. Moving diagonally upward and forward is just as the name of the direction implies; i.e., moving in a linear combination of up and forward. In its simplest form: a line describes one dimension, a plane describes two dimensions, and a cube describes three dimensions. (See Space and Cartesian coordinate system.)
+
+
+
+Number of
+dimensions
+
+Example co-ordinate systems
+
+
+1
+
+
+
+
+Number line
+
+Angle
+
+
+
+
+
+2
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+
+
+3
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+
+
+Time[edit]
+A temporal dimension is a dimension of time. Time is often referred to as the "fourth dimension" for this reason, but that is not to imply that it is a spatial dimension. A temporal dimension is one way to measure physical change. It is perceived differently from the three spatial dimensions in that there is only one of it, and that we cannot move freely in time but subjectively move in one direction.
+The equations used in physics to model reality do not treat time in the same way that humans commonly perceive it. The equations of classical mechanics are symmetric with respect to time, and equations of quantum mechanics are typically symmetric if both time and other quantities (such as charge and parity) are reversed. In these models, the perception of time flowing in one direction is an artifact of the laws of thermodynamics (we perceive time as flowing in the direction of increasing entropy).
+The best-known treatment of time as a dimension is Poincaré and Einstein's special relativity (and extended to general relativity), which treats perceived space and time as components of a four-dimensional manifold, known as spacetime, and in the special, flat case as Minkowski space.
+Additional dimensions[edit]
+In physics, three dimensions of space and one of time is the accepted norm. However, there are theories that attempt to unify the four fundamental forces by introducing extra dimensions. Most notably, superstring theory requires 10 spacetime dimensions, and originates from a more fundamental 11-dimensional theory tentatively called M-theory which subsumes five previously distinct superstring theories. To date, no experimental or observational evidence is available to confirm the existence of these extra dimensions. If extra dimensions exist, they must be hidden from us by some physical mechanism. One well-studied possibility is that the extra dimensions may be "curled up" at such tiny scales as to be effectively invisible to current experiments. Limits on the size and other properties of extra dimensions are set by particle experiments[clarification needed] such as those at the Large Hadron Collider.[8]
+At the level of quantum field theory, Kaluza–Klein theory unifies gravity with gauge interactions, based on the realization that gravity propagating in small, compact extra dimensions is equivalent to gauge interactions at long distances. In particular when the geometry of the extra dimensions is trivial, it reproduces electromagnetism. However at sufficiently high energies or short distances, this setup still suffers from the same pathologies that famously obstruct direct attempts to describe quantum gravity. Therefore, these models still require a UV completion, of the kind that string theory is intended to provide. In particular, superstring theory requires six compact dimensions forming a Calabi–Yau manifold. Thus Kaluza-Klein theory may be considered either as an incomplete description on its own, or as a subset of string theory model building.
+In addition to small and curled up extra dimensions, there may be extra dimensions that instead aren't apparent because the matter associated with our visible universe is localized on a (3 + 1)-dimensional subspace. Thus the extra dimensions need not be small and compact but may be large extra dimensions. D-branes are dynamical extended objects of various dimensionalities predicted by string theory that could play this role. They have the property that open string excitations, which are associated with gauge interactions, are confined to the brane by their endpoints, whereas the closed strings that mediate the gravitational interaction are free to propagate into the whole spacetime, or "the bulk". This could be related to why gravity is exponentially weaker than the other forces, as it effectively dilutes itself as it propagates into a higher-dimensional volume.
+Some aspects of brane physics have been applied to cosmology. For example, brane gas cosmology[9][10] attempts to explain why there are three dimensions of space using topological and thermodynamic considerations. According to this idea it would be because three is the largest number of spatial dimensions where strings can generically intersect. If initially there are lots of windings of strings around compact dimensions, space could only expand to macroscopic sizes once these windings are eliminated, which requires oppositely wound strings to find each other and annihilate. But strings can only find each other to annihilate at a meaningful rate in three dimensions, so it follows that only three dimensions of space are allowed to grow large given this kind of initial configuration.
+Extra dimensions are said to be universal if all fields are equally free to propagate within them.
+Networks and dimension[edit]
+Some complex networks are characterized by fractal dimensions.[11] The concept of dimension can be generalized to include networks embedded in space.[12] The dimension characterize their spatial constraints.
+In literature[edit]
+Main article: Fourth dimension in literature
+Science fiction texts often mention the concept of "dimension" when referring to parallel or alternate universes or other imagined planes of existence. This usage is derived from the idea that to travel to parallel/alternate universes/planes of existence one must travel in a direction/dimension besides the standard ones. In effect, the other universes/planes are just a small distance away from our own, but the distance is in a fourth (or higher) spatial (or non-spatial) dimension, not the standard ones.
+One of the most heralded science fiction stories regarding true geometric dimensionality, and often recommended as a starting point for those just starting to investigate such matters, is the 1884 novella Flatland by Edwin A. Abbott. Isaac Asimov, in his foreword to the Signet Classics 1984 edition, described Flatland as "The best introduction one can find into the manner of perceiving dimensions."
+The idea of other dimensions was incorporated into many early science fiction stories, appearing prominently, for example, in Miles J. Breuer's The Appendix and the Spectacles (1928) and Murray Leinster's The Fifth-Dimension Catapult (1931); and appeared irregularly in science fiction by the 1940s. Classic stories involving other dimensions include Robert A. Heinlein's —And He Built a Crooked House (1941), in which a California architect designs a house based on a three-dimensional projection of a tesseract; and Alan E. Nourse's Tiger by the Tail and The Universe Between (both 1951). Another reference is Madeleine L'Engle's novel A Wrinkle In Time (1962), which uses the fifth dimension as a way for "tesseracting the universe" or "folding" space in order to move across it quickly. The fourth and fifth dimensions were also a key component of the book The Boy Who Reversed Himself by William Sleator.
+In philosophy[edit]
+Immanuel Kant, in 1783, wrote: "That everywhere space (which is not itself the boundary of another space) has three dimensions and that space in general cannot have more dimensions is based on the proposition that not more than three lines can intersect at right angles in one point. This proposition cannot at all be shown from concepts, but rests immediately on intuition and indeed on pure intuition a priori because it is apodictically (demonstrably) certain."[13]
+"Space has Four Dimensions" is a short story published in 1846 by German philosopher and experimental psychologist Gustav Fechner under the pseudonym "Dr. Mises". The protagonist in the tale is a shadow who is aware of and able to communicate with other shadows, but who is trapped on a two-dimensional surface. According to Fechner, this "shadow-man" would conceive of the third dimension as being one of time.[14] The story bears a strong similarity to the "Allegory of the Cave" presented in Plato's The Republic (c. 380 BC).
+Simon Newcomb wrote an article for the Bulletin of the American Mathematical Society in 1898 entitled "The Philosophy of Hyperspace".[15] Linda Dalrymple Henderson coined the term "hyperspace philosophy", used to describe writing that uses higher dimensions to explore metaphysical themes, in her 1983 thesis about the fourth dimension in early-twentieth-century art.[16] Examples of "hyperspace philosophers" include Charles Howard Hinton, the first writer, in 1888, to use the word "tesseract";[17] and the Russian esotericist P. D. Ouspensky.
+More dimensions[edit]
+
+
+Geometry
+
+
+
+Projecting a sphere to a plane.
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+
+
+Geometers
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+Degrees of freedom in mechanics / physics and chemistry / statistics
+
+
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+
+
+See also[edit]
+
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+
+
+Topics by dimension[edit]
+
+Zero
+
+Point
+Zero-dimensional space
+Integer
+
+
+One
+
+Line
+Curve
+Graph (combinatorics)
+Real number
+
+
+Two
+
+Complex number
+Cartesian coordinate system
+List of uniform tilings
+Surface
+
+
+
+Three
+
+Platonic solid
+Stereoscopy (3-D imaging)
+3-manifold
+Knots
+
+
+Four
+
+Spacetime
+Fourth spatial dimension
+Convex regular 4-polytope
+Quaternion
+4-manifold
+Fourth dimension in art
+Fourth dimension in literature
+
+
+
+Higher dimensions
+ in mathematics
+
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+in physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+
+
+Infinite
+
+Hilbert space
+Function space
+
+
+
+
+References[edit]
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+
+
+
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. 
+^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. 
+^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.
+^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 
+^ Fractal Dimension, Boston University Department of Mathematics and Statistics
+^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. 
+^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. 
+^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)
+^ Brandenberger, R., Vafa, C., Superstrings in the early universe
+^ Scott Watson, Brane Gas Cosmology (pdf).
+^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. 
+^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. 
+^ Prolegomena, § 12
+^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. 
+^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. 
+^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. 
+^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .
+
+
+Further reading[edit]
+
+Katta G Murty, "Systems of Simultaneous Linear Equations" (Chapter 1 of Computational and Algorithmic Linear Algebra and n-Dimensional Geometry, World Scientific Publishing: 2014 (ISBN 978-981-4366-62-5).
+Edwin A. Abbott, Flatland: A Romance of Many Dimensions (1884) (Public domain: Online version with ASCII approximation of illustrations at Project Gutenberg).
+Thomas Banchoff, Beyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second Edition, W. H. Freeman and Company: 1996.
+Clifford A. Pickover, Surfing through Hyperspace: Understanding Higher Universes in Six Easy Lessons, Oxford University Press: 1999.
+Rudy Rucker, The Fourth Dimension, Houghton-Mifflin: 1984.
+Kaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1. 
+Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952. 
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Dimension
+
+
+
+
+
+Wikimedia Commons has media related to Dimensions.
+
+
+
+Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dimension&oldid=716605628"					
+Categories: DimensionConcepts in physicsAbstract algebraGeometric measurementMathematical conceptsHidden categories: Wikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010All articles needing additional referencesCommons category without a link on Wikidata 
+From Wikipedia, the free encyclopedia  (Redirected from Dimension (mathematics and physics))  (Redirected from Dimension (mathematics and physics))Dimension (mathematics and physics)
+					Jump to:					navigation, 					search
+navigationsearchThis article is about the dimension of a space.  For the dimension of an object, see size.  For the dimension of a quantity, see Dimensional analysis.  For other uses, see Dimension (disambiguation).
+
+
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.
+
+
+
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+
+In physics and mathematics, the dimension of a mathematical space (or object) is informally defined as the minimum number of coordinates needed to specify any point within it.[1][2] Thus a line has a dimension of one because only one coordinate is needed to specify a point on it – for example, the point at 5 on a number line. A surface such as a plane or the surface of a cylinder or sphere has a dimension of two because two coordinates are needed to specify a point on it – for example, both a latitude and longitude are required to locate a point on the surface of a sphere. The inside of a cube, a cylinder or a sphere is three-dimensional because three coordinates are needed to locate a point within these spaces.
+In classical mechanics, space and time are different categories and refer to absolute space and time. That conception of the world is a four-dimensional space but not the one that was found necessary to describe electromagnetism. The four dimensions of spacetime consist of events that are not absolutely defined spatially and temporally, but rather are known relative to the motion of an observer. Minkowski space first approximates the universe without gravity; the pseudo-Riemannian manifolds of general relativity describe spacetime with matter and gravity. Ten dimensions are used to describe string theory, and the state-space of quantum mechanics is an infinite-dimensional function space.
+The concept of dimension is not restricted to physical objects. High-dimensional spaces frequently occur in mathematics and the sciences. They may be parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space we live in.
+
+
+
+Contents
+
+
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+
+2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+
+3 Networks and dimension
+4 In literature
+5 In philosophy
+6 More dimensions
+7 See also
+
+7.1 Topics by dimension
+
+
+8 References
+9 Further reading
+10 External links
+
+
+
+In mathematics[edit]
+In mathematics, the dimension of an object is an intrinsic property independent of the space in which the object is embedded. For example, a point on the unit circle in the plane can be specified by two Cartesian coordinates, but a single polar coordinate (the angle) would be sufficient, so the circle is 1-dimensional even though it exists in the 2-dimensional plane. This intrinsic notion of dimension is one of the chief ways the mathematical notion of dimension differs from its common usages.
+The dimension of Euclidean n-space En is n. When trying to generalize to other types of spaces, one is faced with the question "what makes En n-dimensional?" One answer is that to cover a fixed ball in En by small balls of radius ε, one needs on the order of ε−n such small balls. This observation leads to the definition of the Minkowski dimension and its more sophisticated variant, the Hausdorff dimension, but there are also other answers to that question. For example, the boundary of a ball in En looks locally like En-1 and this leads to the notion of the inductive dimension. While these notions agree on En , they turn out to be different when one looks at more general spaces.
+A tesseract is an example of a four-dimensional object. Whereas outside mathematics the use of the term "dimension" is as in: "A tesseract has four dimensions", mathematicians usually express this as: "The tesseract has dimension 4", or: "The dimension of the tesseract is 4".
+Although the notion of higher dimensions goes back to René Descartes, substantial development of a higher-dimensional geometry only began in the 19th century, via the work of Arthur Cayley, William Rowan Hamilton, Ludwig Schläfli and Bernhard Riemann. Riemann's 1854 Habilitationsschrift, Schläfli's 1852 Theorie der vielfachen Kontinuität, Hamilton's 1843 discovery of the quaternions and the construction of the Cayley algebra marked the beginning of higher-dimensional geometry.
+The rest of this section examines some of the more important mathematical definitions of the dimensions.
+Complex dimension[edit]
+Main article: Complex dimension
+A complex number (x + iy) has a real part x and an imaginary part iy whose magnitude is y. A single complex coordinate system may be applied to an object having two real dimensions. For example, an ordinary two-dimensional spherical surface, when given a complex metric, becomes a Riemann sphere of one complex dimension.[3] Complex dimensions appear in the study of complex manifolds and algebraic varieties.
+Dimension of a vector space[edit]
+Main article: Dimension (vector space)
+The dimension of a vector space is the number of vectors in any basis for the space, i.e. the number of coordinates necessary to specify any vector. This notion of dimension (the cardinality of a basis) is often referred to as the Hamel dimension or algebraic dimension to distinguish it from other notions of dimension.
+Manifolds[edit]
+A connected topological manifold is locally homeomorphic to Euclidean n-space, and the number n is called the manifold's dimension. One can show that this yields a uniquely defined dimension for every connected topological manifold.
+For connected differentiable manifolds, the dimension is also the dimension of the tangent vector space at any point.
+In geometric topology, the theory of manifolds is characterized by the way dimensions 1 and 2 are relatively elementary, the high-dimensional cases n > 4 are simplified by having extra space in which to "work"; and the cases n = 3 and 4 are in some senses the most difficult. This state of affairs was highly marked in the various cases of the Poincaré conjecture, where four different proof methods are applied.
+Varieties[edit]
+Main article: Dimension of an algebraic variety
+The dimension of an algebraic variety may be defined in various equivalent ways. The most intuitive way is probably the dimension of the tangent space at any regular point. Another intuitive way is to define the dimension as the number of hyperplanes that are needed in order to have an intersection with the variety that is reduced to a finite number of points (dimension zero). This definition is based on the fact that the intersection of a variety with a hyperplane reduces the dimension by one unless if the hyperplane contains the variety.
+An algebraic set being a finite union of algebraic varieties, its dimension is the maximum of the dimensions of its components. It is equal to the maximal length of the chains  of sub-varieties of the given algebraic set (the length of such a chain is the number of "").
+Each variety can be considered as an algebraic stack, and its dimension as variety agrees with its dimension as stack. There are however many stacks which do not correspond to varieties, and some of these have negative dimension. Specifically, if V is a variety of dimension m and G is an algebraic group of dimension n acting on V, then the quotient stack [V/G] has dimension m−n.[4]
+Krull dimension[edit]
+Main article: Krull dimension
+The Krull dimension of a commutative ring is the maximal length of chains of prime ideals in it, a chain of length n being a sequence  of prime ideals related by inclusion. It is strongly related to the dimension of an algebraic variety, because of the natural correspondence between sub-varieties and prime ideals of the ring of the polynomials on the variety.
+For an algebra over a field, the dimension as vector space is finite if and only if its Krull dimension is 0.
+Lebesgue covering dimension[edit]
+Main article: Lebesgue covering dimension
+For any normal topological space X, the Lebesgue covering dimension of X is defined to be n if n is the smallest integer for which the following holds: any open cover has an open refinement (a second open cover where each element is a subset of an element in the first cover) such that no point is included in more than n + 1 elements. In this case dim X = n. For X a manifold, this coincides with the dimension mentioned above. If no such integer n exists, then the dimension of X is said to be infinite, and one writes dim X = ∞. Moreover, X has dimension −1, i.e. dim X = −1 if and only if X is empty. This definition of covering dimension can be extended from the class of normal spaces to all Tychonoff spaces merely by replacing the term "open" in the definition by the term "functionally open".
+Inductive dimension[edit]
+Main article: Inductive dimension
+An inductive definition of dimension can be created as follows. Consider a discrete set of points (such as a finite collection of points) to be 0-dimensional. By dragging a 0-dimensional object in some direction, one obtains a 1-dimensional object. By dragging a 1-dimensional object in a new direction, one obtains a 2-dimensional object. In general one obtains an (n + 1)-dimensional object by dragging an n-dimensional object in a new direction.
+The inductive dimension of a topological space may refer to the small inductive dimension or the large inductive dimension, and is based on the analogy that (n + 1)-dimensional balls have n-dimensional boundaries, permitting an inductive definition based on the dimension of the boundaries of open sets.
+Hausdorff dimension[edit]
+Main article: Hausdorff dimension
+For structurally complicated sets, especially fractals, the Hausdorff dimension is useful. The Hausdorff dimension is defined for all metric spaces and, unlike the dimensions considered above, can also attain non-integer real values.[5] The box dimension or Minkowski dimension is a variant of the same idea. In general, there exist more definitions of fractal dimensions that work for highly irregular sets and attain non-integer positive real values. Fractals have been found useful to describe many natural objects and phenomena.[6][page needed][7][page needed]
+Hilbert spaces[edit]
+Every Hilbert space admits an orthonormal basis, and any two such bases for a particular space have the same cardinality. This cardinality is called the dimension of the Hilbert space. This dimension is finite if and only if the space's Hamel dimension is finite, and in this case the above dimensions coincide.
+In physics[edit]
+Spatial dimensions[edit]
+Classical physics theories describe three physical dimensions: from a particular point in space, the basic directions in which we can move are up/down, left/right, and forward/backward. Movement in any other direction can be expressed in terms of just these three. Moving down is the same as moving up a negative distance. Moving diagonally upward and forward is just as the name of the direction implies; i.e., moving in a linear combination of up and forward. In its simplest form: a line describes one dimension, a plane describes two dimensions, and a cube describes three dimensions. (See Space and Cartesian coordinate system.)
+
+
+
+Number of
+dimensions
+
+Example co-ordinate systems
+
+
+1
+
+
+
+
+Number line
+
+Angle
+
+
+
+
+
+2
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+
+
+3
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+
+
+Time[edit]
+A temporal dimension is a dimension of time. Time is often referred to as the "fourth dimension" for this reason, but that is not to imply that it is a spatial dimension. A temporal dimension is one way to measure physical change. It is perceived differently from the three spatial dimensions in that there is only one of it, and that we cannot move freely in time but subjectively move in one direction.
+The equations used in physics to model reality do not treat time in the same way that humans commonly perceive it. The equations of classical mechanics are symmetric with respect to time, and equations of quantum mechanics are typically symmetric if both time and other quantities (such as charge and parity) are reversed. In these models, the perception of time flowing in one direction is an artifact of the laws of thermodynamics (we perceive time as flowing in the direction of increasing entropy).
+The best-known treatment of time as a dimension is Poincaré and Einstein's special relativity (and extended to general relativity), which treats perceived space and time as components of a four-dimensional manifold, known as spacetime, and in the special, flat case as Minkowski space.
+Additional dimensions[edit]
+In physics, three dimensions of space and one of time is the accepted norm. However, there are theories that attempt to unify the four fundamental forces by introducing extra dimensions. Most notably, superstring theory requires 10 spacetime dimensions, and originates from a more fundamental 11-dimensional theory tentatively called M-theory which subsumes five previously distinct superstring theories. To date, no experimental or observational evidence is available to confirm the existence of these extra dimensions. If extra dimensions exist, they must be hidden from us by some physical mechanism. One well-studied possibility is that the extra dimensions may be "curled up" at such tiny scales as to be effectively invisible to current experiments. Limits on the size and other properties of extra dimensions are set by particle experiments[clarification needed] such as those at the Large Hadron Collider.[8]
+At the level of quantum field theory, Kaluza–Klein theory unifies gravity with gauge interactions, based on the realization that gravity propagating in small, compact extra dimensions is equivalent to gauge interactions at long distances. In particular when the geometry of the extra dimensions is trivial, it reproduces electromagnetism. However at sufficiently high energies or short distances, this setup still suffers from the same pathologies that famously obstruct direct attempts to describe quantum gravity. Therefore, these models still require a UV completion, of the kind that string theory is intended to provide. In particular, superstring theory requires six compact dimensions forming a Calabi–Yau manifold. Thus Kaluza-Klein theory may be considered either as an incomplete description on its own, or as a subset of string theory model building.
+In addition to small and curled up extra dimensions, there may be extra dimensions that instead aren't apparent because the matter associated with our visible universe is localized on a (3 + 1)-dimensional subspace. Thus the extra dimensions need not be small and compact but may be large extra dimensions. D-branes are dynamical extended objects of various dimensionalities predicted by string theory that could play this role. They have the property that open string excitations, which are associated with gauge interactions, are confined to the brane by their endpoints, whereas the closed strings that mediate the gravitational interaction are free to propagate into the whole spacetime, or "the bulk". This could be related to why gravity is exponentially weaker than the other forces, as it effectively dilutes itself as it propagates into a higher-dimensional volume.
+Some aspects of brane physics have been applied to cosmology. For example, brane gas cosmology[9][10] attempts to explain why there are three dimensions of space using topological and thermodynamic considerations. According to this idea it would be because three is the largest number of spatial dimensions where strings can generically intersect. If initially there are lots of windings of strings around compact dimensions, space could only expand to macroscopic sizes once these windings are eliminated, which requires oppositely wound strings to find each other and annihilate. But strings can only find each other to annihilate at a meaningful rate in three dimensions, so it follows that only three dimensions of space are allowed to grow large given this kind of initial configuration.
+Extra dimensions are said to be universal if all fields are equally free to propagate within them.
+Networks and dimension[edit]
+Some complex networks are characterized by fractal dimensions.[11] The concept of dimension can be generalized to include networks embedded in space.[12] The dimension characterize their spatial constraints.
+In literature[edit]
+Main article: Fourth dimension in literature
+Science fiction texts often mention the concept of "dimension" when referring to parallel or alternate universes or other imagined planes of existence. This usage is derived from the idea that to travel to parallel/alternate universes/planes of existence one must travel in a direction/dimension besides the standard ones. In effect, the other universes/planes are just a small distance away from our own, but the distance is in a fourth (or higher) spatial (or non-spatial) dimension, not the standard ones.
+One of the most heralded science fiction stories regarding true geometric dimensionality, and often recommended as a starting point for those just starting to investigate such matters, is the 1884 novella Flatland by Edwin A. Abbott. Isaac Asimov, in his foreword to the Signet Classics 1984 edition, described Flatland as "The best introduction one can find into the manner of perceiving dimensions."
+The idea of other dimensions was incorporated into many early science fiction stories, appearing prominently, for example, in Miles J. Breuer's The Appendix and the Spectacles (1928) and Murray Leinster's The Fifth-Dimension Catapult (1931); and appeared irregularly in science fiction by the 1940s. Classic stories involving other dimensions include Robert A. Heinlein's —And He Built a Crooked House (1941), in which a California architect designs a house based on a three-dimensional projection of a tesseract; and Alan E. Nourse's Tiger by the Tail and The Universe Between (both 1951). Another reference is Madeleine L'Engle's novel A Wrinkle In Time (1962), which uses the fifth dimension as a way for "tesseracting the universe" or "folding" space in order to move across it quickly. The fourth and fifth dimensions were also a key component of the book The Boy Who Reversed Himself by William Sleator.
+In philosophy[edit]
+Immanuel Kant, in 1783, wrote: "That everywhere space (which is not itself the boundary of another space) has three dimensions and that space in general cannot have more dimensions is based on the proposition that not more than three lines can intersect at right angles in one point. This proposition cannot at all be shown from concepts, but rests immediately on intuition and indeed on pure intuition a priori because it is apodictically (demonstrably) certain."[13]
+"Space has Four Dimensions" is a short story published in 1846 by German philosopher and experimental psychologist Gustav Fechner under the pseudonym "Dr. Mises". The protagonist in the tale is a shadow who is aware of and able to communicate with other shadows, but who is trapped on a two-dimensional surface. According to Fechner, this "shadow-man" would conceive of the third dimension as being one of time.[14] The story bears a strong similarity to the "Allegory of the Cave" presented in Plato's The Republic (c. 380 BC).
+Simon Newcomb wrote an article for the Bulletin of the American Mathematical Society in 1898 entitled "The Philosophy of Hyperspace".[15] Linda Dalrymple Henderson coined the term "hyperspace philosophy", used to describe writing that uses higher dimensions to explore metaphysical themes, in her 1983 thesis about the fourth dimension in early-twentieth-century art.[16] Examples of "hyperspace philosophers" include Charles Howard Hinton, the first writer, in 1888, to use the word "tesseract";[17] and the Russian esotericist P. D. Ouspensky.
+More dimensions[edit]
+
+
+Geometry
+
+
+
+Projecting a sphere to a plane.
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+
+
+Geometers
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+Degrees of freedom in mechanics / physics and chemistry / statistics
+
+
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+
+
+See also[edit]
+
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+
+
+Topics by dimension[edit]
+
+Zero
+
+Point
+Zero-dimensional space
+Integer
+
+
+One
+
+Line
+Curve
+Graph (combinatorics)
+Real number
+
+
+Two
+
+Complex number
+Cartesian coordinate system
+List of uniform tilings
+Surface
+
+
+
+Three
+
+Platonic solid
+Stereoscopy (3-D imaging)
+3-manifold
+Knots
+
+
+Four
+
+Spacetime
+Fourth spatial dimension
+Convex regular 4-polytope
+Quaternion
+4-manifold
+Fourth dimension in art
+Fourth dimension in literature
+
+
+
+Higher dimensions
+ in mathematics
+
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+in physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+
+
+Infinite
+
+Hilbert space
+Function space
+
+
+
+
+References[edit]
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+
+
+
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. 
+^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. 
+^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.
+^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 
+^ Fractal Dimension, Boston University Department of Mathematics and Statistics
+^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. 
+^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. 
+^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)
+^ Brandenberger, R., Vafa, C., Superstrings in the early universe
+^ Scott Watson, Brane Gas Cosmology (pdf).
+^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. 
+^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. 
+^ Prolegomena, § 12
+^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. 
+^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. 
+^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. 
+^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .
+
+
+Further reading[edit]
+
+Katta G Murty, "Systems of Simultaneous Linear Equations" (Chapter 1 of Computational and Algorithmic Linear Algebra and n-Dimensional Geometry, World Scientific Publishing: 2014 (ISBN 978-981-4366-62-5).
+Edwin A. Abbott, Flatland: A Romance of Many Dimensions (1884) (Public domain: Online version with ASCII approximation of illustrations at Project Gutenberg).
+Thomas Banchoff, Beyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second Edition, W. H. Freeman and Company: 1996.
+Clifford A. Pickover, Surfing through Hyperspace: Understanding Higher Universes in Six Easy Lessons, Oxford University Press: 1999.
+Rudy Rucker, The Fourth Dimension, Houghton-Mifflin: 1984.
+Kaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1. 
+Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952. 
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Dimension
+
+
+
+
+
+Wikimedia Commons has media related to Dimensions.
+
+
+
+Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+
+This article is about the dimension of a space.  For the dimension of an object, see size.  For the dimension of a quantity, see Dimensional analysis.  For other uses, see Dimension (disambiguation).sizeDimensional analysisDimension (disambiguation)
+
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.
+
+
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.
+
+
+From left to right: the square, the cube and the tesseract. The two-dimensional (2d) square is bounded by one-dimensional (1d) lines; the three-dimensional (3d) cube by two-dimensional areas; and the four-dimensional (4d) tesseract by three-dimensional volumes. For display on a two-dimensional surface such as a screen, the 3d cube and 4d tesseract require projection.squarecubetesseracttwo-dimensional (2d)one-dimensional (1d)three-dimensional (3d)four-dimensional (4d)tesseractprojection
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+
+The first four spatial dimensions.
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+
+
+1
+Two points can be connected to create a line segment.
+
+
+2
+Two parallel line segments can be connected to form a square.
+
+
+3
+Two parallel squares can be connected to form a cube.
+
+
+4
+Two parallel cubes can be connected to form a tesseract.
+
+
+1
+Two points can be connected to create a line segment.
+1Two points can be connected to create a line segment.line segment
+2
+Two parallel line segments can be connected to form a square.
+2Two parallel line segments can be connected to form a square.square
+3
+Two parallel squares can be connected to form a cube.
+3Two parallel squares can be connected to form a cube.cube
+4
+Two parallel cubes can be connected to form a tesseract.
+4Two parallel cubes can be connected to form a tesseract.tesseractIn physics and mathematics, the dimension of a mathematical space (or object) is informally defined as the minimum number of coordinates needed to specify any point within it.[1][2] Thus a line has a dimension of one because only one coordinate is needed to specify a point on it – for example, the point at 5 on a number line. A surface such as a plane or the surface of a cylinder or sphere has a dimension of two because two coordinates are needed to specify a point on it – for example, both a latitude and longitude are required to locate a point on the surface of a sphere. The inside of a cube, a cylinder or a sphere is three-dimensional because three coordinates are needed to locate a point within these spaces.physicsmathematicsdimensionmathematical spacecoordinatespoint[1][1][2][2]linesurfaceplanecylinderspheredimension of twolatitudelongitudecubethree-dimensionalIn classical mechanics, space and time are different categories and refer to absolute space and time. That conception of the world is a four-dimensional space but not the one that was found necessary to describe electromagnetism. The four dimensions of spacetime consist of events that are not absolutely defined spatially and temporally, but rather are known relative to the motion of an observer. Minkowski space first approximates the universe without gravity; the pseudo-Riemannian manifolds of general relativity describe spacetime with matter and gravity. Ten dimensions are used to describe string theory, and the state-space of quantum mechanics is an infinite-dimensional function space.classical mechanicsspacetimeabsolute space and timefour-dimensional spaceelectromagnetismspacetimeeventsobserverMinkowski spacegravitypseudo-Riemannian manifoldsgeneral relativitystring theoryquantum mechanicsfunction spaceThe concept of dimension is not restricted to physical objects. High-dimensional spaces frequently occur in mathematics and the sciences. They may be parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space we live in.parameter spacesconfiguration spacesLagrangianHamiltonian mechanicsspacesspace
+
+Contents
+
+
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+
+2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+
+3 Networks and dimension
+4 In literature
+5 In philosophy
+6 More dimensions
+7 See also
+
+7.1 Topics by dimension
+
+
+8 References
+9 Further reading
+10 External links
+
+
+Contents
+Contents
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+
+2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+
+3 Networks and dimension
+4 In literature
+5 In philosophy
+6 More dimensions
+7 See also
+
+7.1 Topics by dimension
+
+
+8 References
+9 Further reading
+10 External links
+1 In mathematics
+
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+
+1 In mathematics1In mathematics
+1.1 Complex dimension
+1.2 Dimension of a vector space
+1.3 Manifolds
+1.4 Varieties
+1.5 Krull dimension
+1.6 Lebesgue covering dimension
+1.7 Inductive dimension
+1.8 Hausdorff dimension
+1.9 Hilbert spaces
+1.1 Complex dimension1.1 Complex dimension1.1Complex dimension1.2 Dimension of a vector space1.2 Dimension of a vector space1.2Dimension of a vector space1.3 Manifolds1.3 Manifolds1.3Manifolds1.4 Varieties1.4 Varieties1.4Varieties1.5 Krull dimension1.5 Krull dimension1.5Krull dimension1.6 Lebesgue covering dimension1.6 Lebesgue covering dimension1.6Lebesgue covering dimension1.7 Inductive dimension1.7 Inductive dimension1.7Inductive dimension1.8 Hausdorff dimension1.8 Hausdorff dimension1.8Hausdorff dimension1.9 Hilbert spaces1.9 Hilbert spaces1.9Hilbert spaces2 In physics
+
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+
+2 In physics2In physics
+2.1 Spatial dimensions
+2.2 Time
+2.3 Additional dimensions
+2.1 Spatial dimensions2.1 Spatial dimensions2.1Spatial dimensions2.2 Time2.2 Time2.2Time2.3 Additional dimensions2.3 Additional dimensions2.3Additional dimensions3 Networks and dimension3 Networks and dimension3Networks and dimension4 In literature4 In literature4In literature5 In philosophy5 In philosophy5In philosophy6 More dimensions6 More dimensions6More dimensions7 See also
+
+7.1 Topics by dimension
+
+7 See also7See also
+7.1 Topics by dimension
+7.1 Topics by dimension7.1 Topics by dimension7.1Topics by dimension8 References8 References8References9 Further reading9 Further reading9Further reading10 External links10 External links10External linksIn mathematics[edit]In mathematics[edit][edit]In mathematics, the dimension of an object is an intrinsic property independent of the space in which the object is embedded. For example, a point on the unit circle in the plane can be specified by two Cartesian coordinates, but a single polar coordinate (the angle) would be sufficient, so the circle is 1-dimensional even though it exists in the 2-dimensional plane. This intrinsic notion of dimension is one of the chief ways the mathematical notion of dimension differs from its common usages.unit circleCartesian coordinatespolar coordinateintrinsicThe dimension of Euclidean n-space En is n. When trying to generalize to other types of spaces, one is faced with the question "what makes En n-dimensional?" One answer is that to cover a fixed ball in En by small balls of radius ε, one needs on the order of ε−n such small balls. This observation leads to the definition of the Minkowski dimension and its more sophisticated variant, the Hausdorff dimension, but there are also other answers to that question. For example, the boundary of a ball in En looks locally like En-1 and this leads to the notion of the inductive dimension. While these notions agree on En , they turn out to be different when one looks at more general spaces.Euclidean n-spacennEnEnnnnEnEnnnnballEnEnnεεε−nε−nnMinkowski dimensionHausdorff dimensionEnEnnEn-1En-1ninductive dimensionEnEnnA tesseract is an example of a four-dimensional object. Whereas outside mathematics the use of the term "dimension" is as in: "A tesseract has four dimensions", mathematicians usually express this as: "The tesseract has dimension 4", or: "The dimension of the tesseract is 4".tesseracthas four dimensionshas dimension 4isAlthough the notion of higher dimensions goes back to René Descartes, substantial development of a higher-dimensional geometry only began in the 19th century, via the work of Arthur Cayley, William Rowan Hamilton, Ludwig Schläfli and Bernhard Riemann. Riemann's 1854 Habilitationsschrift, Schläfli's 1852 Theorie der vielfachen Kontinuität, Hamilton's 1843 discovery of the quaternions and the construction of the Cayley algebra marked the beginning of higher-dimensional geometry.René DescartesArthur CayleyWilliam Rowan HamiltonLudwig SchläfliBernhard RiemannHabilitationsschriftTheorie der vielfachen KontinuitätquaternionsCayley algebraThe rest of this section examines some of the more important mathematical definitions of the dimensions.Complex dimension[edit]Complex dimension[edit][edit]Main article: Complex dimensionComplex dimensionA complex number (x + iy) has a real part x and an imaginary part iy whose magnitude is y. A single complex coordinate system may be applied to an object having two real dimensions. For example, an ordinary two-dimensional spherical surface, when given a complex metric, becomes a Riemann sphere of one complex dimension.[3] Complex dimensions appear in the study of complex manifolds and algebraic varieties.complex numberxiyrealximaginaryiyyspherical surfaceRiemann sphere[3][3]complex manifoldsalgebraic varietiesDimension of a vector space[edit]Dimension of a vector space[edit][edit]Main article: Dimension (vector space)Dimension (vector space)The dimension of a vector space is the number of vectors in any basis for the space, i.e. the number of coordinates necessary to specify any vector. This notion of dimension (the cardinality of a basis) is often referred to as the Hamel dimension or algebraic dimension to distinguish it from other notions of dimension.vector spacebasiscardinalityHamel dimensionalgebraic dimensionManifolds[edit]Manifolds[edit][edit]A connected topological manifold is locally homeomorphic to Euclidean n-space, and the number n is called the manifold's dimension. One can show that this yields a uniquely defined dimension for every connected topological manifold.connectedmanifoldlocallyhomeomorphicnnnnFor connected differentiable manifolds, the dimension is also the dimension of the tangent vector space at any point.differentiable manifoldstangent vector spaceIn geometric topology, the theory of manifolds is characterized by the way dimensions 1 and 2 are relatively elementary, the high-dimensional cases n > 4 are simplified by having extra space in which to "work"; and the cases n = 3 and 4 are in some senses the most difficult. This state of affairs was highly marked in the various cases of the Poincaré conjecture, where four different proof methods are applied.geometric topologyhigh-dimensionaln > 4n > 4nn = 3n4Poincaré conjectureVarieties[edit]Varieties[edit][edit]Main article: Dimension of an algebraic varietyDimension of an algebraic varietyThe dimension of an algebraic variety may be defined in various equivalent ways. The most intuitive way is probably the dimension of the tangent space at any regular point. Another intuitive way is to define the dimension as the number of hyperplanes that are needed in order to have an intersection with the variety that is reduced to a finite number of points (dimension zero). This definition is based on the fact that the intersection of a variety with a hyperplane reduces the dimension by one unless if the hyperplane contains the variety.tangent spaceregular pointhyperplanesAn algebraic set being a finite union of algebraic varieties, its dimension is the maximum of the dimensions of its components. It is equal to the maximal length of the chains  of sub-varieties of the given algebraic set (the length of such a chain is the number of "").algebraic setEach variety can be considered as an algebraic stack, and its dimension as variety agrees with its dimension as stack. There are however many stacks which do not correspond to varieties, and some of these have negative dimension. Specifically, if V is a variety of dimension m and G is an algebraic group of dimension n acting on V, then the quotient stack [V/G] has dimension m−n.[4]algebraic stackVmGalgebraic groupnacting on VVquotient stackVGmn[4][4]Krull dimension[edit]Krull dimension[edit][edit]Main article: Krull dimensionKrull dimensionThe Krull dimension of a commutative ring is the maximal length of chains of prime ideals in it, a chain of length n being a sequence  of prime ideals related by inclusion. It is strongly related to the dimension of an algebraic variety, because of the natural correspondence between sub-varieties and prime ideals of the ring of the polynomials on the variety.commutative ringprime idealsnFor an algebra over a field, the dimension as vector space is finite if and only if its Krull dimension is 0.algebra over a fieldvector spaceLebesgue covering dimension[edit]Lebesgue covering dimension[edit][edit]Main article: Lebesgue covering dimensionLebesgue covering dimensionFor any normal topological space X, the Lebesgue covering dimension of X is defined to be n if n is the smallest integer for which the following holds: any open cover has an open refinement (a second open cover where each element is a subset of an element in the first cover) such that no point is included in more than n + 1 elements. In this case dim X = n. For X a manifold, this coincides with the dimension mentioned above. If no such integer n exists, then the dimension of X is said to be infinite, and one writes dim X = ∞. Moreover, X has dimension −1, i.e. dim X = −1 if and only if X is empty. This definition of covering dimension can be extended from the class of normal spaces to all Tychonoff spaces merely by replacing the term "open" in the definition by the term "functionally open".normal topological spaceXXXXnintegeropen covern + 1nX = nXnXXnnXXX = ∞XXXX = −1XXXTychonoff spacesfunctionally openInductive dimension[edit]Inductive dimension[edit][edit]Main article: Inductive dimensionInductive dimensionAn inductive definition of dimension can be created as follows. Consider a discrete set of points (such as a finite collection of points) to be 0-dimensional. By dragging a 0-dimensional object in some direction, one obtains a 1-dimensional object. By dragging a 1-dimensional object in a new direction, one obtains a 2-dimensional object. In general one obtains an (n + 1)-dimensional object by dragging an n-dimensional object in a new direction.discrete setnew directionn + 1nnnnewThe inductive dimension of a topological space may refer to the small inductive dimension or the large inductive dimension, and is based on the analogy that (n + 1)-dimensional balls have n-dimensional boundaries, permitting an inductive definition based on the dimension of the boundaries of open sets.small inductive dimensionlarge inductive dimension(n + 1)-dimensionaln + 1nnnboundariesHausdorff dimension[edit]Hausdorff dimension[edit][edit]Main article: Hausdorff dimensionHausdorff dimensionFor structurally complicated sets, especially fractals, the Hausdorff dimension is useful. The Hausdorff dimension is defined for all metric spaces and, unlike the dimensions considered above, can also attain non-integer real values.[5] The box dimension or Minkowski dimension is a variant of the same idea. In general, there exist more definitions of fractal dimensions that work for highly irregular sets and attain non-integer positive real values. Fractals have been found useful to describe many natural objects and phenomena.[6][page needed][7][page needed]fractalsHausdorff dimensionmetric spaces[5][5]box dimensionMinkowski dimensionfractal dimensions[6][6][page needed]page neededpage neededpage needed[7][7][page needed]page neededpage neededpage neededHilbert spaces[edit]Hilbert spaces[edit][edit]Every Hilbert space admits an orthonormal basis, and any two such bases for a particular space have the same cardinality. This cardinality is called the dimension of the Hilbert space. This dimension is finite if and only if the space's Hamel dimension is finite, and in this case the above dimensions coincide.Hilbert spaceorthonormal basiscardinalityIn physics[edit]In physics[edit][edit]Spatial dimensions[edit]Spatial dimensions[edit][edit]Classical physics theories describe three physical dimensions: from a particular point in space, the basic directions in which we can move are up/down, left/right, and forward/backward. Movement in any other direction can be expressed in terms of just these three. Moving down is the same as moving up a negative distance. Moving diagonally upward and forward is just as the name of the direction implies; i.e., moving in a linear combination of up and forward. In its simplest form: a line describes one dimension, a plane describes two dimensions, and a cube describes three dimensions. (See Space and Cartesian coordinate system.)spacei.e.linear combinationSpaceCartesian coordinate system
+
+
+Number of
+dimensions
+
+Example co-ordinate systems
+
+
+1
+
+
+
+
+Number line
+
+Angle
+
+
+
+
+
+2
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+
+
+3
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+
+
+
+Number of
+dimensions
+
+Example co-ordinate systems
+
+Number of
+dimensions
+Number of
+dimensionsExample co-ordinate systems
+1
+
+
+
+
+Number line
+
+Angle
+
+
+
+11
+
+
+
+Number line
+
+Angle
+
+
+
+
+
+Number line
+
+Angle
+
+
+
+Number line
+
+Angle
+
+Number lineNumber line
+AngleAngle
+2
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+22
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+
+
+Cartesian (two-dimensional)
+
+Polar
+
+Latitude and longitude
+
+Cartesian (two-dimensional)Cartesian(two-dimensional)
+PolarPolar
+Latitude and longitudeLatitude and longitude
+3
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+33
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+
+
+Cartesian (three-dimensional)
+
+Cylindrical
+
+Spherical
+
+Cartesian (three-dimensional)(three-dimensional)
+CylindricalCylindrical
+SphericalSphericalTime[edit]Time[edit][edit]A temporal dimension is a dimension of time. Time is often referred to as the "fourth dimension" for this reason, but that is not to imply that it is a spatial dimension. A temporal dimension is one way to measure physical change. It is perceived differently from the three spatial dimensions in that there is only one of it, and that we cannot move freely in time but subjectively move in one direction.temporal dimensionfourth dimensionin one directionThe equations used in physics to model reality do not treat time in the same way that humans commonly perceive it. The equations of classical mechanics are symmetric with respect to time, and equations of quantum mechanics are typically symmetric if both time and other quantities (such as charge and parity) are reversed. In these models, the perception of time flowing in one direction is an artifact of the laws of thermodynamics (we perceive time as flowing in the direction of increasing entropy).classical mechanicssymmetric with respect to timechargeparitylaws of thermodynamicsentropyThe best-known treatment of time as a dimension is Poincaré and Einstein's special relativity (and extended to general relativity), which treats perceived space and time as components of a four-dimensional manifold, known as spacetime, and in the special, flat case as Minkowski space.PoincaréEinsteinspecial relativitygeneral relativitymanifoldspacetimeMinkowski spaceAdditional dimensions[edit]Additional dimensions[edit][edit]In physics, three dimensions of space and one of time is the accepted norm. However, there are theories that attempt to unify the four fundamental forces by introducing extra dimensions. Most notably, superstring theory requires 10 spacetime dimensions, and originates from a more fundamental 11-dimensional theory tentatively called M-theory which subsumes five previously distinct superstring theories. To date, no experimental or observational evidence is available to confirm the existence of these extra dimensions. If extra dimensions exist, they must be hidden from us by some physical mechanism. One well-studied possibility is that the extra dimensions may be "curled up" at such tiny scales as to be effectively invisible to current experiments. Limits on the size and other properties of extra dimensions are set by particle experiments[clarification needed] such as those at the Large Hadron Collider.[8]fundamental forcesextra dimensionssuperstring theoryM-theory[clarification needed]clarification neededclarification neededclarification neededLarge Hadron Collider[8][8]At the level of quantum field theory, Kaluza–Klein theory unifies gravity with gauge interactions, based on the realization that gravity propagating in small, compact extra dimensions is equivalent to gauge interactions at long distances. In particular when the geometry of the extra dimensions is trivial, it reproduces electromagnetism. However at sufficiently high energies or short distances, this setup still suffers from the same pathologies that famously obstruct direct attempts to describe quantum gravity. Therefore, these models still require a UV completion, of the kind that string theory is intended to provide. In particular, superstring theory requires six compact dimensions forming a Calabi–Yau manifold. Thus Kaluza-Klein theory may be considered either as an incomplete description on its own, or as a subset of string theory model building.quantum field theoryKaluza–Klein theorygravitygaugeelectromagnetismquantum gravityUV completionCalabi–Yau manifoldIn addition to small and curled up extra dimensions, there may be extra dimensions that instead aren't apparent because the matter associated with our visible universe is localized on a (3 + 1)-dimensional subspace. Thus the extra dimensions need not be small and compact but may be large extra dimensions. D-branes are dynamical extended objects of various dimensionalities predicted by string theory that could play this role. They have the property that open string excitations, which are associated with gauge interactions, are confined to the brane by their endpoints, whereas the closed strings that mediate the gravitational interaction are free to propagate into the whole spacetime, or "the bulk". This could be related to why gravity is exponentially weaker than the other forces, as it effectively dilutes itself as it propagates into a higher-dimensional volume.(3 + 1)-dimensionallarge extra dimensionsD-branesbraneSome aspects of brane physics have been applied to cosmology. For example, brane gas cosmology[9][10] attempts to explain why there are three dimensions of space using topological and thermodynamic considerations. According to this idea it would be because three is the largest number of spatial dimensions where strings can generically intersect. If initially there are lots of windings of strings around compact dimensions, space could only expand to macroscopic sizes once these windings are eliminated, which requires oppositely wound strings to find each other and annihilate. But strings can only find each other to annihilate at a meaningful rate in three dimensions, so it follows that only three dimensions of space are allowed to grow large given this kind of initial configuration.cosmology[9][9][10][10]Extra dimensions are said to be universal if all fields are equally free to propagate within them.universalNetworks and dimension[edit]Networks and dimension[edit][edit]Some complex networks are characterized by fractal dimensions.[11] The concept of dimension can be generalized to include networks embedded in space.[12] The dimension characterize their spatial constraints.networksfractal dimensions[11][11][12][12]In literature[edit]In literature[edit][edit]Main article: Fourth dimension in literatureFourth dimension in literatureScience fiction texts often mention the concept of "dimension" when referring to parallel or alternate universes or other imagined planes of existence. This usage is derived from the idea that to travel to parallel/alternate universes/planes of existence one must travel in a direction/dimension besides the standard ones. In effect, the other universes/planes are just a small distance away from our own, but the distance is in a fourth (or higher) spatial (or non-spatial) dimension, not the standard ones.Science fictionparallel or alternate universesplanes of existenceOne of the most heralded science fiction stories regarding true geometric dimensionality, and often recommended as a starting point for those just starting to investigate such matters, is the 1884 novella Flatland by Edwin A. Abbott. Isaac Asimov, in his foreword to the Signet Classics 1984 edition, described Flatland as "The best introduction one can find into the manner of perceiving dimensions."FlatlandFlatlandFlatlandThe idea of other dimensions was incorporated into many early science fiction stories, appearing prominently, for example, in Miles J. Breuer's The Appendix and the Spectacles (1928) and Murray Leinster's The Fifth-Dimension Catapult (1931); and appeared irregularly in science fiction by the 1940s. Classic stories involving other dimensions include Robert A. Heinlein's —And He Built a Crooked House (1941), in which a California architect designs a house based on a three-dimensional projection of a tesseract; and Alan E. Nourse's Tiger by the Tail and The Universe Between (both 1951). Another reference is Madeleine L'Engle's novel A Wrinkle In Time (1962), which uses the fifth dimension as a way for "tesseracting the universe" or "folding" space in order to move across it quickly. The fourth and fifth dimensions were also a key component of the book The Boy Who Reversed Himself by William Sleator.Miles J. BreuerThe Appendix and the SpectaclesMurray LeinsterThe Fifth-Dimension CatapultRobert A. Heinlein—And He Built a Crooked House—And He Built a Crooked HouseAlan E. NourseTiger by the TailThe Universe BetweenMadeleine L'EngleA Wrinkle In TimeA Wrinkle In TimeThe Boy Who Reversed HimselfThe Boy Who Reversed HimselfWilliam SleatorIn philosophy[edit]In philosophy[edit][edit]Immanuel Kant, in 1783, wrote: "That everywhere space (which is not itself the boundary of another space) has three dimensions and that space in general cannot have more dimensions is based on the proposition that not more than three lines can intersect at right angles in one point. This proposition cannot at all be shown from concepts, but rests immediately on intuition and indeed on pure intuition a priori because it is apodictically (demonstrably) certain."[13]Immanuel Kanta priori[13][13]"Space has Four Dimensions" is a short story published in 1846 by German philosopher and experimental psychologist Gustav Fechner under the pseudonym "Dr. Mises". The protagonist in the tale is a shadow who is aware of and able to communicate with other shadows, but who is trapped on a two-dimensional surface. According to Fechner, this "shadow-man" would conceive of the third dimension as being one of time.[14] The story bears a strong similarity to the "Allegory of the Cave" presented in Plato's The Republic (c. 380 BC).experimental psychologistGustav Fechnerpseudonym[14][14]Allegory of the CavePlatoThe RepublicThe Republicc.Simon Newcomb wrote an article for the Bulletin of the American Mathematical Society in 1898 entitled "The Philosophy of Hyperspace".[15] Linda Dalrymple Henderson coined the term "hyperspace philosophy", used to describe writing that uses higher dimensions to explore metaphysical themes, in her 1983 thesis about the fourth dimension in early-twentieth-century art.[16] Examples of "hyperspace philosophers" include Charles Howard Hinton, the first writer, in 1888, to use the word "tesseract";[17] and the Russian esotericist P. D. Ouspensky.Bulletin of the American Mathematical Society[15][15]metaphysical[16][16]Charles Howard Hinton[17][17]esotericistP. D. OuspenskyMore dimensions[edit]More dimensions[edit][edit]
+
+Geometry
+
+
+
+Projecting a sphere to a plane.
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+
+
+Geometers
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Geometry
+GeometryGeometry
+
+Projecting a sphere to a plane.
+
+
+Projecting a sphere to a plane.
+Projecting a sphere to a plane.sphereplane
+
+
+
+Outline
+History
+
+
+
+
+
+
+Outline
+History
+
+
+
+
+Outline
+History
+
+
+Outline
+History
+OutlineOutlineHistoryHistory
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+
+
+Branches
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+BranchesBranches
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+
+
+Euclidean
+Spherical
+Non-Euclidean
+
+Elliptic
+Hyperbolic
+
+
+Synthetic
+Analytic
+Algebraic
+Riemannian
+Differential
+
+Symplectic
+
+
+Finite
+Projective
+EuclideanEuclideanSphericalSphericalNon-Euclidean
+
+Elliptic
+Hyperbolic
+
+Non-Euclidean
+Elliptic
+Hyperbolic
+EllipticEllipticHyperbolicHyperbolicSyntheticSyntheticAnalyticAnalyticAlgebraicAlgebraicRiemannianRiemannianDifferential
+
+Symplectic
+
+Differential
+Symplectic
+SymplecticSymplecticFiniteFiniteProjectiveProjective
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+
+
+Concepts
+Features
+
+
+
+Dimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+
+
+
+
+Concepts
+Features
+
+
+
+
+Concepts
+Features
+
+
+Concepts
+Features
+ConceptsFeaturesDimension
+
+Compass-and-straightedge constructions
+
+
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+
+
+Congruence
+Similarity
+Symmetry
+
+Dimension
+Compass-and-straightedge constructions
+Compass-and-straightedge constructionsCompass-and-straightedge constructions
+Angle
+Curve
+Diagonal
+Parallel
+Perpendicular
+Vertex
+AngleAngleCurveCurveDiagonalDiagonalParallelParallelPerpendicularPerpendicularVertexVertex
+Congruence
+Similarity
+Symmetry
+CongruenceCongruenceSimilaritySimilaritySymmetrySymmetry
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+
+
+Zero / One-dimensional
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+Zero / One-dimensionalOne-dimensional
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+
+
+Point
+Line
+
+segment
+ray
+
+
+Length
+PointPointLine
+
+segment
+ray
+
+Line
+segment
+ray
+segmentsegmentrayrayLengthLength
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+Two-dimensional
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+Two-dimensionalTwo-dimensional
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Triangle
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Parallelogram
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Quadrilateral
+
+
+
+
+Trapezoid
+Kite
+
+
+
+
+Circle
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+
+
+Plane
+Area
+Polygon
+
+
+
+
+Plane
+Area
+Polygon
+
+
+Plane
+Area
+Polygon
+PlanePlaneAreaAreaPolygonPolygon
+Triangle
+TriangleTriangle
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+
+
+Altitude
+Hypotenuse
+Pythagorean theorem
+AltitudeAltitudeHypotenuseHypotenusePythagorean theoremPythagorean theorem
+Parallelogram
+ParallelogramParallelogram
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+
+
+Square
+Rectangle
+Rhombus
+Rhomboid
+SquareSquareRectangleRectangleRhombusRhombusRhomboidRhomboid
+Quadrilateral
+QuadrilateralQuadrilateral
+
+
+Trapezoid
+Kite
+
+
+
+
+Trapezoid
+Kite
+
+
+Trapezoid
+Kite
+TrapezoidTrapezoidKiteKite
+Circle
+CircleCircle
+
+
+Diameter
+Circumference
+Area
+
+
+
+
+Diameter
+Circumference
+Area
+
+
+Diameter
+Circumference
+Area
+DiameterDiameterCircumferenceCircumferenceAreaArea
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+
+
+Three-dimensional
+
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+Three-dimensionalThree-dimensional
+
+Volume
+
+
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+
+
+Volume
+VolumeVolume
+Cube
+
+cuboid
+
+
+Cylinder
+Pyramid
+Sphere
+Cube
+
+cuboid
+
+Cube
+cuboid
+cuboidcuboidCylinderCylinderPyramidPyramidSphereSphere
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+
+
+Four- / other-dimensional
+
+
+Tesseract
+
+
+Four- / other-dimensionalFour
+
+Tesseract
+
+
+Tesseract
+TesseractTesseract
+Geometers
+GeometersGeometers
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+
+
+by name
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+by name
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+
+
+Aida
+Aryabhata
+Ahmes
+Alhazen
+Apollonius
+Archimedes
+Atiyah
+Baudhayana
+Bolyai
+Brahmagupta
+Cartan
+Descartes
+Euclid
+Euler
+Gauss
+Gromov
+Hilbert
+Jyeṣṭhadeva
+Kātyāyana
+Khayyám
+Klein
+Lobachevsky
+Manava
+Minkowski
+Minggatu
+Pascal
+Pythagoras
+Parameshvara
+Poincaré
+Riemann
+Sakabe
+Sijzi
+al-Tusi
+Veblen
+Virasena
+Yang Hui
+al-Yasamin
+Zhang
+List of geometers
+AidaAidaAryabhataAryabhataAhmesAhmesAlhazenAlhazenApolloniusApolloniusArchimedesArchimedesAtiyahAtiyahBaudhayanaBaudhayanaBolyaiBolyaiBrahmaguptaBrahmaguptaCartanCartanDescartesDescartesEuclidEuclidEulerEulerGaussGaussGromovGromovHilbertHilbertJyeṣṭhadevaJyeṣṭhadevaKātyāyanaKātyāyanaKhayyámKhayyámKleinKleinLobachevskyLobachevskyManavaManavaMinkowskiMinkowskiMinggatuMinggatuPascalPascalPythagorasPythagorasParameshvaraParameshvaraPoincaréPoincaréRiemannRiemannSakabeSakabeSijziSijzial-Tusial-TusiVeblenVeblenVirasenaVirasenaYang HuiYang Huial-Yasaminal-YasaminZhangZhangList of geometersList of geometers
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+
+by period
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+by period
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+
+
+BCE
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+1–1400s
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+1400s–1700s
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+1700s–1900s
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Present day
+
+
+
+
+Atiyah
+Gromov
+
+
+
+
+BCE
+BCEBCE
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+
+
+Ahmes
+Baudhayana
+Manava
+Pythagoras
+Euclid
+Archimedes
+Apollonius
+AhmesAhmesBaudhayanaBaudhayanaManavaManavaPythagorasPythagorasEuclidEuclidArchimedesArchimedesApolloniusApollonius
+1–1400s
+1–1400s
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+
+
+Zhang
+Kātyāyana
+Aryabhata
+Brahmagupta
+Virasena
+Alhazen
+Sijzi
+Khayyám
+al-Yasamin
+al-Tusi
+Yang Hui
+Parameshvara
+ZhangZhangKātyāyanaKātyāyanaAryabhataAryabhataBrahmaguptaBrahmaguptaVirasenaVirasenaAlhazenAlhazenSijziSijziKhayyámKhayyámal-Yasaminal-Yasaminal-Tusial-TusiYang HuiYang HuiParameshvaraParameshvara
+1400s–1700s
+1400s–1700s
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+
+
+Jyeṣṭhadeva
+Descartes
+Pascal
+Minggatu
+Euler
+Sakabe
+Aida
+JyeṣṭhadevaJyeṣṭhadevaDescartesDescartesPascalPascalMinggatuMinggatuEulerEulerSakabeSakabeAidaAida
+1700s–1900s
+1700s–1900s
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+
+
+Gauss
+Lobachevsky
+Bolyai
+Riemann
+Klein
+Poincaré
+Hilbert
+Minkowski
+Cartan
+Veblen
+GaussGaussLobachevskyLobachevskyBolyaiBolyaiRiemannRiemannKleinKleinPoincaréPoincaréHilbertHilbertMinkowskiMinkowskiCartanCartanVeblenVeblen
+Present day
+Present day
+
+
+Atiyah
+Gromov
+
+
+
+
+Atiyah
+Gromov
+
+
+Atiyah
+Gromov
+AtiyahAtiyahGromovGromov
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+
+
+Geometry portal
+
+
+
+
+
+Geometry portal
+
+
+
+Geometry portal
+Geometry portalGeometry portal
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+Degrees of freedom in mechanics / physics and chemistry / statistics
+Degrees of freedom in mechanics / physics and chemistry / statisticsDegrees of freedom in mechanics / physics and chemistry / statisticsmechanicsphysics and chemistrystatistics
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+
+
+Exterior dimension
+Hurst exponent
+Isoperimetric dimension
+Metric dimension
+Exterior dimensionExterior dimensionHurst exponentHurst exponentIsoperimetric dimensionIsoperimetric dimensionMetric dimensionMetric dimension
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+
+
+Order dimension
+q-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+
+Order dimensionOrder dimensionq-dimensions
+
+Fractal (q = 1)
+Correlation (q = 2)
+
+q-dimensions
+Fractal (q = 1)
+Correlation (q = 2)
+Fractal (q = 1)Fractal (q = 1)Fractal (q = 1)Correlation (q = 2)Correlation (q = 2)Correlation (q = 2)See also[edit]See also[edit][edit]
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+
+
+Dimension (data warehouse)
+
+Dimension tables
+
+
+Dimensional analysis
+Hyperspace (disambiguation)
+Dimension (data warehouse)
+
+Dimension tables
+
+Dimension (data warehouse)
+Dimension tables
+Dimension tablesDimension tablesDimensional analysisDimensional analysisHyperspace (disambiguation)Hyperspace (disambiguation)
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+
+
+Intrinsic dimension
+Multidimensional analysis
+Space-filling curve
+Mean dimension
+Intrinsic dimensionIntrinsic dimensionMultidimensional analysisMultidimensional analysisSpace-filling curveSpace-filling curveMean dimensionMean dimensionTopics by dimension[edit]Topics by dimension[edit][edit]
+Zero
+
+Point
+Zero-dimensional space
+Integer
+
+
+One
+
+Line
+Curve
+Graph (combinatorics)
+Real number
+
+
+Two
+
+Complex number
+Cartesian coordinate system
+List of uniform tilings
+Surface
+
+Zero
+Point
+Zero-dimensional space
+Integer
+PointPointZero-dimensional spaceZero-dimensional spaceIntegerInteger
+One
+Line
+Curve
+Graph (combinatorics)
+Real number
+LineLineCurveCurveGraph (combinatorics)Graph (combinatorics)Real numberReal number
+Two
+Complex number
+Cartesian coordinate system
+List of uniform tilings
+Surface
+Complex numberComplex numberCartesian coordinate systemCartesian coordinate systemList of uniform tilingsList of uniform tilingsSurfaceSurface
+Three
+
+Platonic solid
+Stereoscopy (3-D imaging)
+3-manifold
+Knots
+
+
+Four
+
+Spacetime
+Fourth spatial dimension
+Convex regular 4-polytope
+Quaternion
+4-manifold
+Fourth dimension in art
+Fourth dimension in literature
+
+Three
+Platonic solid
+Stereoscopy (3-D imaging)
+3-manifold
+Knots
+Platonic solidPlatonic solidStereoscopy (3-D imaging)Stereoscopy (3-D imaging)3-manifold3-manifoldKnotsKnots
+Four
+Spacetime
+Fourth spatial dimension
+Convex regular 4-polytope
+Quaternion
+4-manifold
+Fourth dimension in art
+Fourth dimension in literature
+SpacetimeSpacetimeFourth spatial dimensionFourth spatial dimensionConvex regular 4-polytopeConvex regular 4-polytopeQuaternionQuaternion4-manifold4-manifoldFourth dimension in artFourth dimension in artFourth dimension in literatureFourth dimension in literature
+Higher dimensions
+ in mathematics
+
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+in physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+
+
+Infinite
+
+Hilbert space
+Function space
+
+Higher dimensions
+ in mathematics 
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+in physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+
+
+Octonion
+Vector space
+Curse of dimensionality
+
+
+Octonion
+Vector space
+Curse of dimensionality
+OctonionOctonionVector spaceVector spaceCurse of dimensionalityCurse of dimensionalityin physics
+
+Kaluza–Klein theory
+String theory
+M-theory
+
+
+Kaluza–Klein theory
+String theory
+M-theory
+Kaluza–Klein theoryKaluza–Klein theoryString theoryString theoryM-theoryM-theory
+Infinite
+Hilbert space
+Function space
+Hilbert spaceHilbert spaceFunction spaceFunction spaceReferences[edit]References[edit][edit]
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)needs additional citations for verificationverificationPlease help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.improve this articleadding citations to reliable sources(May 2010)(May 2010)
+
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. 
+^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. 
+^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.
+^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 
+^ Fractal Dimension, Boston University Department of Mathematics and Statistics
+^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. 
+^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. 
+^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)
+^ Brandenberger, R., Vafa, C., Superstrings in the early universe
+^ Scott Watson, Brane Gas Cosmology (pdf).
+^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. 
+^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. 
+^ Prolegomena, § 12
+^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. 
+^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. 
+^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. 
+^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .
+
+
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. 
+^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. 
+^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.
+^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 
+^ Fractal Dimension, Boston University Department of Mathematics and Statistics
+^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. 
+^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. 
+^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)
+^ Brandenberger, R., Vafa, C., Superstrings in the early universe
+^ Scott Watson, Brane Gas Cosmology (pdf).
+^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. 
+^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. 
+^ Prolegomena, § 12
+^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. 
+^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. 
+^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. 
+^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .
+^ "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. ^^^"Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03. "Curious About Astronomy". Curious.astro.cornell.edu. Retrieved 2014-03-03."Curious About Astronomy". Retrieved 2014-03-032014-03-03  ^ "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. ^^^"MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03. "MathWorld: Dimension". Mathworld.wolfram.com. 2014-02-27. Retrieved 2014-03-03."MathWorld: Dimension". Retrieved 2014-03-032014-03-03  ^ Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.^^^Yau, S-T and Nadis, S.; The Shape of Inner Space, Basic Books, 2010, Chapter 4.The Shape of Inner Space^ Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 ^^^Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359 Fantechi, Barbara (2001), "Stacks for everybody" (PDF), European Congress of Mathematics Volume I, Progr. Math. 201, Birkhäuser, pp. 349–359"Stacks for everybody"(PDF)European Congress of Mathematics Volume I201  ^ Fractal Dimension, Boston University Department of Mathematics and Statistics^^^Fractal Dimension, Boston University Department of Mathematics and StatisticsFractal Dimension^ Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. ^^^Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer. Bunde, Armin; Havlin, Shlomo, eds. (1991). Fractals and Disordered Systems. Springer.Havlin, ShlomoFractals and Disordered Systems  ^ Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. ^^^Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer. Bunde, Armin; Havlin, Shlomo, eds. (1994). Fractals in Science. Springer.Havlin, ShlomoFractals in Science  ^ CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)^^^CMS Collaboration, "Search for Microscopic Black Hole Signatures at the Large Hadron Collider" (arxiv.org)"Search for Microscopic Black Hole Signatures at the Large Hadron Collider"^ Brandenberger, R., Vafa, C., Superstrings in the early universe^^^Brandenberger, R., Vafa, C., Superstrings in the early universeSuperstrings in the early universe^ Scott Watson, Brane Gas Cosmology (pdf).^^^Scott Watson, Brane Gas Cosmology (pdf).Brane Gas Cosmology^ Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. ^^^Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248. Song, Chaoming; Havlin, Shlomo; Makse, Hernán A. (2005). "Self-similarity of complex networks". Nature 433 (7024). arXiv:cond-mat/0503078v1. Bibcode:2005Natur.433..392S. doi:10.1038/nature03248.Havlin, ShlomoNature433arXivcond-mat/0503078v1Bibcode2005Natur.433..392Sdoi10.1038/nature03248  ^ Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. ^^^Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932. Daqing, Li; Kosmidis, Kosmas; Bunde, Armin; Havlin, Shlomo (2011). "Dimension of spatially embedded networks". Nature Physics 7 (6). Bibcode:2011NatPh...7..481D. doi:10.1038/nphys1932.Havlin, ShlomoNature Physics7Bibcode2011NatPh...7..481Ddoi10.1038/nphys1932  ^ Prolegomena, § 12^^^Prolegomena, § 12ProlegomenaProlegomena^ Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. ^^^Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239. Banchoff, Thomas F. (1990). "From Flatland to Hypergraphics: Interacting with Higher Dimensions". Interdisciplinary Science Reviews 15 (4): 364. doi:10.1179/030801890789797239."From Flatland to Hypergraphics: Interacting with Higher Dimensions"Interdisciplinary Science Reviews15doi10.1179/030801890789797239  ^ Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. ^^^Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0. Newcomb, Simon (1898). "The Philosophy of Hyperspace". Bulletin of the American Mathematical Society 4 (5): 187. doi:10.1090/S0002-9904-1898-00478-0."The Philosophy of Hyperspace"Bulletin of the American Mathematical Society4doi10.1090/S0002-9904-1898-00478-0  ^ Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. ^^^Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11. Kruger, Runette (2007). "Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian" (PDF). Spaces of Utopia: an Electronic Journal (5): 11."Art in the Fourth Dimension: Giving Form to Form – The Abstract Paintings of Piet Mondrian"(PDF)Spaces of Utopia: an Electronic Journal  ^ Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .^^^Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969 .Pickover, Clifford A. (2009), "Tesseract", The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics, Sterling Publishing Company, Inc., p. 282, ISBN 9781402757969Pickover, Clifford A.The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of MathematicsThe Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of MathematicsISBN9781402757969  Further reading[edit]Further reading[edit][edit]
+Katta G Murty, "Systems of Simultaneous Linear Equations" (Chapter 1 of Computational and Algorithmic Linear Algebra and n-Dimensional Geometry, World Scientific Publishing: 2014 (ISBN 978-981-4366-62-5).
+Edwin A. Abbott, Flatland: A Romance of Many Dimensions (1884) (Public domain: Online version with ASCII approximation of illustrations at Project Gutenberg).
+Thomas Banchoff, Beyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second Edition, W. H. Freeman and Company: 1996.
+Clifford A. Pickover, Surfing through Hyperspace: Understanding Higher Universes in Six Easy Lessons, Oxford University Press: 1999.
+Rudy Rucker, The Fourth Dimension, Houghton-Mifflin: 1984.
+Kaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1. 
+Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952. 
+Katta G Murty, "Systems of Simultaneous Linear Equations" (Chapter 1 of Computational and Algorithmic Linear Algebra and n-Dimensional Geometry, World Scientific Publishing: 2014 (ISBN 978-981-4366-62-5)."Systems of Simultaneous Linear Equations"Computational and Algorithmic Linear Algebra and n-Dimensional GeometryComputational and Algorithmic Linear Algebra and n-Dimensional GeometryISBN 978-981-4366-62-5Edwin A. Abbott, Flatland: A Romance of Many Dimensions (1884) (Public domain: Online version with ASCII approximation of illustrations at Project Gutenberg).Edwin A. AbbottFlatland: A Romance of Many DimensionsFlatland: A Romance of Many DimensionsOnline version with ASCII approximation of illustrationsProject GutenbergThomas Banchoff, Beyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second Edition, W. H. Freeman and Company: 1996.Thomas BanchoffBeyond the Third Dimension: Geometry, Computer Graphics, and Higher Dimensions, Second EditionW. H. Freeman and CompanyClifford A. Pickover, Surfing through Hyperspace: Understanding Higher Universes in Six Easy Lessons, Oxford University Press: 1999.Clifford A. PickoverSurfing through Hyperspace: Understanding Higher Universes in Six Easy LessonsRudy Rucker, The Fourth Dimension, Houghton-Mifflin: 1984.Rudy RuckerThe Fourth DimensionThe Fourth DimensionKaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1. Kaku, Michio (1994). Hyperspace, a Scientific Odyssey Through the 10th Dimension. Oxford University Press. ISBN 0-19-286189-1.Kaku, MichioHyperspace, a Scientific Odyssey Through the 10th DimensionHyperspace, a Scientific Odyssey Through the 10th DimensionISBN0-19-286189-1  Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952. Krauss, Lawrence M. (2005). Hiding in the Mirror. Viking Press. ISBN 0670033952.Krauss, Lawrence M.Hiding in the MirrorHiding in the MirrorISBN0670033952  External links[edit]External links[edit][edit]
+
+
+Wikiquote has quotations related to: Dimension
+
+
+
+Wikiquote has quotations related to: Dimension
+Wikiquote has quotations related to: DimensionDimensionDimensionDimension
+
+
+Wikimedia Commons has media related to Dimensions.
+
+
+
+Wikimedia Commons has media related to Dimensions.
+Wikimedia Commons has media related to Dimensions.DimensionsDimensionsDimensions
+Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham. 
+Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham. Copeland, Ed (2009). "Extra Dimensions". Sixty Symbols. Brady Haran for the University of Nottingham."Extra Dimensions"Sixty SymbolsBrady HaranUniversity of Nottingham  
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+
+
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+
+
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+
+
+
+
+
+Category
+
+
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+
+
+v
+t
+e
+
+
+Dimension
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeDimensionDimension
+
+
+Dimensional spaces
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+
+
+Dimensional spaces
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+
+
+Vector space
+Euclidean space
+Affine space
+Projective space
+Free module
+Manifold
+Algebraic variety
+Spacetime
+Vector spaceVector spaceEuclidean spaceEuclidean spaceAffine spaceAffine spaceProjective spaceProjective spaceFree moduleFree moduleManifoldManifoldAlgebraic varietyAlgebraic varietySpacetimeSpacetime
+
+
+
+
+Other dimensions
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+Other dimensions
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+
+
+Krull
+Homological
+Lebesgue covering
+Inductive
+Hausdorff
+Minkowski
+Fractal
+Degrees of freedom
+KrullKrullHomologicalHomologicalLebesgue coveringLebesgue coveringInductiveInductiveHausdorffHausdorffMinkowskiMinkowskiFractalFractalDegrees of freedomDegrees of freedom
+
+
+Polytopes and shapes
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+Polytopes and shapesPolytopes
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+
+
+Hyperplane
+Hypersurface
+Hypercube
+Hypersphere
+Hyperrectangle
+Demihypercube
+Cross-polytope
+Simplex
+HyperplaneHyperplaneHypersurfaceHypersurfaceHypercubeHypercubeHypersphereHypersphereHyperrectangleHyperrectangleDemihypercubeDemihypercubeCross-polytopeCross-polytopeSimplexSimplex
+
+
+Dimensions by number
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+Dimensions by number
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+
+
+Zero
+One
+Two
+Three
+Four
+Five
+Six (degrees of freedom)
+Seven
+Eight
+n-dimensions
+Negative dimensions
+ZeroZeroOneOneTwoTwoThreeThreeFourFourFiveFiveSix (degrees of freedom)Sixdegrees of freedomSevenSevenEightEightn-dimensionsn-dimensionsnNegative dimensionsNegative dimensions
+
+
+
+Category
+
+
+Category
+CategoryCategoryCategory
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+
+
+
+Glossary of tensor theory
+
+
+
+
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeTensorsTensors
+
+
+
+Glossary of tensor theory
+
+
+Glossary of tensor theory
+Glossary of tensor theoryGlossary of tensor theoryGlossary of tensor theory
+
+
+Scope
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+Scope
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+Mathematics
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+Mathematics
+MathematicsMathematics
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+differential geometry
+exterior calculus
+tensor calculus
+coordinate systemcoordinate systemmultilinear algebramultilinear algebraEuclidean geometryEuclidean geometrytensor algebratensor algebradifferential geometrydifferential geometryexterior calculusexterior calculustensor calculustensor calculus
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+Physics
+Engineering
+
+
+Physics
+Engineering
+PhysicsPhysicsEngineeringEngineering
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+continuum mechanicscontinuum mechanicselectromagnetismelectromagnetismtransport phenomenatransport phenomenageneral relativitygeneral relativitycomputer visioncomputer vision
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+Notation
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+index notationindex notationmulti-index notationmulti-index notationEinstein notationEinstein notationRicci calculusRicci calculusPenrose graphical notationPenrose graphical notationVoigt notationVoigt notationabstract index notationabstract index notationtetrad (index notation)tetrad (index notation)Van der Waerden notationVan der Waerden notation
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+Tensor definitions
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+tensor (intrinsic definition)tensor (intrinsic definition)tensor fieldtensor fieldtensor densitytensor densitytensors in curvilinear coordinatestensors in curvilinear coordinatesmixed tensormixed tensorantisymmetric tensorantisymmetric tensorsymmetric tensorsymmetric tensortensor operatortensor operatortensor bundletensor bundle
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+OperationsOperations
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge dual
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+tensor producttensor productexterior productexterior producttensor contractiontensor contractiontranspose (2nd-order tensors)transpose (2nd-order tensors)raising and lowering indicesraising and lowering indicesHodge dualHodge dualcovariant derivativecovariant derivativeexterior derivativeexterior derivativeexterior covariant derivativeexterior covariant derivativeLie derivativeLie derivative
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+Related abstractions
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+Affine connection
+dimensiondimensionbasisbasisvector, vector spacevectorvector spacemultivectormultivectorcovariance and contravariance of vectorscovariance and contravariance of vectorslinear transformationlinear transformationmatrixmatrixspinorspinorCartan formalism (physics)Cartan formalism (physics)differential formdifferential formexterior formexterior formconnection formconnection formgeodesicgeodesicmanifoldmanifoldfiber bundlefiber bundleLevi-Civita connectionLevi-Civita connectionAffine connectionAffine connection
+
+
+Notable tensors
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+Notable tensors
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+Mathematics
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+Mathematics
+Mathematics
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+Kronecker deltaKronecker deltaLevi-Civita symbolLevi-Civita symbolmetric tensormetric tensornonmetricity tensornonmetricity tensorChristoffel symbolsChristoffel symbolsRicci curvatureRicci curvatureRiemann curvature tensorRiemann curvature tensorWeyl tensorWeyl tensortorsion tensortorsion tensor
+
+
+
+Physics
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+Physics
+Physics
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+moment of inertiamoment of inertiaangular momentum tensorangular momentum tensorspin tensorspin tensorCauchy stress tensorCauchy stress tensorstress–energy tensorstress–energy tensorEM tensorEM tensorgluon field strength tensorgluon field strength tensorEinstein tensorEinstein tensormetric tensor (GR)metric tensor (GR)
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+MathematiciansMathematicians
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+Leonhard EulerLeonhard EulerCarl Friedrich GaussCarl Friedrich GaussAugustin-Louis CauchyAugustin-Louis CauchyHermann GrassmannHermann GrassmannGregorio Ricci-CurbastroGregorio Ricci-CurbastroTullio Levi-CivitaTullio Levi-CivitaJan Arnoldus SchoutenJan Arnoldus SchoutenBernhard RiemannBernhard RiemannElwin Bruno ChristoffelElwin Bruno ChristoffelWoldemar VoigtWoldemar VoigtÉlie CartanÉlie CartanHermann WeylHermann WeylAlbert EinsteinAlbert Einstein
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dimension&oldid=716605628"					https://en.wikipedia.org/w/index.php?title=Dimension&oldid=716605628Categories: DimensionConcepts in physicsAbstract algebraGeometric measurementMathematical conceptsHidden categories: Wikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010All articles needing additional referencesCommons category without a link on WikidataCategories: DimensionConcepts in physicsAbstract algebraGeometric measurementMathematical conceptsCategoriesDimensionConcepts in physicsAbstract algebraGeometric measurementMathematical conceptsDimensionDimensionConcepts in physicsConcepts in physicsAbstract algebraAbstract algebraGeometric measurementGeometric measurementMathematical conceptsMathematical conceptsHidden categories: Wikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010All articles needing additional referencesCommons category without a link on WikidataWikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010All articles needing additional referencesCommons category without a link on WikidataWikipedia articles needing page number citations from March 2015Wikipedia articles needing page number citations from March 2015Wikipedia articles needing clarification from October 2014Wikipedia articles needing clarification from October 2014Articles needing additional references from May 2010Articles needing additional references from May 2010All articles needing additional referencesAll articles needing additional referencesCommons category without a link on WikidataCommons category without a link on Wikidata
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةবাংলাБеларускаяБългарскиCatalàChiShonaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatviešuLëtzebuergeschMagyarमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsSimple Englishکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt文言ייִדיש粵語中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةবাংলাБеларускаяБългарскиCatalàChiShonaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatviešuLëtzebuergeschMagyarमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsSimple Englishکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt文言ייִדיש粵語中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+In other projects
+
+Wikimedia CommonsWikiquote 
+
+Wikimedia CommonsWikiquote Wikimedia CommonsWikimedia CommonsWikiquoteWikiquote
+Languages
+
+
+العربيةবাংলাБеларускаяБългарскиCatalàChiShonaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatviešuLëtzebuergeschMagyarमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsSimple Englishکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt文言ייִדיש粵語中文 
+Edit links 
+Languages
+
+العربيةবাংলাБеларускаяБългарскиCatalàChiShonaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatviešuLëtzebuergeschMagyarमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsSimple Englishکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt文言ייִדיש粵語中文 
+Edit links 
+العربيةবাংলাБеларускаяБългарскиCatalàChiShonaDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego贛語한국어Հայերենहिन्दीHrvatskiIdoBahasa IndonesiaItalianoעבריתҚазақшаLatviešuLëtzebuergeschMagyarमराठीBahasa MelayuNederlands日本語Norsk bokmålNorsk nynorskਪੰਜਾਬੀPolskiPortuguêsRomânăРусскийScotsSimple Englishکوردیی ناوەندیСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng Việt文言ייִדיש粵語中文 العربيةالعربيةবাংলাবাংলাБеларускаяБеларускаяБългарскиБългарскиCatalàCatalàChiShonaChiShonaDeutschDeutschEestiEestiΕλληνικάΕλληνικάEspañolEspañolEsperantoEsperantoEuskaraEuskaraفارسیفارسیFrançaisFrançaisGalegoGalego贛語贛語한국어한국어ՀայերենՀայերենहिन्दीहिन्दीHrvatskiHrvatskiIdoIdoBahasa IndonesiaBahasa IndonesiaItalianoItalianoעבריתעבריתҚазақшаҚазақшаLatviešuLatviešuLëtzebuergeschLëtzebuergeschMagyarMagyarमराठीमराठीBahasa MelayuBahasa MelayuNederlandsNederlands日本語日本語Norsk bokmålNorsk bokmålNorsk nynorskNorsk nynorskਪੰਜਾਬੀਪੰਜਾਬੀPolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийScotsScotsSimple EnglishSimple Englishکوردیی ناوەندیکوردیی ناوەندیСрпски / srpskiСрпски / srpskiSrpskohrvatski / српскохрватскиSrpskohrvatski / српскохрватскиSuomiSuomiSvenskaSvenskaTagalogTagalogไทยไทยTürkçeTürkçeУкраїнськаУкраїнськаاردواردوTiếng ViệtTiếng Việt文言文言ייִדישייִדיש粵語粵語中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 22 April 2016, at 18:04.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 22 April 2016, at 18:04.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 22 April 2016, at 18:04.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

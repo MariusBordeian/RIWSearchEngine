@@ -1,0 +1,1730 @@
+String (physics) - Wikipedia, the free encyclopedia
+
+
+
+
+String (physics)
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about quantum strings, phenomena in string theory.  For a classical string, such as a guitar string, see vibrating string.  For other uses, see string (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In physics, a string is a physical phenomenon that appears in string theory and related subjects. Unlike elementary particles, which are zero-dimensional or point-like by definition, strings are one-dimensional extended objects. Theories in which the fundamental objects are strings rather than point particles automatically have many properties that some physicists expect to hold in a fundamental theory of physics. Most notably, a theory of strings that evolve and interact according to the rules of quantum mechanics will automatically describe quantum gravity.
+In string theory, the strings may be open (forming a segment with two endpoints) or closed (forming a loop like a circle) and may have other special properties. Prior to 1995, there were five known versions of string theory incorporating the idea of supersymmetry, which differed in the type of strings and in other aspects. Today these different string theories are thought to arise as different limiting cases of a single theory called M-theory.
+In theories of particle physics based on string theory, the characteristic length scale of strings is typically on the order of the Planck length, the scale at which the effects of quantum gravity are believed to become significant. On much larger length scales, such as the scales visible in physics laboratories, such objects would be indistinguishable from zero-dimensional point particles, and the vibrational state of the string would determine the type of particle. Strings are also sometimes studied in nuclear physics where they are used to model flux tubes.
+As it propagates through spacetime, a string sweeps out a two-dimensional surface called its worldsheet. This is analogous to the one-dimensional worldline traced out by a point particle. The physics of a string is described by means of a two-dimensional conformal field theory associated with the worldsheet. The formalism of two dimensional conformal field theory also has many applications outside of string theory, for example in condensed matter physics and parts of pure mathematics.
+
+
+
+Contents
+
+
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+
+2 See also
+3 References
+
+
+
+Types of strings[edit]
+Closed and open strings[edit]
+Strings can be either open or closed. A closed string is a string that has no end-points, and therefore is topologically equivalent to a circle. An open string, on the other hand, has two end-points and is topologically equivalent to a line interval. Not all string theories contain open strings, but every theory must contain closed strings, as interactions between open strings can always result in closed strings.
+The oldest superstring theory containing open strings was type I string theory. However, the developments in string theory in the 1990s have shown that the open strings should always be thought of as ending on a new type of objects called D-branes, and the spectrum of possibilities for open strings has increased greatly.
+Open and closed strings are generally associated with characteristic vibrational modes. One of the vibration modes of a closed string can be identified as the graviton. In certain string theories the lowest-energy vibration of an open string is a tachyon and can undergo tachyon condensation. Other vibrational modes of open strings exhibit the properties of photons and gluons.
+Orientation[edit]
+Strings can also possess an orientation, which can be thought of as an internal "arrow" which distinguishes the string from one with the opposite orientation. By contrast, an unoriented string is one with no such arrow on it.
+See also[edit]
+
+Elementary particle
+Brane
+D-brane
+
+References[edit]
+
+Schwarz, John (2000). "Introduction to Superstring Theory". Retrieved Dec. 12, 2005.
+"NOVA's strings homepage"
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_(physics)&oldid=716860087"					
+Categories: String theory 
+
+
+String (physics)
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This article is about quantum strings, phenomena in string theory.  For a classical string, such as a guitar string, see vibrating string.  For other uses, see string (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In physics, a string is a physical phenomenon that appears in string theory and related subjects. Unlike elementary particles, which are zero-dimensional or point-like by definition, strings are one-dimensional extended objects. Theories in which the fundamental objects are strings rather than point particles automatically have many properties that some physicists expect to hold in a fundamental theory of physics. Most notably, a theory of strings that evolve and interact according to the rules of quantum mechanics will automatically describe quantum gravity.
+In string theory, the strings may be open (forming a segment with two endpoints) or closed (forming a loop like a circle) and may have other special properties. Prior to 1995, there were five known versions of string theory incorporating the idea of supersymmetry, which differed in the type of strings and in other aspects. Today these different string theories are thought to arise as different limiting cases of a single theory called M-theory.
+In theories of particle physics based on string theory, the characteristic length scale of strings is typically on the order of the Planck length, the scale at which the effects of quantum gravity are believed to become significant. On much larger length scales, such as the scales visible in physics laboratories, such objects would be indistinguishable from zero-dimensional point particles, and the vibrational state of the string would determine the type of particle. Strings are also sometimes studied in nuclear physics where they are used to model flux tubes.
+As it propagates through spacetime, a string sweeps out a two-dimensional surface called its worldsheet. This is analogous to the one-dimensional worldline traced out by a point particle. The physics of a string is described by means of a two-dimensional conformal field theory associated with the worldsheet. The formalism of two dimensional conformal field theory also has many applications outside of string theory, for example in condensed matter physics and parts of pure mathematics.
+
+
+
+Contents
+
+
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+
+2 See also
+3 References
+
+
+
+Types of strings[edit]
+Closed and open strings[edit]
+Strings can be either open or closed. A closed string is a string that has no end-points, and therefore is topologically equivalent to a circle. An open string, on the other hand, has two end-points and is topologically equivalent to a line interval. Not all string theories contain open strings, but every theory must contain closed strings, as interactions between open strings can always result in closed strings.
+The oldest superstring theory containing open strings was type I string theory. However, the developments in string theory in the 1990s have shown that the open strings should always be thought of as ending on a new type of objects called D-branes, and the spectrum of possibilities for open strings has increased greatly.
+Open and closed strings are generally associated with characteristic vibrational modes. One of the vibration modes of a closed string can be identified as the graviton. In certain string theories the lowest-energy vibration of an open string is a tachyon and can undergo tachyon condensation. Other vibrational modes of open strings exhibit the properties of photons and gluons.
+Orientation[edit]
+Strings can also possess an orientation, which can be thought of as an internal "arrow" which distinguishes the string from one with the opposite orientation. By contrast, an unoriented string is one with no such arrow on it.
+See also[edit]
+
+Elementary particle
+Brane
+D-brane
+
+References[edit]
+
+Schwarz, John (2000). "Introduction to Superstring Theory". Retrieved Dec. 12, 2005.
+"NOVA's strings homepage"
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_(physics)&oldid=716860087"					
+Categories: String theory 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis article is about quantum strings, phenomena in string theory.  For a classical string, such as a guitar string, see vibrating string.  For other uses, see string (disambiguation).
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In physics, a string is a physical phenomenon that appears in string theory and related subjects. Unlike elementary particles, which are zero-dimensional or point-like by definition, strings are one-dimensional extended objects. Theories in which the fundamental objects are strings rather than point particles automatically have many properties that some physicists expect to hold in a fundamental theory of physics. Most notably, a theory of strings that evolve and interact according to the rules of quantum mechanics will automatically describe quantum gravity.
+In string theory, the strings may be open (forming a segment with two endpoints) or closed (forming a loop like a circle) and may have other special properties. Prior to 1995, there were five known versions of string theory incorporating the idea of supersymmetry, which differed in the type of strings and in other aspects. Today these different string theories are thought to arise as different limiting cases of a single theory called M-theory.
+In theories of particle physics based on string theory, the characteristic length scale of strings is typically on the order of the Planck length, the scale at which the effects of quantum gravity are believed to become significant. On much larger length scales, such as the scales visible in physics laboratories, such objects would be indistinguishable from zero-dimensional point particles, and the vibrational state of the string would determine the type of particle. Strings are also sometimes studied in nuclear physics where they are used to model flux tubes.
+As it propagates through spacetime, a string sweeps out a two-dimensional surface called its worldsheet. This is analogous to the one-dimensional worldline traced out by a point particle. The physics of a string is described by means of a two-dimensional conformal field theory associated with the worldsheet. The formalism of two dimensional conformal field theory also has many applications outside of string theory, for example in condensed matter physics and parts of pure mathematics.
+
+
+
+Contents
+
+
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+
+2 See also
+3 References
+
+
+
+Types of strings[edit]
+Closed and open strings[edit]
+Strings can be either open or closed. A closed string is a string that has no end-points, and therefore is topologically equivalent to a circle. An open string, on the other hand, has two end-points and is topologically equivalent to a line interval. Not all string theories contain open strings, but every theory must contain closed strings, as interactions between open strings can always result in closed strings.
+The oldest superstring theory containing open strings was type I string theory. However, the developments in string theory in the 1990s have shown that the open strings should always be thought of as ending on a new type of objects called D-branes, and the spectrum of possibilities for open strings has increased greatly.
+Open and closed strings are generally associated with characteristic vibrational modes. One of the vibration modes of a closed string can be identified as the graviton. In certain string theories the lowest-energy vibration of an open string is a tachyon and can undergo tachyon condensation. Other vibrational modes of open strings exhibit the properties of photons and gluons.
+Orientation[edit]
+Strings can also possess an orientation, which can be thought of as an internal "arrow" which distinguishes the string from one with the opposite orientation. By contrast, an unoriented string is one with no such arrow on it.
+See also[edit]
+
+Elementary particle
+Brane
+D-brane
+
+References[edit]
+
+Schwarz, John (2000). "Introduction to Superstring Theory". Retrieved Dec. 12, 2005.
+"NOVA's strings homepage"
+
+
+
+
+This article is about quantum strings, phenomena in string theory.  For a classical string, such as a guitar string, see vibrating string.  For other uses, see string (disambiguation).string theoryvibrating stringstring (disambiguation)
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeIn physics, a string is a physical phenomenon that appears in string theory and related subjects. Unlike elementary particles, which are zero-dimensional or point-like by definition, strings are one-dimensional extended objects. Theories in which the fundamental objects are strings rather than point particles automatically have many properties that some physicists expect to hold in a fundamental theory of physics. Most notably, a theory of strings that evolve and interact according to the rules of quantum mechanics will automatically describe quantum gravity.physicsstringstring theoryelementary particlesquantum mechanicsquantum gravityIn string theory, the strings may be open (forming a segment with two endpoints) or closed (forming a loop like a circle) and may have other special properties. Prior to 1995, there were five known versions of string theory incorporating the idea of supersymmetry, which differed in the type of strings and in other aspects. Today these different string theories are thought to arise as different limiting cases of a single theory called M-theory.supersymmetryM-theoryIn theories of particle physics based on string theory, the characteristic length scale of strings is typically on the order of the Planck length, the scale at which the effects of quantum gravity are believed to become significant. On much larger length scales, such as the scales visible in physics laboratories, such objects would be indistinguishable from zero-dimensional point particles, and the vibrational state of the string would determine the type of particle. Strings are also sometimes studied in nuclear physics where they are used to model flux tubes.Planck lengthquantum gravitynuclear physicsflux tubesAs it propagates through spacetime, a string sweeps out a two-dimensional surface called its worldsheet. This is analogous to the one-dimensional worldline traced out by a point particle. The physics of a string is described by means of a two-dimensional conformal field theory associated with the worldsheet. The formalism of two dimensional conformal field theory also has many applications outside of string theory, for example in condensed matter physics and parts of pure mathematics.spacetimesurfaceworldsheetworldlineconformal field theorycondensed matter physicspure mathematics
+
+Contents
+
+
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+
+2 See also
+3 References
+
+
+Contents
+Contents
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+
+2 See also
+3 References
+1 Types of strings
+
+1.1 Closed and open strings
+1.2 Orientation
+
+1 Types of strings1Types of strings
+1.1 Closed and open strings
+1.2 Orientation
+1.1 Closed and open strings1.1 Closed and open strings1.1Closed and open strings1.2 Orientation1.2 Orientation1.2Orientation2 See also2 See also2See also3 References3 References3ReferencesTypes of strings[edit]Types of strings[edit][edit]Closed and open strings[edit]Closed and open strings[edit][edit]Strings can be either open or closed. A closed string is a string that has no end-points, and therefore is topologically equivalent to a circle. An open string, on the other hand, has two end-points and is topologically equivalent to a line interval. Not all string theories contain open strings, but every theory must contain closed strings, as interactions between open strings can always result in closed strings.closed stringtopologically equivalentcircleopen stringThe oldest superstring theory containing open strings was type I string theory. However, the developments in string theory in the 1990s have shown that the open strings should always be thought of as ending on a new type of objects called D-branes, and the spectrum of possibilities for open strings has increased greatly.superstring theorytype I string theoryD-branesOpen and closed strings are generally associated with characteristic vibrational modes. One of the vibration modes of a closed string can be identified as the graviton. In certain string theories the lowest-energy vibration of an open string is a tachyon and can undergo tachyon condensation. Other vibrational modes of open strings exhibit the properties of photons and gluons.gravitontachyontachyon condensationphotonsgluonsOrientation[edit]Orientation[edit][edit]Strings can also possess an orientation, which can be thought of as an internal "arrow" which distinguishes the string from one with the opposite orientation. By contrast, an unoriented string is one with no such arrow on it.orientationunoriented stringSee also[edit]See also[edit][edit]
+Elementary particle
+Brane
+D-brane
+Elementary particleElementary particleBraneBraneD-braneD-braneReferences[edit]References[edit][edit]
+Schwarz, John (2000). "Introduction to Superstring Theory". Retrieved Dec. 12, 2005.
+"NOVA's strings homepage"
+Schwarz, John (2000). "Introduction to Superstring Theory". Retrieved Dec. 12, 2005."Introduction to Superstring Theory""NOVA's strings homepage""NOVA's strings homepage"
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=String_(physics)&oldid=716860087"					https://en.wikipedia.org/w/index.php?title=String_(physics)&oldid=716860087Categories: String theoryCategories: String theoryCategoriesString theoryString theoryString theory
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяCatalàEestiEspañolFrançaisGaeilge한국어ՀայերենItalianoעבריתLietuviųਪੰਜਾਬੀРусскийSimple EnglishУкраїнська中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+БеларускаяCatalàEestiEspañolFrançaisGaeilge한국어ՀայերենItalianoעבריתLietuviųਪੰਜਾਬੀРусскийSimple EnglishУкраїнська中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+БеларускаяCatalàEestiEspañolFrançaisGaeilge한국어ՀայերենItalianoעבריתLietuviųਪੰਜਾਬੀРусскийSimple EnglishУкраїнська中文 
+Edit links 
+Languages
+
+БеларускаяCatalàEestiEspañolFrançaisGaeilge한국어ՀայերենItalianoעבריתLietuviųਪੰਜਾਬੀРусскийSimple EnglishУкраїнська中文 
+Edit links 
+БеларускаяCatalàEestiEspañolFrançaisGaeilge한국어ՀայերենItalianoעבריתLietuviųਪੰਜਾਬੀРусскийSimple EnglishУкраїнська中文 БеларускаяБеларускаяCatalàCatalàEestiEestiEspañolEspañolFrançaisFrançaisGaeilgeGaeilge한국어한국어ՀայերենՀայերենItalianoItalianoעבריתעבריתLietuviųLietuviųਪੰਜਾਬੀਪੰਜਾਬੀРусскийРусскийSimple EnglishSimple EnglishУкраїнськаУкраїнська中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 24 April 2016, at 10:11.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 24 April 2016, at 10:11.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 24 April 2016, at 10:11.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

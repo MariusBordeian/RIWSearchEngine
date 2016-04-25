@@ -1,0 +1,5812 @@
+Gerard 't Hooft - Wikipedia, the free encyclopedia
+
+
+
+
+Gerard 't Hooft
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Gerard 't Hooft
+
+
+
+November 2008
+
+
+
+Born
+(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Utrecht University
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Martinus J. G. Veltman
+
+
+Doctoral students
+Robbert Dijkgraaf
+Herman Verlinde
+
+
+Known for
+Quantum Field Theory, Quantum Gravity
+
+
+Notable awards
+Heineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)
+
+
+This is a Dutch name; the family name is 't Hooft, not Hooft.
+Gerardus (Gerard) 't Hooft (Dutch: [ˌɣeːrɑrt ət ˈɦoːft]; born July 5, 1946) is a Dutch theoretical physicist and professor at Utrecht University, the Netherlands. He shared the 1999 Nobel Prize in Physics with his thesis advisor Martinus J. G. Veltman "for elucidating the quantum structure of electroweak interactions".
+His work concentrates on gauge theory, black holes, quantum gravity and fundamental aspects of quantum mechanics. His contributions to physics include a proof that gauge theories are renormalizable, dimensional regularization, and the holographic principle.
+
+
+
+Contents
+
+
+1 Personal life
+2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+
+3 Honors
+4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+
+5 See also
+6 References
+7 External links
+
+
+
+Personal life[edit]
+He is married to Albertha Schik (Betteke) and has two daughters, Saskia and Ellen. Saskia has translated one of her father's popular speculative books Planetenbiljart into English. The book's English title is Playing with Planets and was launched in Singapore in November 2008.
+Biography[edit]
+Early life[edit]
+Gerard 't Hooft was born in Den Helder on July 5, 1946, but grew up in The Hague, the seat of government of the Netherlands. He was the middle child of a family of three. He comes from a family of scholars. His grandmother was a sister of Nobel prize laureate Frits Zernike, and was married to Pieter Nicolaas van Kampen, who was a well-known professor of zoology at Leiden University. His uncle Nico van Kampen was an (emeritus) professor of theoretical physics at Utrecht University, and while his mother did not opt for a scientific career because of her gender,[1] she did marry a maritime engineer.[1] Following his family's footsteps, he showed interest in science at an early age. When his primary school teacher asked him what he wanted to be when he grew up, he boldly declared, "a man who knows everything."[1]
+After primary school Gerard attended the Dalton Lyceum, a school that applied the ideas of the Dalton Plan, an educational method that suited him well. He easily passed his science and mathematics courses, but struggled with his language courses. Nonetheless, he passed his classes in English, French, German, classical Greek and Latin. At the age of sixteen he earned a silver medal in the second Dutch Math Olympiad. [1]
+Education[edit]
+After Gerard 't Hooft passed his high school exams in 1964, he enrolled in the physics program at Utrecht University. He opted for Utrecht instead of the much closer Leiden, because his uncle was a professor there and he wanted to attend his lectures. Because he was so focused on science, his father insisted that he join the Utrechtsch Studenten Corps, an elite student association, in the hope that he would do something else besides studying. This worked to some extent, during his studies he was a coxswain with their rowing club "Triton" and organized a national congress for science students with their science discussion club "Christiaan Huygens".
+In the course of his studies he decided he wanted to go into what he perceived as the heart of theoretical physics, elementary particles. His uncle had grown to dislike the subject and in particular its practitioners, so when it became time to write his 'doctoraalscriptie' (Dutch equivalent of a master's thesis) in 1968, 't Hooft turned to the newly appointed professor Martinus Veltman, who specialized in Yang–Mills theory, a relatively fringe subject at the time because it was thought that these could not be renormalized. His assignment was to study the Adler–Bell–Jackiw anomaly, a mismatch in the theory of the decay of neutral pions; formal arguments forbid the decay into photons, whereas practical calculations and experiments showed that this was the primary form of decay. The resolution of the problem was completely unknown at the time, and 't Hooft was unable to provide one.
+In 1969, 't Hooft started on his PhD with Martinus Veltman as his advisor. He would work on the same subject Veltman was working on, the renormalization of Yang–Mills theories. In 1971 his first paper was published.[2] In it he showed how to renormalize massless Yang–Mills fields, and was able to derive relations between amplitudes, which would be generalized by Andrei Slavnov and John C. Taylor, and become known as the Slavnov–Taylor identities.
+The world took little notice, but Veltman was excited because he saw that the problem he had been working on was solved. A period of intense collaboration followed in which they developed the technique of dimensional regularization. Soon 't Hooft's second paper was ready to be published,[3] in which he showed that Yang–Mills theories with massive fields due to spontaneous symmetry breaking could be renormalized. This paper earned them worldwide recognition, and would ultimately earn the pair the 1999 Nobel Prize in Physics.
+These two papers formed the basis of 't Hooft's dissertation, The Renormalization procedure for Yang–Mills Fields, and he obtained his PhD in 1972. In the same year he married his wife, Albertha A. Schik, a student of medicine in Utrecht.[1]
+Career[edit]
+
+
+
+
+Gerard 't Hooft at Harvard
+
+
+After obtaining his doctorate 't Hooft went to CERN in Geneva, where he had a fellowship. He further refined his methods for Yang–Mills theories with Veltman (who went back to Geneva). In this time he became interested in the possibility that the strong interaction could be described as a massless Yang–Mills theory, i.e. one of a type that he had just proved to be renormalizable and hence be susceptible to detailed calculation and comparison with experiment. According to his calculations, this type of theory possessed just the right kind of scaling properties (asymptotic freedom) that this theory should have according to deep inelastic scattering experiments. This was contrary to popular perception of Yang–Mills theories at the time, that like gravitation and electrodynamics, their intensity should decrease with increasing distance between the interacting particles; such conventional behaviour with distance was unable to explain the results of deep inelastic scattering, whereas 't Hooft's calculations could. When he mentioned his results at a small conference at Marseilles in 1972, Kurt Symanzik urged him to publish this result.[1] He did not, and the result was eventually rediscovered and published by Hugh David Politzer, David Gross, and Frank Wilczek in 1973, which led to them earning the 2004 Nobel Prize in Physics.[4][5]
+In 1974, 't Hooft returned to Utrecht where he became assistant professor. In 1976, he was invited for a guest position at Stanford and a position at Harvard as Morris Loeb lecturer. His eldest daughter, Saskia Anne, was born in Boston, while his second daughter, Ellen Marga, was born in 1978 after he returned to Utrecht, where he was made full professor.[1] On July 1, 2011 he was appointed Distinguished professor by Utrecht University.[6]
+Honors[edit]
+In 1999 't Hooft shared the Nobel prize in Physics with his thesis adviser Veltman for "elucidating the quantum structure of the electroweak interactions in physics".[7] Before that time his work had already been recognized by other notable awards. In 1981, he was awarded the Wolf Prize,[8] possibly the most prestigious prize in physics after the Nobel prize. Five years later he received the Lorentz Medal, awarded every four years in recognition of the most important contributions in theoretical physics.[9] In 1995, he was one of the first recipients of the Spinozapremie, the highest award available to scientists in the Netherlands.[10] In the same year he was also honoured with a Franklin Medal.[11]
+Since his Nobel Prize, 't Hooft has received a slew of awards, honorary doctorates and honorary professorships.[12] He was knighted commander in the Order of the Netherlands Lion, and officer in the French Legion of Honor. The asteroid 9491 Thooft has been named in his honor,[13] and he has written a constitution for its future inhabitants.[14]
+He is a member of the Royal Netherlands Academy of Arts and Sciences (KNAW) since 1982,[15] where he was made academy professor in 2003.[16] He is also a foreign member of many other science academies, including the French Académie des Sciences, the American National Academy of Sciences and American Academy of Arts and Sciences and the Britain and Ireland based Institute of Physics.[12]
+Research[edit]
+'t Hooft's research interest can be divided in three main directions: 'gauge theories in elementary particle physics', 'quantum gravity and black holes', and 'foundational aspects of quantum mechanics'.[17]
+Gauge theories in elementary particle physics[edit]
+'t Hooft is most famous for his contributions to the development of gauge theories in particle physics. The best known of these is the proof in his PhD thesis that Yang–Mills theories are renormalizable, for which he shared the 1999 Nobel Prize in Physics. For this proof he introduced (with his adviser Veltman) the technique of dimensional regularization.
+After his PhD, he became interested in the role of gauge theories in the strong interaction,[1] the leading theory of which is called quantum chromodynamics or QCD. Much of his research focused on the problem of colour confinement in QCD, i.e. the observational fact that only colour neutral particles are observed at low energies. This led him to the discovery that SU(N) gauge theories simplify in the large N limit,[18] a fact which has proved important in the examination of the conjectured correspondence between string theories in an Anti-de Sitter space and conformal field theories in one lower dimension. By solving the theory in one space and one time dimension, 't Hooft was able to derive a formula for the masses of mesons.[19]
+He also studied the role of so-called instanton contributions in QCD. His calculation showed that these contributions lead to an interaction between light quarks at low energies not present in the normal theory.[20] Studying instanton solutions of Yang–Mills theories, 't Hooft discovered that spontaneously breaking a theory with SU(N) symmetry to a U(1) symmetry will lead to the existence of magnetic monopoles.[21] These monopoles are called 't Hooft–Polyakov monopoles, after Alexander Polyakov, who independently obtained the same result.[22]
+As another piece in the colour confinement puzzle 't Hooft introduced 't Hooft operators, which are the magnetic dual of Wilson loops.[23] Using these operators he was able to classify different phases of QCD, which form the basis of the QCD phase diagram.
+In 1986, he was finally able to show that instanton contributions solve the Adler–Bell–Jackiw anomaly, the topic of his master's thesis.[24]
+Quantum gravity and black holes[edit]
+When Veltman and 't Hooft moved to CERN after 't Hooft obtained his PhD, Veltman's attention was drawn to the possibility of using their dimensional regularization techniques to the problem of quantizing gravity. Although it was known that perturbative quantum gravity was not completely renormalizible, they felt important lessons were to be learned by studying the formal renormalization of the theory order by order. This work would be continued by Stanley Deser and another PhD student of Veltman, Peter van Nieuwenhuizen, who later found patterns in the renormalization counter terms, which led to the discovery of supergravity.[1]
+In the 1980s, 't Hooft's attention was drawn to the subject of gravity in 3 spacetime dimensions. Together with Deser and Jackiw he published an article in 1984 describing the dynamics of flat space where the only local degrees of freedom were propagating point defects.[25] His attention returned to this model at various points in time, showing that Gott pairs would not cause causality violating timelike loops,[26] and showing how the model could be quantized.[27] More recently he proposed generalizing this piecewise flat model of gravity to 4 spacetime dimensions.[28]
+With Stephen Hawking's discovery of Hawking radiation of black holes, it appeared that the evaporation of these objects violated a fundamental property of quantum mechanics, unitarity. 't Hooft refused to accept this problem, known as the black hole information paradox, and assumed that this must be the result of the semi-classical treatment of Hawking, and that it should not appear in a full theory of quantum gravity. He proposed that it might be possible to study some of the properties of such a theory, by assuming that such a theory was unitary.
+Using this approach he has argued that near a black hole, quantum fields could be described by a theory in a lower dimension.[29] This led to the introduction of the holographic principle by him and Leonard Susskind.[30]
+Fundamental aspects of quantum mechanics[edit]
+'t Hooft has "deviating views on the physical interpretation of quantum theory".[17] He believes that there could be a deterministic explanation underlying quantum mechanics.[31] Using a speculative model he has argued that such a theory could avoid the usual Bell inequality arguments that would disallow such a local hidden variable theory.[32]
+See also[edit]
+
+Anomaly matching condition
+Feynman–'t Hooft gauge
+Minimal subtraction scheme
+Naturalness (physics)
+Renormalon
+'t Hooft symbol
+Mars One (Gerard 't Hooft is a main supporter of the project)
+
+References[edit]
+
+
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 
+^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 
+^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 
+^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. 
+^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. 
+^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. 
+^ "The Nobel Prize in Physics 1999". Nobel web. 
+^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. 
+^ "Lorentz medal". Leiden University. 
+^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. 
+^ "Franklin Laureate Database". The Franklin Institute. 
+^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. 
+^ "JPL Small-Body Database Browser". NASA. 
+^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. 
+^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. 
+^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. 
+^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 
+^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 
+^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 
+^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 
+^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 
+^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. 
+^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 
+^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 
+^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. 
+^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 
+^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. 
+^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 
+^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. 
+^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. 
+^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Gerardus 't Hooft.
+
+
+
+
+
+Wikiquote has quotations related to: Gerardus 't Hooft
+
+
+
+Gerard 't Hooft (homepage)
+How To Become a Good Theoretical Physicist
+The Nobel Prize in Physics 1999
+A Confrontation with Infinity, Nobel Lecture
+Publications from Google Scholar
+Publications on the Arxiv
+TVO.org video - Gerard t'Hooft lectures on Science Fiction and Reality Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on May 7, 2008
+Scientific publications of Gerard 't Hooft on INSPIRE-HEP
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gerard_%27t_Hooft&oldid=715062275"					
+Categories: Dutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsDutch Nobel laureatesUtrecht University alumniUtrecht University facultyWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurLorentz Medal winnersPeople from Den HelderPeople from Utrecht (city)Members of the French Academy of Sciences1946 birthsLiving peopleSpinoza Prize winnersTheoretical physicistsMars OnePeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+
+
+Gerard 't Hooft
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Gerard 't Hooft
+
+
+
+November 2008
+
+
+
+Born
+(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Utrecht University
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Martinus J. G. Veltman
+
+
+Doctoral students
+Robbert Dijkgraaf
+Herman Verlinde
+
+
+Known for
+Quantum Field Theory, Quantum Gravity
+
+
+Notable awards
+Heineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)
+
+
+This is a Dutch name; the family name is 't Hooft, not Hooft.
+Gerardus (Gerard) 't Hooft (Dutch: [ˌɣeːrɑrt ət ˈɦoːft]; born July 5, 1946) is a Dutch theoretical physicist and professor at Utrecht University, the Netherlands. He shared the 1999 Nobel Prize in Physics with his thesis advisor Martinus J. G. Veltman "for elucidating the quantum structure of electroweak interactions".
+His work concentrates on gauge theory, black holes, quantum gravity and fundamental aspects of quantum mechanics. His contributions to physics include a proof that gauge theories are renormalizable, dimensional regularization, and the holographic principle.
+
+
+
+Contents
+
+
+1 Personal life
+2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+
+3 Honors
+4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+
+5 See also
+6 References
+7 External links
+
+
+
+Personal life[edit]
+He is married to Albertha Schik (Betteke) and has two daughters, Saskia and Ellen. Saskia has translated one of her father's popular speculative books Planetenbiljart into English. The book's English title is Playing with Planets and was launched in Singapore in November 2008.
+Biography[edit]
+Early life[edit]
+Gerard 't Hooft was born in Den Helder on July 5, 1946, but grew up in The Hague, the seat of government of the Netherlands. He was the middle child of a family of three. He comes from a family of scholars. His grandmother was a sister of Nobel prize laureate Frits Zernike, and was married to Pieter Nicolaas van Kampen, who was a well-known professor of zoology at Leiden University. His uncle Nico van Kampen was an (emeritus) professor of theoretical physics at Utrecht University, and while his mother did not opt for a scientific career because of her gender,[1] she did marry a maritime engineer.[1] Following his family's footsteps, he showed interest in science at an early age. When his primary school teacher asked him what he wanted to be when he grew up, he boldly declared, "a man who knows everything."[1]
+After primary school Gerard attended the Dalton Lyceum, a school that applied the ideas of the Dalton Plan, an educational method that suited him well. He easily passed his science and mathematics courses, but struggled with his language courses. Nonetheless, he passed his classes in English, French, German, classical Greek and Latin. At the age of sixteen he earned a silver medal in the second Dutch Math Olympiad. [1]
+Education[edit]
+After Gerard 't Hooft passed his high school exams in 1964, he enrolled in the physics program at Utrecht University. He opted for Utrecht instead of the much closer Leiden, because his uncle was a professor there and he wanted to attend his lectures. Because he was so focused on science, his father insisted that he join the Utrechtsch Studenten Corps, an elite student association, in the hope that he would do something else besides studying. This worked to some extent, during his studies he was a coxswain with their rowing club "Triton" and organized a national congress for science students with their science discussion club "Christiaan Huygens".
+In the course of his studies he decided he wanted to go into what he perceived as the heart of theoretical physics, elementary particles. His uncle had grown to dislike the subject and in particular its practitioners, so when it became time to write his 'doctoraalscriptie' (Dutch equivalent of a master's thesis) in 1968, 't Hooft turned to the newly appointed professor Martinus Veltman, who specialized in Yang–Mills theory, a relatively fringe subject at the time because it was thought that these could not be renormalized. His assignment was to study the Adler–Bell–Jackiw anomaly, a mismatch in the theory of the decay of neutral pions; formal arguments forbid the decay into photons, whereas practical calculations and experiments showed that this was the primary form of decay. The resolution of the problem was completely unknown at the time, and 't Hooft was unable to provide one.
+In 1969, 't Hooft started on his PhD with Martinus Veltman as his advisor. He would work on the same subject Veltman was working on, the renormalization of Yang–Mills theories. In 1971 his first paper was published.[2] In it he showed how to renormalize massless Yang–Mills fields, and was able to derive relations between amplitudes, which would be generalized by Andrei Slavnov and John C. Taylor, and become known as the Slavnov–Taylor identities.
+The world took little notice, but Veltman was excited because he saw that the problem he had been working on was solved. A period of intense collaboration followed in which they developed the technique of dimensional regularization. Soon 't Hooft's second paper was ready to be published,[3] in which he showed that Yang–Mills theories with massive fields due to spontaneous symmetry breaking could be renormalized. This paper earned them worldwide recognition, and would ultimately earn the pair the 1999 Nobel Prize in Physics.
+These two papers formed the basis of 't Hooft's dissertation, The Renormalization procedure for Yang–Mills Fields, and he obtained his PhD in 1972. In the same year he married his wife, Albertha A. Schik, a student of medicine in Utrecht.[1]
+Career[edit]
+
+
+
+
+Gerard 't Hooft at Harvard
+
+
+After obtaining his doctorate 't Hooft went to CERN in Geneva, where he had a fellowship. He further refined his methods for Yang–Mills theories with Veltman (who went back to Geneva). In this time he became interested in the possibility that the strong interaction could be described as a massless Yang–Mills theory, i.e. one of a type that he had just proved to be renormalizable and hence be susceptible to detailed calculation and comparison with experiment. According to his calculations, this type of theory possessed just the right kind of scaling properties (asymptotic freedom) that this theory should have according to deep inelastic scattering experiments. This was contrary to popular perception of Yang–Mills theories at the time, that like gravitation and electrodynamics, their intensity should decrease with increasing distance between the interacting particles; such conventional behaviour with distance was unable to explain the results of deep inelastic scattering, whereas 't Hooft's calculations could. When he mentioned his results at a small conference at Marseilles in 1972, Kurt Symanzik urged him to publish this result.[1] He did not, and the result was eventually rediscovered and published by Hugh David Politzer, David Gross, and Frank Wilczek in 1973, which led to them earning the 2004 Nobel Prize in Physics.[4][5]
+In 1974, 't Hooft returned to Utrecht where he became assistant professor. In 1976, he was invited for a guest position at Stanford and a position at Harvard as Morris Loeb lecturer. His eldest daughter, Saskia Anne, was born in Boston, while his second daughter, Ellen Marga, was born in 1978 after he returned to Utrecht, where he was made full professor.[1] On July 1, 2011 he was appointed Distinguished professor by Utrecht University.[6]
+Honors[edit]
+In 1999 't Hooft shared the Nobel prize in Physics with his thesis adviser Veltman for "elucidating the quantum structure of the electroweak interactions in physics".[7] Before that time his work had already been recognized by other notable awards. In 1981, he was awarded the Wolf Prize,[8] possibly the most prestigious prize in physics after the Nobel prize. Five years later he received the Lorentz Medal, awarded every four years in recognition of the most important contributions in theoretical physics.[9] In 1995, he was one of the first recipients of the Spinozapremie, the highest award available to scientists in the Netherlands.[10] In the same year he was also honoured with a Franklin Medal.[11]
+Since his Nobel Prize, 't Hooft has received a slew of awards, honorary doctorates and honorary professorships.[12] He was knighted commander in the Order of the Netherlands Lion, and officer in the French Legion of Honor. The asteroid 9491 Thooft has been named in his honor,[13] and he has written a constitution for its future inhabitants.[14]
+He is a member of the Royal Netherlands Academy of Arts and Sciences (KNAW) since 1982,[15] where he was made academy professor in 2003.[16] He is also a foreign member of many other science academies, including the French Académie des Sciences, the American National Academy of Sciences and American Academy of Arts and Sciences and the Britain and Ireland based Institute of Physics.[12]
+Research[edit]
+'t Hooft's research interest can be divided in three main directions: 'gauge theories in elementary particle physics', 'quantum gravity and black holes', and 'foundational aspects of quantum mechanics'.[17]
+Gauge theories in elementary particle physics[edit]
+'t Hooft is most famous for his contributions to the development of gauge theories in particle physics. The best known of these is the proof in his PhD thesis that Yang–Mills theories are renormalizable, for which he shared the 1999 Nobel Prize in Physics. For this proof he introduced (with his adviser Veltman) the technique of dimensional regularization.
+After his PhD, he became interested in the role of gauge theories in the strong interaction,[1] the leading theory of which is called quantum chromodynamics or QCD. Much of his research focused on the problem of colour confinement in QCD, i.e. the observational fact that only colour neutral particles are observed at low energies. This led him to the discovery that SU(N) gauge theories simplify in the large N limit,[18] a fact which has proved important in the examination of the conjectured correspondence between string theories in an Anti-de Sitter space and conformal field theories in one lower dimension. By solving the theory in one space and one time dimension, 't Hooft was able to derive a formula for the masses of mesons.[19]
+He also studied the role of so-called instanton contributions in QCD. His calculation showed that these contributions lead to an interaction between light quarks at low energies not present in the normal theory.[20] Studying instanton solutions of Yang–Mills theories, 't Hooft discovered that spontaneously breaking a theory with SU(N) symmetry to a U(1) symmetry will lead to the existence of magnetic monopoles.[21] These monopoles are called 't Hooft–Polyakov monopoles, after Alexander Polyakov, who independently obtained the same result.[22]
+As another piece in the colour confinement puzzle 't Hooft introduced 't Hooft operators, which are the magnetic dual of Wilson loops.[23] Using these operators he was able to classify different phases of QCD, which form the basis of the QCD phase diagram.
+In 1986, he was finally able to show that instanton contributions solve the Adler–Bell–Jackiw anomaly, the topic of his master's thesis.[24]
+Quantum gravity and black holes[edit]
+When Veltman and 't Hooft moved to CERN after 't Hooft obtained his PhD, Veltman's attention was drawn to the possibility of using their dimensional regularization techniques to the problem of quantizing gravity. Although it was known that perturbative quantum gravity was not completely renormalizible, they felt important lessons were to be learned by studying the formal renormalization of the theory order by order. This work would be continued by Stanley Deser and another PhD student of Veltman, Peter van Nieuwenhuizen, who later found patterns in the renormalization counter terms, which led to the discovery of supergravity.[1]
+In the 1980s, 't Hooft's attention was drawn to the subject of gravity in 3 spacetime dimensions. Together with Deser and Jackiw he published an article in 1984 describing the dynamics of flat space where the only local degrees of freedom were propagating point defects.[25] His attention returned to this model at various points in time, showing that Gott pairs would not cause causality violating timelike loops,[26] and showing how the model could be quantized.[27] More recently he proposed generalizing this piecewise flat model of gravity to 4 spacetime dimensions.[28]
+With Stephen Hawking's discovery of Hawking radiation of black holes, it appeared that the evaporation of these objects violated a fundamental property of quantum mechanics, unitarity. 't Hooft refused to accept this problem, known as the black hole information paradox, and assumed that this must be the result of the semi-classical treatment of Hawking, and that it should not appear in a full theory of quantum gravity. He proposed that it might be possible to study some of the properties of such a theory, by assuming that such a theory was unitary.
+Using this approach he has argued that near a black hole, quantum fields could be described by a theory in a lower dimension.[29] This led to the introduction of the holographic principle by him and Leonard Susskind.[30]
+Fundamental aspects of quantum mechanics[edit]
+'t Hooft has "deviating views on the physical interpretation of quantum theory".[17] He believes that there could be a deterministic explanation underlying quantum mechanics.[31] Using a speculative model he has argued that such a theory could avoid the usual Bell inequality arguments that would disallow such a local hidden variable theory.[32]
+See also[edit]
+
+Anomaly matching condition
+Feynman–'t Hooft gauge
+Minimal subtraction scheme
+Naturalness (physics)
+Renormalon
+'t Hooft symbol
+Mars One (Gerard 't Hooft is a main supporter of the project)
+
+References[edit]
+
+
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 
+^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 
+^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 
+^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. 
+^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. 
+^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. 
+^ "The Nobel Prize in Physics 1999". Nobel web. 
+^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. 
+^ "Lorentz medal". Leiden University. 
+^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. 
+^ "Franklin Laureate Database". The Franklin Institute. 
+^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. 
+^ "JPL Small-Body Database Browser". NASA. 
+^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. 
+^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. 
+^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. 
+^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 
+^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 
+^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 
+^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 
+^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 
+^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. 
+^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 
+^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 
+^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. 
+^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 
+^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. 
+^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 
+^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. 
+^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. 
+^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Gerardus 't Hooft.
+
+
+
+
+
+Wikiquote has quotations related to: Gerardus 't Hooft
+
+
+
+Gerard 't Hooft (homepage)
+How To Become a Good Theoretical Physicist
+The Nobel Prize in Physics 1999
+A Confrontation with Infinity, Nobel Lecture
+Publications from Google Scholar
+Publications on the Arxiv
+TVO.org video - Gerard t'Hooft lectures on Science Fiction and Reality Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on May 7, 2008
+Scientific publications of Gerard 't Hooft on INSPIRE-HEP
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gerard_%27t_Hooft&oldid=715062275"					
+Categories: Dutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsDutch Nobel laureatesUtrecht University alumniUtrecht University facultyWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurLorentz Medal winnersPeople from Den HelderPeople from Utrecht (city)Members of the French Academy of Sciences1946 birthsLiving peopleSpinoza Prize winnersTheoretical physicistsMars OnePeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Gerard 't Hooft
+
+
+
+November 2008
+
+
+
+Born
+(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Utrecht University
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Martinus J. G. Veltman
+
+
+Doctoral students
+Robbert Dijkgraaf
+Herman Verlinde
+
+
+Known for
+Quantum Field Theory, Quantum Gravity
+
+
+Notable awards
+Heineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)
+
+
+This is a Dutch name; the family name is 't Hooft, not Hooft.
+Gerardus (Gerard) 't Hooft (Dutch: [ˌɣeːrɑrt ət ˈɦoːft]; born July 5, 1946) is a Dutch theoretical physicist and professor at Utrecht University, the Netherlands. He shared the 1999 Nobel Prize in Physics with his thesis advisor Martinus J. G. Veltman "for elucidating the quantum structure of electroweak interactions".
+His work concentrates on gauge theory, black holes, quantum gravity and fundamental aspects of quantum mechanics. His contributions to physics include a proof that gauge theories are renormalizable, dimensional regularization, and the holographic principle.
+
+
+
+Contents
+
+
+1 Personal life
+2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+
+3 Honors
+4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+
+5 See also
+6 References
+7 External links
+
+
+
+Personal life[edit]
+He is married to Albertha Schik (Betteke) and has two daughters, Saskia and Ellen. Saskia has translated one of her father's popular speculative books Planetenbiljart into English. The book's English title is Playing with Planets and was launched in Singapore in November 2008.
+Biography[edit]
+Early life[edit]
+Gerard 't Hooft was born in Den Helder on July 5, 1946, but grew up in The Hague, the seat of government of the Netherlands. He was the middle child of a family of three. He comes from a family of scholars. His grandmother was a sister of Nobel prize laureate Frits Zernike, and was married to Pieter Nicolaas van Kampen, who was a well-known professor of zoology at Leiden University. His uncle Nico van Kampen was an (emeritus) professor of theoretical physics at Utrecht University, and while his mother did not opt for a scientific career because of her gender,[1] she did marry a maritime engineer.[1] Following his family's footsteps, he showed interest in science at an early age. When his primary school teacher asked him what he wanted to be when he grew up, he boldly declared, "a man who knows everything."[1]
+After primary school Gerard attended the Dalton Lyceum, a school that applied the ideas of the Dalton Plan, an educational method that suited him well. He easily passed his science and mathematics courses, but struggled with his language courses. Nonetheless, he passed his classes in English, French, German, classical Greek and Latin. At the age of sixteen he earned a silver medal in the second Dutch Math Olympiad. [1]
+Education[edit]
+After Gerard 't Hooft passed his high school exams in 1964, he enrolled in the physics program at Utrecht University. He opted for Utrecht instead of the much closer Leiden, because his uncle was a professor there and he wanted to attend his lectures. Because he was so focused on science, his father insisted that he join the Utrechtsch Studenten Corps, an elite student association, in the hope that he would do something else besides studying. This worked to some extent, during his studies he was a coxswain with their rowing club "Triton" and organized a national congress for science students with their science discussion club "Christiaan Huygens".
+In the course of his studies he decided he wanted to go into what he perceived as the heart of theoretical physics, elementary particles. His uncle had grown to dislike the subject and in particular its practitioners, so when it became time to write his 'doctoraalscriptie' (Dutch equivalent of a master's thesis) in 1968, 't Hooft turned to the newly appointed professor Martinus Veltman, who specialized in Yang–Mills theory, a relatively fringe subject at the time because it was thought that these could not be renormalized. His assignment was to study the Adler–Bell–Jackiw anomaly, a mismatch in the theory of the decay of neutral pions; formal arguments forbid the decay into photons, whereas practical calculations and experiments showed that this was the primary form of decay. The resolution of the problem was completely unknown at the time, and 't Hooft was unable to provide one.
+In 1969, 't Hooft started on his PhD with Martinus Veltman as his advisor. He would work on the same subject Veltman was working on, the renormalization of Yang–Mills theories. In 1971 his first paper was published.[2] In it he showed how to renormalize massless Yang–Mills fields, and was able to derive relations between amplitudes, which would be generalized by Andrei Slavnov and John C. Taylor, and become known as the Slavnov–Taylor identities.
+The world took little notice, but Veltman was excited because he saw that the problem he had been working on was solved. A period of intense collaboration followed in which they developed the technique of dimensional regularization. Soon 't Hooft's second paper was ready to be published,[3] in which he showed that Yang–Mills theories with massive fields due to spontaneous symmetry breaking could be renormalized. This paper earned them worldwide recognition, and would ultimately earn the pair the 1999 Nobel Prize in Physics.
+These two papers formed the basis of 't Hooft's dissertation, The Renormalization procedure for Yang–Mills Fields, and he obtained his PhD in 1972. In the same year he married his wife, Albertha A. Schik, a student of medicine in Utrecht.[1]
+Career[edit]
+
+
+
+
+Gerard 't Hooft at Harvard
+
+
+After obtaining his doctorate 't Hooft went to CERN in Geneva, where he had a fellowship. He further refined his methods for Yang–Mills theories with Veltman (who went back to Geneva). In this time he became interested in the possibility that the strong interaction could be described as a massless Yang–Mills theory, i.e. one of a type that he had just proved to be renormalizable and hence be susceptible to detailed calculation and comparison with experiment. According to his calculations, this type of theory possessed just the right kind of scaling properties (asymptotic freedom) that this theory should have according to deep inelastic scattering experiments. This was contrary to popular perception of Yang–Mills theories at the time, that like gravitation and electrodynamics, their intensity should decrease with increasing distance between the interacting particles; such conventional behaviour with distance was unable to explain the results of deep inelastic scattering, whereas 't Hooft's calculations could. When he mentioned his results at a small conference at Marseilles in 1972, Kurt Symanzik urged him to publish this result.[1] He did not, and the result was eventually rediscovered and published by Hugh David Politzer, David Gross, and Frank Wilczek in 1973, which led to them earning the 2004 Nobel Prize in Physics.[4][5]
+In 1974, 't Hooft returned to Utrecht where he became assistant professor. In 1976, he was invited for a guest position at Stanford and a position at Harvard as Morris Loeb lecturer. His eldest daughter, Saskia Anne, was born in Boston, while his second daughter, Ellen Marga, was born in 1978 after he returned to Utrecht, where he was made full professor.[1] On July 1, 2011 he was appointed Distinguished professor by Utrecht University.[6]
+Honors[edit]
+In 1999 't Hooft shared the Nobel prize in Physics with his thesis adviser Veltman for "elucidating the quantum structure of the electroweak interactions in physics".[7] Before that time his work had already been recognized by other notable awards. In 1981, he was awarded the Wolf Prize,[8] possibly the most prestigious prize in physics after the Nobel prize. Five years later he received the Lorentz Medal, awarded every four years in recognition of the most important contributions in theoretical physics.[9] In 1995, he was one of the first recipients of the Spinozapremie, the highest award available to scientists in the Netherlands.[10] In the same year he was also honoured with a Franklin Medal.[11]
+Since his Nobel Prize, 't Hooft has received a slew of awards, honorary doctorates and honorary professorships.[12] He was knighted commander in the Order of the Netherlands Lion, and officer in the French Legion of Honor. The asteroid 9491 Thooft has been named in his honor,[13] and he has written a constitution for its future inhabitants.[14]
+He is a member of the Royal Netherlands Academy of Arts and Sciences (KNAW) since 1982,[15] where he was made academy professor in 2003.[16] He is also a foreign member of many other science academies, including the French Académie des Sciences, the American National Academy of Sciences and American Academy of Arts and Sciences and the Britain and Ireland based Institute of Physics.[12]
+Research[edit]
+'t Hooft's research interest can be divided in three main directions: 'gauge theories in elementary particle physics', 'quantum gravity and black holes', and 'foundational aspects of quantum mechanics'.[17]
+Gauge theories in elementary particle physics[edit]
+'t Hooft is most famous for his contributions to the development of gauge theories in particle physics. The best known of these is the proof in his PhD thesis that Yang–Mills theories are renormalizable, for which he shared the 1999 Nobel Prize in Physics. For this proof he introduced (with his adviser Veltman) the technique of dimensional regularization.
+After his PhD, he became interested in the role of gauge theories in the strong interaction,[1] the leading theory of which is called quantum chromodynamics or QCD. Much of his research focused on the problem of colour confinement in QCD, i.e. the observational fact that only colour neutral particles are observed at low energies. This led him to the discovery that SU(N) gauge theories simplify in the large N limit,[18] a fact which has proved important in the examination of the conjectured correspondence between string theories in an Anti-de Sitter space and conformal field theories in one lower dimension. By solving the theory in one space and one time dimension, 't Hooft was able to derive a formula for the masses of mesons.[19]
+He also studied the role of so-called instanton contributions in QCD. His calculation showed that these contributions lead to an interaction between light quarks at low energies not present in the normal theory.[20] Studying instanton solutions of Yang–Mills theories, 't Hooft discovered that spontaneously breaking a theory with SU(N) symmetry to a U(1) symmetry will lead to the existence of magnetic monopoles.[21] These monopoles are called 't Hooft–Polyakov monopoles, after Alexander Polyakov, who independently obtained the same result.[22]
+As another piece in the colour confinement puzzle 't Hooft introduced 't Hooft operators, which are the magnetic dual of Wilson loops.[23] Using these operators he was able to classify different phases of QCD, which form the basis of the QCD phase diagram.
+In 1986, he was finally able to show that instanton contributions solve the Adler–Bell–Jackiw anomaly, the topic of his master's thesis.[24]
+Quantum gravity and black holes[edit]
+When Veltman and 't Hooft moved to CERN after 't Hooft obtained his PhD, Veltman's attention was drawn to the possibility of using their dimensional regularization techniques to the problem of quantizing gravity. Although it was known that perturbative quantum gravity was not completely renormalizible, they felt important lessons were to be learned by studying the formal renormalization of the theory order by order. This work would be continued by Stanley Deser and another PhD student of Veltman, Peter van Nieuwenhuizen, who later found patterns in the renormalization counter terms, which led to the discovery of supergravity.[1]
+In the 1980s, 't Hooft's attention was drawn to the subject of gravity in 3 spacetime dimensions. Together with Deser and Jackiw he published an article in 1984 describing the dynamics of flat space where the only local degrees of freedom were propagating point defects.[25] His attention returned to this model at various points in time, showing that Gott pairs would not cause causality violating timelike loops,[26] and showing how the model could be quantized.[27] More recently he proposed generalizing this piecewise flat model of gravity to 4 spacetime dimensions.[28]
+With Stephen Hawking's discovery of Hawking radiation of black holes, it appeared that the evaporation of these objects violated a fundamental property of quantum mechanics, unitarity. 't Hooft refused to accept this problem, known as the black hole information paradox, and assumed that this must be the result of the semi-classical treatment of Hawking, and that it should not appear in a full theory of quantum gravity. He proposed that it might be possible to study some of the properties of such a theory, by assuming that such a theory was unitary.
+Using this approach he has argued that near a black hole, quantum fields could be described by a theory in a lower dimension.[29] This led to the introduction of the holographic principle by him and Leonard Susskind.[30]
+Fundamental aspects of quantum mechanics[edit]
+'t Hooft has "deviating views on the physical interpretation of quantum theory".[17] He believes that there could be a deterministic explanation underlying quantum mechanics.[31] Using a speculative model he has argued that such a theory could avoid the usual Bell inequality arguments that would disallow such a local hidden variable theory.[32]
+See also[edit]
+
+Anomaly matching condition
+Feynman–'t Hooft gauge
+Minimal subtraction scheme
+Naturalness (physics)
+Renormalon
+'t Hooft symbol
+Mars One (Gerard 't Hooft is a main supporter of the project)
+
+References[edit]
+
+
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 
+^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 
+^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 
+^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. 
+^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. 
+^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. 
+^ "The Nobel Prize in Physics 1999". Nobel web. 
+^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. 
+^ "Lorentz medal". Leiden University. 
+^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. 
+^ "Franklin Laureate Database". The Franklin Institute. 
+^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. 
+^ "JPL Small-Body Database Browser". NASA. 
+^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. 
+^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. 
+^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. 
+^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 
+^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 
+^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 
+^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 
+^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 
+^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. 
+^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 
+^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 
+^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. 
+^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 
+^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. 
+^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 
+^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. 
+^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. 
+^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Gerardus 't Hooft.
+
+
+
+
+
+Wikiquote has quotations related to: Gerardus 't Hooft
+
+
+
+Gerard 't Hooft (homepage)
+How To Become a Good Theoretical Physicist
+The Nobel Prize in Physics 1999
+A Confrontation with Infinity, Nobel Lecture
+Publications from Google Scholar
+Publications on the Arxiv
+TVO.org video - Gerard t'Hooft lectures on Science Fiction and Reality Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on May 7, 2008
+Scientific publications of Gerard 't Hooft on INSPIRE-HEP
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gerard 't Hooft
+
+
+
+November 2008
+
+
+
+Born
+(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands
+
+
+Nationality
+Dutch
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+Utrecht University
+
+
+Alma mater
+Utrecht University
+
+
+Doctoral advisor
+Martinus J. G. Veltman
+
+
+Doctoral students
+Robbert Dijkgraaf
+Herman Verlinde
+
+
+Known for
+Quantum Field Theory, Quantum Gravity
+
+
+Notable awards
+Heineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)
+
+
+Gerard 't Hooft
+Gerard 't HooftGerard 't Hooft
+
+November 2008
+
+
+November 2008
+November 2008
+Born
+(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands
+Born(1946-07-05) July 5, 1946 (age 69)
+Den Helder, Netherlands(1946-07-05)1946-07-05(age 69)Den Helder
+Nationality
+Dutch
+NationalityDutch
+Fields
+Theoretical physics
+FieldsTheoretical physicsTheoretical physics
+Institutions
+Utrecht University
+InstitutionsUtrecht UniversityUtrecht University
+Alma mater
+Utrecht University
+Alma materAlma materAlma materUtrecht UniversityUtrecht University
+Doctoral advisor
+Martinus J. G. Veltman
+Doctoral advisorDoctoral advisorMartinus J. G. VeltmanMartinus J. G. Veltman
+Doctoral students
+Robbert Dijkgraaf
+Herman Verlinde
+Doctoral studentsRobbert Dijkgraaf
+Herman VerlindeRobbert DijkgraafHerman Verlinde
+Known for
+Quantum Field Theory, Quantum Gravity
+Known forQuantum Field Theory, Quantum GravityQuantum Field TheoryQuantum Gravity
+Notable awards
+Heineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)
+Notable awardsHeineman Prize (1979)
+Wolf Prize (1981)
+Lorentz Medal (1986)
+Spinoza Prize (1995)
+Franklin Medal (1995)
+Nobel Prize in Physics (1999)
+Lomonosov Gold Medal (2010)Heineman Prize(1979)Wolf Prize(1981)Lorentz Medal(1986)Spinoza Prize(1995)Franklin Medal(1995)Nobel Prize in Physics(1999)Lomonosov Gold Medal(2010)This is a Dutch name; the family name is 't Hooft, not Hooft.Dutch namefamily namet HooftHooftGerardus (Gerard) 't Hooft (Dutch: [ˌɣeːrɑrt ət ˈɦoːft]; born July 5, 1946) is a Dutch theoretical physicist and professor at Utrecht University, the Netherlands. He shared the 1999 Nobel Prize in Physics with his thesis advisor Martinus J. G. Veltman "for elucidating the quantum structure of electroweak interactions".GerardusGerardt HooftDutch: [ˌɣeːrɑrt ət ˈɦoːft][ˌɣeːrɑrt ət ˈɦoːft]Dutchtheoretical physicistUtrecht UniversityNobel Prize in PhysicsMartinus J. G. Veltmanelectroweak interactionsHis work concentrates on gauge theory, black holes, quantum gravity and fundamental aspects of quantum mechanics. His contributions to physics include a proof that gauge theories are renormalizable, dimensional regularization, and the holographic principle.gauge theoryblack holesquantum gravityrenormalizabledimensional regularizationholographic principle
+
+Contents
+
+
+1 Personal life
+2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+
+3 Honors
+4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+
+5 See also
+6 References
+7 External links
+
+
+Contents
+Contents
+1 Personal life
+2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+
+3 Honors
+4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+
+5 See also
+6 References
+7 External links
+1 Personal life1 Personal life1Personal life2 Biography
+
+2.1 Early life
+2.2 Education
+2.3 Career
+
+2 Biography2Biography
+2.1 Early life
+2.2 Education
+2.3 Career
+2.1 Early life2.1 Early life2.1Early life2.2 Education2.2 Education2.2Education2.3 Career2.3 Career2.3Career3 Honors3 Honors3Honors4 Research
+
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+
+4 Research4Research
+4.1 Gauge theories in elementary particle physics
+4.2 Quantum gravity and black holes
+4.3 Fundamental aspects of quantum mechanics
+4.1 Gauge theories in elementary particle physics4.1 Gauge theories in elementary particle physics4.1Gauge theories in elementary particle physics4.2 Quantum gravity and black holes4.2 Quantum gravity and black holes4.2Quantum gravity and black holes4.3 Fundamental aspects of quantum mechanics4.3 Fundamental aspects of quantum mechanics4.3Fundamental aspects of quantum mechanics5 See also5 See also5See also6 References6 References6References7 External links7 External links7External linksPersonal life[edit]Personal life[edit][edit]He is married to Albertha Schik (Betteke) and has two daughters, Saskia and Ellen. Saskia has translated one of her father's popular speculative books Planetenbiljart into English. The book's English title is Playing with Planets and was launched in Singapore in November 2008.PlanetenbiljartPlaying with PlanetsPlaying with PlanetsSingaporeBiography[edit]Biography[edit][edit]Early life[edit]Early life[edit][edit]Gerard 't Hooft was born in Den Helder on July 5, 1946, but grew up in The Hague, the seat of government of the Netherlands. He was the middle child of a family of three. He comes from a family of scholars. His grandmother was a sister of Nobel prize laureate Frits Zernike, and was married to Pieter Nicolaas van Kampen, who was a well-known professor of zoology at Leiden University. His uncle Nico van Kampen was an (emeritus) professor of theoretical physics at Utrecht University, and while his mother did not opt for a scientific career because of her gender,[1] she did marry a maritime engineer.[1] Following his family's footsteps, he showed interest in science at an early age. When his primary school teacher asked him what he wanted to be when he grew up, he boldly declared, "a man who knows everything."[1]Den HelderThe HagueFrits ZernikezoologyLeidenNico van Kampen[1][1][1][1][1][1]After primary school Gerard attended the Dalton Lyceum, a school that applied the ideas of the Dalton Plan, an educational method that suited him well. He easily passed his science and mathematics courses, but struggled with his language courses. Nonetheless, he passed his classes in English, French, German, classical Greek and Latin. At the age of sixteen he earned a silver medal in the second Dutch Math Olympiad. [1]Dalton Planclassical GreekLatinMath Olympiad[1][1]Education[edit]Education[edit][edit]After Gerard 't Hooft passed his high school exams in 1964, he enrolled in the physics program at Utrecht University. He opted for Utrecht instead of the much closer Leiden, because his uncle was a professor there and he wanted to attend his lectures. Because he was so focused on science, his father insisted that he join the Utrechtsch Studenten Corps, an elite student association, in the hope that he would do something else besides studying. This worked to some extent, during his studies he was a coxswain with their rowing club "Triton" and organized a national congress for science students with their science discussion club "Christiaan Huygens".coxswainIn the course of his studies he decided he wanted to go into what he perceived as the heart of theoretical physics, elementary particles. His uncle had grown to dislike the subject and in particular its practitioners, so when it became time to write his 'doctoraalscriptie' (Dutch equivalent of a master's thesis) in 1968, 't Hooft turned to the newly appointed professor Martinus Veltman, who specialized in Yang–Mills theory, a relatively fringe subject at the time because it was thought that these could not be renormalized. His assignment was to study the Adler–Bell–Jackiw anomaly, a mismatch in the theory of the decay of neutral pions; formal arguments forbid the decay into photons, whereas practical calculations and experiments showed that this was the primary form of decay. The resolution of the problem was completely unknown at the time, and 't Hooft was unable to provide one.elementary particlesMartinus VeltmanYang–Mills theoryrenormalizedAdler–Bell–Jackiw anomalypionsphotonsIn 1969, 't Hooft started on his PhD with Martinus Veltman as his advisor. He would work on the same subject Veltman was working on, the renormalization of Yang–Mills theories. In 1971 his first paper was published.[2] In it he showed how to renormalize massless Yang–Mills fields, and was able to derive relations between amplitudes, which would be generalized by Andrei Slavnov and John C. Taylor, and become known as the Slavnov–Taylor identities.[2][2]Andrei SlavnovJohn C. TaylorSlavnov–Taylor identitiesThe world took little notice, but Veltman was excited because he saw that the problem he had been working on was solved. A period of intense collaboration followed in which they developed the technique of dimensional regularization. Soon 't Hooft's second paper was ready to be published,[3] in which he showed that Yang–Mills theories with massive fields due to spontaneous symmetry breaking could be renormalized. This paper earned them worldwide recognition, and would ultimately earn the pair the 1999 Nobel Prize in Physics.dimensional regularization[3][3]These two papers formed the basis of 't Hooft's dissertation, The Renormalization procedure for Yang–Mills Fields, and he obtained his PhD in 1972. In the same year he married his wife, Albertha A. Schik, a student of medicine in Utrecht.[1]The Renormalization procedure for Yang–Mills Fieldsmedicine[1][1]Career[edit]Career[edit][edit]
+
+
+
+Gerard 't Hooft at Harvard
+
+
+
+
+Gerard 't Hooft at Harvard
+
+
+Gerard 't Hooft at HarvardAfter obtaining his doctorate 't Hooft went to CERN in Geneva, where he had a fellowship. He further refined his methods for Yang–Mills theories with Veltman (who went back to Geneva). In this time he became interested in the possibility that the strong interaction could be described as a massless Yang–Mills theory, i.e. one of a type that he had just proved to be renormalizable and hence be susceptible to detailed calculation and comparison with experiment. According to his calculations, this type of theory possessed just the right kind of scaling properties (asymptotic freedom) that this theory should have according to deep inelastic scattering experiments. This was contrary to popular perception of Yang–Mills theories at the time, that like gravitation and electrodynamics, their intensity should decrease with increasing distance between the interacting particles; such conventional behaviour with distance was unable to explain the results of deep inelastic scattering, whereas 't Hooft's calculations could. When he mentioned his results at a small conference at Marseilles in 1972, Kurt Symanzik urged him to publish this result.[1] He did not, and the result was eventually rediscovered and published by Hugh David Politzer, David Gross, and Frank Wilczek in 1973, which led to them earning the 2004 Nobel Prize in Physics.[4][5]CERNstrong interactionasymptotic freedomdeep inelastic scatteringKurt Symanzik[1][1]Hugh David PolitzerDavid GrossFrank Wilczek[4][4][5][5]In 1974, 't Hooft returned to Utrecht where he became assistant professor. In 1976, he was invited for a guest position at Stanford and a position at Harvard as Morris Loeb lecturer. His eldest daughter, Saskia Anne, was born in Boston, while his second daughter, Ellen Marga, was born in 1978 after he returned to Utrecht, where he was made full professor.[1] On July 1, 2011 he was appointed Distinguished professor by Utrecht University.[6]StanfordHarvardBoston[1][1][6][6]Honors[edit]Honors[edit][edit]In 1999 't Hooft shared the Nobel prize in Physics with his thesis adviser Veltman for "elucidating the quantum structure of the electroweak interactions in physics".[7] Before that time his work had already been recognized by other notable awards. In 1981, he was awarded the Wolf Prize,[8] possibly the most prestigious prize in physics after the Nobel prize. Five years later he received the Lorentz Medal, awarded every four years in recognition of the most important contributions in theoretical physics.[9] In 1995, he was one of the first recipients of the Spinozapremie, the highest award available to scientists in the Netherlands.[10] In the same year he was also honoured with a Franklin Medal.[11][7][7]Wolf Prize[8][8]Lorentz Medal[9][9]Spinozapremie[10][10]Franklin Medal[11][11]Since his Nobel Prize, 't Hooft has received a slew of awards, honorary doctorates and honorary professorships.[12] He was knighted commander in the Order of the Netherlands Lion, and officer in the French Legion of Honor. The asteroid 9491 Thooft has been named in his honor,[13] and he has written a constitution for its future inhabitants.[14]honorary doctorates[12][12]Order of the Netherlands LionLegion of Honor9491 Thooft[13][13][14][14]He is a member of the Royal Netherlands Academy of Arts and Sciences (KNAW) since 1982,[15] where he was made academy professor in 2003.[16] He is also a foreign member of many other science academies, including the French Académie des Sciences, the American National Academy of Sciences and American Academy of Arts and Sciences and the Britain and Ireland based Institute of Physics.[12]Royal Netherlands Academy of Arts and Sciences[15][15][16][16]Académie des SciencesNational Academy of SciencesAmerican Academy of Arts and SciencesInstitute of Physics[12][12]Research[edit]Research[edit][edit]'t Hooft's research interest can be divided in three main directions: 'gauge theories in elementary particle physics', 'quantum gravity and black holes', and 'foundational aspects of quantum mechanics'.[17][17][17]Gauge theories in elementary particle physics[edit]Gauge theories in elementary particle physics[edit][edit]'t Hooft is most famous for his contributions to the development of gauge theories in particle physics. The best known of these is the proof in his PhD thesis that Yang–Mills theories are renormalizable, for which he shared the 1999 Nobel Prize in Physics. For this proof he introduced (with his adviser Veltman) the technique of dimensional regularization.After his PhD, he became interested in the role of gauge theories in the strong interaction,[1] the leading theory of which is called quantum chromodynamics or QCD. Much of his research focused on the problem of colour confinement in QCD, i.e. the observational fact that only colour neutral particles are observed at low energies. This led him to the discovery that SU(N) gauge theories simplify in the large N limit,[18] a fact which has proved important in the examination of the conjectured correspondence between string theories in an Anti-de Sitter space and conformal field theories in one lower dimension. By solving the theory in one space and one time dimension, 't Hooft was able to derive a formula for the masses of mesons.[19][1][1]quantum chromodynamicscolour confinementSU(N)large N limitN[18][18]correspondencestring theoriesAnti-de Sitter spaceconformal field theoriesmesons[19][19]He also studied the role of so-called instanton contributions in QCD. His calculation showed that these contributions lead to an interaction between light quarks at low energies not present in the normal theory.[20] Studying instanton solutions of Yang–Mills theories, 't Hooft discovered that spontaneously breaking a theory with SU(N) symmetry to a U(1) symmetry will lead to the existence of magnetic monopoles.[21] These monopoles are called 't Hooft–Polyakov monopoles, after Alexander Polyakov, who independently obtained the same result.[22]instantonquarks[20][20]spontaneously breakingU(1)magnetic monopoles[21][21]'t Hooft–Polyakov monopolesAlexander Polyakov[22][22]As another piece in the colour confinement puzzle 't Hooft introduced 't Hooft operators, which are the magnetic dual of Wilson loops.[23] Using these operators he was able to classify different phases of QCD, which form the basis of the QCD phase diagram.'t Hooft operatorsmagnetic dualWilson loops[23][23]phasesQCD phase diagramIn 1986, he was finally able to show that instanton contributions solve the Adler–Bell–Jackiw anomaly, the topic of his master's thesis.[24][24][24]Quantum gravity and black holes[edit]Quantum gravity and black holes[edit][edit]When Veltman and 't Hooft moved to CERN after 't Hooft obtained his PhD, Veltman's attention was drawn to the possibility of using their dimensional regularization techniques to the problem of quantizing gravity. Although it was known that perturbative quantum gravity was not completely renormalizible, they felt important lessons were to be learned by studying the formal renormalization of the theory order by order. This work would be continued by Stanley Deser and another PhD student of Veltman, Peter van Nieuwenhuizen, who later found patterns in the renormalization counter terms, which led to the discovery of supergravity.[1]quantum gravityStanley DeserPeter van Nieuwenhuizencounter termssupergravity[1][1]In the 1980s, 't Hooft's attention was drawn to the subject of gravity in 3 spacetime dimensions. Together with Deser and Jackiw he published an article in 1984 describing the dynamics of flat space where the only local degrees of freedom were propagating point defects.[25] His attention returned to this model at various points in time, showing that Gott pairs would not cause causality violating timelike loops,[26] and showing how the model could be quantized.[27] More recently he proposed generalizing this piecewise flat model of gravity to 4 spacetime dimensions.[28][25][25]Gott pairscausalitytimelike loops[26][26][27][27][28][28]With Stephen Hawking's discovery of Hawking radiation of black holes, it appeared that the evaporation of these objects violated a fundamental property of quantum mechanics, unitarity. 't Hooft refused to accept this problem, known as the black hole information paradox, and assumed that this must be the result of the semi-classical treatment of Hawking, and that it should not appear in a full theory of quantum gravity. He proposed that it might be possible to study some of the properties of such a theory, by assuming that such a theory was unitary.Stephen HawkingHawking radiationblack holesunitarityblack hole information paradoxUsing this approach he has argued that near a black hole, quantum fields could be described by a theory in a lower dimension.[29] This led to the introduction of the holographic principle by him and Leonard Susskind.[30][29][29]holographic principleLeonard Susskind[30][30]Fundamental aspects of quantum mechanics[edit]Fundamental aspects of quantum mechanics[edit][edit]'t Hooft has "deviating views on the physical interpretation of quantum theory".[17] He believes that there could be a deterministic explanation underlying quantum mechanics.[31] Using a speculative model he has argued that such a theory could avoid the usual Bell inequality arguments that would disallow such a local hidden variable theory.[32]interpretationquantum theory[17][17]deterministic[31][31]Bell inequalityhidden variable theory[32][32]See also[edit]See also[edit][edit]
+Anomaly matching condition
+Feynman–'t Hooft gauge
+Minimal subtraction scheme
+Naturalness (physics)
+Renormalon
+'t Hooft symbol
+Mars One (Gerard 't Hooft is a main supporter of the project)
+Anomaly matching conditionAnomaly matching conditionFeynman–'t Hooft gaugeFeynman–'t Hooft gaugeMinimal subtraction schemeMinimal subtraction schemeNaturalness (physics)Naturalness (physics)RenormalonRenormalon't Hooft symbol't Hooft symbolMars One (Gerard 't Hooft is a main supporter of the project)Mars OneReferences[edit]References[edit][edit]
+
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 
+^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 
+^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 
+^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. 
+^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. 
+^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. 
+^ "The Nobel Prize in Physics 1999". Nobel web. 
+^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. 
+^ "Lorentz medal". Leiden University. 
+^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. 
+^ "Franklin Laureate Database". The Franklin Institute. 
+^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. 
+^ "JPL Small-Body Database Browser". NASA. 
+^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. 
+^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. 
+^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. 
+^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 
+^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 
+^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 
+^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 
+^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 
+^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. 
+^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 
+^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 
+^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. 
+^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 
+^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. 
+^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 
+^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. 
+^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. 
+^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. 
+
+
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 
+^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 
+^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 
+^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. 
+^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. 
+^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. 
+^ "The Nobel Prize in Physics 1999". Nobel web. 
+^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. 
+^ "Lorentz medal". Leiden University. 
+^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. 
+^ "Franklin Laureate Database". The Franklin Institute. 
+^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. 
+^ "JPL Small-Body Database Browser". NASA. 
+^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. 
+^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. 
+^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. 
+^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 
+^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 
+^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 
+^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 
+^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 
+^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. 
+^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 
+^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 
+^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. 
+^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 
+^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. 
+^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 
+^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. 
+^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. 
+^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. 
+^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. 
+^ a b c d e f g h i 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. ^ a b c d e f g h iaaaabbbbccccddddeeeeffffgggghhhhiiii't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06. 't Hooft, G. (1999). "Gerardus 't Hooft — Autobiography". Nobel web. Retrieved 2010-10-06."Gerardus 't Hooft — Autobiography". Retrieved 2010-10-062010-10-06  ^ 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. ^^^'t Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6. 't Hooft, G. . (1971). "Renormalization of massless Yang-Mills fields". Nuclear Physics B 33: 173–177. Bibcode:1971NuPhB..33..173T. doi:10.1016/0550-3213(71)90395-6.Nuclear Physics B33Bibcode1971NuPhB..33..173Tdoi10.1016/0550-3213(71)90395-6  ^ 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. ^^^'t Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8. 't Hooft, G. . (1971). "Renormalizable Lagrangians for massive Yang-Mills fields". Nuclear Physics B 35: 167–188. Bibcode:1971NuPhB..35..167T. doi:10.1016/0550-3213(71)90139-8.Nuclear Physics B35Bibcode1971NuPhB..35..167Tdoi10.1016/0550-3213(71)90139-8  ^ "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. ^^^"The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24. "The Nobel Prize in Physics 2004". Nobel Web. 2004. Retrieved 2010-10-24."The Nobel Prize in Physics 2004". Retrieved 2010-10-242010-10-24  ^ Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. ^^^Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24. Politzer, H. David (2004). "The Dilemma of Attribution" (PDF). Nobel Web. Retrieved 2010-10-24."The Dilemma of Attribution"(PDF). Retrieved 2010-10-242010-10-24  ^ "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. ^^^"Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19. "Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor". Utrecht University. Archived from the original on 2012-04-19. Retrieved 2012-04-19."Prof. dr. Gerard ‘t Hooft has been appointed Distinguished Professor"the original. Retrieved 2012-04-192012-04-19  ^ "The Nobel Prize in Physics 1999". Nobel web. ^^^"The Nobel Prize in Physics 1999". Nobel web. "The Nobel Prize in Physics 1999". Nobel web."The Nobel Prize in Physics 1999"  ^ "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. ^^^"The 1981 Wolf Foundation Prize in Physics". Wolf Foundation. "The 1981 Wolf Foundation Prize in Physics". Wolf Foundation."The 1981 Wolf Foundation Prize in Physics"  ^ "Lorentz medal". Leiden University. ^^^"Lorentz medal". Leiden University. "Lorentz medal". Leiden University."Lorentz medal"Leiden University  ^ "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. ^^^"NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30. "NWO Spinoza Prize 1995". Netherlands Organisation for Scientific Research. 3 September 2014. Retrieved 2016-01-30."NWO Spinoza Prize 1995". Retrieved 2016-01-302016-01-30  ^ "Franklin Laureate Database". The Franklin Institute. ^^^"Franklin Laureate Database". The Franklin Institute. "Franklin Laureate Database". The Franklin Institute."Franklin Laureate Database"  ^ a b "Curriculum Vitae Gerard 't Hooft". G. 't Hooft. ^ a baaaabbbb"Curriculum Vitae Gerard 't Hooft". G. 't Hooft. "Curriculum Vitae Gerard 't Hooft". G. 't Hooft."Curriculum Vitae Gerard 't Hooft"  ^ "JPL Small-Body Database Browser". NASA. ^^^"JPL Small-Body Database Browser". NASA. "JPL Small-Body Database Browser". NASA."JPL Small-Body Database Browser"  ^ "9491 THOOFT — Constitution and Bylaws". G. 't Hooft. ^^^"9491 THOOFT — Constitution and Bylaws". G. 't Hooft. "9491 THOOFT — Constitution and Bylaws". G. 't Hooft."9491 THOOFT — Constitution and Bylaws"  ^ "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. ^^^"Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17. "Gerard 't Hooft". Royal Netherlands Academy of Arts and Sciences. Retrieved 2015-07-17."Gerard 't Hooft". Retrieved 2015-07-172015-07-17  ^ "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. ^^^"Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences. "Academy Professorships Programme - 2003". Royal Netherlands Academy of Arts and Sciences."Academy Professorships Programme - 2003"Royal Netherlands Academy of Arts and Sciences  ^ a b 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. ^ a baaaabbbb't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24. 't Hooft, G. "Gerard 't Hooft". Retrieved 2010-10-24."Gerard 't Hooft". Retrieved 2010-10-242010-10-24  ^ 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. ^^^'t Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0. 't Hooft, G. (1974). "A planar diagram theory for strong interactions". Nuclear Physics B 72 (3): 461–470. Bibcode:1974NuPhB..72..461T. doi:10.1016/0550-3213(74)90154-0.Nuclear Physics B72Bibcode1974NuPhB..72..461Tdoi10.1016/0550-3213(74)90154-0  ^ 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. ^^^'t Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1. 't Hooft, G. (1974). "A two-dimensional model for mesons". Nuclear Physics B 75 (3): 461–863. Bibcode:1974NuPhB..75..461T. doi:10.1016/0550-3213(74)90088-1.Nuclear Physics B75Bibcode1974NuPhB..75..461Tdoi10.1016/0550-3213(74)90088-1  ^ 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. ^^^'t Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432. 't Hooft, G. (1976). "Computation of the quantum effects due to a four-dimensional pseudoparticle". Physical Review D 14 (12): 3432. Bibcode:1976PhRvD..14.3432T. doi:10.1103/PhysRevD.14.3432.Physical Review D14Bibcode1976PhRvD..14.3432Tdoi10.1103/PhysRevD.14.3432  ^ 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. ^^^'t Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6. 't Hooft, G. (1974). "Magnetic monopoles in unified gauge theories". Nuclear Physics B 79 (2): 276–284. Bibcode:1974NuPhB..79..276T. doi:10.1016/0550-3213(74)90486-6.Nuclear Physics B79Bibcode1974NuPhB..79..276Tdoi10.1016/0550-3213(74)90486-6  ^ Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. ^^^Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P. Polyakov, A.M. (1974). "Particle spectrum in quantum field theory". Journal of Experimental and Theoretical Physics Letters 20: 194. Bibcode:1974JETPL..20..194P.Journal of Experimental and Theoretical Physics Letters20Bibcode1974JETPL..20..194P  ^ 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. ^^^'t Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0. 't Hooft, G. (1978). "On the phase transition towards permanent quark confinement". Nuclear Physics B 138: 1–2. Bibcode:1978NuPhB.138....1T. doi:10.1016/0550-3213(78)90153-0.Nuclear Physics B138Bibcode1978NuPhB.138....1Tdoi10.1016/0550-3213(78)90153-0  ^ 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. ^^^'t Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1. 't Hooft, G. (1986). "How instantons solve the U(1) problem". Physics Reports 142 (6): 357–712. Bibcode:1986PhR...142..357T. doi:10.1016/0370-1573(86)90117-1.Physics Reports142Bibcode1986PhR...142..357Tdoi10.1016/0370-1573(86)90117-1  ^ Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. ^^^Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X. Deser, S.; Jackiw, R.; 't Hooft, G. (1984). "Three-dimensional Einstein gravity: Dynamics of flat space". Annals of Physics 152: 220. Bibcode:1984AnPhy.152..220D. doi:10.1016/0003-4916(84)90085-X.Annals of Physics152Bibcode1984AnPhy.152..220Ddoi10.1016/0003-4916(84)90085-X  ^ 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. ^^^'t Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015. 't Hooft, G. (1992). "Causality in (2+1)-dimensional gravity". Classical and Quantum Gravity 9 (5): 1335. Bibcode:1992CQGra...9.1335T. doi:10.1088/0264-9381/9/5/015.Classical and Quantum Gravity9Bibcode1992CQGra...9.1335Tdoi10.1088/0264-9381/9/5/015  ^ Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. ^^^Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022. Hooft, G. 'T. (1993). "Canonical quantization of gravitating point particles in 2+1 dimensions". Classical and Quantum Gravity 10 (8): 1653. arXiv:gr-qc/9305008. Bibcode:1993CQGra..10.1653T. doi:10.1088/0264-9381/10/8/022.Classical and Quantum Gravity10arXivgr-qc/9305008Bibcode1993CQGra..10.1653Tdoi10.1088/0264-9381/10/8/022  ^ 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. ^^^'t Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3. 't Hooft, G. (2008). "A Locally Finite Model for Gravity". Foundations of Physics 38 (8): 733–757. arXiv:0804.0328. Bibcode:2008FoPh...38..733T. doi:10.1007/s10701-008-9231-3.Foundations of Physics38arXiv0804.0328Bibcode2008FoPh...38..733Tdoi10.1007/s10701-008-9231-3  ^ Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. ^^^Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014. Stephens, C. R.; 't Hooft, G.; Whiting, B. F. (1994). "Black hole evaporation without information loss". Classical and Quantum Gravity 11 (3): 621. arXiv:gr-qc/9310006. Bibcode:1994CQGra..11..621S. doi:10.1088/0264-9381/11/3/014.Classical and Quantum Gravity11arXivgr-qc/9310006Bibcode1994CQGra..11..621Sdoi10.1088/0264-9381/11/3/014  ^ Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. ^^^Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249. Susskind, L. (1995). "The world as a hologram". Journal of Mathematical Physics 36 (11): 6377–6371. arXiv:hep-th/9409089. Bibcode:1995JMP....36.6377S. doi:10.1063/1.531249.Journal of Mathematical Physics36arXivhep-th/9409089Bibcode1995JMP....36.6377Sdoi10.1063/1.531249  ^ Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. ^^^Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015. Hooft, G. 'T. (2007). "A mathematical theory for deterministic quantum mechanics". Journal of Physics: Conference Series 67: 012015. arXiv:quant-ph/0604008. Bibcode:2007JPhCS..67a2015T. doi:10.1088/1742-6596/67/1/012015.Journal of Physics: Conference Series67arXivquant-ph/0604008Bibcode2007JPhCS..67a2015Tdoi10.1088/1742-6596/67/1/012015  ^ Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. ^^^Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph]. Gerard 't Hooft (2009). "Entangled quantum states in a local deterministic theory". arXiv:0908.3408 [quant-ph].arXiv0908.3408quant-ph  External links[edit]External links[edit][edit]
+
+
+Wikimedia Commons has media related to Gerardus 't Hooft.
+
+
+
+Wikimedia Commons has media related to Gerardus 't Hooft.
+Wikimedia Commons has media related to Gerardus 't Hooft.Gerardus 't HooftGerardus 't HooftGerardus 't Hooft
+
+
+Wikiquote has quotations related to: Gerardus 't Hooft
+
+
+
+Wikiquote has quotations related to: Gerardus 't Hooft
+Wikiquote has quotations related to: Gerardus 't HooftGerardus 't HooftGerardus 't HooftGerardus 't Hooft
+Gerard 't Hooft (homepage)
+How To Become a Good Theoretical Physicist
+The Nobel Prize in Physics 1999
+A Confrontation with Infinity, Nobel Lecture
+Publications from Google Scholar
+Publications on the Arxiv
+TVO.org video - Gerard t'Hooft lectures on Science Fiction and Reality Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on May 7, 2008
+Scientific publications of Gerard 't Hooft on INSPIRE-HEP
+Gerard 't Hooft (homepage)Gerard 't HooftHow To Become a Good Theoretical PhysicistHow To Become a Good Theoretical PhysicistThe Nobel Prize in Physics 1999The Nobel Prize in Physics 1999A Confrontation with Infinity, Nobel LectureA Confrontation with InfinityPublications from Google ScholarPublicationsGoogle ScholarPublications on the ArxivPublicationsArxivTVO.org video - Gerard t'Hooft lectures on Science Fiction and Reality Lecture delivered at the Perimeter Institute in Waterloo, Ontario, Canada on May 7, 2008TVO.org video - Gerard t'Hooft lectures on Science Fiction and RealityScientific publications of Gerard 't Hooft on INSPIRE-HEPScientific publications of Gerard 't Hooft onINSPIRE-HEP
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+
+
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+
+
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+
+
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+
+
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Wolf Prize in Physics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeLaureates of the Wolf Prize in PhysicsWolf Prize in Physics
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+
+
+Agriculture
+Arts
+Chemistry
+Mathematics
+Medicine
+Physics
+AgricultureAgricultureArtsArtsChemistryChemistryMathematicsMathematicsMedicineMedicinePhysicsPhysicsPhysics
+
+
+1970s
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+1970s
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+
+
+Chien-Shiung Wu (1978)
+George Uhlenbeck / Giuseppe Occhialini (1979)
+Chien-Shiung Wu (1978)Chien-Shiung WuGeorge Uhlenbeck / Giuseppe Occhialini (1979)George UhlenbeckGiuseppe Occhialini
+
+
+1980s
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+1980s
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+
+
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)
+Freeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)
+Leon M. Lederman / Martin Lewis Perl (1982)
+Erwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)
+Conyers Herring / Philippe Nozières (1984–85)
+Mitchell Feigenbaum / Albert J. Libchaber (1986)
+Herbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)
+Roger Penrose / Stephen Hawking (1988)
+Michael Fisher / Leo Kadanoff / Kenneth G. Wilson (1980)Michael FisherLeo KadanoffKenneth G. WilsonFreeman Dyson / Gerardus 't Hooft / Victor Weisskopf (1981)Freeman DysonGerardus 't HooftVictor WeisskopfLeon M. Lederman / Martin Lewis Perl (1982)Leon M. LedermanMartin Lewis PerlErwin Hahn / Peter Hirsch / Theodore Maiman (1983–84)Erwin HahnPeter HirschTheodore MaimanConyers Herring / Philippe Nozières (1984–85)Conyers HerringPhilippe NozièresMitchell Feigenbaum / Albert J. Libchaber (1986)Mitchell FeigenbaumAlbert J. LibchaberHerbert Friedman / Bruno Rossi / Riccardo Giacconi (1987)Herbert FriedmanBruno RossiRiccardo GiacconiRoger Penrose / Stephen Hawking (1988)Roger PenroseStephen Hawking
+
+
+1990s
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+1990s
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+
+
+Pierre-Gilles de Gennes / David J. Thouless (1990)
+Maurice Goldhaber / Valentine Telegdi (1991)
+Joseph H. Taylor, Jr. (1992)
+Benoît Mandelbrot (1993)
+Vitaly Ginzburg / Yoichiro Nambu (1994–95)
+John Wheeler (1996–97)
+Yakir Aharonov / Michael Berry (1998)
+Dan Shechtman (1999)
+Pierre-Gilles de Gennes / David J. Thouless (1990)Pierre-Gilles de GennesDavid J. ThoulessMaurice Goldhaber / Valentine Telegdi (1991)Maurice GoldhaberValentine TelegdiJoseph H. Taylor, Jr. (1992)Joseph H. Taylor, Jr.Benoît Mandelbrot (1993)Benoît MandelbrotVitaly Ginzburg / Yoichiro Nambu (1994–95)Vitaly GinzburgYoichiro NambuJohn Wheeler (1996–97)John WheelerYakir Aharonov / Michael Berry (1998)Yakir AharonovMichael BerryDan Shechtman (1999)Dan Shechtman
+
+
+2000s
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+2000s
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+
+
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)
+Bertrand Halperin / Anthony Leggett (2002–03)
+Robert Brout / François Englert / Peter Higgs (2004)
+Daniel Kleppner (2005)
+Albert Fert / Peter Grünberg (2006–07)
+Raymond Davis, Jr. / Masatoshi Koshiba (2000)Raymond Davis, Jr.Masatoshi KoshibaBertrand Halperin / Anthony Leggett (2002–03)Bertrand HalperinAnthony LeggettRobert Brout / François Englert / Peter Higgs (2004)Robert BroutFrançois EnglertPeter HiggsDaniel Kleppner (2005)Daniel KleppnerAlbert Fert / Peter Grünberg (2006–07)Albert FertPeter Grünberg
+
+
+2010s
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+2010s
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+
+
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)
+Maximilian Haider / Harald Rose / Knut Urban (2011)
+Jacob Bekenstein (2012)
+Peter Zoller / Juan Ignacio Cirac (2013)
+James D. Bjorken / Robert P. Kirshner (2015)
+John F. Clauser / Alain Aspect / Anton Zeilinger (2010)John F. ClauserAlain AspectAnton ZeilingerMaximilian Haider / Harald Rose / Knut Urban (2011)Maximilian HaiderHarald RoseKnut UrbanJacob Bekenstein (2012)Jacob BekensteinPeter Zoller / Juan Ignacio Cirac (2013)Peter ZollerJuan Ignacio CiracJames D. Bjorken / Robert P. Kirshner (2015)James D. BjorkenRobert P. Kirshner
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+
+
+ Book:Wolf Prize in Physics
+ Category:Wolf Prize in Physics laureates
+ Portal:Physics
+ Book:Wolf Prize in Physics Book:Wolf Prize in PhysicsBook:Wolf Prize in Physics Category:Wolf Prize in Physics laureates Category:Wolf Prize in Physics laureatesCategory:Wolf Prize in Physics laureates Portal:Physics Portal:PhysicsPortal:Physics
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeLaureates of the Nobel Prize in PhysicsLaureatesNobel Prize in Physics
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+1901–1925
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+1901 Röntgen1901Röntgen1902 Lorentz / Zeeman1902LorentzZeeman1903 Becquerel / P. Curie / M. Curie1903BecquerelP. CurieM. Curie1904 Rayleigh1904Rayleigh1905 Lenard1905Lenard1906 J. J. Thomson1906J. J. Thomson1907 Michelson1907Michelson1908 Lippmann1908Lippmann1909 Marconi / Braun1909MarconiBraun1910 Van der Waals1910Van der Waals1911 Wien1911Wien1912 Dalén1912Dalén1913 Kamerlingh Onnes1913Kamerlingh Onnes1914 Laue1914Laue1915 W. L. Bragg / W. H. Bragg1915W. L. BraggW. H. Bragg1916191619161917 Barkla1917Barkla1918 Planck1918Planck1919 Stark1919Stark1920 Guillaume1920Guillaume1921 Einstein1921Einstein1922 N. Bohr1922N. Bohr1923 Millikan1923Millikan1924 M. Siegbahn1924M. Siegbahn1925 Franck / Hertz1925FranckHertz
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+1926–1950
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+1926 Perrin1926Perrin1927 Compton / C. Wilson1927ComptonC. Wilson1928 O. Richardson1928O. Richardson1929 De Broglie1929De Broglie1930 Raman1930Raman1931193119311932 Heisenberg1932Heisenberg1933 Schrödinger / Dirac1933SchrödingerDirac1934193419341935 Chadwick1935Chadwick1936 Hess / C. D. Anderson1936HessC. D. Anderson1937 Davisson / G. P. Thomson1937DavissonG. P. Thomson1938 Fermi1938Fermi1939 Lawrence1939Lawrence1940194019401941194119411942194219421943 Stern1943Stern1944 Rabi1944Rabi1945 Pauli1945Pauli1946 Bridgman1946Bridgman1947 Appleton1947Appleton1948 Blackett1948Blackett1949 Yukawa1949Yukawa1950 Powell1950Powell
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+1951–1975
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+1951 Cockcroft / Walton1951CockcroftWalton1952 Bloch / Purcell1952BlochPurcell1953 Zernike1953Zernike1954 Born / Bothe1954BornBothe1955 Lamb / Kusch1955LambKusch1956 Shockley / Bardeen / Brattain1956ShockleyBardeenBrattain1957 C. N. Yang / T. D. Lee1957C. N. YangT. D. Lee1958 Cherenkov / Frank / Tamm1958CherenkovFrankTamm1959 Segrè / Chamberlain1959SegrèChamberlain1960 Glaser1960Glaser1961 Hofstadter / Mössbauer1961HofstadterMössbauer1962 Landau1962Landau1963 Wigner / Goeppert-Mayer / Jensen1963WignerGoeppert-MayerJensen1964 Townes / Basov / Prokhorov1964TownesBasovProkhorov1965 Tomonaga / Schwinger / Feynman1965TomonagaSchwingerFeynman1966 Kastler1966Kastler1967 Bethe1967Bethe1968 Alvarez1968Alvarez1969 Gell-Mann1969Gell-Mann1970 Alfvén / Néel1970AlfvénNéel1971 Gabor1971Gabor1972 Bardeen / Cooper / Schrieffer1972BardeenCooperSchrieffer1973 Esaki / Giaever / Josephson1973EsakiGiaeverJosephson1974 Ryle / Hewish1974RyleHewish1975 A. Bohr / Mottelson / Rainwater1975A. BohrMottelsonRainwater
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+1976–2000
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+1976 Richter / Ting1976RichterTing1977 P. W. Anderson / Mott / Van Vleck1977P. W. AndersonMottVan Vleck1978 Kapitsa / Penzias / R. Wilson1978KapitsaPenziasR. Wilson1979 Glashow / Salam / Weinberg1979GlashowSalamWeinberg1980 Cronin / Fitch1980CroninFitch1981 Bloembergen / Schawlow / K. Siegbahn1981BloembergenSchawlowK. Siegbahn1982 K. Wilson1982K. Wilson1983 Chandrasekhar / Fowler1983ChandrasekharFowler1984 Rubbia / Van der Meer1984RubbiaVan der Meer1985 von Klitzing1985von Klitzing1986 Ruska / Binnig / Rohrer1986RuskaBinnigRohrer1987 Bednorz / Müller1987BednorzMüller1988 Lederman / Schwartz / Steinberger1988LedermanSchwartzSteinberger1989 Ramsey / Dehmelt / Paul1989RamseyDehmeltPaul1990 Friedman / Kendall / R. Taylor1990FriedmanKendallR. Taylor1991 de Gennes1991de Gennes1992 Charpak1992Charpak1993 Hulse / J. Taylor1993HulseJ. Taylor1994 Brockhouse / Shull1994BrockhouseShull1995 Perl / Reines1995PerlReines1996 D. Lee / Osheroff / R. Richardson1996D. LeeOsheroffR. Richardson1997 Chu / Cohen-Tannoudji / Phillips1997ChuCohen-TannoudjiPhillips1998 Laughlin / Störmer / Tsui1998LaughlinStörmerTsui1999 't Hooft / Veltman1999't HooftVeltman2000 Alferov / Kroemer / Kilby2000AlferovKroemerKilby
+
+
+2001–present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+2001–present
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+2001 Cornell / Ketterle / Wieman2001CornellKetterleWieman2002 Davis / Koshiba / Giacconi2002DavisKoshibaGiacconi2003 Abrikosov / Ginzburg / Leggett2003AbrikosovGinzburgLeggett2004 Gross / Politzer / Wilczek2004GrossPolitzerWilczek2005 Glauber / Hall / Hänsch2005GlauberHallHänsch2006 Mather / Smoot2006MatherSmoot2007 Fert / Grünberg2007FertGrünberg2008 Nambu / Kobayashi / Maskawa2008NambuKobayashiMaskawa2009 Kao / Boyle / Smith2009KaoBoyleSmith2010 Geim / Novoselov2010GeimNovoselov2011 Perlmutter / Riess / Schmidt2011PerlmutterRiessSchmidt2012 Wineland / Haroche2012WinelandHaroche2013 Englert / Higgs2013EnglertHiggs2014 Akasaki / Amano / Nakamura2014AkasakiAmanoNakamura2015 Kajita / McDonald2015KajitaMcDonald
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+
+
+
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+
+
+
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+
+
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+
+
+
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+
+
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+
+
+v
+t
+e
+
+
+1999 Nobel Prize laureates
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee1999 Nobel Prize laureatesNobel Prize
+
+
+Chemistry
+
+Ahmed Zewail (Egypt)
+
+
+
+
+ChemistryChemistry
+Ahmed Zewail (Egypt)
+Ahmed Zewail (Egypt)Ahmed Zewail
+
+
+
+
+Literature
+
+Günter Grass (Germany)
+
+LiteratureLiterature
+Günter Grass (Germany)
+Günter Grass (Germany)Günter Grass
+
+
+Peace
+
+Médecins Sans Frontières (Switzerland)
+
+PeacePeace
+Médecins Sans Frontières (Switzerland)
+Médecins Sans Frontières (Switzerland)Médecins Sans Frontières
+
+
+Physics
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+PhysicsPhysics
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+
+
+Gerard 't Hooft (Netherlands)
+Martinus J. G. Veltman (Netherlands)
+Gerard 't Hooft (Netherlands)Gerard 't HooftMartinus J. G. Veltman (Netherlands)Martinus J. G. Veltman
+
+
+Physiology or Medicine
+
+Günter Blobel (Germany/United States)
+
+Physiology or MedicinePhysiology or Medicine
+Günter Blobel (Germany/United States)
+Günter Blobel (Germany/United States)Günter Blobel
+
+
+Economic Sciences
+
+Robert Mundell (Canada)
+
+Economic SciencesEconomic Sciences
+Robert Mundell (Canada)
+Robert Mundell (Canada)Robert Mundell
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+
+
+Nobel Prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+Nobel Prize recipientsNobel Prize recipientsNobel Prize recipients1990199091919292939394949595969697979898999920002000010102020303040405050606070708080909101011111212131314141515
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+
+
+WorldCat Identities
+VIAF: 89135534
+LCCN: n84214523
+ISNI: 0000 0001 2142 9592
+GND: 133780333
+SUDOC: 132357038
+BNF: cb134938300 (data)
+MGP: 23240
+NDL: 00759761
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 89135534VIAF8913553489135534LCCN: n84214523LCCNn84214523n84214523ISNI: 0000 0001 2142 9592ISNI0000 0001 2142 95920000 0001 2142 9592GND: 133780333GND133780333133780333SUDOC: 132357038SUDOC132357038132357038BNF: cb134938300 (data)BNFcb134938300 (data)cb134938300(data)MGP: 23240MGP2324023240NDL: 00759761NDL0075976100759761
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gerard_%27t_Hooft&oldid=715062275"					https://en.wikipedia.org/w/index.php?title=Gerard_%27t_Hooft&oldid=715062275Categories: Dutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsDutch Nobel laureatesUtrecht University alumniUtrecht University facultyWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurLorentz Medal winnersPeople from Den HelderPeople from Utrecht (city)Members of the French Academy of Sciences1946 birthsLiving peopleSpinoza Prize winnersTheoretical physicistsMars OnePeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersCategories: Dutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsDutch Nobel laureatesUtrecht University alumniUtrecht University facultyWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurLorentz Medal winnersPeople from Den HelderPeople from Utrecht (city)Members of the French Academy of Sciences1946 birthsLiving peopleSpinoza Prize winnersTheoretical physicistsMars OnePeople associated with CERNCategoriesDutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsDutch Nobel laureatesUtrecht University alumniUtrecht University facultyWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurLorentz Medal winnersPeople from Den HelderPeople from Utrecht (city)Members of the French Academy of Sciences1946 birthsLiving peopleSpinoza Prize winnersTheoretical physicistsMars OnePeople associated with CERNDutch physicistsDutch physicistsMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the United States National Academy of SciencesMembers of the United States National Academy of SciencesNobel laureates in PhysicsNobel laureates in PhysicsDutch Nobel laureatesDutch Nobel laureatesUtrecht University alumniUtrecht University alumniUtrecht University facultyUtrecht University facultyWolf Prize in Physics laureatesWolf Prize in Physics laureatesCommanders of the Order of the Netherlands LionCommanders of the Order of the Netherlands LionOfficiers of the Légion d'honneurOfficiers of the Légion d'honneurLorentz Medal winnersLorentz Medal winnersPeople from Den HelderPeople from Den HelderPeople from Utrecht (city)People from Utrecht (city)Members of the French Academy of SciencesMembers of the French Academy of Sciences1946 births1946 birthsLiving peopleLiving peopleSpinoza Prize winnersSpinoza Prize winnersTheoretical physicistsTheoretical physicistsMars OneMars OnePeople associated with CERNPeople associated with CERNHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةБеларускаяБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiIdoBahasa IndonesiaItalianoKiswahiliKreyòl ayisyenKurdîLatinaMagyarMalagasyमराठीNederlandsनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanپنجابیPolskiPortuguêsRomânăРусскийसंस्कृतम्Simple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаاردوWinarayYorùbá中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةБеларускаяБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiIdoBahasa IndonesiaItalianoKiswahiliKreyòl ayisyenKurdîLatinaMagyarMalagasyमराठीNederlandsनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanپنجابیPolskiPortuguêsRomânăРусскийसंस्कृतम्Simple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаاردوWinarayYorùbá中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+In other projects
+
+Wikimedia CommonsWikiquote 
+
+Wikimedia CommonsWikiquote Wikimedia CommonsWikimedia CommonsWikiquoteWikiquote
+Languages
+
+
+العربيةБеларускаяБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiIdoBahasa IndonesiaItalianoKiswahiliKreyòl ayisyenKurdîLatinaMagyarMalagasyमराठीNederlandsनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanپنجابیPolskiPortuguêsRomânăРусскийसंस्कृतम्Simple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаاردوWinarayYorùbá中文 
+Edit links 
+Languages
+
+العربيةБеларускаяБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiIdoBahasa IndonesiaItalianoKiswahiliKreyòl ayisyenKurdîLatinaMagyarMalagasyमराठीNederlandsनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanپنجابیPolskiPortuguêsRomânăРусскийसंस्कृतम्Simple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаاردوWinarayYorùbá中文 
+Edit links 
+العربيةБеларускаяБългарскиCatalàČeštinaDeutschEestiEspañolفارسیFrançaisGaeilgeGalego한국어हिन्दीHrvatskiIdoBahasa IndonesiaItalianoKiswahiliKreyòl ayisyenKurdîLatinaMagyarMalagasyमराठीNederlandsनेपाल भाषा日本語Norsk bokmålNorsk nynorskOccitanپنجابیPolskiPortuguêsRomânăРусскийसंस्कृतम्Simple EnglishSlovenčinaSlovenščinaSrpskohrvatski / српскохрватскиSuomiSvenskaTürkçeУкраїнськаاردوWinarayYorùbá中文 العربيةالعربيةБеларускаяБеларускаяБългарскиБългарскиCatalàCatalàČeštinaČeštinaDeutschDeutschEestiEestiEspañolEspañolفارسیفارسیFrançaisFrançaisGaeilgeGaeilgeGalegoGalego한국어한국어हिन्दीहिन्दीHrvatskiHrvatskiIdoIdoBahasa IndonesiaBahasa IndonesiaItalianoItalianoKiswahiliKiswahiliKreyòl ayisyenKreyòl ayisyenKurdîKurdîLatinaLatinaMagyarMagyarMalagasyMalagasyमराठीमराठीNederlandsNederlandsनेपाल भाषानेपाल भाषा日本語日本語Norsk bokmålNorsk bokmålNorsk nynorskNorsk nynorskOccitanOccitanپنجابیپنجابیPolskiPolskiPortuguêsPortuguêsRomânăRomânăРусскийРусскийसंस्कृतम्संस्कृतम्Simple EnglishSimple EnglishSlovenčinaSlovenčinaSlovenščinaSlovenščinaSrpskohrvatski / српскохрватскиSrpskohrvatski / српскохрватскиSuomiSuomiSvenskaSvenskaTürkçeTürkçeУкраїнськаУкраїнськаاردواردوWinarayWinarayYorùbáYorùbá中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 13 April 2016, at 13:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 13 April 2016, at 13:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 13 April 2016, at 13:57.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

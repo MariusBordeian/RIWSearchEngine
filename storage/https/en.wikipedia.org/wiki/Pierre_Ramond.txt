@@ -1,0 +1,951 @@
+Pierre Ramond - Wikipedia, the free encyclopedia
+
+
+
+
+Pierre Ramond
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Pierre Ramond
+
+
+Born
+January 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, France
+
+
+Fields
+Physics
+
+
+Institutions
+University of Florida
+
+
+Alma mater
+Syracuse University
+
+
+Doctoral advisor
+A. P. Balachandran
+
+
+Pierre Ramond (French: [ʁamɔ̃]; born 31 January 1943) is Distinguished Professor of Physics at University of Florida in Gainesville, Florida.[1] He played an important role in the development of superstring theory.
+
+
+
+Contents
+
+
+1 Academic career
+2 Superstring theory
+3 Honors and awards
+4 Publications
+5 See also
+6 References
+7 External links
+
+
+
+Academic career[edit]
+Ramond completed his BSEE from Newark College of Engineering (now New Jersey Institute of Technology) in 1965 and completed his Ph. D. in Physics from Syracuse University in 1969. He was a Postdoctoral Fellow at NAL (FermiLab) from 1969 to 1971. He became Instructor at Yale University from 1971 to 1973 and Assistant Professor at Yale University from 1973 to 1976. He moved to Caltech as an R. A. Millikan Senior Fellow in 1976. He became a Professor of Physics at University of Florida in 1980, and promoted to his present title of "Distinguished Professor" in 1999.
+Superstring theory[edit]
+Ramond played a major role in the development of superstring theory. In 1971, Ramond generalized Dirac's work for point-like particles to stringlike ones. In this process he discovered two-dimensional supersymmetry and laid the ground for supersymmetry in four spacetime dimensions. He found the spectrum of fermionic modes in string theory and the paper started superstring theory. From this paper André Neveu and John Schwarz developed a string theory with both fermions and bosons.[2]
+According to quantum mechanics, particles can be divided into two types: bosons and fermions. The distinction between bosons and fermions is basic. Fermions are particles which have half integer spin (1/2, 3/2, 5/2 and so on), measured in units of Planck's constant and bosons are particles which have integer spin (0, 1, 2 and so on), measured in units of Planck's constant. Examples of fermions are quarks, leptons and baryons. Quantum of fundamental forces such as gravitons, photons, etc. are all bosons. In quantum field theory, fermions interact by exchanging bosons.
+Early string theory proposed by Yoichiro Nambu and others in 1970 was only a bosonic string. Ramond completed the theory by inventing a fermionic string to accompany the bosonic ones. The Virasoro algebra which is the symmetry algebra of the bosonic string was generalized to a superconformal algebra (the Ramond algebra, an example of a super Virasoro algebra) including anticommuting operators also.
+Honors and awards[edit]
+Ramond has received several awards for his contributions to theoretical physics. He is an elected fellow of American Physical Society, a Fellow of the American Academy of Arts and Sciences, a winner of the Oskar Klein Medal awarded by the Swedish Royal Academy of Sciences & Stockholm University in 2004, and he won the Lise Meitner Prize in December 2007. In 2015 he received the prestigious Dannie Heineman Prize for Mathematical Physics.
+In addition, Ramond has played an active role in service to his profession as a scientist and educator. He served as the Chair of the Faculty Senate of the University of Florida in 2004-05, and as the chair of the Division of Particles and Fields of the American Physical Society in 2012.
+Publications[edit]
+
+Field Theory : A Modern Primer. ISBN 0-201-30450-3. 
+Journeys Beyond the Standard Model. ISBN 0-8133-4131-0. 
+Memoirs of an early string theorist Contribution to the "Birth of String Theory" Commemorative Volume
+Group Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030. 
+
+See also[edit]
+
+RNS formalism
+Ramond–Ramond field
+Kalb-Ramond field
+
+References[edit]
+
+
+^ Pierre Ramond at University of Florida
+^ A timeline of mathematics and theoretical physics
+
+
+External links[edit]
+
+Personal Page of Pierre Ramond
+Curriculum Vitae
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pierre_Ramond&oldid=712105862"					
+Categories: 1943 birthsLiving peoplePeople from Neuilly-sur-SeineString theoristsAmerican physicistsNew Jersey Institute of Technology alumniSyracuse University alumniUniversity of Florida facultyYale University facultyFellows of the American Physical SocietyTheoretical physicistsGuggenheim FellowsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiers 
+
+
+Pierre Ramond
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Pierre Ramond
+
+
+Born
+January 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, France
+
+
+Fields
+Physics
+
+
+Institutions
+University of Florida
+
+
+Alma mater
+Syracuse University
+
+
+Doctoral advisor
+A. P. Balachandran
+
+
+Pierre Ramond (French: [ʁamɔ̃]; born 31 January 1943) is Distinguished Professor of Physics at University of Florida in Gainesville, Florida.[1] He played an important role in the development of superstring theory.
+
+
+
+Contents
+
+
+1 Academic career
+2 Superstring theory
+3 Honors and awards
+4 Publications
+5 See also
+6 References
+7 External links
+
+
+
+Academic career[edit]
+Ramond completed his BSEE from Newark College of Engineering (now New Jersey Institute of Technology) in 1965 and completed his Ph. D. in Physics from Syracuse University in 1969. He was a Postdoctoral Fellow at NAL (FermiLab) from 1969 to 1971. He became Instructor at Yale University from 1971 to 1973 and Assistant Professor at Yale University from 1973 to 1976. He moved to Caltech as an R. A. Millikan Senior Fellow in 1976. He became a Professor of Physics at University of Florida in 1980, and promoted to his present title of "Distinguished Professor" in 1999.
+Superstring theory[edit]
+Ramond played a major role in the development of superstring theory. In 1971, Ramond generalized Dirac's work for point-like particles to stringlike ones. In this process he discovered two-dimensional supersymmetry and laid the ground for supersymmetry in four spacetime dimensions. He found the spectrum of fermionic modes in string theory and the paper started superstring theory. From this paper André Neveu and John Schwarz developed a string theory with both fermions and bosons.[2]
+According to quantum mechanics, particles can be divided into two types: bosons and fermions. The distinction between bosons and fermions is basic. Fermions are particles which have half integer spin (1/2, 3/2, 5/2 and so on), measured in units of Planck's constant and bosons are particles which have integer spin (0, 1, 2 and so on), measured in units of Planck's constant. Examples of fermions are quarks, leptons and baryons. Quantum of fundamental forces such as gravitons, photons, etc. are all bosons. In quantum field theory, fermions interact by exchanging bosons.
+Early string theory proposed by Yoichiro Nambu and others in 1970 was only a bosonic string. Ramond completed the theory by inventing a fermionic string to accompany the bosonic ones. The Virasoro algebra which is the symmetry algebra of the bosonic string was generalized to a superconformal algebra (the Ramond algebra, an example of a super Virasoro algebra) including anticommuting operators also.
+Honors and awards[edit]
+Ramond has received several awards for his contributions to theoretical physics. He is an elected fellow of American Physical Society, a Fellow of the American Academy of Arts and Sciences, a winner of the Oskar Klein Medal awarded by the Swedish Royal Academy of Sciences & Stockholm University in 2004, and he won the Lise Meitner Prize in December 2007. In 2015 he received the prestigious Dannie Heineman Prize for Mathematical Physics.
+In addition, Ramond has played an active role in service to his profession as a scientist and educator. He served as the Chair of the Faculty Senate of the University of Florida in 2004-05, and as the chair of the Division of Particles and Fields of the American Physical Society in 2012.
+Publications[edit]
+
+Field Theory : A Modern Primer. ISBN 0-201-30450-3. 
+Journeys Beyond the Standard Model. ISBN 0-8133-4131-0. 
+Memoirs of an early string theorist Contribution to the "Birth of String Theory" Commemorative Volume
+Group Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030. 
+
+See also[edit]
+
+RNS formalism
+Ramond–Ramond field
+Kalb-Ramond field
+
+References[edit]
+
+
+^ Pierre Ramond at University of Florida
+^ A timeline of mathematics and theoretical physics
+
+
+External links[edit]
+
+Personal Page of Pierre Ramond
+Curriculum Vitae
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pierre_Ramond&oldid=712105862"					
+Categories: 1943 birthsLiving peoplePeople from Neuilly-sur-SeineString theoristsAmerican physicistsNew Jersey Institute of Technology alumniSyracuse University alumniUniversity of Florida facultyYale University facultyFellows of the American Physical SocietyTheoretical physicistsGuggenheim FellowsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Pierre Ramond
+
+
+Born
+January 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, France
+
+
+Fields
+Physics
+
+
+Institutions
+University of Florida
+
+
+Alma mater
+Syracuse University
+
+
+Doctoral advisor
+A. P. Balachandran
+
+
+Pierre Ramond (French: [ʁamɔ̃]; born 31 January 1943) is Distinguished Professor of Physics at University of Florida in Gainesville, Florida.[1] He played an important role in the development of superstring theory.
+
+
+
+Contents
+
+
+1 Academic career
+2 Superstring theory
+3 Honors and awards
+4 Publications
+5 See also
+6 References
+7 External links
+
+
+
+Academic career[edit]
+Ramond completed his BSEE from Newark College of Engineering (now New Jersey Institute of Technology) in 1965 and completed his Ph. D. in Physics from Syracuse University in 1969. He was a Postdoctoral Fellow at NAL (FermiLab) from 1969 to 1971. He became Instructor at Yale University from 1971 to 1973 and Assistant Professor at Yale University from 1973 to 1976. He moved to Caltech as an R. A. Millikan Senior Fellow in 1976. He became a Professor of Physics at University of Florida in 1980, and promoted to his present title of "Distinguished Professor" in 1999.
+Superstring theory[edit]
+Ramond played a major role in the development of superstring theory. In 1971, Ramond generalized Dirac's work for point-like particles to stringlike ones. In this process he discovered two-dimensional supersymmetry and laid the ground for supersymmetry in four spacetime dimensions. He found the spectrum of fermionic modes in string theory and the paper started superstring theory. From this paper André Neveu and John Schwarz developed a string theory with both fermions and bosons.[2]
+According to quantum mechanics, particles can be divided into two types: bosons and fermions. The distinction between bosons and fermions is basic. Fermions are particles which have half integer spin (1/2, 3/2, 5/2 and so on), measured in units of Planck's constant and bosons are particles which have integer spin (0, 1, 2 and so on), measured in units of Planck's constant. Examples of fermions are quarks, leptons and baryons. Quantum of fundamental forces such as gravitons, photons, etc. are all bosons. In quantum field theory, fermions interact by exchanging bosons.
+Early string theory proposed by Yoichiro Nambu and others in 1970 was only a bosonic string. Ramond completed the theory by inventing a fermionic string to accompany the bosonic ones. The Virasoro algebra which is the symmetry algebra of the bosonic string was generalized to a superconformal algebra (the Ramond algebra, an example of a super Virasoro algebra) including anticommuting operators also.
+Honors and awards[edit]
+Ramond has received several awards for his contributions to theoretical physics. He is an elected fellow of American Physical Society, a Fellow of the American Academy of Arts and Sciences, a winner of the Oskar Klein Medal awarded by the Swedish Royal Academy of Sciences & Stockholm University in 2004, and he won the Lise Meitner Prize in December 2007. In 2015 he received the prestigious Dannie Heineman Prize for Mathematical Physics.
+In addition, Ramond has played an active role in service to his profession as a scientist and educator. He served as the Chair of the Faculty Senate of the University of Florida in 2004-05, and as the chair of the Division of Particles and Fields of the American Physical Society in 2012.
+Publications[edit]
+
+Field Theory : A Modern Primer. ISBN 0-201-30450-3. 
+Journeys Beyond the Standard Model. ISBN 0-8133-4131-0. 
+Memoirs of an early string theorist Contribution to the "Birth of String Theory" Commemorative Volume
+Group Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030. 
+
+See also[edit]
+
+RNS formalism
+Ramond–Ramond field
+Kalb-Ramond field
+
+References[edit]
+
+
+^ Pierre Ramond at University of Florida
+^ A timeline of mathematics and theoretical physics
+
+
+External links[edit]
+
+Personal Page of Pierre Ramond
+Curriculum Vitae
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pierre Ramond
+
+
+Born
+January 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, France
+
+
+Fields
+Physics
+
+
+Institutions
+University of Florida
+
+
+Alma mater
+Syracuse University
+
+
+Doctoral advisor
+A. P. Balachandran
+
+
+Pierre Ramond
+Pierre RamondPierre Ramond
+Born
+January 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, France
+BornJanuary 31, 1943
+Neuilly-sur-Seine, Hauts-de-Seine, FranceNeuilly-sur-SeineHauts-de-SeineFrance
+Fields
+Physics
+FieldsPhysics
+Institutions
+University of Florida
+InstitutionsUniversity of FloridaUniversity of Florida
+Alma mater
+Syracuse University
+Alma materAlma materAlma materSyracuse UniversitySyracuse University
+Doctoral advisor
+A. P. Balachandran
+Doctoral advisorDoctoral advisorA. P. BalachandranA. P. BalachandranPierre Ramond (French: [ʁamɔ̃]; born 31 January 1943) is Distinguished Professor of Physics at University of Florida in Gainesville, Florida.[1] He played an important role in the development of superstring theory.Pierre RamondFrench: [ʁamɔ̃][ʁamɔ̃]PhysicsUniversity of FloridaGainesville, Florida[1][1]superstring theory
+
+Contents
+
+
+1 Academic career
+2 Superstring theory
+3 Honors and awards
+4 Publications
+5 See also
+6 References
+7 External links
+
+
+Contents
+Contents
+1 Academic career
+2 Superstring theory
+3 Honors and awards
+4 Publications
+5 See also
+6 References
+7 External links
+1 Academic career1 Academic career1Academic career2 Superstring theory2 Superstring theory2Superstring theory3 Honors and awards3 Honors and awards3Honors and awards4 Publications4 Publications4Publications5 See also5 See also5See also6 References6 References6References7 External links7 External links7External linksAcademic career[edit]Academic career[edit][edit]Ramond completed his BSEE from Newark College of Engineering (now New Jersey Institute of Technology) in 1965 and completed his Ph. D. in Physics from Syracuse University in 1969. He was a Postdoctoral Fellow at NAL (FermiLab) from 1969 to 1971. He became Instructor at Yale University from 1971 to 1973 and Assistant Professor at Yale University from 1973 to 1976. He moved to Caltech as an R. A. Millikan Senior Fellow in 1976. He became a Professor of Physics at University of Florida in 1980, and promoted to his present title of "Distinguished Professor" in 1999.Newark College of EngineeringNew Jersey Institute of TechnologyPhysicsSyracuse UniversityYale UniversityCaltechUniversity of FloridaSuperstring theory[edit]Superstring theory[edit][edit]Ramond played a major role in the development of superstring theory. In 1971, Ramond generalized Dirac's work for point-like particles to stringlike ones. In this process he discovered two-dimensional supersymmetry and laid the ground for supersymmetry in four spacetime dimensions. He found the spectrum of fermionic modes in string theory and the paper started superstring theory. From this paper André Neveu and John Schwarz developed a string theory with both fermions and bosons.[2]superstring theorypoint-like particlesJohn Schwarz[2][2]According to quantum mechanics, particles can be divided into two types: bosons and fermions. The distinction between bosons and fermions is basic. Fermions are particles which have half integer spin (1/2, 3/2, 5/2 and so on), measured in units of Planck's constant and bosons are particles which have integer spin (0, 1, 2 and so on), measured in units of Planck's constant. Examples of fermions are quarks, leptons and baryons. Quantum of fundamental forces such as gravitons, photons, etc. are all bosons. In quantum field theory, fermions interact by exchanging bosons.quantum mechanicsbosonsfermionsfermionsgravitonsphotonsEarly string theory proposed by Yoichiro Nambu and others in 1970 was only a bosonic string. Ramond completed the theory by inventing a fermionic string to accompany the bosonic ones. The Virasoro algebra which is the symmetry algebra of the bosonic string was generalized to a superconformal algebra (the Ramond algebra, an example of a super Virasoro algebra) including anticommuting operators also.string theoryYoichiro Nambusuper Virasoro algebraHonors and awards[edit]Honors and awards[edit][edit]Ramond has received several awards for his contributions to theoretical physics. He is an elected fellow of American Physical Society, a Fellow of the American Academy of Arts and Sciences, a winner of the Oskar Klein Medal awarded by the Swedish Royal Academy of Sciences & Stockholm University in 2004, and he won the Lise Meitner Prize in December 2007. In 2015 he received the prestigious Dannie Heineman Prize for Mathematical Physics.Oskar Klein MedalDannie Heineman Prize for Mathematical PhysicsIn addition, Ramond has played an active role in service to his profession as a scientist and educator. He served as the Chair of the Faculty Senate of the University of Florida in 2004-05, and as the chair of the Division of Particles and Fields of the American Physical Society in 2012.Publications[edit]Publications[edit][edit]
+Field Theory : A Modern Primer. ISBN 0-201-30450-3. 
+Journeys Beyond the Standard Model. ISBN 0-8133-4131-0. 
+Memoirs of an early string theorist Contribution to the "Birth of String Theory" Commemorative Volume
+Group Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030. 
+Field Theory : A Modern Primer. ISBN 0-201-30450-3. Field Theory : A Modern Primer. ISBN 0-201-30450-3.Field Theory : A Modern PrimerISBN0-201-30450-3  Journeys Beyond the Standard Model. ISBN 0-8133-4131-0. Journeys Beyond the Standard Model. ISBN 0-8133-4131-0.Journeys Beyond the Standard ModelISBN0-8133-4131-0  Memoirs of an early string theorist Contribution to the "Birth of String Theory" Commemorative VolumeMemoirs of an early string theoristMemoirs of an early string theoristGroup Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030. Group Theory: A Physicist's Survey. Cambridge University Press. 2010. ISBN 9780521896030.Group Theory: A Physicist's SurveyGroup Theory: A Physicist's SurveyISBN9780521896030  See also[edit]See also[edit][edit]
+RNS formalism
+Ramond–Ramond field
+Kalb-Ramond field
+RNS formalismRNS formalismRamond–Ramond fieldRamond–Ramond fieldKalb-Ramond fieldKalb-Ramond fieldReferences[edit]References[edit][edit]
+
+^ Pierre Ramond at University of Florida
+^ A timeline of mathematics and theoretical physics
+
+
+^ Pierre Ramond at University of Florida
+^ A timeline of mathematics and theoretical physics
+^ Pierre Ramond at University of Florida^^^Pierre Ramond at University of FloridaPierre Ramond at University of Florida^ A timeline of mathematics and theoretical physics^^^A timeline of mathematics and theoretical physicsA timeline of mathematics and theoretical physicsExternal links[edit]External links[edit][edit]
+Personal Page of Pierre Ramond
+Curriculum Vitae
+Personal Page of Pierre RamondPersonal Page of Pierre RamondCurriculum VitaeCurriculum Vitae
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+
+
+WorldCat Identities
+VIAF: 38113530
+LCCN: n80155633
+ISNI: 0000 0001 0889 1459
+GND: 133668355
+SUDOC: 095359923
+BNF: cb12277639m (data)
+NLA: 36090109
+NKC: mzk2005294919
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 38113530VIAF3811353038113530LCCN: n80155633LCCNn80155633n80155633ISNI: 0000 0001 0889 1459ISNI0000 0001 0889 14590000 0001 0889 1459GND: 133668355GND133668355133668355SUDOC: 095359923SUDOC095359923095359923BNF: cb12277639m (data)BNFcb12277639m (data)cb12277639m(data)NLA: 36090109NLA3609010936090109NKC: mzk2005294919NKCmzk2005294919mzk2005294919
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pierre_Ramond&oldid=712105862"					https://en.wikipedia.org/w/index.php?title=Pierre_Ramond&oldid=712105862Categories: 1943 birthsLiving peoplePeople from Neuilly-sur-SeineString theoristsAmerican physicistsNew Jersey Institute of Technology alumniSyracuse University alumniUniversity of Florida facultyYale University facultyFellows of the American Physical SocietyTheoretical physicistsGuggenheim FellowsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersCategories: 1943 birthsLiving peoplePeople from Neuilly-sur-SeineString theoristsAmerican physicistsNew Jersey Institute of Technology alumniSyracuse University alumniUniversity of Florida facultyYale University facultyFellows of the American Physical SocietyTheoretical physicistsGuggenheim FellowsCategories1943 birthsLiving peoplePeople from Neuilly-sur-SeineString theoristsAmerican physicistsNew Jersey Institute of Technology alumniSyracuse University alumniUniversity of Florida facultyYale University facultyFellows of the American Physical SocietyTheoretical physicistsGuggenheim Fellows1943 births1943 birthsLiving peopleLiving peoplePeople from Neuilly-sur-SeinePeople from Neuilly-sur-SeineString theoristsString theoristsAmerican physicistsAmerican physicistsNew Jersey Institute of Technology alumniNew Jersey Institute of Technology alumniSyracuse University alumniSyracuse University alumniUniversity of Florida facultyUniversity of Florida facultyYale University facultyYale University facultyFellows of the American Physical SocietyFellows of the American Physical SocietyTheoretical physicistsTheoretical physicistsGuggenheim FellowsGuggenheim FellowsHidden categories: Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with NLA identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی한국어MalagasyOccitanPortuguêsSlovenščina中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Deutschفارسی한국어MalagasyOccitanPortuguêsSlovenščina中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+Deutschفارسی한국어MalagasyOccitanPortuguêsSlovenščina中文 
+Edit links 
+Languages
+
+Deutschفارسی한국어MalagasyOccitanPortuguêsSlovenščina中文 
+Edit links 
+Deutschفارسی한국어MalagasyOccitanPortuguêsSlovenščina中文 DeutschDeutschفارسیفارسی한국어한국어MalagasyMalagasyOccitanOccitanPortuguêsPortuguêsSlovenščinaSlovenščina中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 27 March 2016, at 00:17.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 27 March 2016, at 00:17.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 27 March 2016, at 00:17.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

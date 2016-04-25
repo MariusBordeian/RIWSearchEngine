@@ -1,0 +1,5797 @@
+Twistor string theory - Wikipedia, the free encyclopedia
+
+
+
+
+Twistor string theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Twistor string theory is an equivalence between N = 4 supersymmetric Yang–Mills theory and the perturbative topological B model string theory in twistor space.[1]
+It was initially proposed by Edward Witten in 2003.
+Twistor theory was introduced by Roger Penrose from the 1960s as a new approach to the unification of quantum theory with gravity. Twistor space is a three-dimensional complex projective space in which physical quantities appear as certain structural deformations. Spacetime and the familiar physical fields emerge as consequences of this description. But twistor space is chiral (handed) with left- and right-handed objects treated differently. For example, the graviton for gravity and the gluon for the strong force are both right-handed.[2]
+During this period, Edward Witten was a leading developer of string theory. In 2003 he produced a ground-breaking paper showing how string theory may be introduced naturally into twistor space to provide a full physical model incorporating both left- and right-handed fields together with their full interactions.[2]
+The most important contribution of twistor string theory has been in the calculation of particle-particle collision scattering amplitudes, which determine the probabilities of the possible scattering processes. Witten showed that they have a remarkably simple structure in twistor space; in particular amplitudes are supported on algebraic curves. This has allowed both better understanding of experimental observations in particle colliders and deep insights into the natures of different quantum field theories. These insights have in turn led to new insights in pure mathematics. Such topics include Grassmannian residue formulae, the amplituhedron and holmorphic linking.[2]
+Related links[edit]
+
+BCFW recursion
+MHV amplitudes
+
+References[edit]
+
+
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. 
+^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Twistor_string_theory&oldid=709487453"					
+Categories: String theoryString theory stubsPhysics stubsHidden categories: All stub articles 
+
+
+Twistor string theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Twistor string theory is an equivalence between N = 4 supersymmetric Yang–Mills theory and the perturbative topological B model string theory in twistor space.[1]
+It was initially proposed by Edward Witten in 2003.
+Twistor theory was introduced by Roger Penrose from the 1960s as a new approach to the unification of quantum theory with gravity. Twistor space is a three-dimensional complex projective space in which physical quantities appear as certain structural deformations. Spacetime and the familiar physical fields emerge as consequences of this description. But twistor space is chiral (handed) with left- and right-handed objects treated differently. For example, the graviton for gravity and the gluon for the strong force are both right-handed.[2]
+During this period, Edward Witten was a leading developer of string theory. In 2003 he produced a ground-breaking paper showing how string theory may be introduced naturally into twistor space to provide a full physical model incorporating both left- and right-handed fields together with their full interactions.[2]
+The most important contribution of twistor string theory has been in the calculation of particle-particle collision scattering amplitudes, which determine the probabilities of the possible scattering processes. Witten showed that they have a remarkably simple structure in twistor space; in particular amplitudes are supported on algebraic curves. This has allowed both better understanding of experimental observations in particle colliders and deep insights into the natures of different quantum field theories. These insights have in turn led to new insights in pure mathematics. Such topics include Grassmannian residue formulae, the amplituhedron and holmorphic linking.[2]
+Related links[edit]
+
+BCFW recursion
+MHV amplitudes
+
+References[edit]
+
+
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. 
+^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Twistor_string_theory&oldid=709487453"					
+Categories: String theoryString theory stubsPhysics stubsHidden categories: All stub articles 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Twistor string theory is an equivalence between N = 4 supersymmetric Yang–Mills theory and the perturbative topological B model string theory in twistor space.[1]
+It was initially proposed by Edward Witten in 2003.
+Twistor theory was introduced by Roger Penrose from the 1960s as a new approach to the unification of quantum theory with gravity. Twistor space is a three-dimensional complex projective space in which physical quantities appear as certain structural deformations. Spacetime and the familiar physical fields emerge as consequences of this description. But twistor space is chiral (handed) with left- and right-handed objects treated differently. For example, the graviton for gravity and the gluon for the strong force are both right-handed.[2]
+During this period, Edward Witten was a leading developer of string theory. In 2003 he produced a ground-breaking paper showing how string theory may be introduced naturally into twistor space to provide a full physical model incorporating both left- and right-handed fields together with their full interactions.[2]
+The most important contribution of twistor string theory has been in the calculation of particle-particle collision scattering amplitudes, which determine the probabilities of the possible scattering processes. Witten showed that they have a remarkably simple structure in twistor space; in particular amplitudes are supported on algebraic curves. This has allowed both better understanding of experimental observations in particle colliders and deep insights into the natures of different quantum field theories. These insights have in turn led to new insights in pure mathematics. Such topics include Grassmannian residue formulae, the amplituhedron and holmorphic linking.[2]
+Related links[edit]
+
+BCFW recursion
+MHV amplitudes
+
+References[edit]
+
+
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. 
+^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+
+String theory
+
+
+
+
+
+Fundamental objects
+
+
+
+
+String
+Brane
+D-brane
+
+
+
+
+Perturbative theory
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Non-perturbative results
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+Phenomenology
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Mathematics
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+
+
+History
+Glossary
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+String theory
+String theoryString theory
+
+
+Fundamental objects
+Fundamental objects
+
+
+String
+Brane
+D-brane
+
+
+
+
+String
+Brane
+D-brane
+
+
+String
+Brane
+D-brane
+StringStringBraneBraneD-braneD-brane
+Perturbative theory
+Perturbative theory
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+
+
+Bosonic
+Superstring
+Type I
+Type II (IIA / IIB)
+Heterotic (SO(32) · E8×E8)
+BosonicBosonicSuperstringSuperstringType IType IType II (IIA / IIB)Type II (IIA / IIB)Heterotic (SO(32) · E8×E8)Heterotic (SO(32) · E8×E8)(SO(32) · E8×E8)·E8E8
+Non-perturbative results
+Non-perturbative results
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+
+
+S-duality
+T-duality
+M-theory
+AdS/CFT correspondence
+S-dualityS-dualityT-dualityT-dualityM-theoryM-theoryAdS/CFT correspondenceAdS/CFT correspondence
+Phenomenology
+Phenomenology
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+
+
+Phenomenology
+Cosmology
+Landscape
+
+
+Phenomenology
+Cosmology
+Landscape
+PhenomenologyPhenomenologyCosmologyCosmologyLandscapeLandscape
+Mathematics
+Mathematics
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+
+
+Mirror symmetry
+Monstrous moonshine
+
+
+Mirror symmetry
+Monstrous moonshine
+Mirror symmetryMirror symmetryMonstrous moonshineMonstrous moonshine
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+
+
+Related concepts
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Related concepts
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+
+
+Conformal field theory
+Holographic principle
+Kaluza–Klein theory
+Quantum gravity
+Supergravity
+Supersymmetry
+Theory of everything
+Twistor string theory
+Conformal field theoryConformal field theoryHolographic principleHolographic principleKaluza–Klein theoryKaluza–Klein theoryQuantum gravityQuantum gravitySupergravitySupergravitySupersymmetrySupersymmetryTheory of everythingTheory of everythingTwistor string theoryTwistor string theory
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+
+
+Theorists
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Theorists
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+
+
+Arkani-Hamed
+Banks
+Dijkgraaf
+Duff
+Fischler
+Gates
+Gliozzi
+Green
+Greene
+Gross
+Gubser
+Harvey
+Hořava
+Kaku
+Klebanov
+Kontsevich
+Maldacena
+Mandelstam
+Martinec
+Minwalla
+Moore
+Motl
+Nekrasov
+Neveu
+Olive
+Polchinski
+Polyakov
+Randall
+Ramond
+Rohm
+Scherk
+Schwarz
+Seiberg
+Sen
+Shenker
+Sơn
+Strominger
+Sundrum
+Susskind
+'t Hooft
+Townsend
+Vafa
+Veneziano
+E. Verlinde
+H. Verlinde
+Witten
+Yau
+Zaslow
+Arkani-HamedArkani-HamedBanksBanksDijkgraafDijkgraafDuffDuffFischlerFischlerGatesGatesGliozziGliozziGreenGreenGreeneGreeneGrossGrossGubserGubserHarveyHarveyHořavaHořavaKakuKakuKlebanovKlebanovKontsevichKontsevichMaldacenaMaldacenaMandelstamMandelstamMartinecMartinecMinwallaMinwallaMooreMooreMotlMotlNekrasovNekrasovNeveuNeveuOliveOlivePolchinskiPolchinskiPolyakovPolyakovRandallRandallRamondRamondRohmRohmScherkScherkSchwarzSchwarzSeibergSeibergSenSenShenkerShenkerSơnSơnStromingerStromingerSundrumSundrumSusskindSusskind't Hooft't HooftTownsendTownsendVafaVafaVenezianoVenezianoE. VerlindeE. VerlindeH. VerlindeH. VerlindeWittenWittenYauYauZaslowZaslow
+
+
+History
+Glossary
+
+
+
+
+History
+Glossary
+
+
+History
+Glossary
+HistoryHistoryGlossaryGlossary
+
+
+
+v
+t
+e
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeTwistor string theory is an equivalence between N = 4 supersymmetric Yang–Mills theory and the perturbative topological B model string theory in twistor space.[1]Twistor string theoryN = 4 supersymmetric Yang–Mills theorytopological B model string theorytwistor space[1][1]It was initially proposed by Edward Witten in 2003.Edward WittenTwistor theory was introduced by Roger Penrose from the 1960s as a new approach to the unification of quantum theory with gravity. Twistor space is a three-dimensional complex projective space in which physical quantities appear as certain structural deformations. Spacetime and the familiar physical fields emerge as consequences of this description. But twistor space is chiral (handed) with left- and right-handed objects treated differently. For example, the graviton for gravity and the gluon for the strong force are both right-handed.[2]Twistor theoryRoger PenroseTwistor space[2][2]During this period, Edward Witten was a leading developer of string theory. In 2003 he produced a ground-breaking paper showing how string theory may be introduced naturally into twistor space to provide a full physical model incorporating both left- and right-handed fields together with their full interactions.[2]Edward Wittenstring theory[2][2]The most important contribution of twistor string theory has been in the calculation of particle-particle collision scattering amplitudes, which determine the probabilities of the possible scattering processes. Witten showed that they have a remarkably simple structure in twistor space; in particular amplitudes are supported on algebraic curves. This has allowed both better understanding of experimental observations in particle colliders and deep insights into the natures of different quantum field theories. These insights have in turn led to new insights in pure mathematics. Such topics include Grassmannian residue formulae, the amplituhedron and holmorphic linking.[2]scattering amplitudesGrassmannianamplituhedronholmorphic linking[2][2]Related links[edit]Related links[edit][edit]
+BCFW recursion
+MHV amplitudes
+BCFW recursionBCFW recursionMHV amplitudesMHV amplitudesReferences[edit]References[edit][edit]
+
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. 
+^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)
+
+
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. 
+^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)
+^ Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. ^^^Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3. Witten, Edward (December 2003). "Perturbative Gauge Theory As A String Theory In Twistor Space:". Communications in Mathematical Physics. 1 252 (1): 189. arXiv:hep-th/0312171. Bibcode:2004CMaPh.252..189W. doi:10.1007/s00220-004-1187-3.Communications in Mathematical Physics252arXivhep-th/0312171Bibcode2004CMaPh.252..189Wdoi10.1007/s00220-004-1187-3  ^ a b c Twistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)^ a b caaaabbbbccccTwistor theory and Scattering Amplitudes, University of Oxford Mathematical Group. (retrieved 2 December 2015)Twistor theory and Scattering Amplitudes
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+
+
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+
+
+v
+t
+e
+
+
+Topics of twistor theory
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeTopics of twistor theoryTopics of twistor theory
+
+
+Objectives
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+Objectives
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+
+
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+
+Principles
+
+
+
+Invariance mechanics
+Background independence
+
+
+
+Principles
+
+
+Invariance mechanics
+Background independence
+
+
+
+
+Invariance mechanics
+Background independence
+
+
+Invariance mechanics
+Background independence
+Invariance mechanicsInvariance mechanicsBackground independenceBackground independence
+
+
+Final objective
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+Final objective
+
+
+Quantum Gravity
+Theory of Everything
+
+
+
+
+Quantum Gravity
+Theory of Everything
+
+
+Quantum Gravity
+Theory of Everything
+Quantum GravityQuantum GravityTheory of EverythingTheory of Everything
+
+
+Mathematical concepts
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+Mathematical concepts
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+
+
+Twistors
+
+
+
+Penrose transform
+Twistor space
+
+
+
+Twistors
+
+
+Penrose transform
+Twistor space
+
+
+
+
+Penrose transform
+Twistor space
+
+
+Penrose transform
+Twistor space
+Penrose transformPenrose transformTwistor spaceTwistor space
+
+
+Physical concepts
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+Physical concepts
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+
+
+Twistor string theory
+Twistor correspondence
+Twistor theory
+Twistor string theoryTwistor string theoryTwistor correspondenceTwistor correspondenceTwistor theoryTwistor theory
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+
+
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+
+
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+
+
+v
+t
+e
+
+
+Theories of gravitation
+
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteeeTheories of gravitationTheories of gravitation
+
+
+Standard
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+Standard
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+
+
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+
+Newtonian gravity (NG)
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+Newtonian gravity (NG)
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+
+
+Newton's law of universal gravitation
+History of gravitational theory
+Newton's law of universal gravitationNewton's law of universal gravitationHistory of gravitational theoryHistory of gravitational theory
+
+
+General relativity (GR)
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+General relativity (GR)General relativity (GR)
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+
+
+Introduction
+History
+Mathematics
+Resources
+Tests
+Post-Newtonian formalism
+Linearized gravity
+ADM formalism
+IntroductionIntroductionHistoryHistoryMathematicsMathematicsResourcesResourcesTestsTestsPost-Newtonian formalismPost-Newtonian formalismLinearized gravityLinearized gravityADM formalismADM formalism
+
+
+Alternatives to
+general relativity
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+Alternatives to
+general relativityAlternatives to
+general relativity
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+
+
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+
+
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+
+
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+
+Paradigms
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+Paradigms
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+
+
+Classical theories of gravitation
+Quantum gravity
+Theory of everything
+Classical theories of gravitationClassical theories of gravitationQuantum gravityQuantum gravityTheory of everythingTheory of everything
+
+
+Classical
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+Classical
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+
+
+Einstein–Cartan
+Bimetric theories
+Gauge theory gravity
+Teleparallelism
+Composite gravity
+f(R) gravity
+Massive gravity
+Modified Newtonian dynamics (MOND)
+Nonsymmetric gravitation
+Scalar–tensor theories
+
+Brans–Dicke
+
+
+Scalar–tensor–vector
+Conformal gravity
+Scalar theories
+
+Nordström
+
+
+Whitehead
+Geometrodynamics
+Induced gravity
+Tensor–vector–scalar
+Chameleon
+Pressuron
+Einstein–CartanEinstein–CartanBimetric theoriesBimetric theoriesGauge theory gravityGauge theory gravityTeleparallelismTeleparallelismComposite gravityComposite gravityf(R) gravityf(R) gravityfRMassive gravityMassive gravityModified Newtonian dynamics (MOND)Modified Newtonian dynamics (MOND)Nonsymmetric gravitationNonsymmetric gravitationScalar–tensor theories
+
+Brans–Dicke
+
+Scalar–tensor theories
+Brans–Dicke
+Brans–DickeBrans–DickeBrans–DickeScalar–tensor–vectorScalar–tensor–vectorConformal gravityConformal gravityScalar theories
+
+Nordström
+
+Scalar theories
+Nordström
+NordströmNordströmNordströmWhiteheadWhiteheadGeometrodynamicsGeometrodynamicsInduced gravityInduced gravityTensor–vector–scalarTensor–vector–scalarChameleonChameleonPressuronPressuron
+
+
+Quantisation
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+Quantisation
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+
+
+Euclidean quantum gravity
+Canonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+
+Causal dynamical triangulation
+Causal sets
+DGP model
+Euclidean quantum gravityEuclidean quantum gravityCanonical quantum gravity
+
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+
+Canonical quantum gravity
+Wheeler–DeWitt equation
+Loop quantum gravity
+Spin foam
+Wheeler–DeWitt equationWheeler–DeWitt equationWheeler–DeWitt equationLoop quantum gravityLoop quantum gravityLoop quantum gravitySpin foamSpin foamSpin foamCausal dynamical triangulationCausal dynamical triangulationCausal setsCausal setsDGP modelDGP model
+
+
+Unification
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+Unification
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+
+
+Kaluza–Klein theory
+
+Dilaton
+
+
+Supergravity
+Kaluza–Klein theory
+
+Dilaton
+
+Kaluza–Klein theory
+Dilaton
+DilatonDilatonDilatonSupergravitySupergravity
+
+
+Unification and
+quantisation
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+Unification and
+quantisation
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+
+Semiclassical gravity
+Superfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+
+String theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+
+Twistor theory
+
+Twistor string theory
+
+
+Noncommutative geometry
+
+Self-creation cosmology
+
+Noncommutative geometry
+Self-creation cosmology
+Self-creation cosmologySelf-creation cosmologySelf-creation cosmologySemiclassical gravitySemiclassical gravitySuperfluid vacuum theory
+
+Logarithmic BEC vacuum
+
+Superfluid vacuum theory
+Logarithmic BEC vacuum
+Logarithmic BEC vacuumLogarithmic BEC vacuumLogarithmic BEC vacuumString theory
+
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+
+String theory
+M-theory
+F-theory
+Heterotic string theory
+Type I string theory
+Type 0 string theory
+Bosonic string theory
+Type II string theory
+Little string theory
+M-theoryM-theoryM-theoryF-theoryF-theoryF-theoryHeterotic string theoryHeterotic string theoryHeterotic string theoryType I string theoryType I string theoryType I string theoryType 0 string theoryType 0 string theoryType 0 string theoryBosonic string theoryBosonic string theoryBosonic string theoryType II string theoryType II string theoryType II string theoryLittle string theoryLittle string theoryLittle string theoryTwistor theory
+
+Twistor string theory
+
+Twistor theory
+Twistor string theory
+Twistor string theoryTwistor string theoryTwistor string theory
+
+
+Generalisations /
+Extensions of GR
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+Generalisations /
+Extensions of GR
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+
+
+Scale relativity
+Liouville gravity
+Lovelock theory
+(2+1)-dimensional topological gravity
+Gauss–Bonnet gravity
+Jackiw–Teitelboim gravity
+Scale relativityScale relativityLiouville gravityLiouville gravityLovelock theoryLovelock theory(2+1)-dimensional topological gravity(2+1)-dimensional topological gravityGauss–Bonnet gravityGauss–Bonnet gravityJackiw–Teitelboim gravityJackiw–Teitelboim gravity
+
+
+Pre-Newtonian theories
+and Toy models
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+Pre-Newtonian theories
+and Toy modelsPre-Newtonian theories
+and Toy models
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+
+
+Aristotelian physics
+CGHS model
+RST model
+Mechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+
+Gravitational interaction of antimatter
+Aristotelian physicsAristotelian physicsCGHS modelCGHS modelRST modelRST modelMechanical explanations
+
+Fatio–Le Sage
+Entropic gravity
+
+Mechanical explanations
+Fatio–Le Sage
+Entropic gravity
+Fatio–Le SageFatio–Le SageFatio–Le SageEntropic gravityEntropic gravityEntropic gravityGravitational interaction of antimatterGravitational interaction of antimatter
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+This string theory-related article is a stub. You can help Wikipedia by expanding it.string theorystubexpanding it
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.physicsstubexpanding it
+
+v
+t
+e
+
+
+v
+t
+e
+vvvttteee
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Twistor_string_theory&oldid=709487453"					https://en.wikipedia.org/w/index.php?title=Twistor_string_theory&oldid=709487453Categories: String theoryString theory stubsPhysics stubsHidden categories: All stub articlesCategories: String theoryString theory stubsPhysics stubsCategoriesString theoryString theory stubsPhysics stubsString theoryString theoryString theory stubsString theory stubsPhysics stubsPhysics stubsHidden categories: All stub articlesAll stub articlesAll stub articlesAll stub articles
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+ 
+Add links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+ 
+Add links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+ 
+Add links 
+Languages
+
+ 
+Add links 
+ Add linksAdd linksAdd links
+
+ This page was last modified on 11 March 2016, at 06:21.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 11 March 2016, at 06:21.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 11 March 2016, at 06:21.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

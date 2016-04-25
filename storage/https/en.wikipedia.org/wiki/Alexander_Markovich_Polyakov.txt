@@ -1,0 +1,1068 @@
+Alexander Markovich Polyakov - Wikipedia, the free encyclopedia
+
+
+
+
+Alexander Markovich Polyakov
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Alexander M. Polyakov
+
+
+Born
+(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union
+
+
+Fields
+Theoretical high energy physics
+
+
+Institutions
+Princeton University
+Landau Institute for Theoretical Physics
+
+
+Alma mater
+Moscow Institute of Physics and Technology
+
+
+Doctoral advisor
+Karen Ter-Martirosian
+
+
+Known for
+'t Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap
+
+
+Notable awards
+Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)
+
+
+Alexander Markovich Polyakov (Russian: Алекса́ндр Ма́ркович Поляко́в; born 27 September 1945) is a theoretical physicist, formerly at the Landau Institute in Moscow and, since 1990, at Princeton University.[1]
+
+
+
+Contents
+
+
+1 Important discoveries
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Important discoveries[edit]
+Polyakov is known for a number of basic contributions to quantum field theory, including work on what is now called the 't Hooft–Polyakov monopole in non-Abelian gauge theory, independent from Gerard 't Hooft. Polyakov and coauthors discovered the so-called BPST instanton which, in turn, led to the discovery of the vacuum angle in QCD.[2][3] His path integral formulation of string theory[4] had profound and lasting impacts on the conceptual and mathematical understanding of the theory. His paper Infinite conformal symmetry in two-dimensional quantum field theory,[5] with Alexander Belavin, and Alexander Zamolodchikov, founded the two-dimensional Conformal Field Theory; it has classic status.[1] He also played an important role in elucidating the conceptual framework behind renormalization independent of Kenneth G. Wilson's Nobel Prize–winning work. He formulated pioneering ideas in gauge/string duality long before the breakthrough of AdS/CFT using D-branes. Other insightful conjectures that came years or even decades before active work by others include integrability of gauge and string theories and certain ideas about turbulence.
+Very early in his career, in a 1965 student work, Polyakov suggested (with Alexander Migdal) a dynamical Higgs mechanism, slightly after but independently[6] from the publications of Peter Higgs and others. The paper was delayed by the Editorial Ofiice of JETP, and was published only in 1966.[7]
+Honors and awards[edit]
+Alexander Polyakov was awarded the Dirac Medal of the ICTP and the Dannie Heineman Prize for Mathematical Physics in 1986, the Lorentz Medal in 1994, the Oskar Klein Medal in 1996, the Harvey Prize in 2010 and the Lars Onsager Prize (together with A. Belavin and A. Zamolodchikov) in 2011. On 20 March 2013, Alexander Polyakov was announced the recipient of 2013 Fundamental Physics Prize.
+He was elected to the Soviet Academy of Sciences in 1984[8] and the U.S. National Academy of Sciences (NAS) in 2005.[9][10]
+See also[edit]
+
+Polyakov action
+'t Hooft–Polyakov monopole
+Belavin–Polyakov–Schwarz–Tyupkin instantons
+QCD vacuum
+Conformal bootstrap
+Liouville theory
+AdS/CFT correspondence
+
+References[edit]
+
+
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. 
+^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. 
+^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. 
+^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. 
+^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. 
+^ A.M. Polyakov, A View From The Island, 1992
+^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966
+^ Alexander M. Polyakov. Site of RAS
+^ Polyakov, Alexandre. NAS Section: Physics
+^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005
+
+
+External links[edit]
+
+Dirac Medal 1986 citation
+Departmental homepage at Princeton
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Alexander_Markovich_Polyakov&oldid=712921595"					
+Categories: String theoristsSoviet physicistsRussian physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyPrinceton University facultyMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersISI highly cited researchersLiving people1945 birthsPeople from MoscowTheoretical physicistsHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+
+
+Alexander Markovich Polyakov
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Alexander M. Polyakov
+
+
+Born
+(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union
+
+
+Fields
+Theoretical high energy physics
+
+
+Institutions
+Princeton University
+Landau Institute for Theoretical Physics
+
+
+Alma mater
+Moscow Institute of Physics and Technology
+
+
+Doctoral advisor
+Karen Ter-Martirosian
+
+
+Known for
+'t Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap
+
+
+Notable awards
+Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)
+
+
+Alexander Markovich Polyakov (Russian: Алекса́ндр Ма́ркович Поляко́в; born 27 September 1945) is a theoretical physicist, formerly at the Landau Institute in Moscow and, since 1990, at Princeton University.[1]
+
+
+
+Contents
+
+
+1 Important discoveries
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Important discoveries[edit]
+Polyakov is known for a number of basic contributions to quantum field theory, including work on what is now called the 't Hooft–Polyakov monopole in non-Abelian gauge theory, independent from Gerard 't Hooft. Polyakov and coauthors discovered the so-called BPST instanton which, in turn, led to the discovery of the vacuum angle in QCD.[2][3] His path integral formulation of string theory[4] had profound and lasting impacts on the conceptual and mathematical understanding of the theory. His paper Infinite conformal symmetry in two-dimensional quantum field theory,[5] with Alexander Belavin, and Alexander Zamolodchikov, founded the two-dimensional Conformal Field Theory; it has classic status.[1] He also played an important role in elucidating the conceptual framework behind renormalization independent of Kenneth G. Wilson's Nobel Prize–winning work. He formulated pioneering ideas in gauge/string duality long before the breakthrough of AdS/CFT using D-branes. Other insightful conjectures that came years or even decades before active work by others include integrability of gauge and string theories and certain ideas about turbulence.
+Very early in his career, in a 1965 student work, Polyakov suggested (with Alexander Migdal) a dynamical Higgs mechanism, slightly after but independently[6] from the publications of Peter Higgs and others. The paper was delayed by the Editorial Ofiice of JETP, and was published only in 1966.[7]
+Honors and awards[edit]
+Alexander Polyakov was awarded the Dirac Medal of the ICTP and the Dannie Heineman Prize for Mathematical Physics in 1986, the Lorentz Medal in 1994, the Oskar Klein Medal in 1996, the Harvey Prize in 2010 and the Lars Onsager Prize (together with A. Belavin and A. Zamolodchikov) in 2011. On 20 March 2013, Alexander Polyakov was announced the recipient of 2013 Fundamental Physics Prize.
+He was elected to the Soviet Academy of Sciences in 1984[8] and the U.S. National Academy of Sciences (NAS) in 2005.[9][10]
+See also[edit]
+
+Polyakov action
+'t Hooft–Polyakov monopole
+Belavin–Polyakov–Schwarz–Tyupkin instantons
+QCD vacuum
+Conformal bootstrap
+Liouville theory
+AdS/CFT correspondence
+
+References[edit]
+
+
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. 
+^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. 
+^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. 
+^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. 
+^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. 
+^ A.M. Polyakov, A View From The Island, 1992
+^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966
+^ Alexander M. Polyakov. Site of RAS
+^ Polyakov, Alexandre. NAS Section: Physics
+^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005
+
+
+External links[edit]
+
+Dirac Medal 1986 citation
+Departmental homepage at Princeton
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Alexander_Markovich_Polyakov&oldid=712921595"					
+Categories: String theoristsSoviet physicistsRussian physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyPrinceton University facultyMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersISI highly cited researchersLiving people1945 birthsPeople from MoscowTheoretical physicistsHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearch
+
+Alexander M. Polyakov
+
+
+Born
+(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union
+
+
+Fields
+Theoretical high energy physics
+
+
+Institutions
+Princeton University
+Landau Institute for Theoretical Physics
+
+
+Alma mater
+Moscow Institute of Physics and Technology
+
+
+Doctoral advisor
+Karen Ter-Martirosian
+
+
+Known for
+'t Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap
+
+
+Notable awards
+Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)
+
+
+Alexander Markovich Polyakov (Russian: Алекса́ндр Ма́ркович Поляко́в; born 27 September 1945) is a theoretical physicist, formerly at the Landau Institute in Moscow and, since 1990, at Princeton University.[1]
+
+
+
+Contents
+
+
+1 Important discoveries
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+
+Important discoveries[edit]
+Polyakov is known for a number of basic contributions to quantum field theory, including work on what is now called the 't Hooft–Polyakov monopole in non-Abelian gauge theory, independent from Gerard 't Hooft. Polyakov and coauthors discovered the so-called BPST instanton which, in turn, led to the discovery of the vacuum angle in QCD.[2][3] His path integral formulation of string theory[4] had profound and lasting impacts on the conceptual and mathematical understanding of the theory. His paper Infinite conformal symmetry in two-dimensional quantum field theory,[5] with Alexander Belavin, and Alexander Zamolodchikov, founded the two-dimensional Conformal Field Theory; it has classic status.[1] He also played an important role in elucidating the conceptual framework behind renormalization independent of Kenneth G. Wilson's Nobel Prize–winning work. He formulated pioneering ideas in gauge/string duality long before the breakthrough of AdS/CFT using D-branes. Other insightful conjectures that came years or even decades before active work by others include integrability of gauge and string theories and certain ideas about turbulence.
+Very early in his career, in a 1965 student work, Polyakov suggested (with Alexander Migdal) a dynamical Higgs mechanism, slightly after but independently[6] from the publications of Peter Higgs and others. The paper was delayed by the Editorial Ofiice of JETP, and was published only in 1966.[7]
+Honors and awards[edit]
+Alexander Polyakov was awarded the Dirac Medal of the ICTP and the Dannie Heineman Prize for Mathematical Physics in 1986, the Lorentz Medal in 1994, the Oskar Klein Medal in 1996, the Harvey Prize in 2010 and the Lars Onsager Prize (together with A. Belavin and A. Zamolodchikov) in 2011. On 20 March 2013, Alexander Polyakov was announced the recipient of 2013 Fundamental Physics Prize.
+He was elected to the Soviet Academy of Sciences in 1984[8] and the U.S. National Academy of Sciences (NAS) in 2005.[9][10]
+See also[edit]
+
+Polyakov action
+'t Hooft–Polyakov monopole
+Belavin–Polyakov–Schwarz–Tyupkin instantons
+QCD vacuum
+Conformal bootstrap
+Liouville theory
+AdS/CFT correspondence
+
+References[edit]
+
+
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. 
+^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. 
+^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. 
+^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. 
+^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. 
+^ A.M. Polyakov, A View From The Island, 1992
+^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966
+^ Alexander M. Polyakov. Site of RAS
+^ Polyakov, Alexandre. NAS Section: Physics
+^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005
+
+
+External links[edit]
+
+Dirac Medal 1986 citation
+Departmental homepage at Princeton
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alexander M. Polyakov
+
+
+Born
+(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union
+
+
+Fields
+Theoretical high energy physics
+
+
+Institutions
+Princeton University
+Landau Institute for Theoretical Physics
+
+
+Alma mater
+Moscow Institute of Physics and Technology
+
+
+Doctoral advisor
+Karen Ter-Martirosian
+
+
+Known for
+'t Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap
+
+
+Notable awards
+Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)
+
+
+Alexander M. Polyakov
+Alexander M. PolyakovAlexander M. Polyakov
+Born
+(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union
+Born(1945-09-27) 27 September 1945 (age 70)
+Moscow, Soviet Union(1945-09-27)1945-09-27(age 70)
+Fields
+Theoretical high energy physics
+FieldsTheoretical high energy physicsTheoreticalhigh energy physics
+Institutions
+Princeton University
+Landau Institute for Theoretical Physics
+InstitutionsPrinceton University
+Landau Institute for Theoretical PhysicsPrinceton UniversityLandau Institute for Theoretical Physics
+Alma mater
+Moscow Institute of Physics and Technology
+Alma materAlma materAlma materMoscow Institute of Physics and TechnologyMoscow Institute of Physics and Technology
+Doctoral advisor
+Karen Ter-Martirosian
+Doctoral advisorDoctoral advisorKaren Ter-MartirosianKaren Ter-Martirosian
+Known for
+'t Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap
+Known for't Hooft–Polyakov monopole
+Quantum field theory
+String theory
+Polyakov action
+Conformal bootstrap't Hooft–Polyakov monopoleQuantum field theoryString theoryPolyakov actionConformal bootstrap
+Notable awards
+Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)
+Notable awardsFundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)Fundamental Physics Prize (2013)
+Lars Onsager Prize (2011)
+Harvey Prize (2010)
+Pomeranchuk Prize (2004)
+Oskar Klein Medal (1996)
+Lorentz Medal (1994)
+Dannie Heineman Prize (1986)
+Dirac Medal of the ICTP (1986)Fundamental Physics PrizeLars Onsager PrizeHarvey PrizePomeranchuk PrizeOskar Klein MedalLorentz MedalDannie Heineman PrizeDirac Medal of the ICTPAlexander Markovich Polyakov (Russian: Алекса́ндр Ма́ркович Поляко́в; born 27 September 1945) is a theoretical physicist, formerly at the Landau Institute in Moscow and, since 1990, at Princeton University.[1]Alexander Markovich PolyakovRussianАлекса́ндр Ма́ркович Поляко́вphysicistLandau InstitutePrinceton University[1][1]
+
+Contents
+
+
+1 Important discoveries
+2 Honors and awards
+3 See also
+4 References
+5 External links
+
+
+Contents
+Contents
+1 Important discoveries
+2 Honors and awards
+3 See also
+4 References
+5 External links
+1 Important discoveries1 Important discoveries1Important discoveries2 Honors and awards2 Honors and awards2Honors and awards3 See also3 See also3See also4 References4 References4References5 External links5 External links5External linksImportant discoveries[edit]Important discoveries[edit][edit]Polyakov is known for a number of basic contributions to quantum field theory, including work on what is now called the 't Hooft–Polyakov monopole in non-Abelian gauge theory, independent from Gerard 't Hooft. Polyakov and coauthors discovered the so-called BPST instanton which, in turn, led to the discovery of the vacuum angle in QCD.[2][3] His path integral formulation of string theory[4] had profound and lasting impacts on the conceptual and mathematical understanding of the theory. His paper Infinite conformal symmetry in two-dimensional quantum field theory,[5] with Alexander Belavin, and Alexander Zamolodchikov, founded the two-dimensional Conformal Field Theory; it has classic status.[1] He also played an important role in elucidating the conceptual framework behind renormalization independent of Kenneth G. Wilson's Nobel Prize–winning work. He formulated pioneering ideas in gauge/string duality long before the breakthrough of AdS/CFT using D-branes. Other insightful conjectures that came years or even decades before active work by others include integrability of gauge and string theories and certain ideas about turbulence.quantum field theory't Hooft–Polyakov monopolegauge theoryGerard 't HooftBPST instantonvacuum angleQCD[2][2][3][3]path integral formulationstring theory[4][4]Infinite conformal symmetry in two-dimensional quantum field theory[5][5]Alexander BelavinAlexander ZamolodchikovConformal Field Theory[1][1]renormalizationKenneth G. WilsonAdS/CFTD-branesVery early in his career, in a 1965 student work, Polyakov suggested (with Alexander Migdal) a dynamical Higgs mechanism, slightly after but independently[6] from the publications of Peter Higgs and others. The paper was delayed by the Editorial Ofiice of JETP, and was published only in 1966.[7]Alexander MigdalHiggs mechanism[6][6]Peter Higgs[7][7]Honors and awards[edit]Honors and awards[edit][edit]Alexander Polyakov was awarded the Dirac Medal of the ICTP and the Dannie Heineman Prize for Mathematical Physics in 1986, the Lorentz Medal in 1994, the Oskar Klein Medal in 1996, the Harvey Prize in 2010 and the Lars Onsager Prize (together with A. Belavin and A. Zamolodchikov) in 2011. On 20 March 2013, Alexander Polyakov was announced the recipient of 2013 Fundamental Physics Prize.Dirac Medal of the ICTPDannie Heineman Prize for Mathematical PhysicsLorentz MedalOskar Klein MedalHarvey PrizeLars Onsager PrizeA. BelavinA. ZamolodchikovFundamental Physics PrizeHe was elected to the Soviet Academy of Sciences in 1984[8] and the U.S. National Academy of Sciences (NAS) in 2005.[9][10]Soviet Academy of Sciences[8][8]National Academy of Sciences[9][9][10][10]See also[edit]See also[edit][edit]
+Polyakov action
+'t Hooft–Polyakov monopole
+Belavin–Polyakov–Schwarz–Tyupkin instantons
+QCD vacuum
+Conformal bootstrap
+Liouville theory
+AdS/CFT correspondence
+Polyakov actionPolyakov action't Hooft–Polyakov monopole't Hooft–Polyakov monopoleBelavin–Polyakov–Schwarz–Tyupkin instantonsBelavin–Polyakov–Schwarz–Tyupkin instantonsQCD vacuumQCD vacuumConformal bootstrapConformal bootstrapLiouville theoryLiouville theoryAdS/CFT correspondenceAdS/CFT correspondenceReferences[edit]References[edit][edit]
+
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. 
+^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. 
+^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. 
+^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. 
+^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. 
+^ A.M. Polyakov, A View From The Island, 1992
+^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966
+^ Alexander M. Polyakov. Site of RAS
+^ Polyakov, Alexandre. NAS Section: Physics
+^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005
+
+
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. 
+^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. 
+^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. 
+^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. 
+^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. 
+^ A.M. Polyakov, A View From The Island, 1992
+^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966
+^ Alexander M. Polyakov. Site of RAS
+^ Polyakov, Alexandre. NAS Section: Physics
+^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005
+^ a b "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. ^ a baaaabbbb"Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006. "Princeton celebrates Polyakov's 60th". CERN Courier (Mar 1): 2. 2006."Princeton celebrates Polyakov's 60th"CERN Courier  ^ Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. ^^^Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X. Belavin AA; Polyakov AM; Schwartz AS; Tyupkin YS (1975). "Pseudoparticle solutions of the Yang-Mills equations". Phys. Lett. B 59 (1): 85–7. Bibcode:1975PhLB...59...85B. doi:10.1016/0370-2693(75)90163-X.Phys. Lett. B59Bibcode1975PhLB...59...85Bdoi10.1016/0370-2693(75)90163-X  ^ Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. ^^^Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4. Polyakov AM (1977). "Quark confinement and topology of gauge theories". Nucl. Phys. B 120 (3): 429–58. Bibcode:1977NuPhB.120..429P. doi:10.1016/0550-3213(77)90086-4.Nucl. Phys. B120Bibcode1977NuPhB.120..429Pdoi10.1016/0550-3213(77)90086-4  ^ Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. ^^^Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7. Polyakov AM (1981). "Quantum geometry of bosonic strings". Phys. Lett. B 103 (3): 207–10. Bibcode:1981PhLB..103..207P. doi:10.1016/0370-2693(81)90743-7.Phys. Lett. B103Bibcode1981PhLB..103..207Pdoi10.1016/0370-2693(81)90743-7  ^ Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. ^^^Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X. Belavin AA; Polyakov AM; Zamolodchikov AB (1984). "Infinite conformal symmetry in two-dimensional quantum field theory". Nucl. Phys. B 241 (2): 333–80. Bibcode:1984NuPhB.241..333B. doi:10.1016/0550-3213(84)90052-X.Zamolodchikov ABNucl. Phys. B241Bibcode1984NuPhB.241..333Bdoi10.1016/0550-3213(84)90052-X  ^ A.M. Polyakov, A View From The Island, 1992^^^A.M. Polyakov, A View From The Island, 1992A.M. Polyakov, A View From The Island, 1992^ A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966^^^A. A. Migdal and A. M. Polyakov, "Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles", Soviet Physics JETP, July 1966"Spontaneous Breakdown of Strong Interaction Symmetry and Absence of Massless Particles"Soviet Physics JETP^ Alexander M. Polyakov. Site of RAS^^^Alexander M. Polyakov. Site of RASAlexander M. Polyakov^ Polyakov, Alexandre. NAS Section: Physics^^^Polyakov, Alexandre. NAS Section: PhysicsPolyakov, Alexandre^ Dirac Medalist Elected to NAS. ICTP News. 9/5/2005^^^Dirac Medalist Elected to NAS. ICTP News. 9/5/2005Dirac Medalist Elected to NASExternal links[edit]External links[edit][edit]
+Dirac Medal 1986 citation
+Departmental homepage at Princeton
+Dirac Medal 1986 citationDirac Medal 1986 citationDepartmental homepage at PrincetonDepartmental homepage at Princeton
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+Authority controlAuthority control
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+
+
+WorldCat Identities
+VIAF: 76406426
+LCCN: n86019364
+ISNI: 0000 0000 8156 4967
+GND: 1067172351
+SUDOC: 03334406X
+BNF: cb124219170 (data)
+MGP: 135994
+WorldCat IdentitiesWorldCat IdentitiesVIAF: 76406426VIAF7640642676406426LCCN: n86019364LCCNn86019364n86019364ISNI: 0000 0000 8156 4967ISNI0000 0000 8156 49670000 0000 8156 4967GND: 1067172351GND10671723511067172351SUDOC: 03334406XSUDOC03334406X03334406XBNF: cb124219170 (data)BNFcb124219170 (data)cb124219170(data)MGP: 135994MGP135994135994
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Alexander_Markovich_Polyakov&oldid=712921595"					https://en.wikipedia.org/w/index.php?title=Alexander_Markovich_Polyakov&oldid=712921595Categories: String theoristsSoviet physicistsRussian physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyPrinceton University facultyMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersISI highly cited researchersLiving people1945 birthsPeople from MoscowTheoretical physicistsHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersCategories: String theoristsSoviet physicistsRussian physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyPrinceton University facultyMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersISI highly cited researchersLiving people1945 birthsPeople from MoscowTheoretical physicistsCategoriesString theoristsSoviet physicistsRussian physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyPrinceton University facultyMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersISI highly cited researchersLiving people1945 birthsPeople from MoscowTheoretical physicistsString theoristsString theoristsSoviet physicistsSoviet physicistsRussian physicistsRussian physicistsAmerican physicistsAmerican physicistsMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology alumniMoscow Institute of Physics and Technology facultyMoscow Institute of Physics and Technology facultyPrinceton University facultyPrinceton University facultyMembers of the United States National Academy of SciencesMembers of the United States National Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the USSR Academy of SciencesCorresponding Members of the Russian Academy of SciencesCorresponding Members of the Russian Academy of SciencesMembers of the French Academy of SciencesMembers of the French Academy of SciencesLorentz Medal winnersLorentz Medal winnersISI highly cited researchersISI highly cited researchersLiving peopleLiving people1945 births1945 birthsPeople from MoscowPeople from MoscowTheoretical physicistsTheoretical physicistsHidden categories: Articles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersArticles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersArticles containing Russian-language textArticles containing Russian-language textWikipedia articles with VIAF identifiersWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BNF identifiers
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolفارسی한국어ItalianoKreyòl ayisyen日本語Norsk bokmålPortuguêsРусскийSlovenščinaSvenska中文 
+Edit links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolفارسی한국어ItalianoKreyòl ayisyen日本語Norsk bokmålPortuguêsРусскийSlovenščinaSvenska中文 
+Edit links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+DeutschEspañolفارسی한국어ItalianoKreyòl ayisyen日本語Norsk bokmålPortuguêsРусскийSlovenščinaSvenska中文 
+Edit links 
+Languages
+
+DeutschEspañolفارسی한국어ItalianoKreyòl ayisyen日本語Norsk bokmålPortuguêsРусскийSlovenščinaSvenska中文 
+Edit links 
+DeutschEspañolفارسی한국어ItalianoKreyòl ayisyen日本語Norsk bokmålPortuguêsРусскийSlovenščinaSvenska中文 DeutschDeutschEspañolEspañolفارسیفارسی한국어한국어ItalianoItalianoKreyòl ayisyenKreyòl ayisyen日本語日本語Norsk bokmålNorsk bokmålPortuguêsPortuguêsРусскийРусскийSlovenščinaSlovenščinaSvenskaSvenska中文中文Edit linksEdit linksEdit links
+
+ This page was last modified on 31 March 2016, at 21:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 31 March 2016, at 21:22.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 31 March 2016, at 21:22.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 

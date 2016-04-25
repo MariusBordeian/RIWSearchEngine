@@ -1,0 +1,5689 @@
+Glossary of string theory - Wikipedia, the free encyclopedia
+
+
+
+
+Glossary of string theory
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This page is a glossary of terms in string theory, including related areas such as supergravity, supersymmetry, and high energy physics.
+
+
+Contents :
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+
+
+Conventions[edit]
+
+-bein
+A suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on).
+-ino
+The superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino.
+s-
+The superpartners of fermions are often denoted by adding s- at the beginning; for example, quark/squark.
+
+αβγ[edit]
+
+α
+1.  Fine-structure constant
+2.  Regge slope, or inverse of the string tension
+3.  A Fourier coefficient of a spacetime coordinate.
+4.  αs is the strong coupling constant
+β
+1.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+2.  Euler beta function
+3.  Beta function describing the change of coupling constant under the renormalization group flow
+γ
+1.  Dirac matrix
+2.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+3.  World-sheet metric γab(σ,τ)
+4.  Photon
+5.  Euler constant .57721...
+Γ
+1.  Lattice
+2.  Euler Gamma function
+3.  Dirac matrix
+4.  Width of some scattering process
+δ
+1.  Kronecker delta function
+2.  An infinitesimal change in something; for example δL is an infinitesimal change in L
+Δ
+1.  Propagator
+2.  Delta baryon, a baryon with 3 light quarks and isospin 3/2
+3.  Laplace operator in Euclidean space or more generally a Riemannian manifold
+ε
+1.  Small positive real number
+2.  Antisymmetric tensor
+η
+1.  Flat Lorentzian metric on spacetime
+2.  Dedekind eta function, a weight 1/2 modular form
+3.  Neutral flavor meson with PC= –+
+θ
+1.  Theta function
+2.  θc is the Cabbibo angle
+3.  θw is the Weinberg angle, also called the weak mixing angle
+Λ
+Cosmological constant
+2.  Large energy or large mass cutoff in regularization
+3.  Lambda baryon, a baryon with 2 light quarks and isospin 0
+μ
+1.  Renormalization scale, with the dimensions of mass
+2.  Muon
+ν
+Neutrino
+Ξ
+1.  Xi baryon, a baryon with 1 light quark
+π
+1.  3.14159...
+2.  Pion
+Π
+The momentum density conjugate to X
+ρ
+Rho meson, a light meson with PC= ––
+σ
+1.  Spacelike coordinate on the world-sheet
+2.  Scattering cross section
+3.  Pauli matrix
+4.  See #sigma model
+Σ
+1.  Sigma baryon, a baryon with 2 light quarks and isospin 1
+τ
+1.  Timelike coordinate on the world-sheet
+2.  Element of the upper half plane
+3.  Tauon
+Υ
+Upsilon meson (bb)
+φ
+Scalar field
+χ
+Neutral-flavor heavy meson with PC= ++
+ψ
+1.  Spinor field
+2.  Psi meson (cc)
+Ω
+1.  Density of something in the universe; for example, Ων is the neutrino density
+2.  Omega baryon, a baryon with no light quarks
+
+!$@[edit]
+
+' (prime)
+X′ means ∂X/∂σ.
+dot above letter
+Ẋ means ∂X/∂τ
+∇
+1.  A covariant derivative
+2.  The del operator.
+□
+The D'Alembert operator, or non-Euclidean Laplacian.
+[,]
+A commutator: [A,B] = AB–BA.
+{,}
+An anticommutator: {A,B} = AB+BA.
+
+A[edit]
+
+A
+1.  A connection 1-form
+2.  Short for antiperiodic, a boundary condition on strings.
+3.  Short for axial vector
+4.  An asymmetry
+action
+
+Main article: action (physics)
+A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion.
+ADE
+
+Main article: ADE classification
+Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on.
+ADHM
+Initials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons.
+ADM
+Initials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism.
+AdS
+Anti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic space
+AdS/CFT
+Anti-de Sitter/conformal field theory, especially the AdS/CFT correspondence.
+ALE
+Asymptotically locally Euclidean
+ALEPH
+ALEPH experiment at LEP
+AMSB
+Anomaly mediation supersymmetry breaking
+ASD
+Anti self-dual (connection)
+ATLAS
+The ATLAS experiment at CERN, a particle detector.
+axino
+
+Main article: Axino
+A hypothetical supersymmetric partner of an axion.
+axion
+
+Main article: Axion
+A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem.
+
+B[edit]
+
+b
+1.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+2.  A bottom quark.
+B
+1.  Baryon number
+2.  Short for boson.
+3.  Short for baryon.
+4.  Short for backward;for example, σB is the cross section for backward scattering.
+5.  a bottom meson.
+BAO
+Baryon acoustic oscillation
+BB
+Big Bang
+BBN
+Big Bang nucleosynthesis
+bino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge.
+BIon
+A BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action.
+BPS
+
+Main article: BPS state
+A state related to the Bogomol'nyi–Prasad–Sommerfield bound.
+BR
+Branching ratio
+BRS
+BRST quantization
+
+Main article: BRST quantization
+Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories.
+brane
+Short for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane.
+BTZ
+Initials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity.
+BV
+Batalin–Vilkovisky, as in Batalin–Vilkovisky formalism.
+
+C[edit]
+
+c
+1.  The speed of light, when not using units where this is 1.
+2.  A central charge of the Virasoro algebra or similar algebra.
+3.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+4.  A Chern class.
+5.  A charm quark.
+C
+1.  Charge, especially the charge symmetry.
+Calabi–Yau
+
+Main article: Calabi–Yau manifold
+A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories.
+CAR
+Canonical anticommutation relations
+CBR
+Cosmic background radiation
+CC
+1.  Charged current (weak interaction).
+2.  Complex conjugate
+3.  Compatibility condition
+CCR
+Canonical commutation relation
+CCR and CAR algebras
+CDF
+Collider Detector at Fermilab
+CDM
+Cold dark matter
+CERN
+Conseil Européen pour la Recherche Nucléaire
+chargino
+
+Main article: chargino
+A hypothetical charged supersymmetric partner of a gauge boson.
+Chern–Simons
+1.  
+Main article: Chern–Simons theory
+
+2.  
+Main article: Chern–Simons form
+
+chiral
+1.  Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning "hand"; the terms "left-handed" and "right-handed" are often used to describe chiral objects.
+Main article: Chirality (physics)
+
+2.  A chiral multiplet is a type of supermutliplet of a supersymmetry algebra.
+CIPT
+Contour improved perturbation theory
+CKG
+Short for conformal Killing group.
+CKM
+The Cabibbo–Kobayashi–Maskawa matrix.
+CKS
+Short for conformal Killing spinor.
+CKV
+Short for conformal Killing vector.
+CFT
+Conformal field theory
+Chan–Paton
+A Chan–Paton charge is a degree of freedom carried by an open string on its endpoints.
+cl
+1.  Short for classical (for example, Scl is the classical action).
+2.  CL is short for confidence limit.
+closed
+A closed string is one with no ends.
+CM
+Center of mass (frame)
+CMB
+CMBR
+Cosmic microwave background radiation
+CMS
+1.  The Compact Muon Solenoid at CERN, a particle detector.
+2.  Short for the Center-of-Momentum System, a coordinate system where the total momentum is 0.
+compactification
+A method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold.
+cosmological constant
+
+Main article: cosmological constant
+The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetime
+CP
+Short for Charge–Parity, as in CP symmetry.
+CPC
+Short for Charge–Parity conservation.
+CPT
+Short for Charge–Parity–Time, as in CPT symmetry or CPT theorem.
+CPV
+Short for Charge–Parity violation.
+critical
+The critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories.
+CVC
+Conserved vector current.
+CY
+Short for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories.
+
+D[edit]
+
+d
+1.  The exterior derivative of a form.
+2.  A down quark.
+3.  The dimension of spacetime.
+D
+1.  Short for Dirichlet, as in D-brane
+2.  The dimension of spacetime
+3.  A connection or differential operator
+4.  A Dynkin diagram of an orthogonal group in even dimensions.
+5.  A charmed meson.
+D0
+
+Main article: DØ experiment
+
+D-brane
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+D-string
+A D1-brane
+DBI
+Short for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics.
+DDF
+Initials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra.
+DELPHI
+DELPHI experiment at LEP.
+DESY
+Deutsches Elektronen-Synchrotron
+DGLAP
+Initials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD.
+Diff
+Diffeomorphism or diffeomorphism group.
+dilatino
+
+Main article: dilatino
+A supersymmetric partner of the dilaton.
+dilaton
+
+Main article: dilaton
+A massless scalar particle, related to dilations of spacetime.
+Dirichlet
+Dirichlet boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane).
+DIS
+Deep inelastic scattering
+DLCQ
+Discrete light-cone quantization
+DM
+Dark matter
+DØ
+
+Main article: DØ experiment
+
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+DR
+1.  Short for dimensional regularization.
+2.  Short for dimensional reduction, a way of constructing theories from simpler theories in higher dimensions, sometimes by making fields invariant under some spacelike translations.
+dS
+de Sitter, as in de Sitter space, a Lorentzian analogue of a sphere
+dS/CFT
+de Sitter/conformal field theory, especially the dS/CFT correspondence.
+dual resonance model
+
+Main article: Dual resonance model
+An early precursor of string theory.
+duality
+
+Main article: String duality
+A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality.
+DY
+Initials of Drell–Yan, as in DY process.
+dyon
+
+Main article: Dyon
+A hypothetical particle with both electrical and magnetic charge.
+
+E[edit]
+
+e
+1.  Euler's constant
+2.  A frame
+3.  An electron
+E
+Energy
+E₆
+
+Main article: E6 (mathematics)
+The exceptional Lie algebra of rank 6 and dimension 78.
+E₇
+
+Main article: E7 (mathematics)
+The exceptional Lie algebra of rank 7 and dimension 133.
+E₈
+
+Main article: E8 (mathematics)
+The exceptional Lie algebra of rank 8 and dimension 248.
+eff
+Short for effective (field theory).
+EFT
+Effective field theory, a low-energy approximation to a theory.
+einbein
+A frame in 1 dimension
+elfbein
+A frame in 11 dimensions
+energy–momentum tensor
+
+Main article: Energy–momentum tensor
+A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries.
+EWSB
+Electro-weak symmetry breaking.
+
+F[edit]
+
+F
+1.  A curvature form of a connection
+2.  The world-sheet fermion number.
+3.  Short for fermion
+3.  Short for forward;for example, σF is the cross section for backward scattering.
+F₄
+
+Main article: F4 (mathematics)
+The exceptional Lie algebra of rank 4 and dimension 52.
+FCNC
+Flavor-changing neutral current.
+field
+A section of a fiber bundle
+FOPT
+Fixed-order perturbation theory.
+F-string
+Fundamental string
+F-theory
+
+Main article: F-theory
+Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa.
+FRW
+Friedman–Robertson–Walker metric on spacetime
+
+G[edit]
+
+g
+1.  A metric
+2.  A coupling constant
+3.  The genus of a Riemann surface.
+4.  A gluon.
+G
+1.  Newton's gravitational constant, sometimes written GN.
+2.  The Fermi coupling constant for weak interactions, sometimes written GF.
+3.  Gn is an odd element of the Ramond or Neveu–Schwarz superalgebra.
+G₂
+
+Main article: G2 (mathematics)
+The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G₂ holonomy.
+gaugino
+A spin 1/2 supersymmetric partner of a gauge boson.
+gh
+Abbreviation for ghost; for example, Sgh is the ghost action.
+ghost
+A vector of negative norm.
+GKO
+Short for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra.
+GL
+A general linear group.
+gluino
+
+Main article: gluino
+A hypothetical supersymmetric partner of a gluon.
+gluon
+
+Main article: gluon
+A gauge boson associated with the strong force.
+GMSB
+Gauge mediated supersymmetry breaking.
+goldstino
+
+Main article: goldstino
+A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson.
+GR
+General relativity
+graviton
+
+Main article: graviton
+A conjectural spin 2 massless particle responsible for gravity.
+gravitino
+
+Main article: gravitino
+A supersymmetric partner of the graviton.
+Green
+Named for Michael Green.
+GS
+Green–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime.
+GSO
+Short for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons.
+GSW
+The 2-volume work on superstring theory by Green, Schwarz, and Witten.
+GUT
+Grand unified theory, a hypothetical theory unifying the strong and electroweak forces.
+GWS
+Glashow–Weinberg–Salem theory of the electroweak force.
+GZK
+The Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources.
+
+H[edit]
+
+h
+1.  The weight of a field (for example, its eigenvalue for L0).
+2.  Hermitian; for example, h.c. stands form hermitian conjugate.
+H
+1.  The Hamiltonian.
+2.  The Higgs boson.
+3.  The Hubble constant.
+Haag–Lopuszanski–Sohnius theorem
+
+Main article: Haag–Lopuszanski–Sohnius theorem
+A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem.
+Hagedorn temperature
+
+Main article: Hagedorn temperature
+The temperature above which the partition function diverges due to the exponentially increasing number of string states.
+h.c.
+hc
+Hermitian conjugate
+HCMS
+Hadronic center of mass (frame)
+HDM
+Higgs doublet model
+HE
+Short for heterotic-E2
+8, a heterotic string theory based on the group E2
+8.
+helicity
+
+Main article: Helicity (particle physics)
+The projection of the spin of a massless particle in the direction of its momentum.
+HERA
+Hadron Elektron Ring Anlage
+heterotic
+
+Main article: heterotic string
+Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985.
+Higgs boson
+
+Main article: Higgs boson
+A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory.
+Higgsino
+
+Main article: Higgsino
+A hypothetical supersymmetric partner of a Higgs boson.
+HO
+Short for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R).
+holographic principle
+
+Main article: Holographic principle
+
+HQET
+Heavy quark effective theory
+Hyperkähler
+Hyperkaehler
+
+Main article: Hyperkähler manifold
+A Riemannian manifold with holonomy contained in the compact form of the symplectic group.
+Hypermultiplet
+
+Main article: Hypermultiplet
+A type of supermultiplet (representation) of an extended supersymmetry algebra.
+
+I[edit]
+
+i
+√–1
+I
+Isospin.
+IGM
+Intergalactic medium
+inflation
+
+Main article: Inflation (cosmology)
+A hypothetical very rapid increase in the size of the very early universe.
+instanton
+
+Main article: Instanton
+A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold.
+int
+Short for interaction; for example, Hint might be an interaction Hamiltonian.
+inv
+Short for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment).
+
+J[edit]
+
+J
+1.  A current
+2.  A source
+3.  Spin.
+
+K[edit]
+
+k
+A momentum
+K
+A kaon (a strange meson).
+K3
+
+Main article: K3 surface
+A simply connected compact complex surface of Kodaira dimension 0
+K-theory
+
+Main articles: K-theory and K-theory (physics)
+A cohomology theory based on vector bundles.
+Kac–Moody algebra
+
+Main article: Kac–Moody algebra
+A central extension of a loop algebra.
+Kähler
+Kaehler
+Named after Erich Kähler
+1.  A Kähler manifold is a complex manifold with a compatible Riemannian metric.
+2.  A Kähler metric is the metric on a Kähler manifold.
+3.  A Kähler potential is a function of superfields used to construct a Lagrangian.
+Kalb–Ramond field
+
+Main article: Kalb–Ramond field
+
+KK
+Kaluza–Klein
+KM
+1.  The Kobayashi–Maskawa mechanism for CP violation.
+2.  Kac–Moody algebra.
+KZ
+Initials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra.
+
+L[edit]
+
+L
+1.  A Lagrangian
+2.  Ln is an element of the Virasoro algebra.
+3.  An abbreviation for left (moving modes).
+4.  Lepton number
+5.  Short for lepton
+L3
+L3 experiment at LEP.
+Lagrangian (field theory)
+
+Main article: Lagrangian (field theory)
+A function on the jet space of a fiber bundle.
+landscape
+
+Main article: String theory landscape
+The (conjectural) moduli space of all (vacuums of) string theories.
+LEP
+The Large Electron–Positron Collider at CERN.
+lepton
+
+Main article: lepton
+A elementary particle of spin 1/2 that is unaffected by the strong force.
+LH
+Left-handed
+LHC
+The large hadron collider at CERN.
+little string theory
+
+Main article: Little string theory
+
+LL
+Double logarithmic
+LO
+Leading order (term)
+LQG
+Loop quantum gravity
+LQC
+Loop quantum cosmology
+LSP
+Abbreviation for lightest supersymmetric particle.
+LSS
+Large scale structure (of the universe).
+
+M[edit]
+
+m
+A mass of a fermion. For example, mt is the mass of the top quark t.
+M
+The mass of a boson; for example, MZ is the mass of the Z-boson.
+Majorana fermion
+Majorana spinor
+
+Main articles: Majorana fermion and Majorana spinor
+A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8.
+Majorana–Weyl fermion
+Majorana–Weyl spinor
+
+Main articles: Majorana–Weyl fermion and Majorana–Weyl spinor
+A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8.
+Mandelstam variable
+
+Main article: Mandelstam variables
+A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction.
+matrix theory
+M(atrix) theory
+
+Main article: Matrix string theory
+One of several non-perturbative formulations of string theory or M-theory using infinite matrices.
+M-brane
+membrane
+
+Main article: Membrane (M-theory)
+A higher dimensional analogue of a string.
+MC
+Monte Carlo integration
+MCG
+
+Main article: Mapping class group
+
+minimal model
+Certain solvable conformal field theories.
+Mirror symmetry (string theory)
+
+Main article: Mirror symmetry (string theory)
+A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different "mirror" Calabi–Yau manifold.
+MLLA
+Modified leading logarithm approximation.
+MNS
+Maki–Nakagawa–Sakata matrix for neutrino mixing
+monopole
+
+Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)
+A hypothetical particle similar to a "magnet with only one pole".
+Montonen–Olive duality
+
+Main article: Montonen–Olive duality
+An early case of S-duality.
+MS
+minimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme.
+MSM
+Abbreviation for minimal standard model.
+MSSM
+Abbreviation for minimal supersymmetric standard model.
+mSUGRA
+Minimal model of supergravity.
+M-theory
+
+Main article: M-theory
+An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.
+
+MSW
+Mikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter.
+multiplet
+A linear representation of a Lie algebra or group.
+A collection of elementary particles corresponding to a basis of a representation.
+
+N[edit]
+
+N
+1.  The number of times each irreducible real spinor representation appears in the fermionic part of a supersymmetry algebra or super Minkowski space. It is often used in the description of an extended supersymmetry algebra, as in N=2 superconformal algebra and so on.
+2.  A nucleon, a baryon with 3 light quarks and isospin 1/2 (such as a proton or neutron).
+3.  The number of some type of particle.
+Nambu–Goto action
+
+Main article: Nambu–Goto action
+An action for strings, proportional to the area of the worldsheet.
+NC
+Neutral current (weak interaction).
+Neumann
+Neumann boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero.
+neutralino
+
+Main article: Neutralino
+A hypothetical supersymmetric partner of a gauge boson with zero charge.
+Neveu
+Named for André Neveu.
+Neveu–Schwarz algebra
+
+Main article: Neveu–Schwarz algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra.
+NG
+1.  Short for Nambu–Goto, as in Nambu–Goto action.
+2.  Short for Nambu–Goldstone, as in Nambu–Goldstone boson.
+NLL
+Next to leading logarithmic (term).
+NLO
+Next to leading order (term).
+NLSP
+next-to-lightest sypersymmetric particle
+NMSSM
+Next-to-Minimal Supersymmetric Standard Model.
+NNLL
+Next to next to leading logarithmic (term).
+NNLO
+Next to next to leading order (term).
+NNNLL
+Next to next to next to leading logarithmic (term).
+no-ghost theorem
+
+Main article: No-ghost theorem
+A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem.
+NR
+Non-relativistic
+NRQCD
+Non-relativistic quantum chromodynamics
+NS
+Neveu–Schwarz, especially the Neveu–Schwarz algebra
+NS–NS
+A sector with Neveu–Schwarz conditions on left and right moving modes.
+NS–R
+A sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes.
+NUT
+The initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations.
+
+O[edit]
+
+O
+An orthogonal group
+OCQ
+Short for old covariant quantization
+OPAL
+The OPAL detector at LEP.
+open
+An open string is one with two ends.
+OPE
+operator product expansion
+
+Main article: Operator product expansion
+A description of short-distance singularities of fields.
+orbifold
+
+Main article: orbifold
+Something that looks locally like a manifold quotiented by the action of a finite group.
+OSp
+A Lie superalgebra.
+
+P[edit]
+
+p
+A momentum
+P
+1.  Parity, especially the parity symmetry.
+2.  Short for periodic, a boundary condition on strings (as opposed to A for antiperiodic).
+3.  Pseudoscalar (current)
+4.  Momentum
+5.  One of the bosonic elements of a supersymmetry algebra.
+p-brane
+A p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension.
+PCAC
+partially conserved axial vector current
+PDF
+Parton distribution function.
+PDG
+Particle Data Group.
+photino
+
+Main article: photino
+A hypothetical supersymmetric partner of the photon.
+photon
+
+Main article: photon
+The neutral spin 1 gauge boson of the electromagnetic field.
+PMNS
+Pontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixing
+Polyakov action
+
+Main article: Polyakov action
+A modification of the Nambu–Goto action for strings that eliminates the square root.
+PQ
+Peccei–Quinn, as in Peccei–Quinn theory.
+pQCD
+PQCD
+Perturbative quantum chromodynamics.
+prepotential
+A function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory.
+primary field
+A field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector.
+Princeton string quartet
+David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985.
+PSL
+Projective special linear group.
+
+Q[edit]
+
+q
+A quark.
+Q
+1.  The BRST operator.
+2.  A charge
+3.  One of the fermionic generators of a supersymmetry algebra.
+quark
+
+Main article: quark
+A strongly interacting elementary particle of spin 1/2.
+QCD
+
+Main article: Quantum chromodynamics
+
+QED
+
+Main article: Quantum electrodynamics
+
+
+R[edit]
+
+R
+1.  Short for Ramond, as in Ramond sector.
+2.   A curvature tensor
+Main articles: Scalar curvature, Ricci curvature and Riemann curvature
+
+3.  An abbreviation for right (moving modes).
+4.  A radius
+5.  R-symmetry is a symmetry of extended supersymmetry algebras.
+Ramond
+Named for Pierre Ramond.
+Ramond algebra
+
+Main article: Ramond algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra.
+Rarita–Schwinger
+
+Main articles: Rarita–Schwinger equation and Rarita–Schwinger field
+Refers to spin 3/2 fermions.
+Regge
+1.  Physicist Tullio Regge.
+2.  Regge trajectory: the squared mass of a hadronic resonance is roughly linear in the spin, with the constant of proportionality called the Regge slope.
+revolution
+Any new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence.
+RG
+Renormalization group.
+RGE
+Renormalization group equation.
+RH
+Right-handed
+R–NS
+A sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes.
+RNS
+Ramond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet.
+R-parity
+
+Main article: R-parity
+A Z2 symmetry of supersymmetric models.
+R-R
+Short for Ramond–Ramond sector
+
+S[edit]
+
+s
+1.  A strange quark.
+2.  A Mandelstam variable
+S
+1.  An action
+2.  A scattering matrix.
+3.  The transformation τ → –1/τ of the upper half plane
+4.  Scalar (current)
+5.  Short for super or supersymmetric
+S-brane
+A brane similar to a D-brane, with Dirichlet boundary conditions in the time direction.
+S-duality
+
+Main article: S-duality
+Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constant
+SBB
+Standard Big Bang model of the universe
+SCFT
+Superconformal field theory, a supersymmetric extension of conformal field theory
+Schwarz
+Named for John Henry Schwarz
+Seiberg duality
+
+Main article: Seiberg duality
+
+SGA
+Abbreviation for Spectrum-generating algebra
+short supermultiplet
+A supermultiplet (representation) related to BPS states
+sigma model
+
+Main articles: Sigma model and Non-linear sigma model
+A classical or quantum model based on the maps from a base manifold to a target manifold.
+SL
+Special linear group
+SLAC
+Stanford Linear Accelerator Center
+SLC
+Stanford Linear Collider
+slepton
+
+Main article: slepton
+Hypothetical supersymmetric partner of a lepton
+SM
+
+Main article: Standard Model
+
+sneutrino
+
+Main article: sneutrino
+Hypothetical supersymmetric partner of a neutrino
+SO
+Special orthogonal group
+Sp
+Symplectic group
+sphaleron
+
+Main article: Sphaleron
+Static solution to the electroweak field equations
+squark
+
+Main article: squark
+Supersymmetric partner of a quark.
+SSB
+Spontaneous symmetry breaking
+SSM
+Standard solar model
+stress–energy tensor
+Alternative name for the #energy–momentum tensor.
+string field theory
+
+Main article: string field theory
+
+SU
+Special unitary group
+SUGRA
+Short for supergravity
+superconformal algebra
+
+Main articles: Neveu–Schwarz algebra and Ramond algebra
+A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensions
+superfield
+
+Main article: Superfield
+A supersymmetric analogue of a quantum or classical field
+supergravity
+
+Main article: supergravity
+A supersymmetric extension of general relativity
+supermultiplet
+
+Main article: Supermultiplet
+A representation of a supersymmetry algebra
+superpotential
+
+Main article: Superpotential
+A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian.
+superspace
+
+Main article: superspace
+A supersymmetric analogue of spacetime
+superstring
+
+Main article: superstring
+A supersymmetric analogue of a string
+supersymmetry
+
+Main articles: supersymmetry and supersymmetry algebra
+A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba.
+SUSY
+An abbreviation for supersymmetry.
+SYM
+Supersymmetric Yang–Mills
+
+T[edit]
+
+t
+1.  A top quark.
+2.  A Mandelstam variable.
+3.  Time.
+T
+1.  The energy–momentum tensor.
+2.  Time, especially the time symmetry.
+3.  The transformation τ → τ+1 of the upper half plane.
+4.  A torus.
+5.  The string tension.
+6.  Temperature.
+7.  Tensor (current)
+T-duality
+
+Main article: T-duality
+A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory.
+tachyon
+
+Main article: Tachyon
+A particle of imaginary mass moving faster than light.
+ToE
+TOE
+Theory of everything
+type I
+type II
+type IIA
+type IIB
+
+Main article: Type I string theory
+Main article: Type II string theory
+A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities.
+
+U[edit]
+
+u
+1.  An up quark.
+2.  A Mandelstam variable.
+U
+A unitary group.
+U-duality
+
+Main article: U-duality
+Short for "unified duality". A string duality relating two different string theories.
+UED
+Universal extra dimensions
+UV
+Short for ultra-violet, often referring to short-distance singularities.
+
+V[edit]
+
+V
+1.  A vertex operator.
+2.  Vector (current)
+V-A
+Vector-Axial vector
+vector superfield
+A type of superfield related to vector supermultiplets.
+VEV
+Vacuum expectation value of an operator.
+vielbein
+A frame
+vierbein
+A frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that "vier" means four in German.
+Veneziano amplitude
+
+Main article: Veneziano amplitude
+The Euler beta function interpreted as a scattering amplitude.
+vertex operator
+
+Main article: vertex operator
+
+Virasoro algebra
+
+Main article: Virasoro algebra
+A central extension of the Witt algebra of polynomial vector fields on a circle.
+
+W[edit]
+
+w
+A complex number
+W
+A W-boson
+W-algebra
+
+Main article: W-algebra
+A sort of generalization of the Virasoro algebra
+Weyl
+1.  Named after Hermann Weyl
+2.  A Weyl transformation is a rescaling of the world-sheet metric.
+3.  Weyl spinor, an element of a half-spin representation in even spacetime dimensions.
+WIMP
+Weakly interacting massive particle
+wino
+
+Main article: wino (particle)
+A hypothetical supersymmetric partner of the W-boson.
+Witten
+Named for Edward Witten.
+WMAP
+Wilkinson Microwave Anisotropy Probe
+world sheet
+The 2-dimensional subset of spacetime swept out by a moving string.
+world-volume
+The p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action.
+WZNW
+WZW
+Initials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space.
+
+XYZ[edit]
+
+x
+A real number
+X
+Used for coordinates in Minkowski space.
+y
+A real number
+YBE
+Yang–Baxter equation
+YM
+Yang–Mills
+z
+A complex number
+Z
+1.  A partition function
+2.  The Z boson.
+An element of the center of an extended supersymmetry algebra.
+ZEUS
+
+Main article: ZEUS (particle detector)
+
+zino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the Z-boson.
+zweibein
+A frame in 2 dimensions
+
+See also[edit]
+
+List of string theory topics
+
+References[edit]
+
+Becker, Katrin, Becker, Melanie, and John H. Schwarz (2007) String Theory and M-Theory: A Modern Introduction . Cambridge University Press. ISBN 0-521-86069-5
+Binétruy, Pierre (2007) Supersymmetry: Theory, Experiment, and Cosmology. Oxford University Press. ISBN 978-0-19-850954-7.
+Dine, Michael (2007) Supersymmetry and String Theory: Beyond the Standard Model. Cambridge University Press. ISBN 0-521-85841-0.
+Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6. 
+Michael Green, John H. Schwarz and Edward Witten (1987) Superstring theory. Cambridge University Press. The original textbook.
+
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+
+
+Kiritsis, Elias (2007) String Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-12230-4.
+Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6. 
+Polchinski, Joseph (1998) String Theory. Cambridge University Press.
+
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+
+
+Szabo, Richard J. (Reprinted 2007) An Introduction to String Theory and D-brane Dynamics. Imperial College Press. ISBN 978-1-86094-427-7.
+Zwiebach, Barton (2004) A First Course in String Theory. Cambridge University Press. ISBN 0-521-83143-1. Contact author for errata.
+
+External links[edit]
+
+Particle physics glossary at interactions.org
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Glossary_of_string_theory&oldid=680223137"					
+Categories: String theoryGlossaries of mathematicsGlossaries of science 
+
+
+Glossary of string theory
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+This page is a glossary of terms in string theory, including related areas such as supergravity, supersymmetry, and high energy physics.
+
+
+Contents :
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+
+
+Conventions[edit]
+
+-bein
+A suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on).
+-ino
+The superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino.
+s-
+The superpartners of fermions are often denoted by adding s- at the beginning; for example, quark/squark.
+
+αβγ[edit]
+
+α
+1.  Fine-structure constant
+2.  Regge slope, or inverse of the string tension
+3.  A Fourier coefficient of a spacetime coordinate.
+4.  αs is the strong coupling constant
+β
+1.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+2.  Euler beta function
+3.  Beta function describing the change of coupling constant under the renormalization group flow
+γ
+1.  Dirac matrix
+2.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+3.  World-sheet metric γab(σ,τ)
+4.  Photon
+5.  Euler constant .57721...
+Γ
+1.  Lattice
+2.  Euler Gamma function
+3.  Dirac matrix
+4.  Width of some scattering process
+δ
+1.  Kronecker delta function
+2.  An infinitesimal change in something; for example δL is an infinitesimal change in L
+Δ
+1.  Propagator
+2.  Delta baryon, a baryon with 3 light quarks and isospin 3/2
+3.  Laplace operator in Euclidean space or more generally a Riemannian manifold
+ε
+1.  Small positive real number
+2.  Antisymmetric tensor
+η
+1.  Flat Lorentzian metric on spacetime
+2.  Dedekind eta function, a weight 1/2 modular form
+3.  Neutral flavor meson with PC= –+
+θ
+1.  Theta function
+2.  θc is the Cabbibo angle
+3.  θw is the Weinberg angle, also called the weak mixing angle
+Λ
+Cosmological constant
+2.  Large energy or large mass cutoff in regularization
+3.  Lambda baryon, a baryon with 2 light quarks and isospin 0
+μ
+1.  Renormalization scale, with the dimensions of mass
+2.  Muon
+ν
+Neutrino
+Ξ
+1.  Xi baryon, a baryon with 1 light quark
+π
+1.  3.14159...
+2.  Pion
+Π
+The momentum density conjugate to X
+ρ
+Rho meson, a light meson with PC= ––
+σ
+1.  Spacelike coordinate on the world-sheet
+2.  Scattering cross section
+3.  Pauli matrix
+4.  See #sigma model
+Σ
+1.  Sigma baryon, a baryon with 2 light quarks and isospin 1
+τ
+1.  Timelike coordinate on the world-sheet
+2.  Element of the upper half plane
+3.  Tauon
+Υ
+Upsilon meson (bb)
+φ
+Scalar field
+χ
+Neutral-flavor heavy meson with PC= ++
+ψ
+1.  Spinor field
+2.  Psi meson (cc)
+Ω
+1.  Density of something in the universe; for example, Ων is the neutrino density
+2.  Omega baryon, a baryon with no light quarks
+
+!$@[edit]
+
+' (prime)
+X′ means ∂X/∂σ.
+dot above letter
+Ẋ means ∂X/∂τ
+∇
+1.  A covariant derivative
+2.  The del operator.
+□
+The D'Alembert operator, or non-Euclidean Laplacian.
+[,]
+A commutator: [A,B] = AB–BA.
+{,}
+An anticommutator: {A,B} = AB+BA.
+
+A[edit]
+
+A
+1.  A connection 1-form
+2.  Short for antiperiodic, a boundary condition on strings.
+3.  Short for axial vector
+4.  An asymmetry
+action
+
+Main article: action (physics)
+A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion.
+ADE
+
+Main article: ADE classification
+Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on.
+ADHM
+Initials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons.
+ADM
+Initials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism.
+AdS
+Anti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic space
+AdS/CFT
+Anti-de Sitter/conformal field theory, especially the AdS/CFT correspondence.
+ALE
+Asymptotically locally Euclidean
+ALEPH
+ALEPH experiment at LEP
+AMSB
+Anomaly mediation supersymmetry breaking
+ASD
+Anti self-dual (connection)
+ATLAS
+The ATLAS experiment at CERN, a particle detector.
+axino
+
+Main article: Axino
+A hypothetical supersymmetric partner of an axion.
+axion
+
+Main article: Axion
+A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem.
+
+B[edit]
+
+b
+1.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+2.  A bottom quark.
+B
+1.  Baryon number
+2.  Short for boson.
+3.  Short for baryon.
+4.  Short for backward;for example, σB is the cross section for backward scattering.
+5.  a bottom meson.
+BAO
+Baryon acoustic oscillation
+BB
+Big Bang
+BBN
+Big Bang nucleosynthesis
+bino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge.
+BIon
+A BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action.
+BPS
+
+Main article: BPS state
+A state related to the Bogomol'nyi–Prasad–Sommerfield bound.
+BR
+Branching ratio
+BRS
+BRST quantization
+
+Main article: BRST quantization
+Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories.
+brane
+Short for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane.
+BTZ
+Initials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity.
+BV
+Batalin–Vilkovisky, as in Batalin–Vilkovisky formalism.
+
+C[edit]
+
+c
+1.  The speed of light, when not using units where this is 1.
+2.  A central charge of the Virasoro algebra or similar algebra.
+3.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+4.  A Chern class.
+5.  A charm quark.
+C
+1.  Charge, especially the charge symmetry.
+Calabi–Yau
+
+Main article: Calabi–Yau manifold
+A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories.
+CAR
+Canonical anticommutation relations
+CBR
+Cosmic background radiation
+CC
+1.  Charged current (weak interaction).
+2.  Complex conjugate
+3.  Compatibility condition
+CCR
+Canonical commutation relation
+CCR and CAR algebras
+CDF
+Collider Detector at Fermilab
+CDM
+Cold dark matter
+CERN
+Conseil Européen pour la Recherche Nucléaire
+chargino
+
+Main article: chargino
+A hypothetical charged supersymmetric partner of a gauge boson.
+Chern–Simons
+1.  
+Main article: Chern–Simons theory
+
+2.  
+Main article: Chern–Simons form
+
+chiral
+1.  Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning "hand"; the terms "left-handed" and "right-handed" are often used to describe chiral objects.
+Main article: Chirality (physics)
+
+2.  A chiral multiplet is a type of supermutliplet of a supersymmetry algebra.
+CIPT
+Contour improved perturbation theory
+CKG
+Short for conformal Killing group.
+CKM
+The Cabibbo–Kobayashi–Maskawa matrix.
+CKS
+Short for conformal Killing spinor.
+CKV
+Short for conformal Killing vector.
+CFT
+Conformal field theory
+Chan–Paton
+A Chan–Paton charge is a degree of freedom carried by an open string on its endpoints.
+cl
+1.  Short for classical (for example, Scl is the classical action).
+2.  CL is short for confidence limit.
+closed
+A closed string is one with no ends.
+CM
+Center of mass (frame)
+CMB
+CMBR
+Cosmic microwave background radiation
+CMS
+1.  The Compact Muon Solenoid at CERN, a particle detector.
+2.  Short for the Center-of-Momentum System, a coordinate system where the total momentum is 0.
+compactification
+A method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold.
+cosmological constant
+
+Main article: cosmological constant
+The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetime
+CP
+Short for Charge–Parity, as in CP symmetry.
+CPC
+Short for Charge–Parity conservation.
+CPT
+Short for Charge–Parity–Time, as in CPT symmetry or CPT theorem.
+CPV
+Short for Charge–Parity violation.
+critical
+The critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories.
+CVC
+Conserved vector current.
+CY
+Short for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories.
+
+D[edit]
+
+d
+1.  The exterior derivative of a form.
+2.  A down quark.
+3.  The dimension of spacetime.
+D
+1.  Short for Dirichlet, as in D-brane
+2.  The dimension of spacetime
+3.  A connection or differential operator
+4.  A Dynkin diagram of an orthogonal group in even dimensions.
+5.  A charmed meson.
+D0
+
+Main article: DØ experiment
+
+D-brane
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+D-string
+A D1-brane
+DBI
+Short for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics.
+DDF
+Initials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra.
+DELPHI
+DELPHI experiment at LEP.
+DESY
+Deutsches Elektronen-Synchrotron
+DGLAP
+Initials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD.
+Diff
+Diffeomorphism or diffeomorphism group.
+dilatino
+
+Main article: dilatino
+A supersymmetric partner of the dilaton.
+dilaton
+
+Main article: dilaton
+A massless scalar particle, related to dilations of spacetime.
+Dirichlet
+Dirichlet boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane).
+DIS
+Deep inelastic scattering
+DLCQ
+Discrete light-cone quantization
+DM
+Dark matter
+DØ
+
+Main article: DØ experiment
+
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+DR
+1.  Short for dimensional regularization.
+2.  Short for dimensional reduction, a way of constructing theories from simpler theories in higher dimensions, sometimes by making fields invariant under some spacelike translations.
+dS
+de Sitter, as in de Sitter space, a Lorentzian analogue of a sphere
+dS/CFT
+de Sitter/conformal field theory, especially the dS/CFT correspondence.
+dual resonance model
+
+Main article: Dual resonance model
+An early precursor of string theory.
+duality
+
+Main article: String duality
+A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality.
+DY
+Initials of Drell–Yan, as in DY process.
+dyon
+
+Main article: Dyon
+A hypothetical particle with both electrical and magnetic charge.
+
+E[edit]
+
+e
+1.  Euler's constant
+2.  A frame
+3.  An electron
+E
+Energy
+E₆
+
+Main article: E6 (mathematics)
+The exceptional Lie algebra of rank 6 and dimension 78.
+E₇
+
+Main article: E7 (mathematics)
+The exceptional Lie algebra of rank 7 and dimension 133.
+E₈
+
+Main article: E8 (mathematics)
+The exceptional Lie algebra of rank 8 and dimension 248.
+eff
+Short for effective (field theory).
+EFT
+Effective field theory, a low-energy approximation to a theory.
+einbein
+A frame in 1 dimension
+elfbein
+A frame in 11 dimensions
+energy–momentum tensor
+
+Main article: Energy–momentum tensor
+A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries.
+EWSB
+Electro-weak symmetry breaking.
+
+F[edit]
+
+F
+1.  A curvature form of a connection
+2.  The world-sheet fermion number.
+3.  Short for fermion
+3.  Short for forward;for example, σF is the cross section for backward scattering.
+F₄
+
+Main article: F4 (mathematics)
+The exceptional Lie algebra of rank 4 and dimension 52.
+FCNC
+Flavor-changing neutral current.
+field
+A section of a fiber bundle
+FOPT
+Fixed-order perturbation theory.
+F-string
+Fundamental string
+F-theory
+
+Main article: F-theory
+Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa.
+FRW
+Friedman–Robertson–Walker metric on spacetime
+
+G[edit]
+
+g
+1.  A metric
+2.  A coupling constant
+3.  The genus of a Riemann surface.
+4.  A gluon.
+G
+1.  Newton's gravitational constant, sometimes written GN.
+2.  The Fermi coupling constant for weak interactions, sometimes written GF.
+3.  Gn is an odd element of the Ramond or Neveu–Schwarz superalgebra.
+G₂
+
+Main article: G2 (mathematics)
+The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G₂ holonomy.
+gaugino
+A spin 1/2 supersymmetric partner of a gauge boson.
+gh
+Abbreviation for ghost; for example, Sgh is the ghost action.
+ghost
+A vector of negative norm.
+GKO
+Short for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra.
+GL
+A general linear group.
+gluino
+
+Main article: gluino
+A hypothetical supersymmetric partner of a gluon.
+gluon
+
+Main article: gluon
+A gauge boson associated with the strong force.
+GMSB
+Gauge mediated supersymmetry breaking.
+goldstino
+
+Main article: goldstino
+A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson.
+GR
+General relativity
+graviton
+
+Main article: graviton
+A conjectural spin 2 massless particle responsible for gravity.
+gravitino
+
+Main article: gravitino
+A supersymmetric partner of the graviton.
+Green
+Named for Michael Green.
+GS
+Green–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime.
+GSO
+Short for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons.
+GSW
+The 2-volume work on superstring theory by Green, Schwarz, and Witten.
+GUT
+Grand unified theory, a hypothetical theory unifying the strong and electroweak forces.
+GWS
+Glashow–Weinberg–Salem theory of the electroweak force.
+GZK
+The Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources.
+
+H[edit]
+
+h
+1.  The weight of a field (for example, its eigenvalue for L0).
+2.  Hermitian; for example, h.c. stands form hermitian conjugate.
+H
+1.  The Hamiltonian.
+2.  The Higgs boson.
+3.  The Hubble constant.
+Haag–Lopuszanski–Sohnius theorem
+
+Main article: Haag–Lopuszanski–Sohnius theorem
+A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem.
+Hagedorn temperature
+
+Main article: Hagedorn temperature
+The temperature above which the partition function diverges due to the exponentially increasing number of string states.
+h.c.
+hc
+Hermitian conjugate
+HCMS
+Hadronic center of mass (frame)
+HDM
+Higgs doublet model
+HE
+Short for heterotic-E2
+8, a heterotic string theory based on the group E2
+8.
+helicity
+
+Main article: Helicity (particle physics)
+The projection of the spin of a massless particle in the direction of its momentum.
+HERA
+Hadron Elektron Ring Anlage
+heterotic
+
+Main article: heterotic string
+Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985.
+Higgs boson
+
+Main article: Higgs boson
+A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory.
+Higgsino
+
+Main article: Higgsino
+A hypothetical supersymmetric partner of a Higgs boson.
+HO
+Short for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R).
+holographic principle
+
+Main article: Holographic principle
+
+HQET
+Heavy quark effective theory
+Hyperkähler
+Hyperkaehler
+
+Main article: Hyperkähler manifold
+A Riemannian manifold with holonomy contained in the compact form of the symplectic group.
+Hypermultiplet
+
+Main article: Hypermultiplet
+A type of supermultiplet (representation) of an extended supersymmetry algebra.
+
+I[edit]
+
+i
+√–1
+I
+Isospin.
+IGM
+Intergalactic medium
+inflation
+
+Main article: Inflation (cosmology)
+A hypothetical very rapid increase in the size of the very early universe.
+instanton
+
+Main article: Instanton
+A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold.
+int
+Short for interaction; for example, Hint might be an interaction Hamiltonian.
+inv
+Short for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment).
+
+J[edit]
+
+J
+1.  A current
+2.  A source
+3.  Spin.
+
+K[edit]
+
+k
+A momentum
+K
+A kaon (a strange meson).
+K3
+
+Main article: K3 surface
+A simply connected compact complex surface of Kodaira dimension 0
+K-theory
+
+Main articles: K-theory and K-theory (physics)
+A cohomology theory based on vector bundles.
+Kac–Moody algebra
+
+Main article: Kac–Moody algebra
+A central extension of a loop algebra.
+Kähler
+Kaehler
+Named after Erich Kähler
+1.  A Kähler manifold is a complex manifold with a compatible Riemannian metric.
+2.  A Kähler metric is the metric on a Kähler manifold.
+3.  A Kähler potential is a function of superfields used to construct a Lagrangian.
+Kalb–Ramond field
+
+Main article: Kalb–Ramond field
+
+KK
+Kaluza–Klein
+KM
+1.  The Kobayashi–Maskawa mechanism for CP violation.
+2.  Kac–Moody algebra.
+KZ
+Initials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra.
+
+L[edit]
+
+L
+1.  A Lagrangian
+2.  Ln is an element of the Virasoro algebra.
+3.  An abbreviation for left (moving modes).
+4.  Lepton number
+5.  Short for lepton
+L3
+L3 experiment at LEP.
+Lagrangian (field theory)
+
+Main article: Lagrangian (field theory)
+A function on the jet space of a fiber bundle.
+landscape
+
+Main article: String theory landscape
+The (conjectural) moduli space of all (vacuums of) string theories.
+LEP
+The Large Electron–Positron Collider at CERN.
+lepton
+
+Main article: lepton
+A elementary particle of spin 1/2 that is unaffected by the strong force.
+LH
+Left-handed
+LHC
+The large hadron collider at CERN.
+little string theory
+
+Main article: Little string theory
+
+LL
+Double logarithmic
+LO
+Leading order (term)
+LQG
+Loop quantum gravity
+LQC
+Loop quantum cosmology
+LSP
+Abbreviation for lightest supersymmetric particle.
+LSS
+Large scale structure (of the universe).
+
+M[edit]
+
+m
+A mass of a fermion. For example, mt is the mass of the top quark t.
+M
+The mass of a boson; for example, MZ is the mass of the Z-boson.
+Majorana fermion
+Majorana spinor
+
+Main articles: Majorana fermion and Majorana spinor
+A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8.
+Majorana–Weyl fermion
+Majorana–Weyl spinor
+
+Main articles: Majorana–Weyl fermion and Majorana–Weyl spinor
+A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8.
+Mandelstam variable
+
+Main article: Mandelstam variables
+A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction.
+matrix theory
+M(atrix) theory
+
+Main article: Matrix string theory
+One of several non-perturbative formulations of string theory or M-theory using infinite matrices.
+M-brane
+membrane
+
+Main article: Membrane (M-theory)
+A higher dimensional analogue of a string.
+MC
+Monte Carlo integration
+MCG
+
+Main article: Mapping class group
+
+minimal model
+Certain solvable conformal field theories.
+Mirror symmetry (string theory)
+
+Main article: Mirror symmetry (string theory)
+A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different "mirror" Calabi–Yau manifold.
+MLLA
+Modified leading logarithm approximation.
+MNS
+Maki–Nakagawa–Sakata matrix for neutrino mixing
+monopole
+
+Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)
+A hypothetical particle similar to a "magnet with only one pole".
+Montonen–Olive duality
+
+Main article: Montonen–Olive duality
+An early case of S-duality.
+MS
+minimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme.
+MSM
+Abbreviation for minimal standard model.
+MSSM
+Abbreviation for minimal supersymmetric standard model.
+mSUGRA
+Minimal model of supergravity.
+M-theory
+
+Main article: M-theory
+An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.
+
+MSW
+Mikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter.
+multiplet
+A linear representation of a Lie algebra or group.
+A collection of elementary particles corresponding to a basis of a representation.
+
+N[edit]
+
+N
+1.  The number of times each irreducible real spinor representation appears in the fermionic part of a supersymmetry algebra or super Minkowski space. It is often used in the description of an extended supersymmetry algebra, as in N=2 superconformal algebra and so on.
+2.  A nucleon, a baryon with 3 light quarks and isospin 1/2 (such as a proton or neutron).
+3.  The number of some type of particle.
+Nambu–Goto action
+
+Main article: Nambu–Goto action
+An action for strings, proportional to the area of the worldsheet.
+NC
+Neutral current (weak interaction).
+Neumann
+Neumann boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero.
+neutralino
+
+Main article: Neutralino
+A hypothetical supersymmetric partner of a gauge boson with zero charge.
+Neveu
+Named for André Neveu.
+Neveu–Schwarz algebra
+
+Main article: Neveu–Schwarz algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra.
+NG
+1.  Short for Nambu–Goto, as in Nambu–Goto action.
+2.  Short for Nambu–Goldstone, as in Nambu–Goldstone boson.
+NLL
+Next to leading logarithmic (term).
+NLO
+Next to leading order (term).
+NLSP
+next-to-lightest sypersymmetric particle
+NMSSM
+Next-to-Minimal Supersymmetric Standard Model.
+NNLL
+Next to next to leading logarithmic (term).
+NNLO
+Next to next to leading order (term).
+NNNLL
+Next to next to next to leading logarithmic (term).
+no-ghost theorem
+
+Main article: No-ghost theorem
+A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem.
+NR
+Non-relativistic
+NRQCD
+Non-relativistic quantum chromodynamics
+NS
+Neveu–Schwarz, especially the Neveu–Schwarz algebra
+NS–NS
+A sector with Neveu–Schwarz conditions on left and right moving modes.
+NS–R
+A sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes.
+NUT
+The initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations.
+
+O[edit]
+
+O
+An orthogonal group
+OCQ
+Short for old covariant quantization
+OPAL
+The OPAL detector at LEP.
+open
+An open string is one with two ends.
+OPE
+operator product expansion
+
+Main article: Operator product expansion
+A description of short-distance singularities of fields.
+orbifold
+
+Main article: orbifold
+Something that looks locally like a manifold quotiented by the action of a finite group.
+OSp
+A Lie superalgebra.
+
+P[edit]
+
+p
+A momentum
+P
+1.  Parity, especially the parity symmetry.
+2.  Short for periodic, a boundary condition on strings (as opposed to A for antiperiodic).
+3.  Pseudoscalar (current)
+4.  Momentum
+5.  One of the bosonic elements of a supersymmetry algebra.
+p-brane
+A p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension.
+PCAC
+partially conserved axial vector current
+PDF
+Parton distribution function.
+PDG
+Particle Data Group.
+photino
+
+Main article: photino
+A hypothetical supersymmetric partner of the photon.
+photon
+
+Main article: photon
+The neutral spin 1 gauge boson of the electromagnetic field.
+PMNS
+Pontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixing
+Polyakov action
+
+Main article: Polyakov action
+A modification of the Nambu–Goto action for strings that eliminates the square root.
+PQ
+Peccei–Quinn, as in Peccei–Quinn theory.
+pQCD
+PQCD
+Perturbative quantum chromodynamics.
+prepotential
+A function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory.
+primary field
+A field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector.
+Princeton string quartet
+David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985.
+PSL
+Projective special linear group.
+
+Q[edit]
+
+q
+A quark.
+Q
+1.  The BRST operator.
+2.  A charge
+3.  One of the fermionic generators of a supersymmetry algebra.
+quark
+
+Main article: quark
+A strongly interacting elementary particle of spin 1/2.
+QCD
+
+Main article: Quantum chromodynamics
+
+QED
+
+Main article: Quantum electrodynamics
+
+
+R[edit]
+
+R
+1.  Short for Ramond, as in Ramond sector.
+2.   A curvature tensor
+Main articles: Scalar curvature, Ricci curvature and Riemann curvature
+
+3.  An abbreviation for right (moving modes).
+4.  A radius
+5.  R-symmetry is a symmetry of extended supersymmetry algebras.
+Ramond
+Named for Pierre Ramond.
+Ramond algebra
+
+Main article: Ramond algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra.
+Rarita–Schwinger
+
+Main articles: Rarita–Schwinger equation and Rarita–Schwinger field
+Refers to spin 3/2 fermions.
+Regge
+1.  Physicist Tullio Regge.
+2.  Regge trajectory: the squared mass of a hadronic resonance is roughly linear in the spin, with the constant of proportionality called the Regge slope.
+revolution
+Any new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence.
+RG
+Renormalization group.
+RGE
+Renormalization group equation.
+RH
+Right-handed
+R–NS
+A sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes.
+RNS
+Ramond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet.
+R-parity
+
+Main article: R-parity
+A Z2 symmetry of supersymmetric models.
+R-R
+Short for Ramond–Ramond sector
+
+S[edit]
+
+s
+1.  A strange quark.
+2.  A Mandelstam variable
+S
+1.  An action
+2.  A scattering matrix.
+3.  The transformation τ → –1/τ of the upper half plane
+4.  Scalar (current)
+5.  Short for super or supersymmetric
+S-brane
+A brane similar to a D-brane, with Dirichlet boundary conditions in the time direction.
+S-duality
+
+Main article: S-duality
+Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constant
+SBB
+Standard Big Bang model of the universe
+SCFT
+Superconformal field theory, a supersymmetric extension of conformal field theory
+Schwarz
+Named for John Henry Schwarz
+Seiberg duality
+
+Main article: Seiberg duality
+
+SGA
+Abbreviation for Spectrum-generating algebra
+short supermultiplet
+A supermultiplet (representation) related to BPS states
+sigma model
+
+Main articles: Sigma model and Non-linear sigma model
+A classical or quantum model based on the maps from a base manifold to a target manifold.
+SL
+Special linear group
+SLAC
+Stanford Linear Accelerator Center
+SLC
+Stanford Linear Collider
+slepton
+
+Main article: slepton
+Hypothetical supersymmetric partner of a lepton
+SM
+
+Main article: Standard Model
+
+sneutrino
+
+Main article: sneutrino
+Hypothetical supersymmetric partner of a neutrino
+SO
+Special orthogonal group
+Sp
+Symplectic group
+sphaleron
+
+Main article: Sphaleron
+Static solution to the electroweak field equations
+squark
+
+Main article: squark
+Supersymmetric partner of a quark.
+SSB
+Spontaneous symmetry breaking
+SSM
+Standard solar model
+stress–energy tensor
+Alternative name for the #energy–momentum tensor.
+string field theory
+
+Main article: string field theory
+
+SU
+Special unitary group
+SUGRA
+Short for supergravity
+superconformal algebra
+
+Main articles: Neveu–Schwarz algebra and Ramond algebra
+A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensions
+superfield
+
+Main article: Superfield
+A supersymmetric analogue of a quantum or classical field
+supergravity
+
+Main article: supergravity
+A supersymmetric extension of general relativity
+supermultiplet
+
+Main article: Supermultiplet
+A representation of a supersymmetry algebra
+superpotential
+
+Main article: Superpotential
+A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian.
+superspace
+
+Main article: superspace
+A supersymmetric analogue of spacetime
+superstring
+
+Main article: superstring
+A supersymmetric analogue of a string
+supersymmetry
+
+Main articles: supersymmetry and supersymmetry algebra
+A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba.
+SUSY
+An abbreviation for supersymmetry.
+SYM
+Supersymmetric Yang–Mills
+
+T[edit]
+
+t
+1.  A top quark.
+2.  A Mandelstam variable.
+3.  Time.
+T
+1.  The energy–momentum tensor.
+2.  Time, especially the time symmetry.
+3.  The transformation τ → τ+1 of the upper half plane.
+4.  A torus.
+5.  The string tension.
+6.  Temperature.
+7.  Tensor (current)
+T-duality
+
+Main article: T-duality
+A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory.
+tachyon
+
+Main article: Tachyon
+A particle of imaginary mass moving faster than light.
+ToE
+TOE
+Theory of everything
+type I
+type II
+type IIA
+type IIB
+
+Main article: Type I string theory
+Main article: Type II string theory
+A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities.
+
+U[edit]
+
+u
+1.  An up quark.
+2.  A Mandelstam variable.
+U
+A unitary group.
+U-duality
+
+Main article: U-duality
+Short for "unified duality". A string duality relating two different string theories.
+UED
+Universal extra dimensions
+UV
+Short for ultra-violet, often referring to short-distance singularities.
+
+V[edit]
+
+V
+1.  A vertex operator.
+2.  Vector (current)
+V-A
+Vector-Axial vector
+vector superfield
+A type of superfield related to vector supermultiplets.
+VEV
+Vacuum expectation value of an operator.
+vielbein
+A frame
+vierbein
+A frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that "vier" means four in German.
+Veneziano amplitude
+
+Main article: Veneziano amplitude
+The Euler beta function interpreted as a scattering amplitude.
+vertex operator
+
+Main article: vertex operator
+
+Virasoro algebra
+
+Main article: Virasoro algebra
+A central extension of the Witt algebra of polynomial vector fields on a circle.
+
+W[edit]
+
+w
+A complex number
+W
+A W-boson
+W-algebra
+
+Main article: W-algebra
+A sort of generalization of the Virasoro algebra
+Weyl
+1.  Named after Hermann Weyl
+2.  A Weyl transformation is a rescaling of the world-sheet metric.
+3.  Weyl spinor, an element of a half-spin representation in even spacetime dimensions.
+WIMP
+Weakly interacting massive particle
+wino
+
+Main article: wino (particle)
+A hypothetical supersymmetric partner of the W-boson.
+Witten
+Named for Edward Witten.
+WMAP
+Wilkinson Microwave Anisotropy Probe
+world sheet
+The 2-dimensional subset of spacetime swept out by a moving string.
+world-volume
+The p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action.
+WZNW
+WZW
+Initials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space.
+
+XYZ[edit]
+
+x
+A real number
+X
+Used for coordinates in Minkowski space.
+y
+A real number
+YBE
+Yang–Baxter equation
+YM
+Yang–Mills
+z
+A complex number
+Z
+1.  A partition function
+2.  The Z boson.
+An element of the center of an extended supersymmetry algebra.
+ZEUS
+
+Main article: ZEUS (particle detector)
+
+zino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the Z-boson.
+zweibein
+A frame in 2 dimensions
+
+See also[edit]
+
+List of string theory topics
+
+References[edit]
+
+Becker, Katrin, Becker, Melanie, and John H. Schwarz (2007) String Theory and M-Theory: A Modern Introduction . Cambridge University Press. ISBN 0-521-86069-5
+Binétruy, Pierre (2007) Supersymmetry: Theory, Experiment, and Cosmology. Oxford University Press. ISBN 978-0-19-850954-7.
+Dine, Michael (2007) Supersymmetry and String Theory: Beyond the Standard Model. Cambridge University Press. ISBN 0-521-85841-0.
+Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6. 
+Michael Green, John H. Schwarz and Edward Witten (1987) Superstring theory. Cambridge University Press. The original textbook.
+
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+
+
+Kiritsis, Elias (2007) String Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-12230-4.
+Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6. 
+Polchinski, Joseph (1998) String Theory. Cambridge University Press.
+
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+
+
+Szabo, Richard J. (Reprinted 2007) An Introduction to String Theory and D-brane Dynamics. Imperial College Press. ISBN 978-1-86094-427-7.
+Zwiebach, Barton (2004) A First Course in String Theory. Cambridge University Press. ISBN 0-521-83143-1. Contact author for errata.
+
+External links[edit]
+
+Particle physics glossary at interactions.org
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Glossary_of_string_theory&oldid=680223137"					
+Categories: String theoryGlossaries of mathematicsGlossaries of science 
+From Wikipedia, the free encyclopedia
+					Jump to:					navigation, 					search
+navigationsearchThis page is a glossary of terms in string theory, including related areas such as supergravity, supersymmetry, and high energy physics.
+
+
+Contents :
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+
+
+Conventions[edit]
+
+-bein
+A suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on).
+-ino
+The superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino.
+s-
+The superpartners of fermions are often denoted by adding s- at the beginning; for example, quark/squark.
+
+αβγ[edit]
+
+α
+1.  Fine-structure constant
+2.  Regge slope, or inverse of the string tension
+3.  A Fourier coefficient of a spacetime coordinate.
+4.  αs is the strong coupling constant
+β
+1.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+2.  Euler beta function
+3.  Beta function describing the change of coupling constant under the renormalization group flow
+γ
+1.  Dirac matrix
+2.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+3.  World-sheet metric γab(σ,τ)
+4.  Photon
+5.  Euler constant .57721...
+Γ
+1.  Lattice
+2.  Euler Gamma function
+3.  Dirac matrix
+4.  Width of some scattering process
+δ
+1.  Kronecker delta function
+2.  An infinitesimal change in something; for example δL is an infinitesimal change in L
+Δ
+1.  Propagator
+2.  Delta baryon, a baryon with 3 light quarks and isospin 3/2
+3.  Laplace operator in Euclidean space or more generally a Riemannian manifold
+ε
+1.  Small positive real number
+2.  Antisymmetric tensor
+η
+1.  Flat Lorentzian metric on spacetime
+2.  Dedekind eta function, a weight 1/2 modular form
+3.  Neutral flavor meson with PC= –+
+θ
+1.  Theta function
+2.  θc is the Cabbibo angle
+3.  θw is the Weinberg angle, also called the weak mixing angle
+Λ
+Cosmological constant
+2.  Large energy or large mass cutoff in regularization
+3.  Lambda baryon, a baryon with 2 light quarks and isospin 0
+μ
+1.  Renormalization scale, with the dimensions of mass
+2.  Muon
+ν
+Neutrino
+Ξ
+1.  Xi baryon, a baryon with 1 light quark
+π
+1.  3.14159...
+2.  Pion
+Π
+The momentum density conjugate to X
+ρ
+Rho meson, a light meson with PC= ––
+σ
+1.  Spacelike coordinate on the world-sheet
+2.  Scattering cross section
+3.  Pauli matrix
+4.  See #sigma model
+Σ
+1.  Sigma baryon, a baryon with 2 light quarks and isospin 1
+τ
+1.  Timelike coordinate on the world-sheet
+2.  Element of the upper half plane
+3.  Tauon
+Υ
+Upsilon meson (bb)
+φ
+Scalar field
+χ
+Neutral-flavor heavy meson with PC= ++
+ψ
+1.  Spinor field
+2.  Psi meson (cc)
+Ω
+1.  Density of something in the universe; for example, Ων is the neutrino density
+2.  Omega baryon, a baryon with no light quarks
+
+!$@[edit]
+
+' (prime)
+X′ means ∂X/∂σ.
+dot above letter
+Ẋ means ∂X/∂τ
+∇
+1.  A covariant derivative
+2.  The del operator.
+□
+The D'Alembert operator, or non-Euclidean Laplacian.
+[,]
+A commutator: [A,B] = AB–BA.
+{,}
+An anticommutator: {A,B} = AB+BA.
+
+A[edit]
+
+A
+1.  A connection 1-form
+2.  Short for antiperiodic, a boundary condition on strings.
+3.  Short for axial vector
+4.  An asymmetry
+action
+
+Main article: action (physics)
+A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion.
+ADE
+
+Main article: ADE classification
+Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on.
+ADHM
+Initials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons.
+ADM
+Initials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism.
+AdS
+Anti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic space
+AdS/CFT
+Anti-de Sitter/conformal field theory, especially the AdS/CFT correspondence.
+ALE
+Asymptotically locally Euclidean
+ALEPH
+ALEPH experiment at LEP
+AMSB
+Anomaly mediation supersymmetry breaking
+ASD
+Anti self-dual (connection)
+ATLAS
+The ATLAS experiment at CERN, a particle detector.
+axino
+
+Main article: Axino
+A hypothetical supersymmetric partner of an axion.
+axion
+
+Main article: Axion
+A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem.
+
+B[edit]
+
+b
+1.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+2.  A bottom quark.
+B
+1.  Baryon number
+2.  Short for boson.
+3.  Short for baryon.
+4.  Short for backward;for example, σB is the cross section for backward scattering.
+5.  a bottom meson.
+BAO
+Baryon acoustic oscillation
+BB
+Big Bang
+BBN
+Big Bang nucleosynthesis
+bino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge.
+BIon
+A BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action.
+BPS
+
+Main article: BPS state
+A state related to the Bogomol'nyi–Prasad–Sommerfield bound.
+BR
+Branching ratio
+BRS
+BRST quantization
+
+Main article: BRST quantization
+Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories.
+brane
+Short for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane.
+BTZ
+Initials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity.
+BV
+Batalin–Vilkovisky, as in Batalin–Vilkovisky formalism.
+
+C[edit]
+
+c
+1.  The speed of light, when not using units where this is 1.
+2.  A central charge of the Virasoro algebra or similar algebra.
+3.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+4.  A Chern class.
+5.  A charm quark.
+C
+1.  Charge, especially the charge symmetry.
+Calabi–Yau
+
+Main article: Calabi–Yau manifold
+A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories.
+CAR
+Canonical anticommutation relations
+CBR
+Cosmic background radiation
+CC
+1.  Charged current (weak interaction).
+2.  Complex conjugate
+3.  Compatibility condition
+CCR
+Canonical commutation relation
+CCR and CAR algebras
+CDF
+Collider Detector at Fermilab
+CDM
+Cold dark matter
+CERN
+Conseil Européen pour la Recherche Nucléaire
+chargino
+
+Main article: chargino
+A hypothetical charged supersymmetric partner of a gauge boson.
+Chern–Simons
+1.  
+Main article: Chern–Simons theory
+
+2.  
+Main article: Chern–Simons form
+
+chiral
+1.  Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning "hand"; the terms "left-handed" and "right-handed" are often used to describe chiral objects.
+Main article: Chirality (physics)
+
+2.  A chiral multiplet is a type of supermutliplet of a supersymmetry algebra.
+CIPT
+Contour improved perturbation theory
+CKG
+Short for conformal Killing group.
+CKM
+The Cabibbo–Kobayashi–Maskawa matrix.
+CKS
+Short for conformal Killing spinor.
+CKV
+Short for conformal Killing vector.
+CFT
+Conformal field theory
+Chan–Paton
+A Chan–Paton charge is a degree of freedom carried by an open string on its endpoints.
+cl
+1.  Short for classical (for example, Scl is the classical action).
+2.  CL is short for confidence limit.
+closed
+A closed string is one with no ends.
+CM
+Center of mass (frame)
+CMB
+CMBR
+Cosmic microwave background radiation
+CMS
+1.  The Compact Muon Solenoid at CERN, a particle detector.
+2.  Short for the Center-of-Momentum System, a coordinate system where the total momentum is 0.
+compactification
+A method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold.
+cosmological constant
+
+Main article: cosmological constant
+The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetime
+CP
+Short for Charge–Parity, as in CP symmetry.
+CPC
+Short for Charge–Parity conservation.
+CPT
+Short for Charge–Parity–Time, as in CPT symmetry or CPT theorem.
+CPV
+Short for Charge–Parity violation.
+critical
+The critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories.
+CVC
+Conserved vector current.
+CY
+Short for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories.
+
+D[edit]
+
+d
+1.  The exterior derivative of a form.
+2.  A down quark.
+3.  The dimension of spacetime.
+D
+1.  Short for Dirichlet, as in D-brane
+2.  The dimension of spacetime
+3.  A connection or differential operator
+4.  A Dynkin diagram of an orthogonal group in even dimensions.
+5.  A charmed meson.
+D0
+
+Main article: DØ experiment
+
+D-brane
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+D-string
+A D1-brane
+DBI
+Short for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics.
+DDF
+Initials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra.
+DELPHI
+DELPHI experiment at LEP.
+DESY
+Deutsches Elektronen-Synchrotron
+DGLAP
+Initials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD.
+Diff
+Diffeomorphism or diffeomorphism group.
+dilatino
+
+Main article: dilatino
+A supersymmetric partner of the dilaton.
+dilaton
+
+Main article: dilaton
+A massless scalar particle, related to dilations of spacetime.
+Dirichlet
+Dirichlet boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane).
+DIS
+Deep inelastic scattering
+DLCQ
+Discrete light-cone quantization
+DM
+Dark matter
+DØ
+
+Main article: DØ experiment
+
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+DR
+1.  Short for dimensional regularization.
+2.  Short for dimensional reduction, a way of constructing theories from simpler theories in higher dimensions, sometimes by making fields invariant under some spacelike translations.
+dS
+de Sitter, as in de Sitter space, a Lorentzian analogue of a sphere
+dS/CFT
+de Sitter/conformal field theory, especially the dS/CFT correspondence.
+dual resonance model
+
+Main article: Dual resonance model
+An early precursor of string theory.
+duality
+
+Main article: String duality
+A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality.
+DY
+Initials of Drell–Yan, as in DY process.
+dyon
+
+Main article: Dyon
+A hypothetical particle with both electrical and magnetic charge.
+
+E[edit]
+
+e
+1.  Euler's constant
+2.  A frame
+3.  An electron
+E
+Energy
+E₆
+
+Main article: E6 (mathematics)
+The exceptional Lie algebra of rank 6 and dimension 78.
+E₇
+
+Main article: E7 (mathematics)
+The exceptional Lie algebra of rank 7 and dimension 133.
+E₈
+
+Main article: E8 (mathematics)
+The exceptional Lie algebra of rank 8 and dimension 248.
+eff
+Short for effective (field theory).
+EFT
+Effective field theory, a low-energy approximation to a theory.
+einbein
+A frame in 1 dimension
+elfbein
+A frame in 11 dimensions
+energy–momentum tensor
+
+Main article: Energy–momentum tensor
+A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries.
+EWSB
+Electro-weak symmetry breaking.
+
+F[edit]
+
+F
+1.  A curvature form of a connection
+2.  The world-sheet fermion number.
+3.  Short for fermion
+3.  Short for forward;for example, σF is the cross section for backward scattering.
+F₄
+
+Main article: F4 (mathematics)
+The exceptional Lie algebra of rank 4 and dimension 52.
+FCNC
+Flavor-changing neutral current.
+field
+A section of a fiber bundle
+FOPT
+Fixed-order perturbation theory.
+F-string
+Fundamental string
+F-theory
+
+Main article: F-theory
+Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa.
+FRW
+Friedman–Robertson–Walker metric on spacetime
+
+G[edit]
+
+g
+1.  A metric
+2.  A coupling constant
+3.  The genus of a Riemann surface.
+4.  A gluon.
+G
+1.  Newton's gravitational constant, sometimes written GN.
+2.  The Fermi coupling constant for weak interactions, sometimes written GF.
+3.  Gn is an odd element of the Ramond or Neveu–Schwarz superalgebra.
+G₂
+
+Main article: G2 (mathematics)
+The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G₂ holonomy.
+gaugino
+A spin 1/2 supersymmetric partner of a gauge boson.
+gh
+Abbreviation for ghost; for example, Sgh is the ghost action.
+ghost
+A vector of negative norm.
+GKO
+Short for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra.
+GL
+A general linear group.
+gluino
+
+Main article: gluino
+A hypothetical supersymmetric partner of a gluon.
+gluon
+
+Main article: gluon
+A gauge boson associated with the strong force.
+GMSB
+Gauge mediated supersymmetry breaking.
+goldstino
+
+Main article: goldstino
+A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson.
+GR
+General relativity
+graviton
+
+Main article: graviton
+A conjectural spin 2 massless particle responsible for gravity.
+gravitino
+
+Main article: gravitino
+A supersymmetric partner of the graviton.
+Green
+Named for Michael Green.
+GS
+Green–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime.
+GSO
+Short for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons.
+GSW
+The 2-volume work on superstring theory by Green, Schwarz, and Witten.
+GUT
+Grand unified theory, a hypothetical theory unifying the strong and electroweak forces.
+GWS
+Glashow–Weinberg–Salem theory of the electroweak force.
+GZK
+The Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources.
+
+H[edit]
+
+h
+1.  The weight of a field (for example, its eigenvalue for L0).
+2.  Hermitian; for example, h.c. stands form hermitian conjugate.
+H
+1.  The Hamiltonian.
+2.  The Higgs boson.
+3.  The Hubble constant.
+Haag–Lopuszanski–Sohnius theorem
+
+Main article: Haag–Lopuszanski–Sohnius theorem
+A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem.
+Hagedorn temperature
+
+Main article: Hagedorn temperature
+The temperature above which the partition function diverges due to the exponentially increasing number of string states.
+h.c.
+hc
+Hermitian conjugate
+HCMS
+Hadronic center of mass (frame)
+HDM
+Higgs doublet model
+HE
+Short for heterotic-E2
+8, a heterotic string theory based on the group E2
+8.
+helicity
+
+Main article: Helicity (particle physics)
+The projection of the spin of a massless particle in the direction of its momentum.
+HERA
+Hadron Elektron Ring Anlage
+heterotic
+
+Main article: heterotic string
+Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985.
+Higgs boson
+
+Main article: Higgs boson
+A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory.
+Higgsino
+
+Main article: Higgsino
+A hypothetical supersymmetric partner of a Higgs boson.
+HO
+Short for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R).
+holographic principle
+
+Main article: Holographic principle
+
+HQET
+Heavy quark effective theory
+Hyperkähler
+Hyperkaehler
+
+Main article: Hyperkähler manifold
+A Riemannian manifold with holonomy contained in the compact form of the symplectic group.
+Hypermultiplet
+
+Main article: Hypermultiplet
+A type of supermultiplet (representation) of an extended supersymmetry algebra.
+
+I[edit]
+
+i
+√–1
+I
+Isospin.
+IGM
+Intergalactic medium
+inflation
+
+Main article: Inflation (cosmology)
+A hypothetical very rapid increase in the size of the very early universe.
+instanton
+
+Main article: Instanton
+A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold.
+int
+Short for interaction; for example, Hint might be an interaction Hamiltonian.
+inv
+Short for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment).
+
+J[edit]
+
+J
+1.  A current
+2.  A source
+3.  Spin.
+
+K[edit]
+
+k
+A momentum
+K
+A kaon (a strange meson).
+K3
+
+Main article: K3 surface
+A simply connected compact complex surface of Kodaira dimension 0
+K-theory
+
+Main articles: K-theory and K-theory (physics)
+A cohomology theory based on vector bundles.
+Kac–Moody algebra
+
+Main article: Kac–Moody algebra
+A central extension of a loop algebra.
+Kähler
+Kaehler
+Named after Erich Kähler
+1.  A Kähler manifold is a complex manifold with a compatible Riemannian metric.
+2.  A Kähler metric is the metric on a Kähler manifold.
+3.  A Kähler potential is a function of superfields used to construct a Lagrangian.
+Kalb–Ramond field
+
+Main article: Kalb–Ramond field
+
+KK
+Kaluza–Klein
+KM
+1.  The Kobayashi–Maskawa mechanism for CP violation.
+2.  Kac–Moody algebra.
+KZ
+Initials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra.
+
+L[edit]
+
+L
+1.  A Lagrangian
+2.  Ln is an element of the Virasoro algebra.
+3.  An abbreviation for left (moving modes).
+4.  Lepton number
+5.  Short for lepton
+L3
+L3 experiment at LEP.
+Lagrangian (field theory)
+
+Main article: Lagrangian (field theory)
+A function on the jet space of a fiber bundle.
+landscape
+
+Main article: String theory landscape
+The (conjectural) moduli space of all (vacuums of) string theories.
+LEP
+The Large Electron–Positron Collider at CERN.
+lepton
+
+Main article: lepton
+A elementary particle of spin 1/2 that is unaffected by the strong force.
+LH
+Left-handed
+LHC
+The large hadron collider at CERN.
+little string theory
+
+Main article: Little string theory
+
+LL
+Double logarithmic
+LO
+Leading order (term)
+LQG
+Loop quantum gravity
+LQC
+Loop quantum cosmology
+LSP
+Abbreviation for lightest supersymmetric particle.
+LSS
+Large scale structure (of the universe).
+
+M[edit]
+
+m
+A mass of a fermion. For example, mt is the mass of the top quark t.
+M
+The mass of a boson; for example, MZ is the mass of the Z-boson.
+Majorana fermion
+Majorana spinor
+
+Main articles: Majorana fermion and Majorana spinor
+A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8.
+Majorana–Weyl fermion
+Majorana–Weyl spinor
+
+Main articles: Majorana–Weyl fermion and Majorana–Weyl spinor
+A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8.
+Mandelstam variable
+
+Main article: Mandelstam variables
+A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction.
+matrix theory
+M(atrix) theory
+
+Main article: Matrix string theory
+One of several non-perturbative formulations of string theory or M-theory using infinite matrices.
+M-brane
+membrane
+
+Main article: Membrane (M-theory)
+A higher dimensional analogue of a string.
+MC
+Monte Carlo integration
+MCG
+
+Main article: Mapping class group
+
+minimal model
+Certain solvable conformal field theories.
+Mirror symmetry (string theory)
+
+Main article: Mirror symmetry (string theory)
+A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different "mirror" Calabi–Yau manifold.
+MLLA
+Modified leading logarithm approximation.
+MNS
+Maki–Nakagawa–Sakata matrix for neutrino mixing
+monopole
+
+Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)
+A hypothetical particle similar to a "magnet with only one pole".
+Montonen–Olive duality
+
+Main article: Montonen–Olive duality
+An early case of S-duality.
+MS
+minimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme.
+MSM
+Abbreviation for minimal standard model.
+MSSM
+Abbreviation for minimal supersymmetric standard model.
+mSUGRA
+Minimal model of supergravity.
+M-theory
+
+Main article: M-theory
+An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.
+
+MSW
+Mikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter.
+multiplet
+A linear representation of a Lie algebra or group.
+A collection of elementary particles corresponding to a basis of a representation.
+
+N[edit]
+
+N
+1.  The number of times each irreducible real spinor representation appears in the fermionic part of a supersymmetry algebra or super Minkowski space. It is often used in the description of an extended supersymmetry algebra, as in N=2 superconformal algebra and so on.
+2.  A nucleon, a baryon with 3 light quarks and isospin 1/2 (such as a proton or neutron).
+3.  The number of some type of particle.
+Nambu–Goto action
+
+Main article: Nambu–Goto action
+An action for strings, proportional to the area of the worldsheet.
+NC
+Neutral current (weak interaction).
+Neumann
+Neumann boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero.
+neutralino
+
+Main article: Neutralino
+A hypothetical supersymmetric partner of a gauge boson with zero charge.
+Neveu
+Named for André Neveu.
+Neveu–Schwarz algebra
+
+Main article: Neveu–Schwarz algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra.
+NG
+1.  Short for Nambu–Goto, as in Nambu–Goto action.
+2.  Short for Nambu–Goldstone, as in Nambu–Goldstone boson.
+NLL
+Next to leading logarithmic (term).
+NLO
+Next to leading order (term).
+NLSP
+next-to-lightest sypersymmetric particle
+NMSSM
+Next-to-Minimal Supersymmetric Standard Model.
+NNLL
+Next to next to leading logarithmic (term).
+NNLO
+Next to next to leading order (term).
+NNNLL
+Next to next to next to leading logarithmic (term).
+no-ghost theorem
+
+Main article: No-ghost theorem
+A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem.
+NR
+Non-relativistic
+NRQCD
+Non-relativistic quantum chromodynamics
+NS
+Neveu–Schwarz, especially the Neveu–Schwarz algebra
+NS–NS
+A sector with Neveu–Schwarz conditions on left and right moving modes.
+NS–R
+A sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes.
+NUT
+The initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations.
+
+O[edit]
+
+O
+An orthogonal group
+OCQ
+Short for old covariant quantization
+OPAL
+The OPAL detector at LEP.
+open
+An open string is one with two ends.
+OPE
+operator product expansion
+
+Main article: Operator product expansion
+A description of short-distance singularities of fields.
+orbifold
+
+Main article: orbifold
+Something that looks locally like a manifold quotiented by the action of a finite group.
+OSp
+A Lie superalgebra.
+
+P[edit]
+
+p
+A momentum
+P
+1.  Parity, especially the parity symmetry.
+2.  Short for periodic, a boundary condition on strings (as opposed to A for antiperiodic).
+3.  Pseudoscalar (current)
+4.  Momentum
+5.  One of the bosonic elements of a supersymmetry algebra.
+p-brane
+A p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension.
+PCAC
+partially conserved axial vector current
+PDF
+Parton distribution function.
+PDG
+Particle Data Group.
+photino
+
+Main article: photino
+A hypothetical supersymmetric partner of the photon.
+photon
+
+Main article: photon
+The neutral spin 1 gauge boson of the electromagnetic field.
+PMNS
+Pontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixing
+Polyakov action
+
+Main article: Polyakov action
+A modification of the Nambu–Goto action for strings that eliminates the square root.
+PQ
+Peccei–Quinn, as in Peccei–Quinn theory.
+pQCD
+PQCD
+Perturbative quantum chromodynamics.
+prepotential
+A function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory.
+primary field
+A field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector.
+Princeton string quartet
+David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985.
+PSL
+Projective special linear group.
+
+Q[edit]
+
+q
+A quark.
+Q
+1.  The BRST operator.
+2.  A charge
+3.  One of the fermionic generators of a supersymmetry algebra.
+quark
+
+Main article: quark
+A strongly interacting elementary particle of spin 1/2.
+QCD
+
+Main article: Quantum chromodynamics
+
+QED
+
+Main article: Quantum electrodynamics
+
+
+R[edit]
+
+R
+1.  Short for Ramond, as in Ramond sector.
+2.   A curvature tensor
+Main articles: Scalar curvature, Ricci curvature and Riemann curvature
+
+3.  An abbreviation for right (moving modes).
+4.  A radius
+5.  R-symmetry is a symmetry of extended supersymmetry algebras.
+Ramond
+Named for Pierre Ramond.
+Ramond algebra
+
+Main article: Ramond algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra.
+Rarita–Schwinger
+
+Main articles: Rarita–Schwinger equation and Rarita–Schwinger field
+Refers to spin 3/2 fermions.
+Regge
+1.  Physicist Tullio Regge.
+2.  Regge trajectory: the squared mass of a hadronic resonance is roughly linear in the spin, with the constant of proportionality called the Regge slope.
+revolution
+Any new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence.
+RG
+Renormalization group.
+RGE
+Renormalization group equation.
+RH
+Right-handed
+R–NS
+A sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes.
+RNS
+Ramond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet.
+R-parity
+
+Main article: R-parity
+A Z2 symmetry of supersymmetric models.
+R-R
+Short for Ramond–Ramond sector
+
+S[edit]
+
+s
+1.  A strange quark.
+2.  A Mandelstam variable
+S
+1.  An action
+2.  A scattering matrix.
+3.  The transformation τ → –1/τ of the upper half plane
+4.  Scalar (current)
+5.  Short for super or supersymmetric
+S-brane
+A brane similar to a D-brane, with Dirichlet boundary conditions in the time direction.
+S-duality
+
+Main article: S-duality
+Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constant
+SBB
+Standard Big Bang model of the universe
+SCFT
+Superconformal field theory, a supersymmetric extension of conformal field theory
+Schwarz
+Named for John Henry Schwarz
+Seiberg duality
+
+Main article: Seiberg duality
+
+SGA
+Abbreviation for Spectrum-generating algebra
+short supermultiplet
+A supermultiplet (representation) related to BPS states
+sigma model
+
+Main articles: Sigma model and Non-linear sigma model
+A classical or quantum model based on the maps from a base manifold to a target manifold.
+SL
+Special linear group
+SLAC
+Stanford Linear Accelerator Center
+SLC
+Stanford Linear Collider
+slepton
+
+Main article: slepton
+Hypothetical supersymmetric partner of a lepton
+SM
+
+Main article: Standard Model
+
+sneutrino
+
+Main article: sneutrino
+Hypothetical supersymmetric partner of a neutrino
+SO
+Special orthogonal group
+Sp
+Symplectic group
+sphaleron
+
+Main article: Sphaleron
+Static solution to the electroweak field equations
+squark
+
+Main article: squark
+Supersymmetric partner of a quark.
+SSB
+Spontaneous symmetry breaking
+SSM
+Standard solar model
+stress–energy tensor
+Alternative name for the #energy–momentum tensor.
+string field theory
+
+Main article: string field theory
+
+SU
+Special unitary group
+SUGRA
+Short for supergravity
+superconformal algebra
+
+Main articles: Neveu–Schwarz algebra and Ramond algebra
+A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensions
+superfield
+
+Main article: Superfield
+A supersymmetric analogue of a quantum or classical field
+supergravity
+
+Main article: supergravity
+A supersymmetric extension of general relativity
+supermultiplet
+
+Main article: Supermultiplet
+A representation of a supersymmetry algebra
+superpotential
+
+Main article: Superpotential
+A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian.
+superspace
+
+Main article: superspace
+A supersymmetric analogue of spacetime
+superstring
+
+Main article: superstring
+A supersymmetric analogue of a string
+supersymmetry
+
+Main articles: supersymmetry and supersymmetry algebra
+A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba.
+SUSY
+An abbreviation for supersymmetry.
+SYM
+Supersymmetric Yang–Mills
+
+T[edit]
+
+t
+1.  A top quark.
+2.  A Mandelstam variable.
+3.  Time.
+T
+1.  The energy–momentum tensor.
+2.  Time, especially the time symmetry.
+3.  The transformation τ → τ+1 of the upper half plane.
+4.  A torus.
+5.  The string tension.
+6.  Temperature.
+7.  Tensor (current)
+T-duality
+
+Main article: T-duality
+A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory.
+tachyon
+
+Main article: Tachyon
+A particle of imaginary mass moving faster than light.
+ToE
+TOE
+Theory of everything
+type I
+type II
+type IIA
+type IIB
+
+Main article: Type I string theory
+Main article: Type II string theory
+A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities.
+
+U[edit]
+
+u
+1.  An up quark.
+2.  A Mandelstam variable.
+U
+A unitary group.
+U-duality
+
+Main article: U-duality
+Short for "unified duality". A string duality relating two different string theories.
+UED
+Universal extra dimensions
+UV
+Short for ultra-violet, often referring to short-distance singularities.
+
+V[edit]
+
+V
+1.  A vertex operator.
+2.  Vector (current)
+V-A
+Vector-Axial vector
+vector superfield
+A type of superfield related to vector supermultiplets.
+VEV
+Vacuum expectation value of an operator.
+vielbein
+A frame
+vierbein
+A frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that "vier" means four in German.
+Veneziano amplitude
+
+Main article: Veneziano amplitude
+The Euler beta function interpreted as a scattering amplitude.
+vertex operator
+
+Main article: vertex operator
+
+Virasoro algebra
+
+Main article: Virasoro algebra
+A central extension of the Witt algebra of polynomial vector fields on a circle.
+
+W[edit]
+
+w
+A complex number
+W
+A W-boson
+W-algebra
+
+Main article: W-algebra
+A sort of generalization of the Virasoro algebra
+Weyl
+1.  Named after Hermann Weyl
+2.  A Weyl transformation is a rescaling of the world-sheet metric.
+3.  Weyl spinor, an element of a half-spin representation in even spacetime dimensions.
+WIMP
+Weakly interacting massive particle
+wino
+
+Main article: wino (particle)
+A hypothetical supersymmetric partner of the W-boson.
+Witten
+Named for Edward Witten.
+WMAP
+Wilkinson Microwave Anisotropy Probe
+world sheet
+The 2-dimensional subset of spacetime swept out by a moving string.
+world-volume
+The p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action.
+WZNW
+WZW
+Initials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space.
+
+XYZ[edit]
+
+x
+A real number
+X
+Used for coordinates in Minkowski space.
+y
+A real number
+YBE
+Yang–Baxter equation
+YM
+Yang–Mills
+z
+A complex number
+Z
+1.  A partition function
+2.  The Z boson.
+An element of the center of an extended supersymmetry algebra.
+ZEUS
+
+Main article: ZEUS (particle detector)
+
+zino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the Z-boson.
+zweibein
+A frame in 2 dimensions
+
+See also[edit]
+
+List of string theory topics
+
+References[edit]
+
+Becker, Katrin, Becker, Melanie, and John H. Schwarz (2007) String Theory and M-Theory: A Modern Introduction . Cambridge University Press. ISBN 0-521-86069-5
+Binétruy, Pierre (2007) Supersymmetry: Theory, Experiment, and Cosmology. Oxford University Press. ISBN 978-0-19-850954-7.
+Dine, Michael (2007) Supersymmetry and String Theory: Beyond the Standard Model. Cambridge University Press. ISBN 0-521-85841-0.
+Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6. 
+Michael Green, John H. Schwarz and Edward Witten (1987) Superstring theory. Cambridge University Press. The original textbook.
+
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+
+
+Kiritsis, Elias (2007) String Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-12230-4.
+Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6. 
+Polchinski, Joseph (1998) String Theory. Cambridge University Press.
+
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+
+
+Szabo, Richard J. (Reprinted 2007) An Introduction to String Theory and D-brane Dynamics. Imperial College Press. ISBN 978-1-86094-427-7.
+Zwiebach, Barton (2004) A First Course in String Theory. Cambridge University Press. ISBN 0-521-83143-1. Contact author for errata.
+
+External links[edit]
+
+Particle physics glossary at interactions.org
+
+
+
+
+This page is a glossary of terms in string theory, including related areas such as supergravity, supersymmetry, and high energy physics.string theorysupergravitysupersymmetryhigh energy physics
+
+Contents :
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+
+
+Contents :
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+Contents :Contents :
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+
+
+Conventions
+αβγ
+!$@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+XYZ
+See also
+References
+ConventionsConventionsαβγαβγ!$@!$@AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRRSSTTUUVVWWXYZXYZSee alsoSee alsoReferencesReferencesConventions[edit]Conventions[edit][edit]
+-bein
+A suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on).
+-ino
+The superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino.
+s-
+The superpartners of fermions are often denoted by adding s- at the beginning; for example, quark/squark.
+-bein-bein-beinA suffix indicating a frame, where the first part is a German word indicating the dimension (as in zweibein, vierbein, and so on).-ino-ino-inoThe superpartners of bosons are often denoted by the suffix -ino; for example, photon/photino.photonphotinos-s-s-The superpartners of fermions are often denoted by adding s- at the beginning; for example, quark/squark.quarksquarkαβγ[edit]αβγ[edit][edit]
+α
+1.  Fine-structure constant
+2.  Regge slope, or inverse of the string tension
+3.  A Fourier coefficient of a spacetime coordinate.
+4.  αs is the strong coupling constant
+β
+1.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+2.  Euler beta function
+3.  Beta function describing the change of coupling constant under the renormalization group flow
+γ
+1.  Dirac matrix
+2.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstring
+3.  World-sheet metric γab(σ,τ)
+4.  Photon
+5.  Euler constant .57721...
+Γ
+1.  Lattice
+2.  Euler Gamma function
+3.  Dirac matrix
+4.  Width of some scattering process
+δ
+1.  Kronecker delta function
+2.  An infinitesimal change in something; for example δL is an infinitesimal change in L
+Δ
+1.  Propagator
+2.  Delta baryon, a baryon with 3 light quarks and isospin 3/2
+3.  Laplace operator in Euclidean space or more generally a Riemannian manifold
+ε
+1.  Small positive real number
+2.  Antisymmetric tensor
+η
+1.  Flat Lorentzian metric on spacetime
+2.  Dedekind eta function, a weight 1/2 modular form
+3.  Neutral flavor meson with PC= –+
+θ
+1.  Theta function
+2.  θc is the Cabbibo angle
+3.  θw is the Weinberg angle, also called the weak mixing angle
+Λ
+Cosmological constant
+2.  Large energy or large mass cutoff in regularization
+3.  Lambda baryon, a baryon with 2 light quarks and isospin 0
+μ
+1.  Renormalization scale, with the dimensions of mass
+2.  Muon
+ν
+Neutrino
+Ξ
+1.  Xi baryon, a baryon with 1 light quark
+π
+1.  3.14159...
+2.  Pion
+Π
+The momentum density conjugate to X
+ρ
+Rho meson, a light meson with PC= ––
+σ
+1.  Spacelike coordinate on the world-sheet
+2.  Scattering cross section
+3.  Pauli matrix
+4.  See #sigma model
+Σ
+1.  Sigma baryon, a baryon with 2 light quarks and isospin 1
+τ
+1.  Timelike coordinate on the world-sheet
+2.  Element of the upper half plane
+3.  Tauon
+Υ
+Upsilon meson (bb)
+φ
+Scalar field
+χ
+Neutral-flavor heavy meson with PC= ++
+ψ
+1.  Spinor field
+2.  Psi meson (cc)
+Ω
+1.  Density of something in the universe; for example, Ων is the neutrino density
+2.  Omega baryon, a baryon with no light quarks
+ααα1.  Fine-structure constantFine-structure constant2.  Regge slope, or inverse of the string tension3.  A Fourier coefficient of a spacetime coordinate.4.  αs is the strong coupling constantssstrong coupling constantβββ1.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstringβγ2.  Euler beta functionEuler beta function3.  Beta function describing the change of coupling constant under the renormalization group flowBeta functionγγγ1.  Dirac matrixDirac matrix2.  One of the two conformal superghost fields β, γ used in the BRST quantization of the superstringβγ3.  World-sheet metric γab(σ,τ)abab4.  Photon5.  Euler constant .57721...Euler constantΓΓΓ1.  Lattice2.  Euler Gamma functionGamma function3.  Dirac matrixDirac matrix4.  Width of some scattering processδδδ1.  Kronecker delta functionKronecker delta function2.  An infinitesimal change in something; for example δL is an infinitesimal change in LLLΔΔΔ1.  Propagator2.  Delta baryon, a baryon with 3 light quarks and isospin 3/2Delta baryon3.  Laplace operator in Euclidean space or more generally a Riemannian manifoldLaplace operatorεεε1.  Small positive real number2.  Antisymmetric tensorηηη1.  Flat Lorentzian metric on spacetime2.  Dedekind eta function, a weight 1/2 modular formDedekind eta function3.  Neutral flavor meson with PC= –+θθθ1.  Theta functionTheta function2.  θc is the Cabbibo anglecCabbibo angle3.  θw is the Weinberg angle, also called the weak mixing anglewWeinberg angleΛΛΛCosmological constantCosmological constant2.  Large energy or large mass cutoff in regularization3.  Lambda baryon, a baryon with 2 light quarks and isospin 0Lambda baryonμμμ1.  Renormalization scale, with the dimensions of mass2.  MuonMuonνννNeutrinoNeutrinoΞΞΞ1.  Xi baryon, a baryon with 1 light quarkXi baryonπππ1.  3.14159...3.14159...2.  PionPionΠΠΠThe momentum density conjugate to XXρρρRho meson, a light meson with PC= ––Rho mesonσσσ1.  Spacelike coordinate on the world-sheet2.  Scattering cross section3.  Pauli matrixPauli matrix4.  See #sigma model#sigma modelΣΣΣ1.  Sigma baryon, a baryon with 2 light quarks and isospin 1Sigma baryonτττ1.  Timelike coordinate on the world-sheet2.  Element of the upper half planeupper half plane3.  TauonTauonΥΥΥUpsilon meson (bb)Upsilon mesonbφφφScalar fieldχχχNeutral-flavor heavy meson with PC= ++ψψψ1.  Spinor field2.  Psi meson (cc)Psi mesoncΩΩΩ1.  Density of something in the universe; for example, Ων is the neutrino densityν2.  Omega baryon, a baryon with no light quarksOmega baryon!$@[edit]!$@[edit][edit]
+' (prime)
+X′ means ∂X/∂σ.
+dot above letter
+Ẋ means ∂X/∂τ
+∇
+1.  A covariant derivative
+2.  The del operator.
+□
+The D'Alembert operator, or non-Euclidean Laplacian.
+[,]
+A commutator: [A,B] = AB–BA.
+{,}
+An anticommutator: {A,B} = AB+BA.
+' (prime)' (prime)' (prime)X′ means ∂X/∂σ.XXdot above letterdot above letterdot above letterẊ means ∂X/∂τX∇∇∇1.  A covariant derivative2.  The del operator.del□□□The D'Alembert operator, or non-Euclidean Laplacian.D'Alembert operator[,][,][,]A commutator: [A,B] = AB–BA.ABABBA{,}{,}{,}An anticommutator: {A,B} = AB+BA.ABABBAA[edit]A[edit][edit]
+A
+1.  A connection 1-form
+2.  Short for antiperiodic, a boundary condition on strings.
+3.  Short for axial vector
+4.  An asymmetry
+action
+
+Main article: action (physics)
+A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion.
+ADE
+
+Main article: ADE classification
+Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on.
+ADHM
+Initials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons.
+ADM
+Initials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism.
+AdS
+Anti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic space
+AdS/CFT
+Anti-de Sitter/conformal field theory, especially the AdS/CFT correspondence.
+ALE
+Asymptotically locally Euclidean
+ALEPH
+ALEPH experiment at LEP
+AMSB
+Anomaly mediation supersymmetry breaking
+ASD
+Anti self-dual (connection)
+ATLAS
+The ATLAS experiment at CERN, a particle detector.
+axino
+
+Main article: Axino
+A hypothetical supersymmetric partner of an axion.
+axion
+
+Main article: Axion
+A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem.
+AAA1.  A connection 1-form2.  Short for antiperiodic, a boundary condition on strings.3.  Short for axial vectoraxial vector4.  An asymmetryactionactionaction
+Main article: action (physics)
+A function S on the space of fields given (formally) by the integral of the Lagrangian density over spacetime, whose stationary points are the solutions of the equations of motion.Main article: action (physics)action (physics)SADEADEADE
+Main article: ADE classification
+Refers to the ADE classification (An,Dn, E6, E7, E8) of simply laced Dynkin diagrams, and to several related classifications of Lie algebras, singularities and so on.Main article: ADE classificationADE classificationnnn678Dynkin diagramsADHMADHMADHMInitials of Atiyah, Drinfeld, Hitchin, and Manin, as in the ADHM construction of instantons.ADHM constructionADMADMADMInitials of Arnowitt, Deser, and Misner, as in ADM energy, a way of defining the global energy in an asymptotically flat spacetime, or ADM decomposition of a metric, or ADM formalism.ADM energyADM decompositionADM formalismAdSAdSAdSAnti-de Sitter, as in anti-de Sitter space, a Lorentzian analogue of hyperbolic spaceanti-de Sitter spaceAdS/CFTAdS/CFTAdS/CFTAnti-de Sitter/conformal field theory, especially the AdS/CFT correspondence.AdS/CFT correspondenceALEALEALEAsymptotically locally EuclideanAsymptotically locally EuclideanALEPHALEPHALEPHALEPH experiment at LEPALEPH experimentAMSBAMSBAMSBAnomaly mediation supersymmetry breakingASDASDASDAnti self-dual (connection)ATLASATLASATLASThe ATLAS experiment at CERN, a particle detector.ATLAS experimentCERNaxinoaxinoaxino
+Main article: Axino
+A hypothetical supersymmetric partner of an axion.Main article: AxinoAxinoaxionaxionaxion
+Main article: Axion
+A hypothetical scalar particle whose mass arises from a coupling rather than from a mass term in the Lagrangian, used to resolve the strong CP problem.Main article: AxionAxionstrong CP problemB[edit]B[edit][edit]
+b
+1.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+2.  A bottom quark.
+B
+1.  Baryon number
+2.  Short for boson.
+3.  Short for baryon.
+4.  Short for backward;for example, σB is the cross section for backward scattering.
+5.  a bottom meson.
+BAO
+Baryon acoustic oscillation
+BB
+Big Bang
+BBN
+Big Bang nucleosynthesis
+bino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge.
+BIon
+A BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action.
+BPS
+
+Main article: BPS state
+A state related to the Bogomol'nyi–Prasad–Sommerfield bound.
+BR
+Branching ratio
+BRS
+BRST quantization
+
+Main article: BRST quantization
+Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories.
+brane
+Short for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane.
+BTZ
+Initials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity.
+BV
+Batalin–Vilkovisky, as in Batalin–Vilkovisky formalism.
+bbb1.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.bc2.  A bottom quark.bottom quarkBBB1.  Baryon numberBaryon number2.  Short for boson.boson3.  Short for baryon.baryon4.  Short for backward;for example, σB is the cross section for backward scattering.BB5.  a bottom meson.bottom mesonBAOBAOBAOBaryon acoustic oscillationBaryon acoustic oscillationBBBBBBBig BangBig BangBBNBBNBBNBig Bang nucleosynthesisBig Bangnucleosynthesisbinobinobino
+Main article: gaugino
+A hypothetical supersymmetric partner of the gauge field corresponding to weak hypercharge.Main article: gauginogauginoBIonBIonBIonA BPS solution representing an infinite string ending on a D-brane. Named after the Born–Infeld action.Born–Infeld actionBPSBPSBPS
+Main article: BPS state
+A state related to the Bogomol'nyi–Prasad–Sommerfield bound.Main article: BPS stateBPS stateBogomol'nyi–Prasad–Sommerfield boundBRBRBRBranching ratioBRSBRSBRSBRST quantizationBRST quantizationBRST quantization
+Main article: BRST quantization
+Short for Becchi, Rouet, Stora and Tyutin, who introduced the BRST quantization of gauge theories.Main article: BRST quantizationBRST quantizationBRST quantizationbranebranebraneShort for membrane. a higher-dimensional manifold moving in spacetime. See also p-brane, D-brane.BTZBTZBTZInitials of Bañados–Teitelboim–Zanelli, as in BTZ black hole, a black hole in 2+1-dimensional gravity.BTZ black holeBVBVBVBatalin–Vilkovisky, as in Batalin–Vilkovisky formalism.Batalin–Vilkovisky formalismC[edit]C[edit][edit]
+c
+1.  The speed of light, when not using units where this is 1.
+2.  A central charge of the Virasoro algebra or similar algebra.
+3.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.
+4.  A Chern class.
+5.  A charm quark.
+C
+1.  Charge, especially the charge symmetry.
+Calabi–Yau
+
+Main article: Calabi–Yau manifold
+A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories.
+CAR
+Canonical anticommutation relations
+CBR
+Cosmic background radiation
+CC
+1.  Charged current (weak interaction).
+2.  Complex conjugate
+3.  Compatibility condition
+CCR
+Canonical commutation relation
+CCR and CAR algebras
+CDF
+Collider Detector at Fermilab
+CDM
+Cold dark matter
+CERN
+Conseil Européen pour la Recherche Nucléaire
+chargino
+
+Main article: chargino
+A hypothetical charged supersymmetric partner of a gauge boson.
+Chern–Simons
+1.  
+Main article: Chern–Simons theory
+
+2.  
+Main article: Chern–Simons form
+
+chiral
+1.  Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning "hand"; the terms "left-handed" and "right-handed" are often used to describe chiral objects.
+Main article: Chirality (physics)
+
+2.  A chiral multiplet is a type of supermutliplet of a supersymmetry algebra.
+CIPT
+Contour improved perturbation theory
+CKG
+Short for conformal Killing group.
+CKM
+The Cabibbo–Kobayashi–Maskawa matrix.
+CKS
+Short for conformal Killing spinor.
+CKV
+Short for conformal Killing vector.
+CFT
+Conformal field theory
+Chan–Paton
+A Chan–Paton charge is a degree of freedom carried by an open string on its endpoints.
+cl
+1.  Short for classical (for example, Scl is the classical action).
+2.  CL is short for confidence limit.
+closed
+A closed string is one with no ends.
+CM
+Center of mass (frame)
+CMB
+CMBR
+Cosmic microwave background radiation
+CMS
+1.  The Compact Muon Solenoid at CERN, a particle detector.
+2.  Short for the Center-of-Momentum System, a coordinate system where the total momentum is 0.
+compactification
+A method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold.
+cosmological constant
+
+Main article: cosmological constant
+The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetime
+CP
+Short for Charge–Parity, as in CP symmetry.
+CPC
+Short for Charge–Parity conservation.
+CPT
+Short for Charge–Parity–Time, as in CPT symmetry or CPT theorem.
+CPV
+Short for Charge–Parity violation.
+critical
+The critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories.
+CVC
+Conserved vector current.
+CY
+Short for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories.
+ccc1.  The speed of light, when not using units where this is 1.speed of light2.  A central charge of the Virasoro algebra or similar algebra.3.  One of the two conformal ghost fields b, c used in the BRST quantization of the bosonic string.bc4.  A Chern class.Chern class5.  A charm quark.charm quarkCCC1.  Charge, especially the charge symmetry.charge symmetryCalabi–YauCalabi–YauCalabi–Yau
+Main article: Calabi–Yau manifold
+A Kähler manifold with vanishing Ricci curvature, used for compactifying string theories.Main article: Calabi–Yau manifoldCalabi–Yau manifoldKähler manifoldRicci curvatureCARCARCARCanonical anticommutation relationsCanonical anticommutation relationsCBRCBRCBRCosmic background radiationCosmic background radiationCCCCCC1.  Charged current (weak interaction).2.  Complex conjugate3.  Compatibility conditionCCRCCRCCRCanonical commutation relationCanonical commutation relationCCR and CAR algebrasCCR and CAR algebrasCDFCDFCDFCollider Detector at FermilabCollider Detector at FermilabCDMCDMCDMCold dark matterCold dark matterCERNCERNCERNConseil Européen pour la Recherche NucléaireConseil Européen pour la Recherche Nucléairecharginocharginochargino
+Main article: chargino
+A hypothetical charged supersymmetric partner of a gauge boson.Main article: charginocharginogauge bosonChern–SimonsChern–SimonsChern–Simons1.  
+Main article: Chern–Simons theory
+Main article: Chern–Simons theoryChern–Simons theory2.  
+Main article: Chern–Simons form
+Main article: Chern–Simons formChern–Simons formchiralchiralchiral1.  Not invariant under the parity symmetry. The word comes from the Greek χειρ meaning "hand"; the terms "left-handed" and "right-handed" are often used to describe chiral objects.
+Main article: Chirality (physics)
+Main article: Chirality (physics)Chirality (physics)2.  A chiral multiplet is a type of supermutliplet of a supersymmetry algebra.chiral multipletCIPTCIPTCIPTContour improved perturbation theoryCKGCKGCKGShort for conformal Killing group.CKMCKMCKMThe Cabibbo–Kobayashi–Maskawa matrix.Cabibbo–Kobayashi–Maskawa matrixCKSCKSCKSShort for conformal Killing spinor.CKVCKVCKVShort for conformal Killing vector.Killing vectorCFTCFTCFTConformal field theoryConformal field theoryChan–PatonChan–PatonChan–PatonA Chan–Paton charge is a degree of freedom carried by an open string on its endpoints.Chan–Paton chargeclclcl1.  Short for classical (for example, Scl is the classical action).Sclcl2.  CL is short for confidence limit.closedclosedclosedA closed string is one with no ends.CMCMCMCenter of mass (frame)CMBCMBCMBCMBRCMBRCMBRCosmic microwave background radiationCosmic microwave backgroundCMSCMSCMS1.  The Compact Muon Solenoid at CERN, a particle detector.Compact Muon SolenoidCERN2.  Short for the Center-of-Momentum System, a coordinate system where the total momentum is 0.compactificationcompactificationcompactificationA method for reducing the apparent dimension of spacetime by wrapping the string around a compact manifold.cosmological constantcosmological constantcosmological constant
+Main article: cosmological constant
+The constant term of the Lagrangian, inducing a term in the action proportional to the volume of spacetimeMain article: cosmological constantcosmological constantCPCPCPShort for Charge–Parity, as in CP symmetry.CP symmetryCPCCPCCPCShort for Charge–Parity conservation.CPTCPTCPTShort for Charge–Parity–Time, as in CPT symmetry or CPT theorem.CPT symmetryCPT theoremCPVCPVCPVShort for Charge–Parity violation.criticalcriticalcriticalThe critical dimension is the spacetime dimension in which a string or superstring theory is consistent; usually 26 for string theories and 10 for superstring theories.critical dimensionCVCCVCCVCConserved vector current.vector currentCYCYCYShort for Calabi–Yau, as in Calabi–Yau manifold, a Ricci-flat Kähler manifold, often used for compactifying superstring theories.Calabi–Yau manifoldD[edit]D[edit][edit]
+d
+1.  The exterior derivative of a form.
+2.  A down quark.
+3.  The dimension of spacetime.
+D
+1.  Short for Dirichlet, as in D-brane
+2.  The dimension of spacetime
+3.  A connection or differential operator
+4.  A Dynkin diagram of an orthogonal group in even dimensions.
+5.  A charmed meson.
+D0
+
+Main article: DØ experiment
+
+D-brane
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+D-string
+A D1-brane
+DBI
+Short for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics.
+DDF
+Initials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra.
+DELPHI
+DELPHI experiment at LEP.
+DESY
+Deutsches Elektronen-Synchrotron
+DGLAP
+Initials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD.
+Diff
+Diffeomorphism or diffeomorphism group.
+dilatino
+
+Main article: dilatino
+A supersymmetric partner of the dilaton.
+dilaton
+
+Main article: dilaton
+A massless scalar particle, related to dilations of spacetime.
+Dirichlet
+Dirichlet boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane).
+DIS
+Deep inelastic scattering
+DLCQ
+Discrete light-cone quantization
+DM
+Dark matter
+DØ
+
+Main article: DØ experiment
+
+Dp-brane
+
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.
+DR
+1.  Short for dimensional regularization.
+2.  Short for dimensional reduction, a way of constructing theories from simpler theories in higher dimensions, sometimes by making fields invariant under some spacelike translations.
+dS
+de Sitter, as in de Sitter space, a Lorentzian analogue of a sphere
+dS/CFT
+de Sitter/conformal field theory, especially the dS/CFT correspondence.
+dual resonance model
+
+Main article: Dual resonance model
+An early precursor of string theory.
+duality
+
+Main article: String duality
+A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality.
+DY
+Initials of Drell–Yan, as in DY process.
+dyon
+
+Main article: Dyon
+A hypothetical particle with both electrical and magnetic charge.
+ddd1.  The exterior derivative of a form.exterior derivative2.  A down quark.down quark3.  The dimension of spacetime.DDD1.  Short for Dirichlet, as in D-brane2.  The dimension of spacetime3.  A connection or differential operator4.  A Dynkin diagram of an orthogonal group in even dimensions.Dynkin diagram5.  A charmed meson.charmed mesonD0D0D0
+Main article: DØ experiment
+Main article: DØ experimentDØ experimentD-braneD-braneD-braneDp-braneDp-braneDp-brane
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.Main article: D-braneD-branepD-stringD-stringD-stringA D1-braneDBIDBIDBIShort for Dirac–Born–Infeld, as in the DBI action, an action based on the Born–Infeld action, a modification of the Maxwell action of electrodynamics.DBI actionBorn–Infeld actionDDFDDFDDFInitials of Del Guidice, Di Vecchia, and Fubini, as in Del Guidice–Di Vecchia–Fubini operator, operators generating an oscillator algebra.Del Guidice–Di Vecchia–Fubini operatorDELPHIDELPHIDELPHIDELPHI experiment at LEP.DELPHI experimentDESYDESYDESYDeutsches Elektronen-SynchrotronDeutsches Elektronen-SynchrotronDGLAPDGLAPDGLAPInitials of Dokshitzer–Gribov–Lipatov–Altarelli–Parisi who introduced the DGLAP evolution equation in QCD.DGLAPDiffDiffDiffDiffeomorphism or diffeomorphism group.Diffeomorphismdiffeomorphism groupdilatinodilatinodilatino
+Main article: dilatino
+A supersymmetric partner of the dilaton.Main article: dilatinodilatinodilatondilatondilaton
+Main article: dilaton
+A massless scalar particle, related to dilations of spacetime.Main article: dilatondilatonDirichletDirichletDirichletDirichlet boundary conditions on an open string say that the ends of the string are fixed (often lying on a D-brane).Dirichlet boundary conditionsDISDISDISDeep inelastic scatteringDeep inelastic scatteringDLCQDLCQDLCQDiscrete light-cone quantizationDMDMDMDark matterDØDØDØ
+Main article: DØ experiment
+Main article: DØ experimentDØ experimentDp-braneDp-braneDp-brane
+Main article: D-brane
+Short for Dirichlet (mem)brane, a submanifold (of dimension p+1) on which the ends of strings are constrained to lie, so that the strings satisfy Dirichlet boundary conditions.Main article: D-braneD-branepDRDRDR1.  Short for dimensional regularization.dimensional regularization2.  Short for dimensional reduction, a way of constructing theories from simpler theories in higher dimensions, sometimes by making fields invariant under some spacelike translations.dimensional reductiondSdSdSde Sitter, as in de Sitter space, a Lorentzian analogue of a spherede Sitter spacedS/CFTdS/CFTdS/CFTde Sitter/conformal field theory, especially the dS/CFT correspondence.dS/CFT correspondencedual resonance modeldual resonance modeldual resonance model
+Main article: Dual resonance model
+An early precursor of string theory.Main article: Dual resonance modelDual resonance modeldualitydualityduality
+Main article: String duality
+A hidden connection between two different theories, such as S-duality, T-duality, U-duality, mysterious duality.Main article: String dualityString dualityS-dualityT-dualityU-dualitymysterious dualityDYDYDYInitials of Drell–Yan, as in DY process.DY processdyondyondyon
+Main article: Dyon
+A hypothetical particle with both electrical and magnetic charge.Main article: DyonDyonE[edit]E[edit][edit]
+e
+1.  Euler's constant
+2.  A frame
+3.  An electron
+E
+Energy
+E₆
+
+Main article: E6 (mathematics)
+The exceptional Lie algebra of rank 6 and dimension 78.
+E₇
+
+Main article: E7 (mathematics)
+The exceptional Lie algebra of rank 7 and dimension 133.
+E₈
+
+Main article: E8 (mathematics)
+The exceptional Lie algebra of rank 8 and dimension 248.
+eff
+Short for effective (field theory).
+EFT
+Effective field theory, a low-energy approximation to a theory.
+einbein
+A frame in 1 dimension
+elfbein
+A frame in 11 dimensions
+energy–momentum tensor
+
+Main article: Energy–momentum tensor
+A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries.
+EWSB
+Electro-weak symmetry breaking.
+eee1.  Euler's constantEuler's constant2.  A frame3.  An electronEEEEnergyE₆E₆E₆
+Main article: E6 (mathematics)
+The exceptional Lie algebra of rank 6 and dimension 78.Main article: E6 (mathematics)E6 (mathematics)E₇E₇E₇
+Main article: E7 (mathematics)
+The exceptional Lie algebra of rank 7 and dimension 133.Main article: E7 (mathematics)E7 (mathematics)E₈E₈E₈
+Main article: E8 (mathematics)
+The exceptional Lie algebra of rank 8 and dimension 248.Main article: E8 (mathematics)E8 (mathematics)effeffeffShort for effective (field theory).EFTEFTEFTEffective field theory, a low-energy approximation to a theory.Effective field theoryeinbeineinbeineinbeinA frame in 1 dimensionelfbeinelfbeinelfbeinA frame in 11 dimensionsenergy–momentum tensorenergy–momentum tensorenergy–momentum tensor
+Main article: Energy–momentum tensor
+A symmetric tensor T (also called the stress-energy tensor) describing the variation of the action under changes in the metric, whose components give the local energy, momentum and stress densities. In flat spacetimes it can also be given by combining the Noether currents of the translation symmetries.Main article: Energy–momentum tensorEnergy–momentum tensorTEWSBEWSBEWSBElectro-weak symmetry breaking.F[edit]F[edit][edit]
+F
+1.  A curvature form of a connection
+2.  The world-sheet fermion number.
+3.  Short for fermion
+3.  Short for forward;for example, σF is the cross section for backward scattering.
+F₄
+
+Main article: F4 (mathematics)
+The exceptional Lie algebra of rank 4 and dimension 52.
+FCNC
+Flavor-changing neutral current.
+field
+A section of a fiber bundle
+FOPT
+Fixed-order perturbation theory.
+F-string
+Fundamental string
+F-theory
+
+Main article: F-theory
+Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa.
+FRW
+Friedman–Robertson–Walker metric on spacetime
+FFF1.  A curvature form of a connectioncurvature form2.  The world-sheet fermion number.fermion number3.  Short for fermion3.  Short for forward;for example, σF is the cross section for backward scattering.FFF₄F₄F₄
+Main article: F4 (mathematics)
+The exceptional Lie algebra of rank 4 and dimension 52.Main article: F4 (mathematics)F4 (mathematics)FCNCFCNCFCNCFlavor-changing neutral current.neutral currentfieldfieldfieldA section of a fiber bundleFOPTFOPTFOPTFixed-order perturbation theory.F-stringF-stringF-stringFundamental stringF-theoryF-theoryF-theory
+Main article: F-theory
+Possibly an abbreviation of father theory. A 12-dimensional string theory introduced by Vafa.Main article: F-theoryF-theoryFRWFRWFRWFriedman–Robertson–Walker metric on spacetimeFriedman–Robertson–WalkerG[edit]G[edit][edit]
+g
+1.  A metric
+2.  A coupling constant
+3.  The genus of a Riemann surface.
+4.  A gluon.
+G
+1.  Newton's gravitational constant, sometimes written GN.
+2.  The Fermi coupling constant for weak interactions, sometimes written GF.
+3.  Gn is an odd element of the Ramond or Neveu–Schwarz superalgebra.
+G₂
+
+Main article: G2 (mathematics)
+The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G₂ holonomy.
+gaugino
+A spin 1/2 supersymmetric partner of a gauge boson.
+gh
+Abbreviation for ghost; for example, Sgh is the ghost action.
+ghost
+A vector of negative norm.
+GKO
+Short for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra.
+GL
+A general linear group.
+gluino
+
+Main article: gluino
+A hypothetical supersymmetric partner of a gluon.
+gluon
+
+Main article: gluon
+A gauge boson associated with the strong force.
+GMSB
+Gauge mediated supersymmetry breaking.
+goldstino
+
+Main article: goldstino
+A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson.
+GR
+General relativity
+graviton
+
+Main article: graviton
+A conjectural spin 2 massless particle responsible for gravity.
+gravitino
+
+Main article: gravitino
+A supersymmetric partner of the graviton.
+Green
+Named for Michael Green.
+GS
+Green–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime.
+GSO
+Short for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons.
+GSW
+The 2-volume work on superstring theory by Green, Schwarz, and Witten.
+GUT
+Grand unified theory, a hypothetical theory unifying the strong and electroweak forces.
+GWS
+Glashow–Weinberg–Salem theory of the electroweak force.
+GZK
+The Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources.
+ggg1.  A metric2.  A coupling constant3.  The genus of a Riemann surface.genus of a Riemann surface4.  A gluon.gluonGGG1.  Newton's gravitational constant, sometimes written GN.gravitational constantGNN2.  The Fermi coupling constant for weak interactions, sometimes written GF.Fermi coupling constantGFF3.  Gn is an odd element of the Ramond or Neveu–Schwarz superalgebra.GnnG₂G₂G₂
+Main article: G2 (mathematics)
+The exceptional Lie algebra of rank 2 and dimension 14, or a G2 manifold with G₂ holonomy.Main article: G2 (mathematics)G2 (mathematics)G2 manifoldgauginogauginogauginoA spin 1/2 supersymmetric partner of a gauge boson.ghghghAbbreviation for ghost; for example, Sgh is the ghost action.SghghghostghostghostA vector of negative norm.GKOGKOGKOShort for Goddard–Kent–Olive. The GKO construction, also called the coset construction, is a way of constructing unitary discrete series representations of the Virasoro algebra.coset constructionGLGLGLA general linear group.general linear groupgluinogluinogluino
+Main article: gluino
+A hypothetical supersymmetric partner of a gluon.Main article: gluinogluinogluongluongluongluon
+Main article: gluon
+A gauge boson associated with the strong force.Main article: gluongluongauge bosonstrong forceGMSBGMSBGMSBGauge mediated supersymmetry breaking.goldstinogoldstinogoldstino
+Main article: goldstino
+A massless spin 1/2 particle associated with spontaneous breakdown of supersymmetry, analogous to the Goldstone boson.Main article: goldstinogoldstinoGoldstone bosonGRGRGRGeneral relativityGeneral relativitygravitongravitongraviton
+Main article: graviton
+A conjectural spin 2 massless particle responsible for gravity.Main article: gravitongravitongravitinogravitinogravitino
+Main article: gravitino
+A supersymmetric partner of the graviton.Main article: gravitinogravitinoGreenGreenGreenNamed for Michael Green.Michael GreenGSGSGSGreen–Schwarz formalism, a way of incorporating supersymmetry into string theory that is supersymmetric in 10-dimensional spacetime.GSOGSOGSOShort for Ferdinando Gliozzi, Joël Scherk, and David A. Olive, as in the GSO projection, a projection in superstring theory that eliminates tachyons.GSO projectionGSWGSWGSWThe 2-volume work on superstring theory by Green, Schwarz, and Witten.GUTGUTGUTGrand unified theory, a hypothetical theory unifying the strong and electroweak forces.Grand unified theoryGWSGWSGWSGlashow–Weinberg–Salem theory of the electroweak force.electroweak forceGZKGZKGZKThe Greisen–Zatsepin–Kuzmin limit on the energy of cosmic background radiation from distant sources.Greisen–Zatsepin–Kuzmin limitH[edit]H[edit][edit]
+h
+1.  The weight of a field (for example, its eigenvalue for L0).
+2.  Hermitian; for example, h.c. stands form hermitian conjugate.
+H
+1.  The Hamiltonian.
+2.  The Higgs boson.
+3.  The Hubble constant.
+Haag–Lopuszanski–Sohnius theorem
+
+Main article: Haag–Lopuszanski–Sohnius theorem
+A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem.
+Hagedorn temperature
+
+Main article: Hagedorn temperature
+The temperature above which the partition function diverges due to the exponentially increasing number of string states.
+h.c.
+hc
+Hermitian conjugate
+HCMS
+Hadronic center of mass (frame)
+HDM
+Higgs doublet model
+HE
+Short for heterotic-E2
+8, a heterotic string theory based on the group E2
+8.
+helicity
+
+Main article: Helicity (particle physics)
+The projection of the spin of a massless particle in the direction of its momentum.
+HERA
+Hadron Elektron Ring Anlage
+heterotic
+
+Main article: heterotic string
+Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985.
+Higgs boson
+
+Main article: Higgs boson
+A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory.
+Higgsino
+
+Main article: Higgsino
+A hypothetical supersymmetric partner of a Higgs boson.
+HO
+Short for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R).
+holographic principle
+
+Main article: Holographic principle
+
+HQET
+Heavy quark effective theory
+Hyperkähler
+Hyperkaehler
+
+Main article: Hyperkähler manifold
+A Riemannian manifold with holonomy contained in the compact form of the symplectic group.
+Hypermultiplet
+
+Main article: Hypermultiplet
+A type of supermultiplet (representation) of an extended supersymmetry algebra.
+hhh1.  The weight of a field (for example, its eigenvalue for L0).L02.  Hermitian; for example, h.c. stands form hermitian conjugate.HHH1.  The Hamiltonian.Hamiltonian2.  The Higgs boson.Higgs boson3.  The Hubble constant.Hubble constantHaag–Lopuszanski–Sohnius theoremHaag–Lopuszanski–Sohnius theoremHaag–Lopuszanski–Sohnius theorem
+Main article: Haag–Lopuszanski–Sohnius theorem
+A theorem describing the possible supersymmetries of a quantum field theory, generalizing the Coleman–Mandula theorem.Main article: Haag–Lopuszanski–Sohnius theoremHaag–Lopuszanski–Sohnius theoremColeman–Mandula theoremHagedorn temperatureHagedorn temperatureHagedorn temperature
+Main article: Hagedorn temperature
+The temperature above which the partition function diverges due to the exponentially increasing number of string states.Main article: Hagedorn temperatureHagedorn temperatureh.c.h.c.h.c.hchchcHermitian conjugateHCMSHCMSHCMSHadronic center of mass (frame)HDMHDMHDMHiggs doublet modelHEHEHEShort for heterotic-E2
+8, a heterotic string theory based on the group E2
+8.2
+82
+8helicityhelicityhelicity
+Main article: Helicity (particle physics)
+The projection of the spin of a massless particle in the direction of its momentum.Main article: Helicity (particle physics)Helicity (particle physics)HERAHERAHERAHadron Elektron Ring AnlageHadron Elektron Ring Anlageheteroticheteroticheterotic
+Main article: heterotic string
+Named after the Greek word heterosis, meaning hybrid vigour. A hybrid of bosonic string theory and superstring theory, introduced by David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm in 1985.Main article: heterotic stringheterotic stringheterosisHiggs bosonHiggs bosonHiggs boson
+Main article: Higgs boson
+A massive scalar particle related to the spontaneous symmetry breaking mechanism in the electroweak theory.Main article: Higgs bosonHiggs bosonHiggsinoHiggsinoHiggsino
+Main article: Higgsino
+A hypothetical supersymmetric partner of a Higgs boson.Main article: HiggsinoHiggsinoHiggs bosonHOHOHOShort for heterotic-orthogonal, a heterotic string theory based on the orthogonal group O32(R).32Rholographic principleholographic principleholographic principle
+Main article: Holographic principle
+Main article: Holographic principleHolographic principleHQETHQETHQETHeavy quark effective theoryHyperkählerHyperkählerHyperkählerHyperkaehlerHyperkaehlerHyperkaehler
+Main article: Hyperkähler manifold
+A Riemannian manifold with holonomy contained in the compact form of the symplectic group.Main article: Hyperkähler manifoldHyperkähler manifoldHypermultipletHypermultipletHypermultiplet
+Main article: Hypermultiplet
+A type of supermultiplet (representation) of an extended supersymmetry algebra.Main article: HypermultipletHypermultipletI[edit]I[edit][edit]
+i
+√–1
+I
+Isospin.
+IGM
+Intergalactic medium
+inflation
+
+Main article: Inflation (cosmology)
+A hypothetical very rapid increase in the size of the very early universe.
+instanton
+
+Main article: Instanton
+A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold.
+int
+Short for interaction; for example, Hint might be an interaction Hamiltonian.
+inv
+Short for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment).
+iii√–1IIIIsospin.IsospinIGMIGMIGMIntergalactic mediumIntergalactic mediuminflationinflationinflation
+Main article: Inflation (cosmology)
+A hypothetical very rapid increase in the size of the very early universe.Main article: Inflation (cosmology)Inflation (cosmology)instantoninstantoninstanton
+Main article: Instanton
+A self-dual or anti-self-dual connection in a principal bundle over a four-dimensional Riemannian manifold.Main article: InstantonInstantonintintintShort for interaction; for example, Hint might be an interaction Hamiltonian.HintinvinvinvShort for invisible; for example, Γinv is the width for invisible decays (those unobseverd by an experiment).invJ[edit]J[edit][edit]
+J
+1.  A current
+2.  A source
+3.  Spin.
+JJJ1.  A current2.  A source3.  Spin.K[edit]K[edit][edit]
+k
+A momentum
+K
+A kaon (a strange meson).
+K3
+
+Main article: K3 surface
+A simply connected compact complex surface of Kodaira dimension 0
+K-theory
+
+Main articles: K-theory and K-theory (physics)
+A cohomology theory based on vector bundles.
+Kac–Moody algebra
+
+Main article: Kac–Moody algebra
+A central extension of a loop algebra.
+Kähler
+Kaehler
+Named after Erich Kähler
+1.  A Kähler manifold is a complex manifold with a compatible Riemannian metric.
+2.  A Kähler metric is the metric on a Kähler manifold.
+3.  A Kähler potential is a function of superfields used to construct a Lagrangian.
+Kalb–Ramond field
+
+Main article: Kalb–Ramond field
+
+KK
+Kaluza–Klein
+KM
+1.  The Kobayashi–Maskawa mechanism for CP violation.
+2.  Kac–Moody algebra.
+KZ
+Initials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra.
+kkkA momentumKKKA kaon (a strange meson).kaonK3K3K3
+Main article: K3 surface
+A simply connected compact complex surface of Kodaira dimension 0Main article: K3 surfaceK3 surfaceK-theoryK-theoryK-theory
+Main articles: K-theory and K-theory (physics)
+A cohomology theory based on vector bundles.Main articles: K-theory and K-theory (physics)K-theoryK-theory (physics)Kac–Moody algebraKac–Moody algebraKac–Moody algebra
+Main article: Kac–Moody algebra
+A central extension of a loop algebra.Main article: Kac–Moody algebraKac–Moody algebraloop algebraKählerKählerKählerKaehlerKaehlerKaehlerNamed after Erich KählerErich Kähler1.  A Kähler manifold is a complex manifold with a compatible Riemannian metric.Kähler manifold2.  A Kähler metric is the metric on a Kähler manifold.Kähler metric3.  A Kähler potential is a function of superfields used to construct a Lagrangian.Kähler potentialKalb–Ramond fieldKalb–Ramond fieldKalb–Ramond field
+Main article: Kalb–Ramond field
+Main article: Kalb–Ramond fieldKalb–Ramond fieldKKKKKKKaluza–KleinKaluza–KleinKMKMKM1.  The Kobayashi–Maskawa mechanism for CP violation.Kobayashi–Maskawa mechanism2.  Kac–Moody algebra.Kac–Moody algebraKZKZKZInitials of Knizhnik and Zamolodchikov, as in KZ equation, a differential equation related to the primary fields of a current algebra.KZ equationL[edit]L[edit][edit]
+L
+1.  A Lagrangian
+2.  Ln is an element of the Virasoro algebra.
+3.  An abbreviation for left (moving modes).
+4.  Lepton number
+5.  Short for lepton
+L3
+L3 experiment at LEP.
+Lagrangian (field theory)
+
+Main article: Lagrangian (field theory)
+A function on the jet space of a fiber bundle.
+landscape
+
+Main article: String theory landscape
+The (conjectural) moduli space of all (vacuums of) string theories.
+LEP
+The Large Electron–Positron Collider at CERN.
+lepton
+
+Main article: lepton
+A elementary particle of spin 1/2 that is unaffected by the strong force.
+LH
+Left-handed
+LHC
+The large hadron collider at CERN.
+little string theory
+
+Main article: Little string theory
+
+LL
+Double logarithmic
+LO
+Leading order (term)
+LQG
+Loop quantum gravity
+LQC
+Loop quantum cosmology
+LSP
+Abbreviation for lightest supersymmetric particle.
+LSS
+Large scale structure (of the universe).
+LLL1.  A LagrangianLagrangian2.  Ln is an element of the Virasoro algebra.LnnVirasoro algebra3.  An abbreviation for left (moving modes).4.  Lepton number5.  Short for leptonL3L3L3L3 experiment at LEP.L3 experimentLagrangian (field theory)Lagrangian (field theory)Lagrangian (field theory)
+Main article: Lagrangian (field theory)
+A function on the jet space of a fiber bundle.Main article: Lagrangian (field theory)Lagrangian (field theory)landscapelandscapelandscape
+Main article: String theory landscape
+The (conjectural) moduli space of all (vacuums of) string theories.Main article: String theory landscapeString theory landscapeLEPLEPLEPThe Large Electron–Positron Collider at CERN.Large Electron–Positron Colliderleptonleptonlepton
+Main article: lepton
+A elementary particle of spin 1/2 that is unaffected by the strong force.Main article: leptonleptonLHLHLHLeft-handedLHCLHCLHCThe large hadron collider at CERN.large hadron colliderCERNlittle string theorylittle string theorylittle string theory
+Main article: Little string theory
+Main article: Little string theoryLittle string theoryLLLLLLDouble logarithmicLOLOLOLeading order (term)Leading orderLQGLQGLQGLoop quantum gravityLoop quantum gravityLQCLQCLQCLoop quantum cosmologyLoop quantum cosmologyLSPLSPLSPAbbreviation for lightest supersymmetric particle.lightest supersymmetric particleLSSLSSLSSLarge scale structure (of the universe).M[edit]M[edit][edit]
+m
+A mass of a fermion. For example, mt is the mass of the top quark t.
+M
+The mass of a boson; for example, MZ is the mass of the Z-boson.
+Majorana fermion
+Majorana spinor
+
+Main articles: Majorana fermion and Majorana spinor
+A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8.
+Majorana–Weyl fermion
+Majorana–Weyl spinor
+
+Main articles: Majorana–Weyl fermion and Majorana–Weyl spinor
+A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8.
+Mandelstam variable
+
+Main article: Mandelstam variables
+A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction.
+matrix theory
+M(atrix) theory
+
+Main article: Matrix string theory
+One of several non-perturbative formulations of string theory or M-theory using infinite matrices.
+M-brane
+membrane
+
+Main article: Membrane (M-theory)
+A higher dimensional analogue of a string.
+MC
+Monte Carlo integration
+MCG
+
+Main article: Mapping class group
+
+minimal model
+Certain solvable conformal field theories.
+Mirror symmetry (string theory)
+
+Main article: Mirror symmetry (string theory)
+A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different "mirror" Calabi–Yau manifold.
+MLLA
+Modified leading logarithm approximation.
+MNS
+Maki–Nakagawa–Sakata matrix for neutrino mixing
+monopole
+
+Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)
+A hypothetical particle similar to a "magnet with only one pole".
+Montonen–Olive duality
+
+Main article: Montonen–Olive duality
+An early case of S-duality.
+MS
+minimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme.
+MSM
+Abbreviation for minimal standard model.
+MSSM
+Abbreviation for minimal supersymmetric standard model.
+mSUGRA
+Minimal model of supergravity.
+M-theory
+
+Main article: M-theory
+An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.
+
+MSW
+Mikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter.
+multiplet
+A linear representation of a Lie algebra or group.
+A collection of elementary particles corresponding to a basis of a representation.
+mmmA mass of a fermion. For example, mt is the mass of the top quark t.mtttMMMThe mass of a boson; for example, MZ is the mass of the Z-boson.MZZMajorana fermionMajorana fermionMajorana fermionMajorana spinorMajorana spinorMajorana spinor
+Main articles: Majorana fermion and Majorana spinor
+A fermion or spinor with a reality condition, in spacetimes of dimension 2, 3, 4 mod 8.Main articles: Majorana fermion and Majorana spinorMajorana fermionMajorana spinorMajorana–Weyl fermionMajorana–Weyl fermionMajorana–Weyl fermionMajorana–Weyl spinorMajorana–Weyl spinorMajorana–Weyl spinor
+Main articles: Majorana–Weyl fermion and Majorana–Weyl spinor
+A half-spinor with a reality condition, in spacetimes of dimension 2 mod 8.Main articles: Majorana–Weyl fermion and Majorana–Weyl spinorMajorana–Weyl fermionMajorana–Weyl spinorMandelstam variableMandelstam variableMandelstam variable
+Main article: Mandelstam variables
+A sum or difference of two of the four incoming or outgoing momenta of a 2-particle interaction.Main article: Mandelstam variablesMandelstam variablesmatrix theorymatrix theorymatrix theoryM(atrix) theoryM(atrix) theoryM(atrix) theory
+Main article: Matrix string theory
+One of several non-perturbative formulations of string theory or M-theory using infinite matrices.Main article: Matrix string theoryMatrix string theoryM-braneM-braneM-branemembranemembranemembrane
+Main article: Membrane (M-theory)
+A higher dimensional analogue of a string.Main article: Membrane (M-theory)Membrane (M-theory)MCMCMCMonte Carlo integrationMonte Carlo integrationMCGMCGMCG
+Main article: Mapping class group
+Main article: Mapping class groupMapping class groupminimal modelminimal modelminimal modelCertain solvable conformal field theories.conformal field theoriesMirror symmetry (string theory)Mirror symmetry (string theory)Mirror symmetry (string theory)
+Main article: Mirror symmetry (string theory)
+A partly conjectural relation between a type IIA superstring theory compactified on a Calabi–Yau manifold and a type IIB superstring theory compactified on a different "mirror" Calabi–Yau manifold.Main article: Mirror symmetry (string theory)Mirror symmetry (string theory)MLLAMLLAMLLAModified leading logarithm approximation.MNSMNSMNSMaki–Nakagawa–Sakata matrix for neutrino mixingMaki–Nakagawa–Sakata matrixmonopolemonopolemonopole
+Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)
+A hypothetical particle similar to a "magnet with only one pole".Main articles: Magnetic monopole, Dirac monopole, Wu–Yang monopole, 't Hooft–Polyakov monopole, Seiberg-Witten monopole and Monopole (mathematics)Magnetic monopoleDirac monopoleWu–Yang monopole't Hooft–Polyakov monopoleSeiberg-Witten monopoleMonopole (mathematics)Montonen–Olive dualityMontonen–Olive dualityMontonen–Olive duality
+Main article: Montonen–Olive duality
+An early case of S-duality.Main article: Montonen–Olive dualityMontonen–Olive dualityS-dualityMSMSMSminimal subtraction (a renormalization scheme). MS is the modified minimal subtraction scheme.minimal subtractionMSmodified minimal subtraction schemeMSMMSMMSMAbbreviation for minimal standard model.minimal standard modelMSSMMSSMMSSMAbbreviation for minimal supersymmetric standard model.minimal supersymmetric standard modelmSUGRAmSUGRAmSUGRAMinimal model of supergravity.Minimal model of supergravityM-theoryM-theoryM-theory
+Main article: M-theory
+An 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.
+Main article: M-theoryM-theoryAn 11-dimensional theory introduced in the second string theory revolution to unify the 5 known superstring theories. The letter M has been said to stand for membrane, matrix, magic, mystery, monster, and so on.MSWMSWMSWMikheyev–Smirnov–Wolfenstein effect concerning neutrino oscillations in matter.Mikheyev–Smirnov–Wolfenstein effectmultipletmultipletmultipletA linear representation of a Lie algebra or group.A collection of elementary particles corresponding to a basis of a representation.N[edit]N[edit][edit]
+N
+1.  The number of times each irreducible real spinor representation appears in the fermionic part of a supersymmetry algebra or super Minkowski space. It is often used in the description of an extended supersymmetry algebra, as in N=2 superconformal algebra and so on.
+2.  A nucleon, a baryon with 3 light quarks and isospin 1/2 (such as a proton or neutron).
+3.  The number of some type of particle.
+Nambu–Goto action
+
+Main article: Nambu–Goto action
+An action for strings, proportional to the area of the worldsheet.
+NC
+Neutral current (weak interaction).
+Neumann
+Neumann boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero.
+neutralino
+
+Main article: Neutralino
+A hypothetical supersymmetric partner of a gauge boson with zero charge.
+Neveu
+Named for André Neveu.
+Neveu–Schwarz algebra
+
+Main article: Neveu–Schwarz algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra.
+NG
+1.  Short for Nambu–Goto, as in Nambu–Goto action.
+2.  Short for Nambu–Goldstone, as in Nambu–Goldstone boson.
+NLL
+Next to leading logarithmic (term).
+NLO
+Next to leading order (term).
+NLSP
+next-to-lightest sypersymmetric particle
+NMSSM
+Next-to-Minimal Supersymmetric Standard Model.
+NNLL
+Next to next to leading logarithmic (term).
+NNLO
+Next to next to leading order (term).
+NNNLL
+Next to next to next to leading logarithmic (term).
+no-ghost theorem
+
+Main article: No-ghost theorem
+A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem.
+NR
+Non-relativistic
+NRQCD
+Non-relativistic quantum chromodynamics
+NS
+Neveu–Schwarz, especially the Neveu–Schwarz algebra
+NS–NS
+A sector with Neveu–Schwarz conditions on left and right moving modes.
+NS–R
+A sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes.
+NUT
+The initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations.
+NNN1.  The number of times each irreducible real spinor representation appears in the fermionic part of a supersymmetry algebra or super Minkowski space. It is often used in the description of an extended supersymmetry algebra, as in N=2 superconformal algebra and so on.supersymmetry algebrasuper Minkowski spaceextended supersymmetryN=2 superconformal algebra2.  A nucleon, a baryon with 3 light quarks and isospin 1/2 (such as a proton or neutron).nucleonprotonneutron3.  The number of some type of particle.Nambu–Goto actionNambu–Goto actionNambu–Goto action
+Main article: Nambu–Goto action
+An action for strings, proportional to the area of the worldsheet.Main article: Nambu–Goto actionNambu–Goto actionNCNCNCNeutral current (weak interaction).NeumannNeumannNeumannNeumann boundary conditions on an open string say that the momentum normal to the boundary of the world-sheet is zero.Neumann boundary conditionsneutralinoneutralinoneutralino
+Main article: Neutralino
+A hypothetical supersymmetric partner of a gauge boson with zero charge.Main article: NeutralinoNeutralinogauge bosonNeveuNeveuNeveuNamed for André Neveu.André NeveuNeveu–Schwarz algebraNeveu–Schwarz algebraNeveu–Schwarz algebra
+Main article: Neveu–Schwarz algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Ramond algebra.Main article: Neveu–Schwarz algebraNeveu–Schwarz algebraVirasoro algebraRamond algebraNGNGNG1.  Short for Nambu–Goto, as in Nambu–Goto action.Nambu–Goto action2.  Short for Nambu–Goldstone, as in Nambu–Goldstone boson.Nambu–Goldstone bosonNLLNLLNLLNext to leading logarithmic (term).NLONLONLONext to leading order (term).NLSPNLSPNLSPnext-to-lightest sypersymmetric particleNMSSMNMSSMNMSSMNext-to-Minimal Supersymmetric Standard Model.Next-to-Minimal Supersymmetric Standard ModelNNLLNNLLNNLLNext to next to leading logarithmic (term).NNLONNLONNLONext to next to leading order (term).NNNLLNNNLLNNNLLNext to next to next to leading logarithmic (term).no-ghost theoremno-ghost theoremno-ghost theorem
+Main article: No-ghost theorem
+A theorem stating that some hermitian form is positive semidefinite, in other words has no ghosts (negative norm vectors). The name is a word-play on no-go theorem.Main article: No-ghost theoremNo-ghost theoremno-go theoremNRNRNRNon-relativisticNRQCDNRQCDNRQCDNon-relativistic quantum chromodynamicsNSNSNSNeveu–Schwarz, especially the Neveu–Schwarz algebraNeveu–Schwarz algebraNS–NSNS–NSNS–NSA sector with Neveu–Schwarz conditions on left and right moving modes.NS–RNS–RNS–RA sector with Neveu–Schwarz conditions on left moving modes and Ramond conditions on right moving modes.NUTNUTNUTThe initials of E. Newman, L. Tamburino, and T. Unti, mainly used in Taub–NUT vacuum, a solution to Einsteins' equations.Taub–NUT vacuumO[edit]O[edit][edit]
+O
+An orthogonal group
+OCQ
+Short for old covariant quantization
+OPAL
+The OPAL detector at LEP.
+open
+An open string is one with two ends.
+OPE
+operator product expansion
+
+Main article: Operator product expansion
+A description of short-distance singularities of fields.
+orbifold
+
+Main article: orbifold
+Something that looks locally like a manifold quotiented by the action of a finite group.
+OSp
+A Lie superalgebra.
+OOOAn orthogonal grouporthogonal groupOCQOCQOCQShort for old covariant quantizationOPALOPALOPALThe OPAL detector at LEP.OPAL detectoropenopenopenAn open string is one with two ends.OPEOPEOPEoperator product expansionoperator product expansionoperator product expansion
+Main article: Operator product expansion
+A description of short-distance singularities of fields.Main article: Operator product expansionOperator product expansionorbifoldorbifoldorbifold
+Main article: orbifold
+Something that looks locally like a manifold quotiented by the action of a finite group.Main article: orbifoldorbifoldOSpOSpOSpA Lie superalgebra.Lie superalgebraP[edit]P[edit][edit]
+p
+A momentum
+P
+1.  Parity, especially the parity symmetry.
+2.  Short for periodic, a boundary condition on strings (as opposed to A for antiperiodic).
+3.  Pseudoscalar (current)
+4.  Momentum
+5.  One of the bosonic elements of a supersymmetry algebra.
+p-brane
+A p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension.
+PCAC
+partially conserved axial vector current
+PDF
+Parton distribution function.
+PDG
+Particle Data Group.
+photino
+
+Main article: photino
+A hypothetical supersymmetric partner of the photon.
+photon
+
+Main article: photon
+The neutral spin 1 gauge boson of the electromagnetic field.
+PMNS
+Pontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixing
+Polyakov action
+
+Main article: Polyakov action
+A modification of the Nambu–Goto action for strings that eliminates the square root.
+PQ
+Peccei–Quinn, as in Peccei–Quinn theory.
+pQCD
+PQCD
+Perturbative quantum chromodynamics.
+prepotential
+A function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory.
+primary field
+A field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector.
+Princeton string quartet
+David Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985.
+PSL
+Projective special linear group.
+pppA momentumPPP1.  Parity, especially the parity symmetry.parity symmetry2.  Short for periodic, a boundary condition on strings (as opposed to A for antiperiodic).3.  Pseudoscalar (current)Pseudoscalar4.  Momentum5.  One of the bosonic elements of a supersymmetry algebra.supersymmetry algebrap-branep-branep-branepA p+1 dimensional membrane, where p is a non-negative integer. The dimension of membranes is often given by their space dimension, which is 1 less than their full spacetime dimension.ppPCACPCACPCACpartially conserved axial vector currentpartially conserved axial vector currentPDFPDFPDFParton distribution function.Parton distribution functionPDGPDGPDGParticle Data Group.Particle Data Groupphotinophotinophotino
+Main article: photino
+A hypothetical supersymmetric partner of the photon.Main article: photinophotinophotonphotonphoton
+Main article: photon
+The neutral spin 1 gauge boson of the electromagnetic field.Main article: photonphotonPMNSPMNSPMNSPontecorvo–Maki–Nakagawa–Sakata matrix for neutrino mixingPontecorvo–Maki–Nakagawa–Sakata matrixPolyakov actionPolyakov actionPolyakov action
+Main article: Polyakov action
+A modification of the Nambu–Goto action for strings that eliminates the square root.Main article: Polyakov actionPolyakov actionPQPQPQPeccei–Quinn, as in Peccei–Quinn theory.Peccei–Quinn theorypQCDpQCDpQCDPQCDPQCDPQCDPerturbative quantum chromodynamics.quantum chromodynamicsprepotentialprepotentialprepotentialA function used to construct the vector superfield in supersymmetric gauge theory and Seiberg–Witten theory.supersymmetric gauge theorySeiberg–Witten theoryprimary fieldprimary fieldprimary fieldA field killed by the positive weight operators of the Virasoro algebra (or similar algebra); in other words, a lowest weight vector.Princeton string quartetPrinceton string quartetPrinceton string quartetDavid Gross, Jeffrey Harvey, Emil Martinec, and Ryan Rohm, who introduced the heterotic string in 1985.David GrossJeffrey HarveyEmil MartinecRyan Rohmheterotic stringPSLPSLPSLProjective special linear group.Projective special linear groupQ[edit]Q[edit][edit]
+q
+A quark.
+Q
+1.  The BRST operator.
+2.  A charge
+3.  One of the fermionic generators of a supersymmetry algebra.
+quark
+
+Main article: quark
+A strongly interacting elementary particle of spin 1/2.
+QCD
+
+Main article: Quantum chromodynamics
+
+QED
+
+Main article: Quantum electrodynamics
+
+qqqA quark.quarkQQQ1.  The BRST operator.BRST operator2.  A charge3.  One of the fermionic generators of a supersymmetry algebra.supersymmetry algebraquarkquarkquark
+Main article: quark
+A strongly interacting elementary particle of spin 1/2.Main article: quarkquarkQCDQCDQCD
+Main article: Quantum chromodynamics
+Main article: Quantum chromodynamicsQuantum chromodynamicsQEDQEDQED
+Main article: Quantum electrodynamics
+Main article: Quantum electrodynamicsQuantum electrodynamicsR[edit]R[edit][edit]
+R
+1.  Short for Ramond, as in Ramond sector.
+2.   A curvature tensor
+Main articles: Scalar curvature, Ricci curvature and Riemann curvature
+
+3.  An abbreviation for right (moving modes).
+4.  A radius
+5.  R-symmetry is a symmetry of extended supersymmetry algebras.
+Ramond
+Named for Pierre Ramond.
+Ramond algebra
+
+Main article: Ramond algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra.
+Rarita–Schwinger
+
+Main articles: Rarita–Schwinger equation and Rarita–Schwinger field
+Refers to spin 3/2 fermions.
+Regge
+1.  Physicist Tullio Regge.
+2.  Regge trajectory: the squared mass of a hadronic resonance is roughly linear in the spin, with the constant of proportionality called the Regge slope.
+revolution
+Any new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence.
+RG
+Renormalization group.
+RGE
+Renormalization group equation.
+RH
+Right-handed
+R–NS
+A sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes.
+RNS
+Ramond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet.
+R-parity
+
+Main article: R-parity
+A Z2 symmetry of supersymmetric models.
+R-R
+Short for Ramond–Ramond sector
+RRR1.  Short for Ramond, as in Ramond sector.Ramond sector2.   A curvature tensor
+Main articles: Scalar curvature, Ricci curvature and Riemann curvature
+Main articles: Scalar curvature, Ricci curvature and Riemann curvatureScalar curvatureRicci curvatureRiemann curvature3.  An abbreviation for right (moving modes).4.  A radius5.  R-symmetry is a symmetry of extended supersymmetry algebras.R-symmetryextended supersymmetryRamondRamondRamondNamed for Pierre Ramond.Pierre RamondRamond algebraRamond algebraRamond algebra
+Main article: Ramond algebra
+A supersymmetric extension of the Virasoro algebra, similar to the Neveu–Schwarz algebra.Main article: Ramond algebraRamond algebraVirasoro algebraNeveu–Schwarz algebraRarita–SchwingerRarita–SchwingerRarita–Schwinger
+Main articles: Rarita–Schwinger equation and Rarita–Schwinger field
+Refers to spin 3/2 fermions.Main articles: Rarita–Schwinger equation and Rarita–Schwinger fieldRarita–Schwinger equationRarita–Schwinger fieldReggeReggeRegge1.  Physicist Tullio Regge.Tullio Regge2.  Regge trajectory: the squared mass of a hadronic resonance is roughly linear in the spin, with the constant of proportionality called the Regge slope.Regge trajectoryRegge sloperevolutionrevolutionrevolutionAny new idea in string theory. In particular the first superstring revolution refers to the discoveries in the mid 1980s such as the cancellation of gravitational anomalies and the heterotic string, and the second superstring revolution refers to the discoveries in the mid 1990s, such as D-branes, M-theory, and matrix theory and the AdS/CFT correspondence.first superstring revolutionheterotic stringsecond superstring revolutionD-branesM-theoryAdS/CFT correspondenceRGRGRGRenormalization group.Renormalization groupRGERGERGERenormalization group equation.Renormalization groupRHRHRHRight-handedR–NSR–NSR–NSA sector with Ramond conditions on left moving modes and Neveu–Schwarz conditions on right moving modes.RNSRNSRNSRamond–Neveu–Schwarz, as in RNS formalism, a way of incorporating supersymmetry into string theory that is supersymmetric on the world sheet.RNS formalismR-parityR-parityR-parity
+Main article: R-parity
+A Z2 symmetry of supersymmetric models.Main article: R-parityR-parityZ2R-RR-RR-RShort for Ramond–Ramond sectorRamond–Ramond sectorS[edit]S[edit][edit]
+s
+1.  A strange quark.
+2.  A Mandelstam variable
+S
+1.  An action
+2.  A scattering matrix.
+3.  The transformation τ → –1/τ of the upper half plane
+4.  Scalar (current)
+5.  Short for super or supersymmetric
+S-brane
+A brane similar to a D-brane, with Dirichlet boundary conditions in the time direction.
+S-duality
+
+Main article: S-duality
+Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constant
+SBB
+Standard Big Bang model of the universe
+SCFT
+Superconformal field theory, a supersymmetric extension of conformal field theory
+Schwarz
+Named for John Henry Schwarz
+Seiberg duality
+
+Main article: Seiberg duality
+
+SGA
+Abbreviation for Spectrum-generating algebra
+short supermultiplet
+A supermultiplet (representation) related to BPS states
+sigma model
+
+Main articles: Sigma model and Non-linear sigma model
+A classical or quantum model based on the maps from a base manifold to a target manifold.
+SL
+Special linear group
+SLAC
+Stanford Linear Accelerator Center
+SLC
+Stanford Linear Collider
+slepton
+
+Main article: slepton
+Hypothetical supersymmetric partner of a lepton
+SM
+
+Main article: Standard Model
+
+sneutrino
+
+Main article: sneutrino
+Hypothetical supersymmetric partner of a neutrino
+SO
+Special orthogonal group
+Sp
+Symplectic group
+sphaleron
+
+Main article: Sphaleron
+Static solution to the electroweak field equations
+squark
+
+Main article: squark
+Supersymmetric partner of a quark.
+SSB
+Spontaneous symmetry breaking
+SSM
+Standard solar model
+stress–energy tensor
+Alternative name for the #energy–momentum tensor.
+string field theory
+
+Main article: string field theory
+
+SU
+Special unitary group
+SUGRA
+Short for supergravity
+superconformal algebra
+
+Main articles: Neveu–Schwarz algebra and Ramond algebra
+A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensions
+superfield
+
+Main article: Superfield
+A supersymmetric analogue of a quantum or classical field
+supergravity
+
+Main article: supergravity
+A supersymmetric extension of general relativity
+supermultiplet
+
+Main article: Supermultiplet
+A representation of a supersymmetry algebra
+superpotential
+
+Main article: Superpotential
+A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian.
+superspace
+
+Main article: superspace
+A supersymmetric analogue of spacetime
+superstring
+
+Main article: superstring
+A supersymmetric analogue of a string
+supersymmetry
+
+Main articles: supersymmetry and supersymmetry algebra
+A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba.
+SUSY
+An abbreviation for supersymmetry.
+SYM
+Supersymmetric Yang–Mills
+sss1.  A strange quark.strange quark2.  A Mandelstam variableMandelstam variableSSS1.  An action2.  A scattering matrix.scattering matrix3.  The transformation τ → –1/τ of the upper half plane4.  Scalar (current)5.  Short for super or supersymmetricsupersupersymmetricS-braneS-braneS-braneA brane similar to a D-brane, with Dirichlet boundary conditions in the time direction.S-dualityS-dualityS-duality
+Main article: S-duality
+Strong–weak duality, a string duality relating theories with a large coupling constant to theories with a small coupling constantMain article: S-dualityS-dualitystring dualitySBBSBBSBBStandard Big Bang model of the universeBig BangSCFTSCFTSCFTSuperconformal field theory, a supersymmetric extension of conformal field theorySuperconformal field theorySchwarzSchwarzSchwarzNamed for John Henry SchwarzJohn Henry SchwarzSeiberg dualitySeiberg dualitySeiberg duality
+Main article: Seiberg duality
+Main article: Seiberg dualitySeiberg dualitySGASGASGAAbbreviation for Spectrum-generating algebraSpectrum-generating algebrashort supermultipletshort supermultipletshort supermultipletA supermultiplet (representation) related to BPS statesBPS statessigma modelsigma modelsigma model
+Main articles: Sigma model and Non-linear sigma model
+A classical or quantum model based on the maps from a base manifold to a target manifold.Main articles: Sigma model and Non-linear sigma modelSigma modelNon-linear sigma modelSLSLSLSpecial linear groupSpecial linear groupSLACSLACSLACStanford Linear Accelerator CenterStanford Linear Accelerator CenterSLCSLCSLCStanford Linear ColliderStanford Linear Collidersleptonsleptonslepton
+Main article: slepton
+Hypothetical supersymmetric partner of a leptonMain article: sleptonsleptonSMSMSM
+Main article: Standard Model
+Main article: Standard ModelStandard Modelsneutrinosneutrinosneutrino
+Main article: sneutrino
+Hypothetical supersymmetric partner of a neutrinoMain article: sneutrinosneutrinoSOSOSOSpecial orthogonal groupSpecial orthogonal groupSpSpSpSymplectic groupSymplectic groupsphaleronsphaleronsphaleron
+Main article: Sphaleron
+Static solution to the electroweak field equationsMain article: SphaleronSphaleronsquarksquarksquark
+Main article: squark
+Supersymmetric partner of a quark.Main article: squarksquarkSSBSSBSSBSpontaneous symmetry breakingSpontaneous symmetry breakingSSMSSMSSMStandard solar modelStandard solar modelstress–energy tensorstress–energy tensorstress–energy tensorAlternative name for the #energy–momentum tensor.#energy–momentum tensorstring field theorystring field theorystring field theory
+Main article: string field theory
+Main article: string field theorystring field theorySUSUSUSpecial unitary groupSpecial unitary groupSUGRASUGRASUGRAShort for supergravitysupergravitysuperconformal algebrasuperconformal algebrasuperconformal algebra
+Main articles: Neveu–Schwarz algebra and Ramond algebra
+A supersymmetric analogue of the Virasoro algebra of conformal symmetries in 2 dimensionsMain articles: Neveu–Schwarz algebra and Ramond algebraNeveu–Schwarz algebraRamond algebrasuperfieldsuperfieldsuperfield
+Main article: Superfield
+A supersymmetric analogue of a quantum or classical fieldMain article: SuperfieldSuperfieldsupergravitysupergravitysupergravity
+Main article: supergravity
+A supersymmetric extension of general relativityMain article: supergravitysupergravitysupermultipletsupermultipletsupermultiplet
+Main article: Supermultiplet
+A representation of a supersymmetry algebraMain article: SupermultipletSupermultipletsupersymmetry algebrasuperpotentialsuperpotentialsuperpotential
+Main article: Superpotential
+A function of chiral superfield not depending on their superderivatives or spacetime derivatives, used to form a Lagrangian.Main article: SuperpotentialSuperpotentialsuperspacesuperspacesuperspace
+Main article: superspace
+A supersymmetric analogue of spacetimeMain article: superspacesuperspacesuperstringsuperstringsuperstring
+Main article: superstring
+A supersymmetric analogue of a stringMain article: superstringsuperstringsupersymmetrysupersymmetrysupersymmetry
+Main articles: supersymmetry and supersymmetry algebra
+A generalization of a Lie superalgebra, where the Lie bracket [a,b] is sometimes given by ab+ba rather than ab–ba.Main articles: supersymmetry and supersymmetry algebrasupersymmetrysupersymmetry algebraLie superalgebraababbaabbaSUSYSUSYSUSYAn abbreviation for supersymmetry.supersymmetrySYMSYMSYMSupersymmetric Yang–MillsT[edit]T[edit][edit]
+t
+1.  A top quark.
+2.  A Mandelstam variable.
+3.  Time.
+T
+1.  The energy–momentum tensor.
+2.  Time, especially the time symmetry.
+3.  The transformation τ → τ+1 of the upper half plane.
+4.  A torus.
+5.  The string tension.
+6.  Temperature.
+7.  Tensor (current)
+T-duality
+
+Main article: T-duality
+A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory.
+tachyon
+
+Main article: Tachyon
+A particle of imaginary mass moving faster than light.
+ToE
+TOE
+Theory of everything
+type I
+type II
+type IIA
+type IIB
+
+Main article: Type I string theory
+Main article: Type II string theory
+A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities.
+ttt1.  A top quark.top quark2.  A Mandelstam variable.Mandelstam variable3.  Time.TTT1.  The energy–momentum tensor.energy–momentum tensor2.  Time, especially the time symmetry.time symmetry3.  The transformation τ → τ+1 of the upper half plane.4.  A torus.5.  The string tension.6.  Temperature.7.  Tensor (current)T-dualityT-dualityT-duality
+Main article: T-duality
+A string duality relating theories on a large spacetime to theories on a small spacetime. In particular it exchanges type IIA and IIB superstring theory.Main article: T-dualityT-dualitystring dualitytachyontachyontachyon
+Main article: Tachyon
+A particle of imaginary mass moving faster than light.Main article: TachyonTachyonToEToEToETOETOETOETheory of everythingTheory of everythingtype Itype Itype Itype IItype IItype IItype IIAtype IIAtype IIAtype IIBtype IIBtype IIB
+Main article: Type I string theory
+Main article: Type II string theory
+A type of superstring or the corresponding low-energy supergravity theory. The Roman numeral I or II refers to the number of d=10 supersymmetries, and types IIA or IIB are distinguished by whether the supersymmetries of left and right movers have opposite or identical chiralities.Main article: Type I string theoryType I string theoryMain article: Type II string theoryType II string theorydU[edit]U[edit][edit]
+u
+1.  An up quark.
+2.  A Mandelstam variable.
+U
+A unitary group.
+U-duality
+
+Main article: U-duality
+Short for "unified duality". A string duality relating two different string theories.
+UED
+Universal extra dimensions
+UV
+Short for ultra-violet, often referring to short-distance singularities.
+uuu1.  An up quark.up quark2.  A Mandelstam variable.Mandelstam variableUUUA unitary group.unitary groupU-dualityU-dualityU-duality
+Main article: U-duality
+Short for "unified duality". A string duality relating two different string theories.Main article: U-dualityU-dualitystring dualityUEDUEDUEDUniversal extra dimensionsUVUVUVShort for ultra-violet, often referring to short-distance singularities.V[edit]V[edit][edit]
+V
+1.  A vertex operator.
+2.  Vector (current)
+V-A
+Vector-Axial vector
+vector superfield
+A type of superfield related to vector supermultiplets.
+VEV
+Vacuum expectation value of an operator.
+vielbein
+A frame
+vierbein
+A frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that "vier" means four in German.
+Veneziano amplitude
+
+Main article: Veneziano amplitude
+The Euler beta function interpreted as a scattering amplitude.
+vertex operator
+
+Main article: vertex operator
+
+Virasoro algebra
+
+Main article: Virasoro algebra
+A central extension of the Witt algebra of polynomial vector fields on a circle.
+VVV1.  A vertex operator.vertex operator2.  Vector (current)V-AV-AV-AVector-Axial vectorvector superfieldvector superfieldvector superfieldA type of superfield related to vector supermultiplets.superfieldvector supermultipletsVEVVEVVEVVacuum expectation value of an operator.Vacuum expectation valuevielbeinvielbeinvielbeinA framevierbeinvierbeinvierbeinA frame in 4 dimensions. Sometimes used for a frame in an arbitrary number of dimension by authors who do not care that "vier" means four in German.Veneziano amplitudeVeneziano amplitudeVeneziano amplitude
+Main article: Veneziano amplitude
+The Euler beta function interpreted as a scattering amplitude.Main article: Veneziano amplitudeVeneziano amplitudeEuler beta functionvertex operatorvertex operatorvertex operator
+Main article: vertex operator
+Main article: vertex operatorvertex operatorVirasoro algebraVirasoro algebraVirasoro algebra
+Main article: Virasoro algebra
+A central extension of the Witt algebra of polynomial vector fields on a circle.Main article: Virasoro algebraVirasoro algebraWitt algebraW[edit]W[edit][edit]
+w
+A complex number
+W
+A W-boson
+W-algebra
+
+Main article: W-algebra
+A sort of generalization of the Virasoro algebra
+Weyl
+1.  Named after Hermann Weyl
+2.  A Weyl transformation is a rescaling of the world-sheet metric.
+3.  Weyl spinor, an element of a half-spin representation in even spacetime dimensions.
+WIMP
+Weakly interacting massive particle
+wino
+
+Main article: wino (particle)
+A hypothetical supersymmetric partner of the W-boson.
+Witten
+Named for Edward Witten.
+WMAP
+Wilkinson Microwave Anisotropy Probe
+world sheet
+The 2-dimensional subset of spacetime swept out by a moving string.
+world-volume
+The p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action.
+WZNW
+WZW
+Initials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space.
+wwwA complex numberWWWA W-bosonW-bosonW-algebraW-algebraW-algebra
+Main article: W-algebra
+A sort of generalization of the Virasoro algebraMain article: W-algebraW-algebraWeylWeylWeyl1.  Named after Hermann WeylHermann Weyl2.  A Weyl transformation is a rescaling of the world-sheet metric.Weyl transformation3.  Weyl spinor, an element of a half-spin representation in even spacetime dimensions.Weyl spinorWIMPWIMPWIMPWeakly interacting massive particleWeakly interacting massive particlewinowinowino
+Main article: wino (particle)
+A hypothetical supersymmetric partner of the W-boson.Main article: wino (particle)wino (particle)W-bosonWittenWittenWittenNamed for Edward Witten.Edward WittenWMAPWMAPWMAPWilkinson Microwave Anisotropy ProbeWilkinson Microwave Anisotropy Probeworld sheetworld sheetworld sheetThe 2-dimensional subset of spacetime swept out by a moving string.world-volumeworld-volumeworld-volumeThe p+1-dimensional spacetime volume swept out by a p-brane, as in world-volume action.ppWZNWWZNWWZNWWZWWZWWZWInitials of Wess, Zumino, (Novikov), and Witten, as in the WZW model, a σ-model with a group as the target space.WZW modelXYZ[edit]XYZ[edit][edit]
+x
+A real number
+X
+Used for coordinates in Minkowski space.
+y
+A real number
+YBE
+Yang–Baxter equation
+YM
+Yang–Mills
+z
+A complex number
+Z
+1.  A partition function
+2.  The Z boson.
+An element of the center of an extended supersymmetry algebra.
+ZEUS
+
+Main article: ZEUS (particle detector)
+
+zino
+
+Main article: gaugino
+A hypothetical supersymmetric partner of the Z-boson.
+zweibein
+A frame in 2 dimensions
+xxxA real numberXXXUsed for coordinates in Minkowski space.yyyA real numberYBEYBEYBEYang–Baxter equationYang–Baxter equationYMYMYMYang–MillsYang–MillszzzA complex numberZZZ1.  A partition function2.  The Z boson.Z bosonAn element of the center of an extended supersymmetry algebra.extended supersymmetry algebraZEUSZEUSZEUS
+Main article: ZEUS (particle detector)
+Main article: ZEUS (particle detector)ZEUS (particle detector)zinozinozino
+Main article: gaugino
+A hypothetical supersymmetric partner of the Z-boson.Main article: gauginogauginozweibeinzweibeinzweibeinA frame in 2 dimensionsSee also[edit]See also[edit][edit]
+List of string theory topics
+List of string theory topicsList of string theory topicsReferences[edit]References[edit][edit]
+Becker, Katrin, Becker, Melanie, and John H. Schwarz (2007) String Theory and M-Theory: A Modern Introduction . Cambridge University Press. ISBN 0-521-86069-5
+Binétruy, Pierre (2007) Supersymmetry: Theory, Experiment, and Cosmology. Oxford University Press. ISBN 978-0-19-850954-7.
+Dine, Michael (2007) Supersymmetry and String Theory: Beyond the Standard Model. Cambridge University Press. ISBN 0-521-85841-0.
+Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6. 
+Michael Green, John H. Schwarz and Edward Witten (1987) Superstring theory. Cambridge University Press. The original textbook.
+
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+
+
+Kiritsis, Elias (2007) String Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-12230-4.
+Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6. 
+Polchinski, Joseph (1998) String Theory. Cambridge University Press.
+
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+
+
+Szabo, Richard J. (Reprinted 2007) An Introduction to String Theory and D-brane Dynamics. Imperial College Press. ISBN 978-1-86094-427-7.
+Zwiebach, Barton (2004) A First Course in String Theory. Cambridge University Press. ISBN 0-521-83143-1. Contact author for errata.
+Becker, Katrin, Becker, Melanie, and John H. Schwarz (2007) String Theory and M-Theory: A Modern Introduction . Cambridge University Press. ISBN 0-521-86069-5John H. SchwarzString Theory and M-Theory: A Modern IntroductionISBN 0-521-86069-5Binétruy, Pierre (2007) Supersymmetry: Theory, Experiment, and Cosmology. Oxford University Press. ISBN 978-0-19-850954-7.Supersymmetry: Theory, Experiment, and CosmologyISBN 978-0-19-850954-7Dine, Michael (2007) Supersymmetry and String Theory: Beyond the Standard Model. Cambridge University Press. ISBN 0-521-85841-0.Supersymmetry and String Theory: Beyond the Standard ModelISBN 0-521-85841-0Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6. Paul H. Frampton (1974). Dual Resonance Models. Frontiers in Physics. ISBN 0-8053-2581-6.Paul H. FramptonDual Resonance ModelsISBN0-8053-2581-6  Michael Green, John H. Schwarz and Edward Witten (1987) Superstring theory. Cambridge University Press. The original textbook.
+
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+
+Michael GreenJohn H. SchwarzEdward WittenSuperstring theory
+Vol. 1: Introduction. ISBN 0-521-35752-7.
+Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.
+Vol. 1: Introduction. ISBN 0-521-35752-7.Vol. 1: IntroductionISBN 0-521-35752-7Vol. 2: Loop amplitudes, anomalies and phenomenology. ISBN 0-521-35753-5.Vol. 2: Loop amplitudes, anomalies and phenomenologyISBN 0-521-35753-5Kiritsis, Elias (2007) String Theory in a Nutshell. Princeton University Press. ISBN 978-0-691-12230-4.String Theory in a NutshellISBN 978-0-691-12230-4Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6. Johnson, Clifford (2003). D-branes. Cambridge: Cambridge University Press. ISBN 0-521-80912-6.D-branesISBN0-521-80912-6  Polchinski, Joseph (1998) String Theory. Cambridge University Press.
+
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+
+Polchinski, JosephString Theory
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.
+Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.
+Vol. 1: An introduction to the bosonic string. ISBN 0-521-63303-6.Vol. 1: An introduction to the bosonic stringISBN 0-521-63303-6Vol. 2: Superstring theory and beyond. ISBN 0-521-63304-4.Vol. 2: Superstring theory and beyondISBN 0-521-63304-4Szabo, Richard J. (Reprinted 2007) An Introduction to String Theory and D-brane Dynamics. Imperial College Press. ISBN 978-1-86094-427-7.An Introduction to String Theory and D-brane DynamicsISBN 978-1-86094-427-7Zwiebach, Barton (2004) A First Course in String Theory. Cambridge University Press. ISBN 0-521-83143-1. Contact author for errata.Zwiebach, BartonA First Course in String TheoryISBN 0-521-83143-1External links[edit]External links[edit][edit]
+Particle physics glossary at interactions.org
+Particle physics glossary at interactions.orgParticle physics glossary at interactions.org
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Glossary_of_string_theory&oldid=680223137"					https://en.wikipedia.org/w/index.php?title=Glossary_of_string_theory&oldid=680223137Categories: String theoryGlossaries of mathematicsGlossaries of scienceCategories: String theoryGlossaries of mathematicsGlossaries of scienceCategoriesString theoryGlossaries of mathematicsGlossaries of scienceString theoryString theoryGlossaries of mathematicsGlossaries of mathematicsGlossaries of scienceGlossaries of science
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+ 
+Add links 
+
+
+Navigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Namespaces
+
+Article
+Talk
+
+Namespaces
+Article
+Talk
+ArticleArticleArticleTalkTalkTalk
+
+Variants
+
+
+
+
+
+
+Variants
+Variants
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+Read
+Edit
+View history
+
+Views
+Read
+Edit
+View history
+ReadReadReadEditEditEditView historyView historyView history
+More
+
+
+
+
+MoreMore
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+ 
+Add links 
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable version
+Languages
+
+
+ 
+Add links 
+Languages
+
+ 
+Add links 
+ Add linksAdd linksAdd links
+
+ This page was last modified on 9 September 2015, at 14:06.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last modified on 9 September 2015, at 14:06.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last modified on 9 September 2015, at 14:06.Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ 
