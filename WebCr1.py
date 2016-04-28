@@ -1,5 +1,5 @@
-import index  # index.py
-import RIW  # RIW.py
+import index  	# index.py
+import RIW  	# RIW.py
 import sys
 import os
 
@@ -43,7 +43,7 @@ def main(argv):  # {
 			q.push(argv)
 	else:
 		q.push("https://en.wikipedia.org/wiki/String_theory")
-		q.push("http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array")
+		# q.push("http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array")
 
 	while len(storedPages) < 100 and not q.isEmpty():  # {
 		url = q.pop()
@@ -64,7 +64,7 @@ def main(argv):  # {
 			continue
 
 		try:
-			page = RIW.main(url)[0]
+			page = RIW.main(url)[0] 	# get an parse the page with own module "./RIW.py"
 		except:
 			e = sys.exc_info()
 			type = e[0]
@@ -115,7 +115,7 @@ def main(argv):  # {
 	# } while not empty or 100
 
 	# call index.py to index stored pages "./storage"
-	index.main(pathToStore)
+	index.main(pathToStore) 							# index.py for downloaded content to be searchable
 # } main
 
 
