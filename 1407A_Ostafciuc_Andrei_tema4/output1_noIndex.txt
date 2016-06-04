@@ -1,0 +1,305 @@
+page : http://edition.cnn.com/2016/06/03/us/muhammad-ali/index.html
+
+1
+page : http://edition.cnn.com/
+
+2
+page : http://edition.cnn.com/regions
+
+3
+page : http://edition.cnn.com/us
+
+4
+page : http://edition.cnn.com/africa
+
+5
+page : http://edition.cnn.com/americas
+
+6
+page : http://edition.cnn.com/asia
+
+7
+page : http://edition.cnn.com/china
+
+8
+page : http://edition.cnn.com/europe
+
+9
+page : http://edition.cnn.com/middle-east
+
+10
+page : http://edition.cnn.com/opinions
+
+11
+page : http://edition.cnn.com/politics
+
+12
+page : http://edition.cnn.com/entertainment
+
+13
+page : http://edition.cnn.com/tech
+
+14
+page : http://edition.cnn.com/sport
+
+15
+page : http://edition.cnn.com/travel
+
+16
+page : http://edition.cnn.com/style
+
+17
+page : http://edition.cnn.com/specials
+
+18
+page : http://edition.cnn.com/videos
+
+19
+page : http://edition.cnn.com/election
+
+20
+page : http://edition.cnn.com/specials/politics/2016-election
+
+21
+page : http://edition.cnn.com/specials/politics/national-politics
+
+22
+page : http://edition.cnn.com/specials/politics/world-politics
+
+23
+page : http://edition.cnn.com/specials/politics/politics-our-team
+
+24
+page : http://money.cnn.com/news/
+
+25
+page : http://money.cnn.com/data/markets/
+
+26
+page : http://money.cnn.com/technology/
+
+27
+page : http://money.cnn.com/luxury/
+
+28
+page : http://edition.cnn.com/specials/showbiz/celebrity-watch
+
+29
+page : http://edition.cnn.com/specials/showbiz/tv-web
+
+30
+page : http://edition.cnn.com/specials/showbiz/movies-music
+
+31
+page : http://edition.cnn.com/specials/tech/consumer-tech
+
+32
+page : http://edition.cnn.com/specials/tech/cybersecurity
+
+33
+page : http://edition.cnn.com/specials/health/vital-signs
+
+34
+page : http://edition.cnn.com/sport/football
+
+35
+page : http://edition.cnn.com/sport/golf
+
+36
+page : http://edition.cnn.com/sport/tennis
+
+37
+page : http://edition.cnn.com/sport/motorsport
+
+38
+page : http://edition.cnn.com/sport/horse-racing
+
+39
+page : http://edition.cnn.com/sport/equestrian
+
+40
+page : http://edition.cnn.com/sport/sailing
+
+41
+page : http://edition.cnn.com/travel/aviation
+
+42
+page : http://edition.cnn.com/specials/travel/business-traveller
+
+43
+page : http://edition.cnn.com/travel/destinations
+
+44
+page : http://edition.cnn.com/specials/travel
+
+45
+page : http://edition.cnn.com/travel/food-and-drink
+
+46
+page : http://edition.cnn.com/travel/hotels
+
+47
+page : http://www.cnnpartners.com/
+
+48
+page : http://edition.cnn.com/style/fashion
+
+49
+page : http://edition.cnn.com/style/design
+
+50
+page : http://edition.cnn.com/style/architecture
+
+51
+page : http://edition.cnn.com/style/arts
+
+52
+page : http://edition.cnn.com/style/autos
+
+53
+page : http://edition.cnn.com/style/luxury
+
+54
+page : http://edition.cnn.com/specials/travel/journeys
+
+55
+page : http://edition.cnn.com/specials/world/freedom-project
+
+56
+page : http://edition.cnn.com/specials/impact-your-world
+
+57
+page : http://edition.cnn.com/specials/africa/inside-africa
+
+58
+page : http://edition.cnn.com/specials/asia/the-silk-road
+
+59
+page : http://edition.cnn.com/specials/opinions/two-degrees
+
+60
+page : http://edition.cnn.com/specials/latest-news-videos
+
+61
+page : http://edition.cnn.com/specials/international-video-landing/feature-show-videos
+
+62
+page : http://edition.cnn.com/tv/shows
+
+63
+page : http://edition.cnn.com/tv/schedule/europe
+
+64
+page : http://edition.cnn.com/specials/tv/anchors-and-reporters
+
+65
+page : http://edition.cnn.com/more
+
+66
+page : http://edition.cnn.com/weather
+
+67
+page : http://edition.cnn.com/specials/cnn-heroes
+
+68
+page : http://edition.cnn.com/specials/profiles
+
+69
+page : http://edition.cnn.com/specials/more/cnn-leadership
+
+70
+page : http://cnnpressroom.blogs.cnn.com/
+
+71
+page : http://edition.cnn.com/specials/world/specials-page-cnn-partners
+
+72
+page : http://edition.cnn.com/specials/opinions/cnnireport
+
+73
+page : https://www.facebook.com/cnninternational
+
+74
+page : https://twitter.com/cnni
+
+75
+page : http://instagram.com/cnn
+
+76
+page : http://edition.cnn.com/profiles/joe-sutton
+
+77
+page : http://edition.cnn.com/javascript:void(0);
+
+<class 'urllib.error.HTTPError'>
+HTTP Error 404: Not Found
+page : http://edition.cnn.com/videos/us/2016/06/04/muhammad-ali-obit-short-pkg.cnn/video/playlists/muhammad-ali/
+
+78
+page : http://edition.cnn.com/videos/us/2014/10/29/muhammad-ali-will-they-remember-me-maryum-ali-ts-orig-jason-carroll.cnn/video/playlists/muhammad-ali/
+
+79
+page : http://edition.cnn.com/videos/sports/2014/10/15/muhammad-ali-trash-talking-moments-orig-mg.cnn/video/playlists/muhammad-ali/
+
+80
+page : http://edition.cnn.com/videos/sports/2016/06/04/muhammad-ali-dies-don-king-bpt.cnn/video/playlists/muhammad-ali/
+
+81
+page : http://edition.cnn.com/videos/tv/2016/06/04/muhammad-ali-personal-memories-pamela-brown-intv-newday.cnn/video/playlists/muhammad-ali/
+
+82
+page : http://edition.cnn.com/videos/sports/2016/06/04/muhammad-ali-olympics-brennan-intv-newday.cnn/video/playlists/muhammad-ali/
+
+83
+page : http://edition.cnn.com/videos/tv/2016/06/04/muhammad-ali-social-media-wire-newday.cnn/video/playlists/muhammad-ali/
+
+84
+page : http://edition.cnn.com/videos/tv/2016/06/04/muhammad-ali-dies-izenberg-bpr.cnn/video/playlists/muhammad-ali/
+
+85
+page : http://edition.cnn.com/videos/world/2014/10/30/pkg-amanpour-holmes-rumble-in-the-jungle-iaw.cnn/video/playlists/muhammad-ali/
+
+86
+page : http://edition.cnn.com/videos/us/2016/06/04/muhammad-ali-dies-brennan-beeper.cnn/video/playlists/muhammad-ali/
+
+87
+page : http://edition.cnn.com/videos/tv/2016/06/04/bayonne-bleeder-on-his-fight-with-muhammad-ali.cnn/video/playlists/muhammad-ali/
+
+88
+page : http://edition.cnn.com/videos/us/2013/10/04/mxp-vo-muhammad-ali-gala-appearance.hln/video/playlists/muhammad-ali/
+
+89
+page : http://edition.cnn.com/videos/bestoftv/2014/02/26/ali-liston-fight-fbi-brown-newday.cnn-ap/video/playlists/muhammad-ali/
+
+90
+page : http://edition.cnn.com/videos/sports/2014/02/26/ath-bts-king-ali-liston-fight-not-rigged.cnn/video/playlists/muhammad-ali/
+
+91
+page : http://edition.cnn.com/videos/international/2013/04/26/talk-asia-george-foreman-muhammad-ali.cnn/video/playlists/muhammad-ali/
+
+92
+page : http://edition.cnn.com/videos/sports/2013/04/10/sot-laila-ali-athletes-role-model.cnn/video/playlists/muhammad-ali/
+
+93
+page : http://edition.cnn.com/videos/sports/2012/01/16/thomas-dixon-ali.cnn/video/playlists/muhammad-ali/
+
+94
+page : http://www.cnn.com/2016/06/04/health/parkinsons-disease-explainer/index.html
+
+95
+page : https://twitter.com/Hanayali/status/738988461189828608
+
+96
+page : http://www.cnn.com/2016/06/04/world/muhammad-ali-obituary/index.html
+
+97
+page : https://t.co/Jr5HcJRmeA
+
+98
+page : https://twitter.com/MuhammadAli/status/738953942634233856
+
+99
+page : http://www.cnn.com/2016/06/02/sport/muhammad-ali-three-days/index.html
+
+100
+[Finished in 58.3s]

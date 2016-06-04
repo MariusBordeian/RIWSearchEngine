@@ -1,0 +1,352 @@
+CNN Style - Fashion, design, art, architecture and luxury - CNN.comBreaking NewsBreaking NewsBreaking NewsBreaking NewsBreaking NewsSearchSearchFashionDesignArchitectureArtsAutosLuxurySearchSearchFashionDesignArchitectureArtsAutosLuxurySearchSearchSearchSearchSearchSearchSearchSearchFashionDesignArchitectureArtsAutosLuxurySearchSearchSearchSearchSearchFashionDesignArchitectureArtsAutosLuxuryFashionFashionDesignDesignArchitectureArchitectureArtsArtsAutosAutosLuxuryLuxuryStyleNew episode of CNN Style TV: Inside Rome, the Eternal CityfashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycearchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalfashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the muse Style at the French Open: A series celebrating the intersection between tennis and fashionvideo5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  autosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingarchitectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrushartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolfashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.StyleStyleStyleNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityNew episode of CNN Style TV: Inside Rome, the Eternal CityfashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycearchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalfashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the musefashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycearchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalfashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the musefashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycearchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalfashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the musefashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycefashionCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoycefashionCNN Style TV: Valentino brings fashion to the operafashionCNN Style TV: Valentino brings fashion to the operafashionCNN Style TV: Valentino brings fashion to the operafashionCNN Style TV: Valentino brings fashion to the operafashionfashionCNN Style TV: Valentino brings fashion to the operaCNN Style TV: Valentino brings fashion to the operaCNN Style TV: Valentino brings fashion to the operaautosThe fashion maven behind the world's most beautiful Rolls-RoyceautosThe fashion maven behind the world's most beautiful Rolls-RoyceautosThe fashion maven behind the world's most beautiful Rolls-RoyceautosThe fashion maven behind the world's most beautiful Rolls-RoyceautosautosThe fashion maven behind the world's most beautiful Rolls-RoyceThe fashion maven behind the world's most beautiful Rolls-RoyceThe fashion maven behind the world's most beautiful Rolls-RoycearchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalarchitectureWhat is architecture actually for? fashionNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalarchitectureWhat is architecture actually for? architectureWhat is architecture actually for? architectureWhat is architecture actually for? architectureWhat is architecture actually for? architecturearchitectureWhat is architecture actually for? What is architecture actually for? What is architecture actually for? fashionNaomi Campbell: 30 years of stardomfashionNaomi Campbell: 30 years of stardomfashionNaomi Campbell: 30 years of stardomfashionNaomi Campbell: 30 years of stardomfashionfashionNaomi Campbell: 30 years of stardomNaomi Campbell: 30 years of stardomNaomi Campbell: 30 years of stardomartsThe ancient art of kung fu goes digitalartsThe ancient art of kung fu goes digitalartsThe ancient art of kung fu goes digitalartsThe ancient art of kung fu goes digitalartsartsThe ancient art of kung fu goes digitalThe ancient art of kung fu goes digitalThe ancient art of kung fu goes digitalfashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the musefashionStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsMickalene Thomas on the power of the musefashionStyle secrets from Arantxa Sanchez VicariofashionStyle secrets from Arantxa Sanchez VicariofashionStyle secrets from Arantxa Sanchez VicariofashionStyle secrets from Arantxa Sanchez VicariofashionfashionStyle secrets from Arantxa Sanchez VicarioStyle secrets from Arantxa Sanchez VicarioStyle secrets from Arantxa Sanchez VicarioartsImpossible worlds caught on cameraartsImpossible worlds caught on cameraartsImpossible worlds caught on cameraartsImpossible worlds caught on cameraartsartsImpossible worlds caught on cameraImpossible worlds caught on cameraImpossible worlds caught on cameraartsMickalene Thomas on the power of the museartsMickalene Thomas on the power of the museartsMickalene Thomas on the power of the museartsMickalene Thomas on the power of the museartsartsMickalene Thomas on the power of the museMickalene Thomas on the power of the museMickalene Thomas on the power of the muse Style at the French Open: A series celebrating the intersection between tennis and fashion Style at the French Open: A series celebrating the intersection between tennis and fashion   Style at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionStyle at the French Open: A series celebrating the intersection between tennis and fashionvideo5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  autosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingvideo5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  autosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingvideo5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  autosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingvideo5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  video5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  video5 surprise gems from the Venice Architecture Biennalevideo5 surprise gems from the Venice Architecture Biennalevideo5 surprise gems from the Venice Architecture Biennalevideo5 surprise gems from the Venice Architecture Biennalevideo5 surprise gems from the Venice Architecture Biennale5 surprise gems from the Venice Architecture Biennale5 surprise gems from the Venice Architecture BiennaleThe Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  The Invitation: A series exploring experiences money can't buy  autosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KautosA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KautosA 'car-eating' transformer to ease trafficautosA 'car-eating' transformer to ease trafficautosA 'car-eating' transformer to ease trafficautosA 'car-eating' transformer to ease trafficautosautosA 'car-eating' transformer to ease trafficA 'car-eating' transformer to ease trafficA 'car-eating' transformer to ease trafficartsChurch converted into psychedelic light showartsChurch converted into psychedelic light showartsChurch converted into psychedelic light showartsChurch converted into psychedelic light showartsartsChurch converted into psychedelic light showChurch converted into psychedelic light showChurch converted into psychedelic light showluxuryDiamond Birkin sells for $300KluxuryDiamond Birkin sells for $300KluxuryDiamond Birkin sells for $300KluxuryDiamond Birkin sells for $300KluxuryluxuryDiamond Birkin sells for $300KDiamond Birkin sells for $300KDiamond Birkin sells for $300KartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingartsThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingartsThe psychedelic world of Yayoi KusamaartsThe psychedelic world of Yayoi KusamaartsThe psychedelic world of Yayoi KusamaartsThe psychedelic world of Yayoi KusamaartsartsThe psychedelic world of Yayoi KusamaThe psychedelic world of Yayoi KusamaThe psychedelic world of Yayoi KusamafashionThe most exotic fashion shows ever stagedfashionThe most exotic fashion shows ever stagedfashionThe most exotic fashion shows ever stagedfashionThe most exotic fashion shows ever stagedfashionfashionThe most exotic fashion shows ever stagedThe most exotic fashion shows ever stagedThe most exotic fashion shows ever stagedarchitectureNASA's retro guide to future livingarchitectureNASA's retro guide to future livingarchitectureNASA's retro guide to future livingarchitectureNASA's retro guide to future livingarchitecturearchitectureNASA's retro guide to future livingNASA's retro guide to future livingNASA's retro guide to future livingarchitectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrushartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolfashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+architectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrushartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolfashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+architectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrushartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolfashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+architectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrusharchitectureBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrusharchitectureBrutalism: Cool to crude and back againarchitectureBrutalism: Cool to crude and back againarchitectureBrutalism: Cool to crude and back againarchitectureBrutalism: Cool to crude and back againarchitecturearchitectureBrutalism: Cool to crude and back againBrutalism: Cool to crude and back againBrutalism: Cool to crude and back againartsGoogle's virtual reality Tilt BrushartsGoogle's virtual reality Tilt BrushartsGoogle's virtual reality Tilt BrushartsGoogle's virtual reality Tilt BrushartsartsGoogle's virtual reality Tilt BrushGoogle's virtual reality Tilt BrushGoogle's virtual reality Tilt BrushartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolartsArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolartsArtist JR hides the Louvre in plain sightartsArtist JR hides the Louvre in plain sightartsArtist JR hides the Louvre in plain sightartsArtist JR hides the Louvre in plain sightartsartsArtist JR hides the Louvre in plain sightArtist JR hides the Louvre in plain sightArtist JR hides the Louvre in plain sightartsNot Vital takes root in BritainartsNot Vital takes root in BritainartsNot Vital takes root in BritainartsNot Vital takes root in BritainartsartsNot Vital takes root in BritainNot Vital takes root in BritainNot Vital takes root in BritainarchitectureAustralia's 'national love affair' with the poolarchitectureAustralia's 'national love affair' with the poolarchitectureAustralia's 'national love affair' with the poolarchitectureAustralia's 'national love affair' with the poolarchitecturearchitectureAustralia's 'national love affair' with the poolAustralia's 'national love affair' with the poolAustralia's 'national love affair' with the poolfashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+fashionCelebrating true Parisian styleartsSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+fashionCelebrating true Parisian stylefashionCelebrating true Parisian stylefashionCelebrating true Parisian stylefashionCelebrating true Parisian stylefashionfashionCelebrating true Parisian styleCelebrating true Parisian styleCelebrating true Parisian styleartsSurreal photography minus PhotoshopartsSurreal photography minus PhotoshopartsSurreal photography minus PhotoshopartsSurreal photography minus PhotoshopartsartsSurreal photography minus PhotoshopSurreal photography minus PhotoshopSurreal photography minus Photoshop
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+
+    #livefyre-app-custom-1430910737076 .hub-list-more,
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container { display: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; transition: none; }
+    #livefyre-app-custom-1430910737076 .hub-list .hub-content-container:first-child { display: block !important; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content,
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { border-radius: 0; }
+    #livefyre-app-custom-1430910737076 .hub-list article.content { background-color: #1a1a1a; border: none; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-avatar img { box-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { text-shadow: none; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at,
+    #livefyre-app-custom-1430910737076 .content-default .content-created-at a,
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-username a,
+    #livefyre-app-custom-1430910737076 .content p { color: #fff; }
+    #livefyre-app-custom-1430910737076 .content-default .content-header .content-author-name a,
+    #livefyre-app-custom-1430910737076 .content-default .content-body-main a { color: #8c8c8c; }
+    #livefyre-app-custom-1430910737076 .content p { font-family: CNN, "Helvetica Neue", Helvetica, Arial, Utkal, sans-serif; font-size: 20px; line-height: 1.3; }
+    #livefyre-app-custom-1430910737076 .content .content-created-at { margin: 5px 0 0; }
+    #livefyre-app-custom-1430910737076 .content .content-header .content-header-inner { padding: 10px 10px 0; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom { bottom: 30px; left: 0 !important; top: auto !important; }
+    #livefyre-app-custom-1430910737076 .lf-share-popover.lf-pos-bottom .lf-popover-arrow { border-top-color: #fff; border-bottom-width: 0; border-top-width: 6px; bottom: -6px; left: 40px !important; top: auto; }
+
+
+
+   Livefyre.require(['streamhub-feed#3.0.1', 'streamhub-sdk#2.16.0'], function(Feed, SDK) {
+        var tile = new SDK.ContentListView({
+            el: document.getElementById('livefyre-app-custom-1430910737076'),
+            initial: 1
+        });
+        var collection = new SDK.Collection({
+            network: 'cnn.fyre.co',
+            siteId: '374065',
+            articleId: 'custom-1430910737076'
+        });
+        collection.pipe(tile);
+    });
+
+
+artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. artsartsThe rebirth of the tintype photoThe rebirth of the tintype photoThe rebirth of the tintype photoby Lily Silverton, for CNNThis week artist duo Walter & Zoniel made photographic art history at Photo London 2016 by creating the world's largest Tintype. Photo London 2016artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.artsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.artsartsFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverFrank Gehry's Fondation Louis Vuitton gets a technicolor makeoverBy Tomo Taka, The SpacesFrench artist Daniel Buren has turned the Fondation Louis Vuitton into a giant kaleidoscope for his latest installation, Observatory of Light.Daniel BurenFondation Louis VuittonObservatory of LightstyleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.styleBruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.stylestyleBruce Davidson, 'an outsider on the inside'Bruce Davidson, 'an outsider on the inside'Bruce Davidson, 'an outsider on the inside'By Allison Love, CNNA new book looks at the work of acclaimed photographer Bruce Davidson. His subjects include 1950s New York and the American civil rights movement.architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. architectureThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. architecturearchitectureThis house being built into a cliffThis house being built into a cliffThis house being built into a cliffBy Tomo Taka, The SpacesDutch practice OPA has designed a home wedged in a mountaintop, topped by an infinity pool that doubles as a skylight for the underground lair. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. designInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. designdesignInside Helsinki's latest landmarkInside Helsinki's latest landmarkInside Helsinki's latest landmarkBy Allyssia Alleyne, CNNFinland debuts a cultural experiment eight years in the making as the Helsinki City Museum reopens in the capital's historic quarter. Helsinki City MuseumfashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.fashionHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.fashionfashionHow tennis style found its formHow tennis style found its formHow tennis style found its formBy Angelica Pursley and Holly Vear, for CNNFrom long hemlines in the Edwardian era to present day functionality and fearlessness, tennis style has come a long way. We chart fashion's long-standing role in the sport, via some of the most stylish milestones.AboutTerms of UsePrivacy PolicyAdChoices© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.AboutTerms of UsePrivacy PolicyAdChoices© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.AboutTerms of UsePrivacy PolicyAdChoices© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.AboutAboutAboutAboutAboutAboutTerms of UsePrivacy PolicyAdChoices© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.Terms of UsePrivacy PolicyAdChoicesTerms of UsePrivacy PolicyAdChoicesTerms of UseTerms of UsePrivacy PolicyPrivacy PolicyAdChoicesAdChoices© 2016 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.Turner Broadcasting System, Inc.

@@ -1,7 +1,7 @@
-import index  	# index.py
 import RIW  	# RIW.py
-import sys
+import index  	# index.py
 import os
+import sys
 
 # from bs4 import BeautifulSoup
 from urllib.request import urlopen  # python 3!
